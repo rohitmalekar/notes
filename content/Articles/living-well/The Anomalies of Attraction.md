@@ -1,0 +1,18 @@
+---
+permalink: attraction
+---
+# The Anomalies of Attraction
+
+#Well-Being 
+
+*Last Updated: Jul 2023*
+
+Human emotions and weather patterns have a lot in common. There are moments when both can catch us off guard. The lack of control and fallibility can be unnerving. So in our desire for domination, we begin devising things. We pour mercury into a glass tube and mark its surface. We color our emotions and label them on a wheel. All of this is useful in navigating our everyday lives. But when the emotion has to deal with feelings of attraction, affection, care, or commitment, the wheel goes for a toss.
+
+The struggle to understand the nature of attraction is inherent in the design of our being. Firstly, thinking we are the sculptors of all our thoughts is presumptuous. We do not understand the [[Agency in Thoughts Versus Action|source of all our feelings]]. It is prudent [[Neti Neti|not to believe every thought we have]]. Most of our thoughts are fleeting. Even those that shape our behavior and habits are not guaranteed to withstand the test of time. If you have witnessed enough, you know that time can weaken even the strongest of our holds. Conviction is a myth until it has been tested over time.
+
+Secondly, the faculties that interpret our feelings are feeble and faulty. The mind of an adult is like the Titanic - multiple decks of hardened memories, perspectives, and habits that drive our choices at speed. While sudden, life-changing epiphanies are possible, they are rare. Deliberate and incremental steering towards a port of conscious choice is the secret to enjoying the journey and is available as a choice only to the privileged. This path requires extended silence and solitude that we seldom offer ourselves. What joy would a motionless introspection of the present offer over the chase for gratifications to an imagined destination?
+
+So in matters of attraction and affection, it is perfectly okay to feel hopeless, like a pilot trying to control a plane in a storm using instruments designed to fail. We are working as designed if you find yourself swinging between a fling and a serious relationship. Marriages fall apart after years of dating. Relationships last despite being separated by half the world. Fondness fostered over years of care crumbles at the slightest insecurities. A casual interaction can lead to a lifelong commitment without being confined by a relationship label. A heart can hold care for one and passion for another. Our inability to control and understand our feelings creates a mosaic of possibilities. The human mind's capacity to experience these contradictions goes beyond the norms outlined in any moral handbook.
+
+We conjure names for relationships to seek order in our social experience. The rigidity in these labels is a useful utility for everyday occasions. But nature doesn't recognize the walls we confine ourselves with. If you are someone who has broken enough of these walls growing up, you know that it is perfectly normal for an attraction from the past to seem like an anomaly in the present. What might become tomorrow that feels like an anomaly to you today?
