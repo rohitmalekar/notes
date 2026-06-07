@@ -6,7 +6,7 @@ type:
   - Article
 permalink: alternative-funding
 date: 2021-05-01
-description: Traditional VC is optimized for unicorns—but most founders building sustainable, mission-driven businesses don't fit that mold, and the funding gap leaves critical problems permanently underfunded. The real issue isn't a lack of capital; it's a structural misalignment between how investors measure success and how many founders define it. This essay surveys a growing wave of alternative funding models—from Shared Earnings Agreements to Exit to Community—built for founders who measure winning differently.
+description: Traditional VC is optimized for  unicorns—but most founders building sustainable, mission-driven businesses don't fit that mold, and the funding gap leaves critical problems permanently underfunded. The real issue isn't a lack of capital; it's a structural misalignment between how investors measure success and how many founders define it. This essay surveys a growing wave of alternative funding models—from Shared Earnings Agreements to Exit to Community—built for founders who measure winning differently.
 ---
 # A Brief Look at Alternative VC Funding Models
 
