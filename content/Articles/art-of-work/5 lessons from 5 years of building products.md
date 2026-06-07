@@ -20,7 +20,7 @@ A typical team on the ground in an end-to-end digital transformation program wil
   
 > **A [[True North for Product Teams|shared appreciation for a good design]], irrespective of whether it is in code or color or characters, to do what’s right for the user by creating high-quality experiences should be a true north across teams.**  
 
-### 2. The Flywheel Effect
+### 2. The Flywheel Effect 
 
 The responsibility to define and execute a research-first, human-centric and iterative approach should be shouldered with transparency. This implies a relentless focus to use research and data in the context of the user’s mental model for stated, and often unstated, needs.  
   
