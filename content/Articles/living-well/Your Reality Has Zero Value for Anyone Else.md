@@ -6,7 +6,7 @@ type:
   - Article
 permalink: value-of-reality
 date: 2021-04-01
-description: Some labels we are born with, some we pick up. I have learnt they all have [[Futility of labels|limited utility]]. Whenever oversubscribed, it has contracted my world-view. A common pattern increasingly repeating in my feed is "looking down the perch, my label is better than yours" finely crafted subtly condescending viewpoints.
+description: 'Some labels we are born with, some we pick up. I have learnt they all have [[Futility of labels|limited utility]]. Whenever oversubscribed, it has contracted my world-view. A common pattern increasingly repeating in my feed is "looking down the perch, my label is better than yours" finely crafted subtly condescending viewpoints.'
 ---
 # Your Reality Has Zero Value for Anyone Else
 

@@ -6,7 +6,7 @@ type:
   - Article
 permalink: why-web-30
 date: 2021-11-01
-description: _Last updated: November, 2021_
+description: "_Last updated: November, 2021_"
 ---
 # Why Web 3.0 Communities is a Big Deal? A Non-Technical Story
 

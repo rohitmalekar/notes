@@ -373,6 +373,73 @@ export async function handleBuild(argv) {
 
             const sourcefile = path.relative(path.resolve("."), args.path)
             const resolveDir = path.dirname(sourcefile)
+            const nodeModulesBase = path.resolve("node_modules")
+            const browserConditions = ["browser", "module", "import", "default"]
+            function pickExportCondition(obj) {
+              if (typeof obj === "string") return obj
+              if (typeof obj !== "object" || obj === null) return null
+              for (const c of browserConditions) {
+                if (c in obj) {
+                  const val = obj[c]
+                  if (typeof val === "string") return val
+                  const nested = pickExportCondition(val)
+                  if (nested) return nested
+                }
+              }
+              return null
+            }
+            const bypassPnpPlugin = {
+              name: "bypass-pnp",
+              setup(b) {
+                b.onResolve({ filter: /^[^./]/ }, async (args) => {
+                  let pkgName, subpath
+                  if (args.path.startsWith("@")) {
+                    const parts = args.path.split("/")
+                    pkgName = parts.slice(0, 2).join("/")
+                    subpath = parts.slice(2).join("/")
+                  } else {
+                    const parts = args.path.split("/")
+                    pkgName = parts[0]
+                    subpath = parts.slice(1).join("/")
+                  }
+                  const pkgDir = path.join(nodeModulesBase, pkgName)
+                  try {
+                    const pkgJson = JSON.parse(
+                      await promises.readFile(path.join(pkgDir, "package.json"), "utf8"),
+                    )
+                    if (pkgJson.exports) {
+                      const key = subpath ? `./${subpath}` : "."
+                      let exportEntry =
+                        typeof pkgJson.exports === "string"
+                          ? pkgJson.exports
+                          : pkgJson.exports[key]
+                      // Handle abbreviated exports (flat condition map without "." key)
+                      if (exportEntry == null && !subpath && typeof pkgJson.exports === "object") {
+                        const firstKey = Object.keys(pkgJson.exports)[0]
+                        if (firstKey && !firstKey.startsWith(".")) {
+                          exportEntry = pkgJson.exports
+                        }
+                      }
+                      if (exportEntry != null) {
+                        const resolved = pickExportCondition(exportEntry)
+                        if (resolved) return { path: path.join(pkgDir, resolved) }
+                      }
+                    }
+                    if (subpath) {
+                      return { path: path.join(pkgDir, subpath) }
+                    }
+                    const entry =
+                      (typeof pkgJson.browser === "string" && pkgJson.browser) ||
+                      pkgJson.module ||
+                      pkgJson.main ||
+                      "index.js"
+                    return { path: path.join(pkgDir, entry) }
+                  } catch {
+                    return null
+                  }
+                })
+              },
+            }
             const transpiled = await esbuild.build({
               stdin: {
                 contents: text,
@@ -385,6 +452,7 @@ export async function handleBuild(argv) {
               minify: true,
               platform: "browser",
               format: "esm",
+              plugins: [bypassPnpPlugin],
             })
             const rawMod = transpiled.outputFiles[0].text
             return {

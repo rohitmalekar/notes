@@ -6,7 +6,7 @@ type:
   - Article
 permalink: you-have-the
 date: 2021-05-01
-description: "Every right comes with a responsibility". Amongst the few things I remember reading in school, this one stands out. The recollection has been rather frequent in recent times when our individual ideals and values have drifted further apart from those with who we disagree with.
+description: '"Every right comes with a responsibility". Amongst the few things I remember reading in school, this one stands out. The recollection has been rather frequent in recent times when our individual ideals and values have drifted further apart from those with who we disagree with.'
 ---
 # You Have the Right to Remain Silent
 

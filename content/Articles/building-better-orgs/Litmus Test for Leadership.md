@@ -6,7 +6,7 @@ type:
   - Article
 permalink: litmus-test-leadership
 date: 2020-03-01
-description: When Mike Tyson was asked by a reporter whether he was worried about Evander Holyfield and his fight plan he answered, **_“Everyone has a plan until they get punched in the mouth.”_** Most work communities establish values to guide the culture in their organizations. It is relatively easy to define a set of values to be hung as posters on office walls or to be printed on coffee mugs. It is harder to sustain those ideals through tough sales targets and challenging project deadlines. [[Hardest ...
+description: "When Mike Tyson was asked by a reporter whether he was worried about Evander Holyfield and his fight plan he answered, **_“Everyone has a plan until they get punched in the mouth.”_** Most work communities establish values to guide the culture in their organizations. It is relatively easy to define a set of values to be hung as posters on office walls or to be printed on coffee mugs. It is harder to sustain those ideals through tough sales targets and challenging project deadlines. [[Hardest ..."
 ---
 # Litmus Test for Leadership
 

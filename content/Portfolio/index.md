@@ -1,5 +1,8 @@
-** 🏠 [[Home|Home]] · 📂 Portfolio · ✍️ [[Writings|Writing]] · ⏳ [[Feed|Feed]]**
-# Portfolio
+---
+title: Portfolio
+description: Selected work across research, data tools, writing, and speaking — funding systems and analytics for digital public goods.
+---
+
 ## 🔎 Research & Strategy
 - **GG24 Domain Design (2025)** — Co-led Ethereum Interop Standards, Infra, and Analytics Quadratic Funding Round • [Article](https://gov.gitcoin.co/t/domain-announcement-interop-standards-infrastructure-analytics/24631) • [Interop Landscape](https://gov.gitcoin.co/t/gg24-update-inside-the-interop-standards-infra-analytics-round/24749) • [Grant Round Retro](https://gov.gitcoin.co/t/gg24-interop-round-retrospective/24936)
 - **Open Data Standards & Analytics for Ethereum (2025)** — Sensemaking report for Gitcoin Grants • [Report](https://gov.gitcoin.co/t/gg24-sensemaking-open-data-standards-infrastructure-analytics-for-ethereum/23000/1)

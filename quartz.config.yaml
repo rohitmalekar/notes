@@ -125,6 +125,18 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      sortFn: |-
+        (a, b) => {
+          const order = {'Writings': 0, 'Notes': 1, 'Portfolio': 2, 'Off the Track': 3};
+          const ai = order[a.displayName];
+          const bi = order[b.displayName];
+          if (ai !== undefined && bi !== undefined) return ai - bi;
+          if (ai !== undefined) return -1;
+          if (bi !== undefined) return 1;
+          if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1;
+          return (a.displayName || '').localeCompare(b.displayName || '', undefined, {numeric: true, sensitivity: 'base'});
+        }
     layout:
       position: left
       priority: 50
@@ -198,7 +210,17 @@ plugins:
       links:
         GitHub: https://github.com/rohitmalekar
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
+    options:
+      title: Recently updated
+      limit: 4
+      showTags: false
+      hideTagPages: true
+      hideFolderPages: true
+      linkToMore: Articles/
+    layout:
+      position: right
+      priority: 40
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
