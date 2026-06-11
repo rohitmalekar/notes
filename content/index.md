@@ -2,7 +2,7 @@
 title: "Home"
 ---
 
-<div style="background: #fffbeb; border: 1.5px solid #f59e0b; border-radius: 8px; padding: 0.75rem 1rem; margin-bottom: 1.5rem; font-size: 0.95rem; line-height: 1.5;">
+<div style="background: #fffbeb; border: 1.5px solid #f59e0b; border-radius: 8px; padding: 0.75rem 1rem; margin-bottom: 1.5rem; font-size: 0.95rem; line-height: 1.5; color: #1a1a1a;">
   🚧 <strong>Heads up!</strong> I'm moving this garden from <em>Obsidian Publish</em> to <em>Quartz</em> — think of it as repotting a plant while it's still growing. Article dates may look funky, and a few things might shuffle around through the <strong>end of June</strong>. All the content is here though, just finding its new soil. Thanks for the patience! 🌱
 </div>
 

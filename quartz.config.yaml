@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: rohitmalekar.github.io/notes
+  baseUrl: rohitmalekar.in
   ignorePatterns:
     - private
     - templates
