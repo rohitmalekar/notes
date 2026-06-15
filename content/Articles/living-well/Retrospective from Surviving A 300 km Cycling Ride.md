@@ -9,7 +9,6 @@ Reference:
 permalink: cycling-retro-300km
 description: "A 300 km ride is its own feedback loop. The data (heart rate, cadence, pace) tells a story beneath the miles: what held strong, and what quietly cracked. Here’s the retrospective of what worked well, and what needs sharpening before the next big ride."
 ---
-# Retrospective from Surviving A 300 km Cycling Ride
 
 #Fitness #Well-Being 
 

@@ -8,7 +8,6 @@ permalink: being-right-ethereum
 date: 2026-02-27
 description: "GNU Hurd was architecturally superior to Linux and lost anyway, not because it was wrong, but because being right isn't enough. The same pattern haunts Ethereum today: the Hurd/Linux analogy, taken seriously, doesn't predict that the better-architected platform reforms in time; it predicts it loses. This essay draws five lessons from the 1990s OS war and holds them against what Ethereum has recently shipped, separating announcements that indicate the right problems are being named from the outcomes data that would prove those diagnoses are translating into reality."
 ---
-# Being Right Isn't Enough - Lessons for Ethereum from a 90s OS War
 
 #Web3
 

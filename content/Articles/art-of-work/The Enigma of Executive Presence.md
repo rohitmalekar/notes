@@ -8,7 +8,6 @@ permalink: executive-presence
 date: 2018-06-01
 description: Early in my career, most of my peers along with me received consistent feedback to improve executive presence. Few offered insights on what it actually meant and fewer had actionable inputs to share. Over the years, I have come across countless articles that emphasize on developing communication styles that focus on the “executive” and very little that talks about the “presence”.
 ---
-# The Enigma of Executive Presence
 
 #Leadership #Consulting
 

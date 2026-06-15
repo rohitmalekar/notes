@@ -8,7 +8,6 @@ permalink: decentralized-web-transparency
 date: 2021-11-01
 description:
 ---
-# The Decentralized Web and the Rise of Transparency-First Institutions
 
 #Web3 
 

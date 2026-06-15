@@ -8,7 +8,6 @@ permalink: octant-2024-oss
 date: 2025-01-01
 description: In 2024, Octant supported 47 open source software teams across four epochs, spanning a diverse range from privacy tools like Tor to analytics platforms like L2Beat. High-level developer activity trends across these projects reveal ongoing contributions, growth areas, and the breadth of what each team has been building. This analysis offers additional context for the ecosystem without direct project comparisons, acknowledging the diversity of missions involved.
 ---
-# Looking back at Octant's funding to open source in 2024
 
 #Web3
 

@@ -8,7 +8,6 @@ Reference:
 permalink: digital-distraction
 description: We scroll alone but we distract together. An essay on how the digital distraction era is quietly built by individual participation with a personal introspection on attention, time, and the choice to focus deeply instead of endlessly.
 ---
-# The Era of Digital Distraction - A Co-Production by All of Us
 
 #Well-Being 
 

@@ -8,7 +8,6 @@ permalink: 10-tweets-consulting
 date: 2017-10-01
 description: Most people enter consulting without knowing what they’re actually signing up for—the brutal learning curve, the identity friction, and the moments that quietly make or break a career. A decade in, the clearest lesson is that survival isn’t about working harder; it’s about knowing when to absorb, when to lead, and when to walk away. Ten bite-sized truths this essay would send back to day one.
 ---
-# 10 Tweets to My Younger Self Signing Up for a Career In Consulting 10 Years Ago
 
 #Consulting 
 

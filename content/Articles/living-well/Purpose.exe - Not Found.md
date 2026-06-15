@@ -8,7 +8,6 @@ Reference:
 permalink: purpose
 description: This essay is a quiet dismantling of the purpose-industrial complex. It explores why meaning emerges not from goals, identity, or ambition, but from belonging, resonance, and the spaces that let you simply be while you’re still becoming. If you’ve ever reached a goal and felt strangely empty afterward, this is for you.
 ---
-# Purpose.exe - Not Found 
 
 #Well-Being 
 

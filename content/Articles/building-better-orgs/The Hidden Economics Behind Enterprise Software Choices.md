@@ -10,7 +10,6 @@ Reference:
 permalink: enterprise-software-ux
 ---
 
-# The Hidden Economics Behind Enterprise Software Choices
 
 #Consulting #Design #Product 
 

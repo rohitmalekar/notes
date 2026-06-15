@@ -8,7 +8,6 @@ permalink: announcing-zuzalu-qf
 date: 2024-01-01
 description: The Zuzalu Grants Program will be the largest Zuzalu-related QF rounds. This iteration of the Grants Program marks a departure from the previous focus solely on community projects. Our aspiration for the current year is to see a proliferation of events inspired by Zuzalu, contributing to the growth of the pop-up city movement. We anticipate a surge in social experiments and the emergence of new technologies that will propel initiatives in this developing field.
 ---
-# Announcing Zuzalu QF Grants Program on Grants Stack
 
 #Web3 
 

@@ -9,7 +9,6 @@ Reference:
 permalink: health-iceberg
 description: Most health advice focuses on habits you can track. But the truth is, you can’t optimize your way out of a misaligned life. The real work of well-being lives beneath the surface in how you see yourself, relate to others, and align your daily choices with what you truly value.
 ---
-# You Can’t Outrun a Misaligned Life
 
 #Well-Being #Fitness 
 

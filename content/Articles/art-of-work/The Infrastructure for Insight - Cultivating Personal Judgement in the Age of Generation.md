@@ -9,7 +9,6 @@ Reference:
 permalink: pkm
 description: In a world primed for distraction, investing in your own system for capturing and connecting insights isn't optional. It's your edge. Start building a personal knowledge system to protect your continuity of thought, fuel deeper judgment, and make every experience count.
 ---
-# The Infrastructure for Insight - Cultivating Personal Judgement in the Age of Generation
 
 #Careers #Leadership 
 

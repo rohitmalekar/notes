@@ -8,7 +8,6 @@ permalink: the-conformity-trap
 date: 2021-07-01
 description: _And the people in the houses all went to the university Where they all were put in boxes Little boxes all the same And there's doctors and there's lawyers And business executives And they're all made out of ticky tacky And they all look just the same _ This is from the song "Little Boxes" written and composed by Malvina Reynolds in 1962. It was a hit when Pete Seeger released his cover version in 1963. The rest of the song is a satire on the then-emerging conformist middle-class attitudes in...
 ---
-# The Conformity Trap
 
 #Well-Being 
 

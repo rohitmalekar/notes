@@ -8,7 +8,6 @@ permalink: one-with-divine
 date: 2020-08-01
 description: Can an eye ever see itself? Can a leg ever kick itself? Ever seen a hand that grabs itself, or perhaps, a tooth that takes a bite at itself? If you are “it” then you cannot exist out of what you are.
 ---
-# One with the Divine
 
 #Well-Being 
 

@@ -8,7 +8,6 @@ permalink: grants-for-public-good
 date: 2023-07-01
 description: This article, based on the [talk](https://www.youtube.com/watch?v=v34j8dVRd-g) by Meg Lister, Product Lead, Gitcoin Grants Stack, at Funding the Commons, delves into the integral role of grants in shaping the web3 ecosystem. It explores the mechanism for Direct Grants and Quadratic Funding, their strategic implementation at different stages of ecosystem growth, and their impact on fostering a dynamic and resilient community. The article also discusses the nuances of managing these programs am...
 ---
-# Grants for Public Good - A Roadmap for Resilient Democratic Funding
 
 #Web3 
 

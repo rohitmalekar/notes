@@ -8,7 +8,6 @@ permalink: gtceth-funding
 date: 2023-03-07
 description: Gitcoin and Index Coop have partnered to create Gitcoin Staked ETH Index (gtcETH), an ERC-20 token that provides diversified exposure to liquid staking tokens while allowing users to earn staking rewards and contribute to public goods simultaneously. The token aims to simplify staking in Ethereum and offer a passive way to fund public goods. It will be built on Index Protocol and include liquid staking tokens from Rocket Pool, Lido, and StakeWise. A portion of the staking rewards earned by th...
 ---
-# Introducing gtcETH - A New Way to Fund Public Goods through Staked ETH
 
 #Web3 
 

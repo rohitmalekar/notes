@@ -5,7 +5,6 @@ tags:
   - Fitness
 description: Data-driven breakdown of how layered habits (early dinners, earlier bedtimes, consistent exercise, and stable sleep schedules) compound deep sleep gains.
 ---
-# The Experiments and Data Behind Fixing My Deep Sleep
 
 #Well-Being #Fitness
 

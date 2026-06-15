@@ -8,7 +8,6 @@ permalink: regen-founders
 date: 2024-06-01
 description: The regenerative movement offers early-stage founders a compelling but complex landscape where cybernetic principles, sustainability loops, and community-first governance intersect. Three key questions — around adaptive responses, value reinvestment cycles, and community beyond economics — guide founders building resilient regen ecosystems. This article draws from cybernetics, Ocean Protocol's sustainability framework, and Nathan Schneider's critique of cryptoeconomics to offer a structured lens.
 ---
-# Navigating the Regen Movement - Key Considerations for Early-Stage Founders
 
 #Web3
 

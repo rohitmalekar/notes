@@ -8,7 +8,6 @@ permalink: gg23-milestone
 date: 2025-06-01
 description: GG23's Mature Builders Retro Funding round marked Gitcoin's second major experiment with retroactive public goods funding at scale, allocating over $600,000 across 30 projects. Unlike conventional grants, this round was designed to reward impact already delivered, combining badgeholder voting with data-driven selection. This article documents how merit-based accountability at scale moved from concept to execution.
 ---
-# Gitcoin Grants 23 - A Milestone Round for Public Goods Funding
 
 #Web3
 

@@ -9,7 +9,6 @@ permalink: interviewer-habits
 description: Much has been written about how candidates should approach interviews—far less about how interviewers should. A candidate's first potential employee experience starts during the interview. This essay outlines ten micro-habits that interviewers can adopt to create a fair and respectful candidate experience.
 date: 2021-03-01
 ---
-# Nailing the Interview as an Interviewer
 
 #Careers #recruiting
 

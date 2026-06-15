@@ -8,7 +8,6 @@ permalink: bankless-academy
 date: 2023-06-01
 description: Bankless Academy, an open-source education platform for web3 users, implemented an integration with Gitcoin Passport to defend against malicious actors earning learning credentials. Gitcoin Passport allows users to demonstrate trustable credentials from both web2 and web3 sources, protecting user privacy and verifying account uniqueness. By requiring users to collect a determined number of stamps from different platforms, Bankless Academy ensures uniqueness and prevents Sybil attacks. The int...
 ---
-# Bankless Academy - A Gitcoin Passport Case Study
 
 #Web3 
 

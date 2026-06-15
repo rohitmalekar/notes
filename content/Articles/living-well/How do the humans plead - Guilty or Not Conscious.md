@@ -8,7 +8,6 @@ permalink: guilty-not-conscious
 date: 2018-12-01
 description: As I write this article, I dig in for another serving from the plastic container that the delicacy got delivered with. The stockpile of these white objects in my kitchen storage keeps stealthily growing. The tasty bite melting in my mouth dissolves the guilt of collecting them from my past explorations for the newest cuisines in the city, delivered in 30 minutes or free. These plastics are going to far outlast the companies that sent them and will linger through many a generation of humans be...
 ---
-# How do the humans plead - Guilty or Not Conscious
 
 #Well-Being 
 

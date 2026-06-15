@@ -8,7 +8,6 @@ Reference:
 permalink: physics-of-desire
 description: "We can model eclipses, storms, and markets, yet treat our inner world as unknowable. This essay asks a quieter question: what if desire follows laws too? Drawing a line from ancient insight to modern systems thinking, it frames desire as a causal chain rather than a mystery."
 ---
-# The Physics of Desire
 
 #Well-Being 
 

@@ -8,7 +8,6 @@ permalink: product-titles
 date: 2021-03-01
 description: "Most fields are troubled with title inflation, sometimes out of necessity, however, [[Layers of Management|often out of vanity]]. But it feels like product management is out of hand. I am sharing my personal 1-line litmus tests I use to ratify titles. I don't expect everyone to agree with these - use it or refine it as you see fit :)"
 ---
-# Title Inflation in Product Management
 
 #Product 
 

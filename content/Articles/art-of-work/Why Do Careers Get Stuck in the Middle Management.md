@@ -9,7 +9,6 @@ permalink: middle-management-trap
 description: High-performing careers often stall in middle management because practitioners avoid high-quality problems in favor of comfortable, low-risk work. The traps include expecting linear progression, switching jobs for roles instead of tribes, and treating purpose as a fact-finding mission. This essay offers a framework for expanding your circle of influence.
 date: 2021-05-01
 ---
-# Why Do Careers Get Stuck in the Middle Management
 
 #Leadership #Consulting
 

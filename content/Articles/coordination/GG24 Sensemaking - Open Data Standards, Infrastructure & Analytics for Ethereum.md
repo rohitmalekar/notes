@@ -10,7 +10,6 @@ permalink: gg24_sensemaking
 description: "Ethereum’s growth depends on more than scaling blockspace. It needs open, verifiable data that makes the network legible to everyone. This report maps 20+ use cases across explorers, analytics, standards, and metrics, and outlines three strategic opportunities for 2025: unified L1–L2 visibility, institutional DeFi legitimacy, and transparent OSS funding.By funding open data infrastructure, we can move beyond fragmentation and silos toward a more credible, resilient Ethereum ecosystem."
 date: 2025-08-15
 ---
-# GG24 Sensemaking - Open Data Standards, Infrastructure & Analytics for Ethereum
 
 Cross-posted from the [Gitcoin Governance Forum](https://gov.gitcoin.co/t/gg24-sensemaking-open-data-standards-infrastructure-analytics-for-ethereum)
 

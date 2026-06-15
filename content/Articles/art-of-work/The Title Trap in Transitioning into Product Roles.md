@@ -8,7 +8,6 @@ permalink: the-title-trap
 date: 2021-03-01
 description: "I was recently asked this question:"
 ---
-# The Title Trap in Transitioning into Product Roles
 
 #Product 
 

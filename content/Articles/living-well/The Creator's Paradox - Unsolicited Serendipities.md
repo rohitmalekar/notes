@@ -8,7 +8,6 @@ permalink: the-creators-paradox
 date: 2021-07-01
 description: ### **How do ideas originate?**
 ---
-# The Creator's Paradox - Unsolicited Serendipities
 
 #Well-Being 
 

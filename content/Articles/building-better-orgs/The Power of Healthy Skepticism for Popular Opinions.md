@@ -8,7 +8,6 @@ permalink: power-of-skepticism
 date: 2021-06-01
 description: It was the end of 2015. I was in the U.S. and had been exposed to politics there for a few years at that time. The Right was clamoring that the biggest threat to their country is ISIS.
 ---
-# The Power of Healthy Skepticism for Popular Opinions
 
 #Well-Being 
 

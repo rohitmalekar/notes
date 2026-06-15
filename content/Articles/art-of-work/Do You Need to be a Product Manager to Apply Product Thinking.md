@@ -8,7 +8,6 @@ permalink: product-thinking
 date: 2020-09-01
 description: Too many early-career professionals fixate on landing the PM title before they’ve ever exercised the underlying muscles—and in doing so, miss the point entirely. Product thinking isn’t a job description; it’s a set of practices anyone can apply right now, in whatever role they hold. This essay defines the four core responsibilities that separate genuine product thinking from the title, and makes the case that earning the role means demonstrating the work first.
 ---
-# Do You Need to be a Product Manager to Apply Product Thinking
 
 #Product 
 

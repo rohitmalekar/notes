@@ -8,7 +8,6 @@ permalink: edtech-india
 date: 2021-01-01
 description: India's ed-tech boom is pouring billions into digitizing an outdated educational experience—faster, not better. The core problem isn't a lack of technology; it's that ed-tech is being treated as a product problem when it's fundamentally a service design problem. This essay makes the case for what genuine education reform in India would look like, and what ed-tech would need to get right to matter.
 ---
-# A rant and a wishlist for ed-tech in India
 
 #Product 
 

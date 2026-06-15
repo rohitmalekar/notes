@@ -9,7 +9,6 @@ Reference:
 permalink: self-help
 description: The self-help industry sells gusts of motivation to stones rolling down their own slopes. Unless you reshape your mountain, your mind, you’ll always roll the same way. Everything else is a gust against gravity.
 ---
-# Why 99% of the Self-Help Industry Is Slop - Gust Against Gravity
 
 #Well-Being #Leadership 
 

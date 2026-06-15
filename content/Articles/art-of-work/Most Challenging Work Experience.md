@@ -9,7 +9,6 @@ permalink: authentic-presence
 description: A week-long onboarding at a startup challenged years of conditioning to appear successful rather than be authentic. Unlearning the habit of conformity and learning to be genuinely present proved harder than any technical skill. This essay reflects on how embracing vulnerability became the most transformative work experience.
 date: 2021-09-01
 ---
-# Most Challenging Work Experience
 
 #Well-Being #Careers
 

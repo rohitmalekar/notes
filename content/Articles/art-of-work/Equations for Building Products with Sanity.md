@@ -8,7 +8,6 @@ permalink: equations-for-building
 date: 2021-07-01
 description: "Product teams routinely conflate outputs with outcomes, tools with methods, and activity with progress—and the resulting confusion costs more time than any missed deadline. The reframe is simple: precision in language is precision in thinking, and sloppy equations lead to sloppy products. This essay distills a set of non-negotiable logical relationships every product manager should internalize to build with clarity instead of chaos."
 ---
-# Equations for Building Products with Sanity
 
 #Product 
 

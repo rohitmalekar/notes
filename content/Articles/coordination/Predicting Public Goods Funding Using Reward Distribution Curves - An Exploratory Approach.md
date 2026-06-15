@@ -4,7 +4,6 @@ tags:
   - AI
   - Data-Analysis
 ---
-# Predicting Public Goods Funding Using Reward Distribution Curves - An Exploratory Approach
 
 #Web3 #AI #Data-Analysis 
 

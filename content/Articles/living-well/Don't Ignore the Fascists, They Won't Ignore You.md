@@ -7,7 +7,6 @@ type:
 permalink: fascist-warning
 description: Genocidal hate content distributed at a rally in India's capital might seem like someone else's problem. But history shows that fascism never stops at its first target—today's bystanders become tomorrow's victims. This essay explores why speaking up matters, even in small ways, and why staying silent is not a neutral act.
 ---
-# Don't Ignore the Fascists, They Won't Ignore You
 
 #Well-Being
 

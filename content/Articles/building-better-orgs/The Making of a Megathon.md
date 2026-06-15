@@ -8,7 +8,6 @@ permalink: megathon
 date: 2019-08-01
 description: There are many advantages to taking time off to try to build things in time-bound short burst hackathons. It allows engineers to get out of the comfort zone and challenge the status quo on unsolved problems. For most companies, it is a channel to attempt things out of the ordinary and for engineers to prove their potential. Moreover, it is a safe environment to fail fast and accelerate learning.
 ---
-# The Making of a Megathon
 
 #Product  
 

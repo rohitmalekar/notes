@@ -8,7 +8,6 @@ permalink: learning-with-ai
 date: 2026-03-13
 description: "\"You don't need to learn X in the age of AI\" is one of the most viral pieces of advice right now, and one of the most quietly damaging. The short burst of productivity AI provides on unfamiliar terrain is real, but it's borrowed. This essay offers a two-mode framework for using AI in a way that compounds your skills rather than substitutes for them."
 ---
-# AI Will Make You "Look" Competent. That's the Problem.
 
 #AI
 

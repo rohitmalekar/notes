@@ -8,7 +8,6 @@ permalink: gitcoin-passport-faucet
 date: 2023-06-01
 description: The case study explores the challenges faced by the Goerli testnet in distributing testnet funds and the approach taken by PoWFaucet to protect those funds. To streamline Sybil protection and improve the developer experience, PoWFaucet integrated Gitcoin Passport, which allows users to prove their unique identity without compromising privacy. By utilizing the Gitcoin Scorer API, PoWFaucet scores the identities of Passport holders and adjusts reward factors accordingly. This integration has in...
 ---
-# How Gitcoin Passport Protects Testnet Funds - A Case Study with PoWFaucet
 
 #Web3 
 

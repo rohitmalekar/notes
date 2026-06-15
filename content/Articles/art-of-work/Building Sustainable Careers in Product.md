@@ -8,7 +8,6 @@ permalink: product-careers
 description: Product management titles and career paths can be confusing. This visual captures key insights from a conversation on demystifying product management titles and building sustainable careers in product.
 date: 2021-03-01
 ---
-# Building Sustainable Careers in Product
 
 #Product
 

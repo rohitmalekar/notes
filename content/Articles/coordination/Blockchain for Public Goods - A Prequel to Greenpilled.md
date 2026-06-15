@@ -8,7 +8,6 @@ permalink: blockchain-public-goods
 date: 2022-03-01
 description: Our public goods are withering—not because people don't care, but because every current system is designed with incentives that reward individual extraction over collective sustenance. The missing ingredient isn't goodwill; it's a coordination mechanism that can align incentives, dissipate power from the center, and automate accountability at scale. This essay makes the case for why crypto and regenerative cryptoeconomics may be that mechanism—and serves as a primer for those new to Web3 before diving into Greenpilled.
 ---
-# Blockchain for Public Goods - A Prequel to Greenpilled
 
 #Web3 
 

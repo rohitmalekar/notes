@@ -7,7 +7,6 @@ type:
 permalink: demographic-dividend
 description: India's working-age population share peaks around 2028-2030, after which the demographic window begins to close. While the East Asian Tigers captured 25-40% of their GDP growth from demographic dividends, India has realised roughly a third of its potential—constrained by regulatory burdens, education-employment mismatches, and late-arriving policy interventions. This essay examines the structural barriers, quantifies the gap, and explores what course corrections remain possible in the narrowing window ahead.
 ---
-# The Clock We Didn't Watch - India's Demographic Dividend
 
 #Data-Analysis
 

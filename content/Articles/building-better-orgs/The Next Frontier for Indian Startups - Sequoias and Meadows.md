@@ -1,7 +1,6 @@
 ---
 permalink: next-frontier
 ---
-# The Next Frontier for Indian Startups - Sequoias and Meadows
 
 #Startup-Finance #Product 
 

@@ -9,7 +9,6 @@ permalink: culture-questions
 description: Asking "How is the culture?" rarely yields honest answers. The real insights emerge from questions about how leaders resolve conflict, handle accountability, and respond to crises. This essay offers ten targeted questions to uncover authentic workplace culture during interviews.
 date: 2021-02-01
 ---
-# 10 Questions to Ask Interviewers on Work Culture
 
 #Careers #recruiting
 

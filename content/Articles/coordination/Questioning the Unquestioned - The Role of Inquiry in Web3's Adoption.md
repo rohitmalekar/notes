@@ -8,7 +8,6 @@ permalink: inquiry-web3
 date: 2023-12-01
 description: Quality of life depends on the quality of questions we ask, and most institutions shaping our digital and civic lives have never faced serious scrutiny at scale. Web3's most underappreciated contribution is not its technology but its capacity to provoke the right questions about control, ownership, and participation. This essay argues that questioning the design of 200-year-old institutions is the most accessible entry point for non-technical people into the broader web3 movement.
 ---
-# Questioning the Unquestioned - The Role of Inquiry in Web3's Adoption
 
 #Web3
 

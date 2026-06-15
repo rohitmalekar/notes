@@ -8,7 +8,6 @@ Reference:
 permalink: gg24-interop-update
 description: As Ethereum fragments across rollups and L2s, the risk isn't just scaling—it's losing the coherence that makes the ecosystem trustworthy and coordinated. Interoperability isn't one problem; it spans five distinct layers from protocol plumbing to data, governance, and funding infrastructure. This update goes inside the GG24 Interop Standards, Infrastructure & Analytics round to map who is building those layers today and why this work matters for Ethereum's connected future.
 ---
-# GG24 Update - Inside the Interop Round
 
 *Cross-posted from the [Gitcoin Forum](https://gov.gitcoin.co/t/gg24-update-inside-the-interop-standards-infra-analytics-round/24749)*
 

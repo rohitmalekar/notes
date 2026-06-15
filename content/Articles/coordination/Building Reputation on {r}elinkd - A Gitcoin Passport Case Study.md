@@ -8,7 +8,6 @@ permalink: building-reputation-onchain
 date: 2023-06-29
 description: The {r}elinkd platform aims to bring a web2 native user experience to web3 identity management by creating and managing identity profiles. It integrates with Gitcoin Passport to provide user-friendly tools for web3 identity verification and reputation management. Users can display their credentials, incorporate verified links, and earn stamps based on their on-chain activity.
 ---
-# Building Reputation on {r}elinkd - A Gitcoin Passport Case Study
 
 #Web3 
 

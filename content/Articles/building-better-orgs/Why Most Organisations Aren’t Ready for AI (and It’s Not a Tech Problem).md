@@ -8,7 +8,6 @@ permalink: ai-readiness
 date: 2026-02-01
 description: Every wave of enterprise technology has promised transformation but delivered tool-level adoption instead. The pattern repeats because organisations use technology to avoid judgment rather than amplify it. This essay traces four decades of this dynamic and argues that AI readiness starts with organisational self-awareness, not technical capability.
 ---
-# Why Most Organisations Aren’t Ready for AI (and It’s Not a Tech Problem)
 
 #AI
 

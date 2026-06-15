@@ -8,7 +8,6 @@ permalink: driving-innovation-with
 date: 2023-10-24
 description: This case study showcases the role of Gitcoin Grants Stack in simplifying and democratizing the funding process for the Fantom community. Fantom, an EVM-based L1, introduced the Ecosystem Vault to provide decentralized funding for developers in their ecosystem. Grants Stack facilitated Quadratic Voting (QV) using valueless GitcoinVote tokens to promote transparent, inclusive, and secure funding decisions without the need for direct donations. This enabled the democratic distribution of 750,00...
 ---
-# Driving Innovation with Quadratic Voting - Fantom’s Journey with Grants Stack
 
 #Web3 
 

@@ -9,7 +9,6 @@ date: 2026-02-16
 description: Every technological wave has followed a reassuring pattern of displacement, adaptation, and expansion. AI is expected to do the same, but it operates in the domain of judgment and abstraction, not just repetitive tasks, representing a possible structural break from historical precedent. This essay explores why the real risk isn't mass unemployment but uneven agency, and why the capacity to remain cognitively central may not distribute as widely as we assume.
 due date: 2026-02-01
 ---
-# The Biggest Risk With AI Isn’t Job Loss. It’s Loss of Agency.
 
 #AI
 

@@ -8,7 +8,6 @@ permalink: dao-campus-workshop
 date: 2024-03-01
 description: Two workshop sessions at Punjabi University's Centre for Emerging and Innovative Technology introduced faculty and students to DAOs through a hands-on quadratic voting exercise and talks from active DAO founders. The discussion traced DAOs from their theoretical roots to current challenges, advocating for solidarity, governance, and stewardship over scale. A hybrid model balancing legal realities with web3's coordination potential emerged as the most practical path forward.
 ---
-# Get to Know About DAOs - A Campus Workshop
 
 #Web3
 

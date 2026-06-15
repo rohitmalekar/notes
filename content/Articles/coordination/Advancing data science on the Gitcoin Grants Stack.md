@@ -8,7 +8,6 @@ permalink: gitcoin-data-science
 date: 2025-01-01
 description: Open Source Observer partnered with Gitcoin to enhance data infrastructure and analytics on the Grants Stack, making it easier for developers and researchers to connect grants data with public datasets. The collaboration aimed to streamline data engineering, improve donor transparency, and enable more data-driven decision-making for the Gitcoin ecosystem. This post demonstrates practical applications including grantee exploration, coding activity evaluation, and funding pattern analysis.
 ---
-# Advancing data science on the Gitcoin Grants Stack
 
 #Data-Analysis
 

@@ -9,7 +9,6 @@ permalink: zone-two-training
 date: 2026-05-17
 description: Most training instincts push toward harder effort, but Zone 2, the threshold where conversation is possible but unwanted, produces some of the deepest physiological adaptations in endurance sport. Consistent riding at this modest intensity builds mitochondria, shifts the body toward fat as its primary fuel, and quietly extends what's possible over long distances. The results are slow and invisible, which is precisely what makes them hard to trust.
 ---
-# Zone 2 Training - The Slow is Smooth, Smooth is Fast of Cycling
 
 #Well-Being
 

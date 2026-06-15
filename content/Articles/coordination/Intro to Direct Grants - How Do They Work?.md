@@ -8,7 +8,6 @@ permalink: direct-grants
 date: 2023-12-01
 description: Grants drive early support for web3 projects, maintaining their independence and nurturing talent within ecosystems. As Gitcoin evolves into a protocolDAO, we're excited to introduce Direct Grants on Grants Stack, diversifying funding mechanisms for a more robust web3 ecosystem. Grants offer early support for web3 projects that drive progress while helping teams and communities maintain independence. This assists ecosystem funders - from well-known protocols to tokenized communities - in deve...
 ---
-# Intro to Direct Grants - How Do They Work?
 
 #Web3 
 

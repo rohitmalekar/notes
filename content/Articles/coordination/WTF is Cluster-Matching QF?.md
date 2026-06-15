@@ -8,7 +8,6 @@ permalink: cluster-matching-qf
 date: 2024-02-01
 description: Modern mechanism design assumes independent agents, leaving Quadratic Funding vulnerable to collusion and over-coordination from pre-existing participant relationships. Cluster-Matching QF, introduced during GG18, addresses these power imbalances by accounting for social ties in funding allocation. This article recaps how QF works, examines its vulnerabilities, and contrasts outcomes before and after Cluster-Matching is applied.
 ---
-# WTF is Cluster-Matching QF?
 
 #Web3
 

@@ -8,7 +8,6 @@ permalink: decoding-impact-daos-2
 date: 2022-12-01
 description: This write-up advocates for decentralization, emphasizing that local communities possess the expertise and motivation to manage shared resources effectively. It challenges the traditional "control-first" mindset of centralized institutions, highlighting the potential for decentralized structures to empower local decision-making and address issues of information asymmetry and corruption. Blockchain technology, particularly in the context of Web3 and Impact DAOs, is seen as a catalyst for embed...
 ---
-# Decoding Impact DAOs (Part 2)
 
 #Web3 
 

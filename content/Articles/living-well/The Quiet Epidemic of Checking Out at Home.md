@@ -8,7 +8,6 @@ Reference:
 permalink: absent-mindedness
 description: Repeated inattention at home isn’t always indifference. Its under-regulated presence is shaped by stress and context. Research suggests that this often appears alongside high cognitive performance rather than in opposition to it. This essay explores why it strains relationships and how awareness can be rebuilt.
 ---
-# The Quiet Epidemic of Checking Out at Home 
 
 #Well-Being 
 

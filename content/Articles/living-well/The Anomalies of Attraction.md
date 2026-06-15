@@ -1,7 +1,6 @@
 ---
 permalink: attraction
 ---
-# The Anomalies of Attraction
 
 #Well-Being 
 

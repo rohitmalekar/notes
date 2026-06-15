@@ -8,7 +8,6 @@ permalink: thousand-cuts
 date: 2025-03-01
 description: ...we over-index our focus on what’s broken in our lives, seldom capturing the feeling of not having to worry about what we take for granted, like putting the next plate of food on the table or the shelter underneath we rest turning into a rubble.
 ---
-# Life by a Thousand Cuts
 
 #Well-Being 
 

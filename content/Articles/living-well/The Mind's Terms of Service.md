@@ -7,7 +7,6 @@ type:
 permalink: mind-tos
 description: Every gift the mind gives comes with a shadow. Imagination brings restless wanting. Perception carries bias. Self-awareness can't fully see itself. These aren't flaws to fix. They're part of the deal. This essay explores what changes when you stop fighting them.
 ---
-# The Mind's Terms of Service
 
 #Well-Being
 

@@ -8,7 +8,6 @@ permalink: consultant-weapon
 date: 2020-05-01
 description: The popular character forged by movies and TV series for a successful consultant often involves a pompous extrovert, mostly male, sweeping the clients off their feet with his pretentious know-it-all jargon. In reality, successful women and men leaders in consulting from whom I have learned the most have been introverts. They are great at direct concise communication when needed and always effortlessly step out of the celebratory limelight to let their clients and their teams shine in the succ...
 ---
-# The Secret Weapon of a Successful Consultant is Not to Behave Like One
 
 #Consulting
 

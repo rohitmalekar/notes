@@ -8,7 +8,6 @@ permalink: staying-sane
 date: 2026-02-23
 description: News and misinformation can feel one click away from overwhelming sanity. Meaning has to be chosen; agency belongs inside a circle of influence, and the rest can be cancelled, not from indifference but from prioritisation. This essay explores a deliberate stance for staying grounded, and why information technology today resembles early humans learning to hold fire.
 ---
-# Staying Sane When Insanity Is a Click Away
 
 #Well-Being
 

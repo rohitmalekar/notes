@@ -8,7 +8,6 @@ permalink: autonomy-power-india
 date: 2026-03-25
 description: In India, the erosion of privacy and the failure of decentralization share a common root — not apathy, but a cultural conditioning that made surrendering autonomy feel natural. From joint families to Aadhaar, deference to power was never forced; it was familiar. This essay traces how that instinct was built, how it scaled, and why unlearning it is the real political project.
 ---
-# Autonomy Was Rarely Ours to Surrender
 
 #Decentralization
 

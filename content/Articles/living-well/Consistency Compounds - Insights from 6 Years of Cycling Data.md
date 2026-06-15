@@ -9,7 +9,6 @@ Reference:
 permalink: consistency
 description: Progress rarely comes from standout days. It comes from showing up on ordinary ones. Using long-term data as a lens, this piece explores how steady repetition reshapes capability and why we consistently misjudge what time can do.
 ---
-# Consistency Compounds - Insights from 6 Years of Cycling Data
 
 #Fitness #Well-Being 
 

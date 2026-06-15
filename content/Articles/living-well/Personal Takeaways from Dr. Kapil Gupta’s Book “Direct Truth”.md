@@ -8,7 +8,6 @@ permalink: direct-truth
 date: 2021-03-01
 description:
 ---
-# Personal Takeaways from Dr. Kapil Gupta’s Book “Direct Truth”
 
 #Well-Being 
 

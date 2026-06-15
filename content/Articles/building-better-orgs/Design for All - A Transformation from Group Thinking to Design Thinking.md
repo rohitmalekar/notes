@@ -8,7 +8,6 @@ permalink: design-for-all
 date: 2019-06-01
 description: Most digital transformations treat design as a specialist function—something designers do—while the engineers, architects, and executives around them operate on entirely different principles. The real blocker isn’t a lack of design talent; it’s that design thinking hasn’t crossed over into the people who make the decisions that shape user experience upstream. This essay makes the case that design is now too important to be left only to designers—and reflects on a two-day workshop that tried to change that.
 ---
-# Design for All - A Transformation from Group Thinking to Design Thinking
 
 #Product #Culture 
 

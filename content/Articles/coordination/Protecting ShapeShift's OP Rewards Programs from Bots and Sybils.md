@@ -8,7 +8,6 @@ permalink: protecting-shapeshifts-rewards
 date: 2023-10-01
 description: ShapeShift envisions a financial system without borders, built on decentralized protocols, and aims to offer a comprehensive alternative to centralized exchanges (CEXs). It is an open-source, multi-chain, self-custody crypto platform helping individuals achieve financial sovereignty. Currently, many CEXs provide some form of crypto Earn product that is protected from Sybil attacks through KYC requirements integrated into the platform. ShapeShift DAO has replicated this user experience in DeFi...
 ---
-# Protecting ShapeShift's OP Rewards Programs from Bots and Sybils
 
 #Web3 
 

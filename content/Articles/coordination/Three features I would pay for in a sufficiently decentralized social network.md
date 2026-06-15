@@ -1,7 +1,6 @@
 ---
 permalink: farcaster
 ---
-# Three features I would pay for in a sufficiently decentralized social network
 
 #Web3 #Product
 

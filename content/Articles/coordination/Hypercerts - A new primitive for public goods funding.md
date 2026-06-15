@@ -8,7 +8,6 @@ permalink: hypercerts-funding
 date: 2023-03-01
 description: Hypercerts and Gitcoin have collaborated to introduce hypercerts for eligible projects in the Gitcoin Program Alpha Round. Hypercerts are ERC-1155 semi-fungible tokens that serve as impact claims and enable different funding mechanisms to interoperate. With the Hypercerts Foundation's implementation, project owners can mint hypercerts for their past work and allocate fractions to supporters. These hypercerts are soulbound and cannot be sold or transferred, but projects can add benefits for hy...
 ---
-# Hypercerts - A new primitive for public goods funding
 
 #Web3 
 

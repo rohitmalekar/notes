@@ -8,7 +8,6 @@ permalink: passport-cyberconnect
 date: 2023-08-11
 description: CyberConnect, a web3 social network that empowers users to own their digital identity and content, faced challenges with Sybil attacks in their FanClub loyalty program. These attacks led to an unfair distribution of rewards. They initially used manual review processes to identify and ban Sybil accounts, but it was time-consuming. To address this issue, they integrated Gitcoin Passport, dividing the reward pool into a Main Pool and a Side Pool.
 ---
-# Strengthening CyberConnect's Loyalty Program with Gitcoin Passport
 
 #Web3 
 

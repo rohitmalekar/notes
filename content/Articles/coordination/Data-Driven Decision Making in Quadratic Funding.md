@@ -10,7 +10,6 @@ tags:
   - Data-Analysis
 description: In quadratic funding rounds with hundreds of grantees, the loudest voices tend to win—not the most impactful projects. The fix isn't more curation; it's giving donors the analytical tools to move from subjective narratives to objective, customizable evaluation of what grantees actually built. This study presents a live data-driven tool deployed during Gitcoin Grants 22 that lets donors define their own metrics and composite scores to discover and fund projects that match their priorities.
 ---
-# Data-Driven Decision Making in Quadratic Funding
 ## Pivoting From Subjective Narratives to Objective Insights
 
 #product #Web3 #Data-Analysis 

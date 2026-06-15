@@ -8,7 +8,6 @@ permalink: digital-transformation-trap
 date: 2019-10-01
 description: The early years of computer programming had a singular focus on the underlying data and processes being automated with a naive disregard for the human working with the application. As the audience for the computer applications outgrew the back-office personnel to include everyday users, the discipline of human-centered design has become critical to elevate the effectiveness of technology investments. Most enterprises that embark on the journey of digital transformation begin by leveraging pri...
 ---
-# The Digital Transformation Trap — Compromising Human Experience with Agility and Speed
 
 #Product  
 

@@ -8,7 +8,6 @@ permalink: dao-disruption
 date: 2021-09-01
 description: The DAO conversation is drowning in token hype and tech infatuation—with almost no one asking which institutions actually deserve to be disrupted and why. The real promise of DAOs isn't decentralization for its own sake; it's restoring power to communities most removed from the decisions that affect them. This essay offers five diagnostic questions to cut through the noise and identify where DAOs can create lasting change versus where they're just the next fad.
 ---
-# A Case for Sustainable Disruption Using DAOs
 
 #Web3 
 

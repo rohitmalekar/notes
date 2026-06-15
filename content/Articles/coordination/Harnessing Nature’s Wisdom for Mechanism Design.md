@@ -8,7 +8,6 @@ permalink: harnessing-natures-wisdom
 date: 2023-10-01
 description: In this article, we introduce the concept of mechanism design inspired by nature to further enhance human coordination using blockchain, drawing from the innate intelligence and self-organizing principles observed in nature. The [GreenPill meme](https://x.com/owocki/status/1515040025049661445?s=20) represents a potential for regenerative cryptoeconomics to orchestrate human coordination in a manner conducive to building and preserving public goods. Central to this aspiration is the principle ...
 ---
-# Harnessing Nature’s Wisdom for Mechanism Design
 
 #Web3 
 
