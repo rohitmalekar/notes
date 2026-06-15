@@ -8,12 +8,10 @@ type:
   - Article
 Reference:
 permalink: enterprise-software-ux
+date: 2024-06-01
 ---
 
-
 #Consulting #Design #Product 
-
-*Last Updated: June 2024*
 
 Enterprise software is rarely implemented out of thin air. It almost always replaces a quagmire of incumbent legacy applications and manual processes. An organization rarely has the internal chops to do "transformation" independently - from fit-gap analysis, vendor selection, change management, contingency planning, cutovers, etc. 
 

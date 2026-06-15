@@ -11,8 +11,6 @@ description: "Public goods are withering—not for lack of care, but because the
 
 #Web3 #Product 
 
-*Last updated: November 2022*
-
 ## Reimagining the plumbing for public goods funding
 
 ![](https://miro.medium.com/max/1260/1*otQHi2lWpJN7_SZgHqUmoQ.png)

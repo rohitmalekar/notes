@@ -12,8 +12,6 @@ due date: 2026-02-01
 
 #AI
 
-*Last Updated: February, 2026*
-
 History is comforting.
 
 Every major technological wave displaced some jobs, created others, and eventually expanded the economic pie. The loom didn't eliminate work. Electricity didn't. The internet didn't. So the instinctive move is to say, "AI will follow the same script."

@@ -8,11 +8,10 @@ type:
 Reference:
 permalink: self-help
 description: The self-help industry sells gusts of motivation to stones rolling down their own slopes. Unless you reshape your mountain, your mind, you’ll always roll the same way. Everything else is a gust against gravity.
+date: 2025-10-01
 ---
 
 #Well-Being #Leadership 
-
-Last Updated: October 2025
 
 Ever watched a stone tumble down a mountain slope, gathering speed, bouncing off ridges, changing course only where it meets resistance?
 

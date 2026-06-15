@@ -8,11 +8,10 @@ type:
 Reference:
 permalink: health-iceberg
 description: Most health advice focuses on habits you can track. But the truth is, you can’t optimize your way out of a misaligned life. The real work of well-being lives beneath the surface in how you see yourself, relate to others, and align your daily choices with what you truly value.
+date: 2025-11-01
 ---
 
 #Well-Being #Fitness 
-
-*Last updated: November, 2025*
 
 For most of my professional life, I have had predictable patterns of recurring failures in maintaining a healthy and active life. I had a chance in the last few years to do lengthy post-mortems, and this is what I now believe about health: You can’t habit-track your way out of unmet needs, shaky self-worth, or unexamined patterns.  
   

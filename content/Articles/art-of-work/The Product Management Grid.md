@@ -11,8 +11,6 @@ description: I no longer assume I know what someone actually does when they say 
 
 #Product 
 
-*Last updated: September, 2020*
-
 I no longer assume I know what someone actually does when they say they are a Product Manager. This year, I had a chance to have over 40 or so 1:1s with folks from outside of work in different stages of their product management journey. No two roles were the same. I distilled our conversations into one picture in an attempt to put a unifying model to the various flavors of product management discipline out there.
 
 ## The Approach

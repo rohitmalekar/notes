@@ -7,11 +7,10 @@ type:
 Reference:
 permalink: absent-mindedness
 description: Repeated inattention at home isn’t always indifference. Its under-regulated presence is shaped by stress and context. Research suggests that this often appears alongside high cognitive performance rather than in opposition to it. This essay explores why it strains relationships and how awareness can be rebuilt.
+date: 2026-01-01
 ---
 
 #Well-Being 
-
-*Last Updated: January, 2026*
 
 Many people who excel in professional environments often experience a quiet contradiction in their personal lives. At work, they are reliable, focused, and capable of managing complexity without supervision. At home, however, small lapses accumulate: unfinished routines, missed cues, forgotten details, or repeated reminders for things that feel obvious in hindsight. Over time, this gap becomes a source of friction, both internally and within relationships.
 

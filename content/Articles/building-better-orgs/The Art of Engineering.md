@@ -11,8 +11,6 @@ description: An artist creates her work as an aggregate of her creativity applie
 
 #Product  
 
-*Last updated: July, 2020*
-
 An artist creates her work as an aggregate of her creativity applied across many layers of perception for an immersive experience for the audience, no matter if you are reading a poem, enjoying a book, or staring at a painting. In that sense, engineers may not be too different.
 
 ### What does an engineer do?

@@ -11,8 +11,6 @@ description: Why are some goals harder than others? Why do certain skills feel f
 
 #Well-Being 
 
-*Last updated: July, 2021*
-
 Why are some goals harder than others? Why do certain skills feel forever out of reach? Why do some long-awaited milestones shower only fleeting happiness? Why does not competing for feel liberating at times? How do people reach a level of performance that seems divine?
 
 ### First, The Mind Games

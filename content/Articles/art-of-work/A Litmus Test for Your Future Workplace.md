@@ -12,8 +12,6 @@ date: 2021-03-01
 
 #Careers #recruiting
 
-*Last Updated: March, 2021*
-
 Over the years, I have had dozens of conversations with colleagues and friends who were at the cusp of transitioning their career paths. Almost always, the trickiest and the longest part of the conversation hovers around objectively evaluating the intangible benefits of the current job vis-a-vis with the new employer. This is where numbers and data start to fade away over your intuition and instincts.  
   
 Here's one [[Getting Hired As Resource Versus As a Person|litmus test]] to evaluate your future workplace from your interview experience.  

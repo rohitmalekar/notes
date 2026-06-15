@@ -12,8 +12,6 @@ date: 2019-05-01
 
 #Careers #recruiting
 
-*Last Updated: May, 2019*
-
 **Assessing a fit for a new job is a two-way street. Getting an intimate understanding of the true north of your future leaders, knowing what about you the company values the most, and a brutally authentic monologue to assess your fit for the role will drive your long term career success in the new environment.**
 
 Over the years, I have had dozens of conversations with colleagues and friends who were at the cusp of transitioning their career paths. Almost always, the trickiest and the longest part of the conversation hovers around objectively evaluating the intangible benefits of the current job vis-a-vis with the new employer. This is where numbers and data start to fade away over your intuition and instincts.

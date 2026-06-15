@@ -1,10 +1,9 @@
 ---
 permalink: attraction
+date: 2023-07-01
 ---
 
 #Well-Being 
-
-*Last Updated: Jul 2023*
 
 Human emotions and weather patterns have a lot in common. There are moments when both can catch us off guard. The lack of control and fallibility can be unnerving. So in our desire for domination, we begin devising things. We pour mercury into a glass tube and mark its surface. We color our emotions and label them on a wheel. All of this is useful in navigating our everyday lives. But when the emotion has to deal with feelings of attraction, affection, care, or commitment, the wheel goes for a toss.
 

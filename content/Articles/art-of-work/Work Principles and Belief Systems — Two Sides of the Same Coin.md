@@ -11,8 +11,6 @@ description: "At certain points in our careers, we all have struggled to bring o
 
 #Leadership #Well-Being 
 
-*Last updated: September, 2019*
-
 At certain points in our careers, we all have struggled to bring our true selves into our interactions at work. In those moments when we overcome this [[Belonging at Work|struggle]], we can fully align our actions with our hearts. This is crucial to building an authentic presence and a sense of belonging with the community at work. Whereas, in those moments when we are not ourselves there is a dent in that belonging.
 
 One of the ways to stay authentic is to define your core work principles based on your underlying belief system. I am sharing three work principles rooted in my spiritual beliefs that drive a sense of alignment with what I do for a living. I encourage you to find yours — this is NOT a roadmap to finding happiness at work. Doing this may not always make you happy, but you will find a great deal of satisfaction by discovering what you stand for.

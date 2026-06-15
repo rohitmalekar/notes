@@ -12,8 +12,6 @@ date: 2021-09-01
 
 #Well-Being #Careers
 
-*Last Updated: September, 2021*
-
 My wife and I had our firstborn in 2014 when we were based out of the Bay Area. After a 6 year stint in Deloitte Consulting, I decided to take a break from a traveling job. I joined a technology startup, Medallia, in Palo Alto soon after. Now publicly listed with a 5 billion dollar market cap and soon to be going private again, it was then a relatively smaller 300 person company.  
   
 

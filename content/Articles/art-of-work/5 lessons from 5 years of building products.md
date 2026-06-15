@@ -11,8 +11,6 @@ description: Building great digital products is harder than it looks—not becau
 
 #Product 
 
-*Last updated: June 2021*
-
 ### 1. The Shared DNA
 
 A typical team on the ground in an end-to-end digital transformation program will look no different than a jigsaw puzzle. From designers who bring together the disciplines of psychology, behavioural science, and interface design to the engineers who build best-of-the-breed applications, it is a gathering of individuals with their own shapes, sizes, colors, and most importantly, aspirations. What DNA in your organisation's culture will bind these diverse practitioners together?  

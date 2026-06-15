@@ -11,7 +11,6 @@ description: _And the people in the houses all went to the university Where they
 
 #Well-Being 
 
-*Last updated: July, 2021*
   
 _And the people in the houses all went to the university  
 Where they all were put in boxes  

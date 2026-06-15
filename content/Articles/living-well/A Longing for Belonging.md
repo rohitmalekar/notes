@@ -11,8 +11,6 @@ description: The anxiety with which you search for a hometown delicacy in a new 
 
 #Well-Being #Culture 
 
-*Last updated: June, 2021*
-
 The anxiety with which you search for a hometown delicacy in a new land is the same as that with which you look for familiar people and places when you visit your place of upbringing.
 
 In either case, you are slightly disappointed. When you move out, [[Search for Belonging|things also move on]].

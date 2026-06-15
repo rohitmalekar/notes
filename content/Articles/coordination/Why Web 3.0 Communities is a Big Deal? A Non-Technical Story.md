@@ -6,14 +6,10 @@ type:
   - Article
 permalink: why-web-30
 date: 2021-11-01
-description: "_Last updated: November, 2021_"
+description: ""
 ---
 
 #Web3
-
-*Last Updated: November, 2021*
-
-_Last updated: November, 2021_
 
 ### Once Upon a Co-op
 

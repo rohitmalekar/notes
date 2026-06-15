@@ -3,11 +3,10 @@ tags:
   - Web3
   - AI
   - Data-Analysis
+date: 2025-01-01
 ---
 
 #Web3 #AI #Data-Analysis 
-
-*Last Updated: Jan 2025*
 
 _This post is inspired by the ongoing mini-contest from_ [deepfunding.org](http://deepfunding.org)_, a special New Year’s initiative to replicate judgments from real-world funding decisions. By drawing on data from past grant rounds—across platforms like Open Collective, Gitcoin, and Optimism—participants aim to develop mechanisms that predict the funding a project would have received. By tackling this challenge, participants contribute to shaping fairer funding ecosystems for Ethereum-related projects and beyond. See the contest details [here](https://cryptopond.xyz/modelFactory/detail/306250?tab=0)_
 tl;dr

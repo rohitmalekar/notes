@@ -11,8 +11,6 @@ description: There is no easy way to grieve someone you’ve never met in real l
 
 #Well-Being 
 
-*Last updated: November 2024*
-
 There is no easy way to grieve someone you’ve never met in real life.
 
 The crypto regen community recently lost a soul who dedicated themselves to elevating the lives of those around them—both in the physical and onchain worlds. I had never met Izzy in person. In fact, the most defining quality of his presence for me was his voice on our calls. It captured many dualities at once: upbeat and humble, persistent and patient, ambitious yet circumspect.

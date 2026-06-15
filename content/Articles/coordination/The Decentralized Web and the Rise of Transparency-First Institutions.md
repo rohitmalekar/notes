@@ -11,8 +11,6 @@ description:
 
 #Web3 
 
-*Last updated: November, 2021*
-
 ## The inevitable redistribution of power
 Every generation has a seminal fight or two that define its years of existence. The memorable ones include people joining hands for the greater good in spite of individual sacrifices. The most memorable ones are rooted in defending the lines for equity and justice.
 

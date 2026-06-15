@@ -11,8 +11,6 @@ description: The following is a thought experiment to explore how Open Collectiv
 
 #Web3 #Startup-Finance 
 
-*Last updated: February, 2022*
-
 The following is a thought experiment to explore how Open Collective can [Exit to Community](https://www.colorado.edu/lab/medlab/2020/08/31/exit-community-community-primer). The goal here is to "transition from a privately owned company to a structure that allows us to share power and revenue" with its community comprising of employees, Fiscal Hosts, Collectives, funders, investors, and individual contributors. 
 
 You can read about Open Collective and its pursuit to exit to the community [here](https://opencollective.com/e2c).
@@ -190,10 +188,4 @@ Coin voting governance is still in its infancy and the current forms of coin vot
 <sup>6</sup> Nathan Schneider, 2022, [Policy Proposals for Crypto Protocols to Make Them Less Dystopic and More Inclusive](https://hackernoon.com/policy-proposals-for-crypto-protocols-to-make-them-less-dystopic-and-more-inclusive), HackerNoon
 <sup>7</sup> Nathan Schneider, 2022, [Cryptoeconomics as a Limitation on Governance](https://osf.io/dzasq/?view_only=a10581ae9a804aa197ac39ebbba05766) (DRAFT v.20220121)
 <sup>8</sup> Vitalik Buterin, 2021, [Moving beyond coin voting governance](https://vitalik.ca/general/2021/08/16/voting3.html)
-
-
-
-
-
-
 

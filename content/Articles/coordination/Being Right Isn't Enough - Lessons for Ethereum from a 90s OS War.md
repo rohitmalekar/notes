@@ -11,8 +11,6 @@ description: "GNU Hurd was architecturally superior to Linux and lost anyway, no
 
 #Web3
 
-*Last Updated: February, 2026*
-
 *(This essay is part of a series of reflections I am writing while pursuing the 2026 Ethereum Protocol Study Group (EPS). It was inspired by [Lecture 1](https://study.epf.wiki/mod/hvp/view.php?id=17), which covers Ethereum's predecessors and the culture it was built on. Explore the [EPF Wiki](https://epf.wiki/#/) to learn more or check out this [thread](https://x.com/joshdavislight/status/2023860142098596320) by [@joshdavislight](https://x.com/joshdavislight))*
 
 GNU Hurd was the better answer. Linux won anyway.

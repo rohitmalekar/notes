@@ -11,8 +11,6 @@ description: Early in my career, most of my peers along with me received consist
 
 #Leadership #Consulting
 
-*Last updated: June, 2018*
-
 Early in my career, most of my peers along with me received consistent feedback to improve executive presence. Few offered insights on what it actually meant and fewer had actionable inputs to share. Over the years, I have come across countless articles that emphasize on developing communication styles that focus on the “executive” and very little that talks about the “presence”.
 
 Focus on the “executive” includes working on the appearance and presentation skills, like using vocabulary that is palatable to senior leadership, or using positive body language, or communicating with energy, and so on. These outside-in development areas can elevate your persona in the short-term, but cannot substitute the core essentials required to have a trust-based, open, and collaborative exchange with your leaders.

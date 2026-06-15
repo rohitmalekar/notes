@@ -6,11 +6,10 @@ type:
   - Article
 permalink: mind-tos
 description: Every gift the mind gives comes with a shadow. Imagination brings restless wanting. Perception carries bias. Self-awareness can't fully see itself. These aren't flaws to fix. They're part of the deal. This essay explores what changes when you stop fighting them.
+date: 2026-02-01
 ---
 
 #Well-Being
-
-*Last Updated: February, 2026*
 
 *I will give your mind the capacity to imagine and create.*
 *I will also give your mind the wanderings to pursue your wants.*

@@ -7,11 +7,10 @@ type:
   - Article
 permalink: ai-as-forge
 description: AI promises to solve our problems faster than we can solve ourselves, but solutions aren't the same as transformation. Using the forge as metaphor, this essay explores a third path between acceleration without inner work and formation too slow to matter. The question isn't whether to use AI. It's whether we'll use it to skip the fire or to tend it.
+date: 2026-01-01
 ---
 
 #Well-Being #AI
-
-*Last Updated: January, 2026*
 
 Makes me wonder which would be worse: to solve our problems with AI without the inner work of becoming, or to change ourselves too slowly to solve them at all.
 

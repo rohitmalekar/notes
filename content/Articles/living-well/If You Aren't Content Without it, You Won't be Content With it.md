@@ -11,8 +11,6 @@ description: Discontent is often rooted not in the absence of what we seek but i
 
 #Well-Being
 
-*Last updated: August, 2021*
-
 If you aren't [[Coexisting Contentment and Ambition|content today without what you chase]], you won't be content tomorrow in spite of having it.   
   
 

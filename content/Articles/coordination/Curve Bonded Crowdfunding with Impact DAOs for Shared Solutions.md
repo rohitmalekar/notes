@@ -11,8 +11,6 @@ description: Impact DAOs tackling public goods face the same recurring organizat
 
 #Web3 
 
-*Last updated: April 2022*
-
 ### NEED: What is the problem to be solved? 
 
 > **Transforming siloed strengths into repeatable success for Impact DAOs**
@@ -34,7 +32,6 @@ There are potential synergies in codifying scalable solutions for these challeng
 #### Approach:
 A solution services entity that offers advisory, implementation, and support services to Impact DAOs for a subsidized cost. In return, the Impact DAOs provide sweat equity for collaborating to craft clear problem definitions, early adoption of solutions, and active feedback of services. A shared token economy captures the value of the collaboration. Early adopters gain benefits of token appreciation with time as solutions and services gather a wider reach and adoption. 
 
-
 ### ENDGAME: What does success look like? 
 
 > **Sef-sustaining liquidity to deploy solutions and services for Impact DAOs**
@@ -47,7 +44,6 @@ There is inherent value in overcoming coordination challenges across Impact DAOs
 - Codify the value from collaboration with Impact DAOs into a community token that offers self-sustaining liquidity
 - Organize people and processes transparently that utilize this token to operate a services business
 - Spawn off mature solutions as product DAOs with their own micro-economy and user base of Impact DAOs
-
 
 ### IMPLEMENTATION: How will value be captured?
 

@@ -11,8 +11,6 @@ description: The regenerative movement offers early-stage founders a compelling 
 
 #Web3
 
-*Last Updated: June, 2024*
-
 As the regen movement gains momentum, early-stage founders face unique challenges and opportunities to shape the future of sustainable and impactful blockchain-native projects. Drawing inspiration from cybernetics, sustainability principles, and community building, this article explores three key questions that can guide regen founders in creating resilient and thriving ecosystems.
 
 ### 1. Adapting to Complex Challenges: Insights from Cybernetics

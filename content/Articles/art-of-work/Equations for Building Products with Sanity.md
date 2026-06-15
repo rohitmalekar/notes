@@ -11,8 +11,6 @@ description: "Product teams routinely conflate outputs with outcomes, tools with
 
 #Product 
 
-*Last updated: July, 2021*
-
 I would be the first in the line to contend that as a product manager in the making, you ought to grow a healthy skepticism to "best practices". Context is king and most often, there is always an exception to everything. However, the following should save you some heartburn in the long run.  
   
 

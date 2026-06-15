@@ -11,10 +11,7 @@ description: The following are interpretative notes as part of reading the book,
 
 #Web3 
 
-*Last updated: 20th March, 2022*
-
 The following are interpretative notes as part of reading the book, [Greenpilled](https://greenpill.party/). This is not a summary of the book, but rather the implications of the core concept in the book - applied regenerative cryptoeconomics - for the wicked problems in India.
-
 
 #### Our public goods are withering
 - From education to healthcare, from environment to infrastructure, the apathy of those in power and the greed from the intermediaries is holding us back

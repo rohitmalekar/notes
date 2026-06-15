@@ -11,8 +11,6 @@ description: While I admire the ambition to decentralize and the tech involved i
 
 #Web3 
 
-*Last updated: July, 2023*
-
 While I admire the ambition to decentralize and the tech involved in Worldcoin, I don't imagine handing over my biometrics to a non-governmental centralized entity. However, as more of our lives go digital, the need for more effective solutions for proof of personhood is an Achilles heel. In addition to the legal right to the Internet and safe borderless programmable money, the future of digital public goods critically depends on self-sovereign identity.    
 ### The problem  
 When the cost of forging our identities is lower, our systems become fragile - from trivial but annoying experiences with social network bots to misappropriating resources that rely on digital identity for distribution. For a Sybil-resistant human identification, a system needs to ensure that every identity within their domain is i) unique so that no two people should have the same identifier and ii) singular so that one person should not be able to obtain more than one identifier.  

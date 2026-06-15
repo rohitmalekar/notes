@@ -11,8 +11,6 @@ description: Engineers asking how to transition into product management are ofte
 
 #Product 
 
-*Last updated: April, 2021*
-
 I get this question often in different forms, so I thought I would write this up in some detail.  
   
 

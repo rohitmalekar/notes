@@ -6,12 +6,10 @@ type:
   - Article
 permalink: marriage-utility
 description: Marriage is often romanticized as a destination, but it functions more like a crucible—demanding grind, suffering, and sacrifice. The couples who last don't just participate in the marriage; they become it. This essay explores why the work is brutal and why it might still be worth it.
+date: 2026-01-01
 ---
 
-
 #Well-Being
-
-*Last Updated: January, 2026*
 
 Marriage is not a destination. It's a crucible.
 

@@ -11,8 +11,6 @@ description: Most digital transformations treat design as a specialist functionâ
 
 #Product #Culture 
 
-*Last updated: June, 2019*
-
 Launching the latest technology-enabled solutions is a low hanging fruit for an organisation in pursuit of digital transformation. A sustainable change will depend on the extent to which teams and leaders who donâ€™t do design believe in the value of thinking for design. The tangible benefits of user-centric methodologies and innovation centers will remain elusive until every hand on the deck makes a conscious choice in aligning towards the work principles of design thinking. This is applicable for an engineer redesigning the website on the latest framework, for an architect charting the roadmap for a suite of mobile apps, for a program manager running the cloud infrastructure, or for an executive assessing funding needs for the adoption of machine learning.
 
 ---

@@ -8,11 +8,10 @@ type:
 Reference:
 permalink: gada
 description: Cycling built my legs, but stressed my back and wrists. The missing piece? A traditional Indian mace used in martial arts and fitness. How swinging the gada rewired my endurance and made 100 km rides feel smoother.
+date: 2025-09-01
 ---
 
 #Well-Being #Fitness
-
-*Last updated: September 2025*
 
 Cycling started as a simple commute alternative for me, often faster than sitting in a car on Bangalore’s choked roads. What began as a practical way to get to work soon spilled into weekend mornings, chasing breakfast joints across the city. Before I knew it, those short commutes had stretched into century rides out of the city and back, the kind of rides that test not just legs but the whole body.
 
@@ -103,6 +102,5 @@ For me, the gada hasn’t just been cross-training. It’s been an insurance. In
 And perhaps the best part? I didn’t need to carve new time out of an already crowded life. With the gada at home, I built strength in the gaps. 
 
 > **That’s a lesson I carry beyond cycling: sometimes the right tool isn’t the flashiest or most advanced. It’s the one that quietly balances what life leaves uneven.**
-
 
 ![[WhatsApp Image 2025-09-18 at 21.13.51.jpeg]]

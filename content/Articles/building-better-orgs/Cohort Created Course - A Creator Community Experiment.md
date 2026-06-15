@@ -11,8 +11,6 @@ description: Most online courses are built by one person and consumed by many—
 
 #Careers #Product #Well-Being 
 
-*Last Updated: November, 2021*
-
 **Update Nov 10, 2021:** Follow [this](https://twitter.com/RohitMalekar/status/1453242936595042315?s=20) thread on Twitter for the latest status on this effort
 
 If you are looking to build an authentic interview presence in search of a tribe you can belong to, I have an experiment for you. I am calling it a cohort-created course. There isn't any cost to participate. There may be a small upside if it works as planned.

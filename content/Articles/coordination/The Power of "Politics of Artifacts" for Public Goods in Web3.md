@@ -9,10 +9,7 @@ date: 2023-06-01
 description: Prof. Winner's 1980 paper ["Do artifacts have politics?"](https://www.jstor.org/stable/20024652) asserts that tech artifacts are not neutral but reinforce certain values, interests, and power relations in society. The paper outlines several examples to drive the point home.
 ---
 
-
 #Web3 #Culture 
-
-*Last Updated: June 2023*
 
 Prof. Winner's 1980 paper ["Do artifacts have politics?"](https://www.jstor.org/stable/20024652) asserts that tech artifacts are not neutral but reinforce certain values, interests, and power relations in society. The paper outlines several examples to drive the point home.
 

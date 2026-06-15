@@ -11,8 +11,6 @@ description: There are many advantages to taking time off to try to build things
 
 #Product  
 
-*Last updated: August, 2019*
-
 There are many advantages to taking time off to try to build things in time-bound short burst hackathons. It allows engineers to get out of the comfort zone and challenge the status quo on unsolved problems. For most companies, it is a channel to attempt things out of the ordinary and for engineers to prove their potential. Moreover, it is a safe environment to fail fast and accelerate learning. At our studio, we extend this concept to host an annual event that has now become a festival for us — the Megathon.
 
 ### Megathon — From Design to DevOps

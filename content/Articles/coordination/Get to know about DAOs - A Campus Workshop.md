@@ -11,8 +11,6 @@ description: Two workshop sessions at Punjabi University's Centre for Emerging a
 
 #Web3
 
-*Last Updated: March, 2024*
-
 This material includes a walk-through across two 2-hour sessions with the faculty at the Punjabi University Centre for Emerging and Innovative Technology, Mohali, including a hands-on QV exercise, to illustrate the role of DAOs in driving participative governance for causes a community cares about.
 
 The discussion covered a brief history of DAOs, their theoretical underpinnings, practical challenges, and latest trends, including talks from the founders of Atlantis DAO (Irthu Suresh), Solarpunk DAO (Utkarsh Patel), and RegenBuild (Guru Vishwas).

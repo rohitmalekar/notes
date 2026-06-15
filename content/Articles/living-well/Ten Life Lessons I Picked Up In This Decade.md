@@ -11,8 +11,6 @@ description: "[[Impact of Life Lessons on Identity|Life Lessons]] emerge from a 
 
 #Well-Being 
 
-*Last updated: December, 2019*
-
 [[Impact of Life Lessons on Identity|Life Lessons]] emerge from a deep-rooted underlying shortcoming. Such situations often require extended experiential learning from mentors that lasts years. If done right, life lessons create such a paradigm shift that the learnings become an integral part of your identity. As we get close to turning the page on this decade, sharing a personal retrospective below — a list of ten most impactful tweet-length life lessons I picked up in the last 10 years.
 
 1.  **_“Say yes as often as you can”_** (Stephen Colbert @ Knox University in 2006). I resented two of my now favorite activities, golf and meditation, for years without giving them a try. Saying yes leads to new experiences, and new experiences will lead you to knowledge and wisdom.

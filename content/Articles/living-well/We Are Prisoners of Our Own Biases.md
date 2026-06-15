@@ -11,8 +11,6 @@ description: Why do we have to choose between putting a person on a permanent pe
 
 #Well-Being 
 
-*Last updated: March, 2021*
-
 Why do we have to choose between putting a person on a permanent pedestal for their noblest deeds or criticizing their entire identity for their worst choices? Sharing a few thoughts based on recent events on whom we choose to follow at work, in our communities, and personal lives.   
    
 Mahatma Gandhi is accused to have worked with the British in South Africa to ignore racial segregation keeping the Indian struggle separate from that of the local community. He is also the person to have inspired M.L.K. Jr, Nelson Mandela, and others for universal demands of equality.   

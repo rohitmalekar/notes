@@ -11,8 +11,6 @@ description: The current L2 evaluation landscape relies on a single-axis Stages 
 
 #Web3
 
-*Last Updated: February, 2026*
-
 Two recent posts in early February 2026( [here](https://x.com/VitalikButerin/status/2018711006394843585) and [here](https://x.com/VitalikButerin/status/2019341766407725170?s=20)) by Vitalik reframe what L2s are supposed to be. The short version: **L2s are no longer "branded shards" of Ethereum, and we should stop pretending they are.**
 
 L1 is scaling directly. Many L2s cannot or will not reach Stage 2. And "yet another EVM chain with an optimistic bridge" is to infrastructure what forking Compound was to governance. Comfortable repetition. 

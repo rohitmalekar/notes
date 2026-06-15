@@ -11,8 +11,6 @@ description: The early years of computer programming had a singular focus on the
 
 #Product  
 
-*Last updated: October, 2019*
-
 The early years of computer programming had a singular focus on the underlying data and processes being automated with a naive disregard for the human working with the application. As the audience for the computer applications outgrew the back-office personnel to include everyday users, the discipline of human-centered design has become critical to elevate the effectiveness of technology investments. Most enterprises that embark on the journey of digital transformation begin by leveraging principles of design thinking to define the change and drive adoption.
 
 However, as these efforts scale across the organization, so does the unhealthy obsession to deliver “more-with-less” at speed. This has resulted in misplaced commitments for well-intended but ill-implemented practices. These rituals are deteriorating the very human experience they are attempting to improve. Here are the 5 key traps that plague large enterprises in pursuit of digital transformation.

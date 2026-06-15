@@ -6,11 +6,10 @@ type:
   - Article
 permalink: words-shape-life
 description: Most of us move through life shaped by terrain we didn't consciously build—thoughts, memories, and assumptions that steer us without our awareness. This essay explores how deliberate writing becomes a tool for excavating what lies within, and why articulating your inner world is the first step toward living with intention rather than by accident.
+date: 2026-01-01
 ---
 
 #Well-Being
-
-*Last Updated: January, 2026*
 
 You can't alter what you can't describe.
 

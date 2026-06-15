@@ -11,8 +11,6 @@ description: The baseline for knowledge work has changed, even before AI tools a
 
 #AI
 
-*Last Updated: March, 2026*
-
 It doesn't matter if Anthropic Cowork or OpenAI Frontier actually work as marketed right away. What matters is simpler and more uncomfortable: the expectations from a knowledge worker have shifted forever.
 
 ## The Relay Layer

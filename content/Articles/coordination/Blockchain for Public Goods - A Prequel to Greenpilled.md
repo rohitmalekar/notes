@@ -11,8 +11,6 @@ description: Our public goods are withering—not because people don't care, but
 
 #Web3 
 
-*Last Updated: March, 2022*
-
 ### Introduction
 I wrote this article an attempt for a prequel to the book [Greenpilled](https://greenpill.party/). The book by [Kevin Owocki](https://owocki.com/) is *"designed to teach the ethos & game theoretic concepts behind regenerative cryptoeconomics to the next generation of dreamers, builders, and internet citizens"*. If you are new to Web3 and Crypto, I hope this article serves as a stepping stone to then deep dive into the vision Greenpilled has to offer to sustain and thrive our public goods.
 
@@ -71,7 +69,6 @@ The decentralized structures designed with careful deliberation can unlock this 
 > **"With [[Programmable Money|programable money]], we can program our values into our money".**
 >
 > **- Greenpilled**
-
 
 There is an entire spectrum of emerging structures with design decisions for governance and financial sustainability unique to the problem they are attempting to solve. Here are some shared characteristics of these cryptoeconomic building blocks.
 

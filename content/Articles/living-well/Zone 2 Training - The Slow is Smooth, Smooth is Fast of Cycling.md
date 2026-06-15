@@ -12,8 +12,6 @@ description: Most training instincts push toward harder effort, but Zone 2, the 
 
 #Well-Being
 
-*Last Updated: May, 2026*
-
 Cycling has taken me deep into rabbit holes I never thought I would explore. Nutrition timing. Sleep tracking. Saddle geometry. One of which that has fascinated me the most in terms of how our body works is Zone 2 Training.
 
 It sounds almost too simple to be worth obsessing over. Ride easy. Do it consistently. Trust the process.
@@ -41,5 +39,4 @@ Zone 2 is the sweet spot where the hormonal conditions for fat burning are optim
 The results aren't immediate. Staying consistent at it with work-life and parenthood has its own challenges. But you will discover changes first-hand along the way. The 100 km rides slowly don't feel as daunting as they used to. Backpacking cycling trips become a reality. 
 
 And most importantly, you stop treating fitness as something that must hurt to count.
-
 

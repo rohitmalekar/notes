@@ -11,8 +11,6 @@ description: For centuries, social and economic institutions have been built wit
 
 #Web3 
 
-*Last updated: December, 2021*
-
 ## Unlocking the potential in decentralization
 
 For centuries now, we have been designing our social, industrial, and political institutions with a "control-first" mindset. Web 3.0 provides the protocols, infrastructure, and tools for "transparency-first" organizations and communities. There has never been a better time to re-imagine efforts to bring change at scale with and for those affected.

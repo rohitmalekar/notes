@@ -7,11 +7,10 @@ type:
 Reference:
 permalink: physics-of-desire
 description: "We can model eclipses, storms, and markets, yet treat our inner world as unknowable. This essay asks a quieter question: what if desire follows laws too? Drawing a line from ancient insight to modern systems thinking, it frames desire as a causal chain rather than a mystery."
+date: 2025-10-01
 ---
 
 #Well-Being 
-
-*Last Updated: October 2025*
 
 *tl;dr We’ve taken the world outside us and put it under instrumentation so powerful that we can forecast eclipses to the second and simulate storms before the clouds even gather. We have barely scratched the surface for doing the same for the world within us.*
 

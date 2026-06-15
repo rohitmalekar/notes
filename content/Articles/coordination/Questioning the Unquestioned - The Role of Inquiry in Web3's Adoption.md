@@ -11,8 +11,6 @@ description: Quality of life depends on the quality of questions we ask, and mos
 
 #Web3
 
-*Last Updated: December, 2023*
-
 After basic material needs are taken care of, the quality of life depends on the quality of our thoughts. The quality of our thoughts depends on the quality of our questions. What hinders our ability to ask high-quality questions? Assumptions. Conformance. Compliance.
 
 The most exciting thing about web3 for me is we are asking the right questions at scale - about decades-old monolithic control-first institutions and whether tech alone can be the savior against that baggage from the past. And it is through these questions we can get more people excited about web3.

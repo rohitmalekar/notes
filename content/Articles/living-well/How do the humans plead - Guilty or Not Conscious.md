@@ -11,8 +11,6 @@ description: As I write this article, I dig in for another serving from the plas
 
 #Well-Being 
 
-*Last updated: December, 2018*
-
 As I write this article, I dig in for another serving from the plastic container that the delicacy got delivered with. The stockpile of these white objects in my kitchen storage keeps stealthily growing. The tasty bite melting in my mouth dissolves the guilt of collecting them from my past explorations for the newest cuisines in the city, delivered in 30 minutes or free. These plastics are going to far outlast the companies that sent them and will linger through many a generation of humans before calling it a day.
 
 What’s not going to last through another generation are the mountains in the countryside that are being eaten up by the mining mafia. I feel a tinge of sadness seeing the beautiful carvings of nature disappear. But I also love to flock to the very shopping malls that get decorated by the polished stones from these graveyards. And, don’t we all want the most expensive marble stone our wallets can afford to “upgrade” our homes?

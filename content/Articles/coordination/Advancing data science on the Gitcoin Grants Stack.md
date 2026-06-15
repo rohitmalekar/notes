@@ -11,8 +11,6 @@ description: Open Source Observer partnered with Gitcoin to enhance data infrast
 
 #Data-Analysis
 
-*Last Updated: January, 2025*
-
 OSO is [partnering with Gitcoin](https://gov.gitcoin.co/t/gcp-xxx-oso-gitcoin-collaboration-for-advancing-data-infrastructure-and-gtm-analytics/19578) to enhance data infrastructure and analytics capabilities on top of Grants Stack.
 
 The goal is to make it easy for developers, researchers, and community members to connect Gitcoin Grants' data with any of OSO's public datasets. In doing so, we hope to streamline data engineering, improve donor transparency, and enable more data-driven decision-making for the Gitcoin ecosystem.

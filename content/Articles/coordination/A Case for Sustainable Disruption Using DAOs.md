@@ -11,8 +11,6 @@ description: The DAO conversation is drowning in token hype and tech infatuation
 
 #Web3 
 
-*Last updated: September, 2021*
-
 There are a ton of valid use cases for Decentralized Autonomous Organizations (DAO) in Web 3.0. But there is ten times the noise and infatuation with underlying tech for the "how" before solving the "why".  
   
 Here are 5 questions worth thinking about before evaluating the construct of a DAO for the problem you are attempting.  

@@ -11,8 +11,6 @@ date: 2019-10-01
 
 #recruiting
 
-*Last Updated: October, 2019*
-
 It is far too common to see strong candidates barely being able to keep it together in the final stretch of the interview when presented with the opportunity to ask questions. I have heard everything from _"I have no questions"_ to a barrage of follow-up queries on a narrow topic. Candidates who fare well on this question use the opportunity to assess if the role is a fit for them and seek answers about the company that no online search will provide them.
 
 ### Why does this question matter?

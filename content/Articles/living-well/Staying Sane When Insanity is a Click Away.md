@@ -11,8 +11,6 @@ description: News and misinformation can feel one click away from overwhelming s
 
 #Well-Being
 
-*Last Updated: February, 2026*
-
 Insanity is a click away.
 
 In the last week, my feeds delivered a sequence of stories that didn’t feel like “updates” as much as they felt like a direct hit to the nervous system: violence inside homes, injustice moving at institutional speed, and a fog of misinformation that makes even real suffering harder to hold with clarity.

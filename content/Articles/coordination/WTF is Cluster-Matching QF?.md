@@ -11,8 +11,6 @@ description: Modern mechanism design assumes independent agents, leaving Quadrat
 
 #Web3
 
-*Last Updated: February, 2024*
-
 Modern mechanism design often assumes that agents are independent and self-interested with no prior ties for cooperation. This can make mechanisms susceptible to unintentional over-coordination or deliberate collusion. As a result, public funding models like Quadratic Funding (QF) face challenges in scaling. With the introduction of Cluster-Matching QF during GG18, we have started to address the issue of power imbalances in QF models arising from pre-existing participant relationships. In this article, we will discuss the following:
 
 - Recap how QF works

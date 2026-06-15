@@ -14,7 +14,6 @@ description: In quadratic funding rounds with hundreds of grantees, the loudest 
 
 #product #Web3 #Data-Analysis 
 
-*Last Updated: Dec 2024*
 ### Abstract 
 This study explores the potential of data-driven tools in enhancing quadratic funding (QF) for public goods in the web3 ecosystem. By leveraging the donation window for Gitcoin Grants 22 (GG22), the study deployed a live tool that provided QF donors with actionable insights and customizable metrics to objectively evaluate open-source software (OSS) grantees. Combining data from [Open Source Observer (OSO)](https://www.opensource.observer/) and [RegenData](https://github.com/ufkhan97/regendata), the methodology introduces a composite scoring system that balances repository activity and community engagement, allowing donors to prioritize projects effectively. This feature accommodates diverse donor objectives, whether they are supporting high-growth projects, stable and mature initiatives, or experimental endeavors.
 

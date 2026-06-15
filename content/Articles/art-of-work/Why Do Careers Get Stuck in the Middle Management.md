@@ -12,8 +12,6 @@ date: 2021-05-01
 
 #Leadership #Consulting
 
-*Last Updated: May, 2021*
-
 ## Hypothesis
 
 Most high-performing careers hit a wall in middle management because practitioners shy away from taking risks to address [[High Quality Problem|high-quality problems]]. The conditioned responses to seek career progression act as traps that make it harder to develop skills required to expand the circle of influence.

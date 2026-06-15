@@ -12,8 +12,6 @@ date: 2021-03-01
 
 #Careers #recruiting
 
-*Last Updated: March, 2021*
-
 A lot has been written about how candidates should approach interviews, not so much on how interviewers should. Candidate experience is a hard problem to solve if you are trying to do it at scale and especially if people helping you in scouting and interviewing already have a day job. However, it is critically important to get right what could be someone’s first potential employee experience.
 
 Consistent adoption of a few simple micro-habits across the company can help. Few examples below:

@@ -11,8 +11,6 @@ description: Imagine a piece of the jigsaw puzzle in isolation and removed from 
 
 #Leadership #Well-Being #Culture 
 
-*Last updated: July, 2018*
-
 Imagine a piece of the jigsaw puzzle in isolation and removed from rest of the set. If it had a voice, it would probably raise some familiar questions, _“Why do I exist? Look at my odd shape. What purpose can this random shape serve? And don’t get me started with the colors. How would I make this world a better place with all these arbitrary shades of mine?”_^jigsawpuzzle
 
 However smart or intelligent that single piece be, it is almost near to impossible for it to find a purpose in it’s own solitude. It is only when it joins hands with rest of the pieces, the picture falls in place and so does its purpose. How often have we questioned our own purpose and our legacy likewise?

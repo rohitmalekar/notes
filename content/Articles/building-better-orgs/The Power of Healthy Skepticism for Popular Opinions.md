@@ -11,8 +11,6 @@ description: It was the end of 2015. I was in the U.S. and had been exposed to p
 
 #Well-Being 
 
-*Last updated: June, 2021*
-
 It was the end of 2015. I was in the U.S. and had been exposed to politics there for a few years at that time. The Right was clamoring that the biggest threat to their country is ISIS. The Left was bent that it is climate change. I thought to myself the gradual loss of [[Misery from the Loss of Critical Thinking|unbiased, critical, and objective thinking]] in human minds will be the likeliest cause of our misery.  
   
 Look no further than the two of the largest democracies in the world. Since the run-up to the 2016 elections in the U.S., the two camps  split so far apart by the political rhetoric that it trumps (no pun intended!) logic and common sense. Following the then change of regime in India, people have elevated their political leaders to demi-gods who can do no wrong and their ideologies into pseudo religion.  

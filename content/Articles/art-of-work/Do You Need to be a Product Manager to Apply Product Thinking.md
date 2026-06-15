@@ -11,8 +11,6 @@ description: Too many early-career professionals fixate on landing the PM title 
 
 #Product 
 
-*Last updated: September, 2020*
-
 Lately, I have been getting a few queries from recent graduates on how to seek a job for a product manager (PM) role. My two cents: don’t.
 
 Trying to be a PM straight out of school is like attempting a competitive sport because you have read the rules and watched it unfold from the stadium seats. In that state, neither do we have enough muscle memory built in our minds to do most things right, nor enough battle scars to be remotely successful.

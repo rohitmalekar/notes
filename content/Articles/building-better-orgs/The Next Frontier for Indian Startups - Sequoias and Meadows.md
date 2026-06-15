@@ -1,10 +1,9 @@
 ---
 permalink: next-frontier
+date: 2021-10-01
 ---
 
 #Startup-Finance #Product 
-
-*Last updated: October 2021*
 
 If I were to imagine a sustainable startup ecosystem for India for the next couple of decades, I bet we not only need the Sequoia trees (VC-backed unicorns), but we also need to care for and grow a large enough sustainable meadow that can support all sorts of life.
 

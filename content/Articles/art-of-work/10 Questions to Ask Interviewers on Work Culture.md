@@ -12,8 +12,6 @@ date: 2021-02-01
 
 #Careers #recruiting
 
-*Last Updated: February, 2021*
-
 “There are no stupid questions” is a nice sentiment that may be appropriate in some contexts, however, the art of asking questions is an underrated skill, especially when we look for our next career move.
 
 For example, asking “How is the culture at your organization?” to an interviewer is like asking “What kind of a person are you?”. You may not hear intentional lies, but human minds are often incredibly biased against acknowledging vulnerabilities.

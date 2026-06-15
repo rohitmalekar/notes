@@ -11,7 +11,6 @@ description: Ever since we are born, we are wrapped in layers of labels to ident
 
 #Well-Being 
   
-*Last updated: July, 2021*
  
 Ever since we are born, we are wrapped in layers of labels to identify ourselves.  My name, my roots, my family, I am good enough at this, I am not good enough for that, my purpose...the list is endless.  
   

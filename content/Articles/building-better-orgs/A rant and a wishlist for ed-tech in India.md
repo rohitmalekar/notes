@@ -11,8 +11,6 @@ description: India's ed-tech boom is pouring billions into digitizing an outdate
 
 #Product 
 
-*Last updated: January, 2021*
-
 _(This article was “written in public”. After a skeleton draft was posted on_ [_LinkedIn_](https://www.linkedin.com/posts/rohitmalekar_edtech-activity-6748260319820439552-vZ6D) _and_ [_Twitter_](https://twitter.com/RohitMalekar/status/1342497454101434369?s=20) _seeking feedback, the attributed responses below were used to further refine and add to the key takeaways.)_
 
 **The term “Ed Tech” feels like an oxymoron in India,** an attempt to change the cover of a book when the book itself needs a replacement. Most technology-first solutions attempting to revamp education in India are primarily using the scale, speed, and standardization of technology to accelerate the adoption of an outdated educational experience. An enterprise architect himself, [Vivek Anand](https://www.linkedin.com/in/vivek-anand-8b942916/), shared his experience of attempting free trial lessons for his son from some of the ed-tech start-ups. He [states](https://www.linkedin.com/feed/update/urn:li:activity:6748260319820439552?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6748260319820439552%2C6748515159398068224%29) that the one-size-fits-all approach leads to poor user engagement.

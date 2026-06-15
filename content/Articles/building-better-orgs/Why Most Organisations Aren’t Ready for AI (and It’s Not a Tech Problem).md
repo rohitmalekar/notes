@@ -11,8 +11,6 @@ description: Every wave of enterprise technology has promised transformation but
 
 #AI
 
-*Last Updated: February, 2026*
-
 Every organisation gets the technology it deserves, not the technology that's available.
 
 That might sound harsh. But technologies that amplify judgment fail when organisations try to use them to *avoid* judgment. This isn't a flaw in the technology. It's a mirror reflecting back what we actually are.

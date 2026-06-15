@@ -8,11 +8,11 @@ type:
 Reference:
 permalink: cycling-retro-300km
 description: "A 300 km ride is its own feedback loop. The data (heart rate, cadence, pace) tells a story beneath the miles: what held strong, and what quietly cracked. Here’s the retrospective of what worked well, and what needs sharpening before the next big ride."
+date: 2025-12-01
 ---
 
 #Fitness #Well-Being 
 
-*Last Updated: December, 2025*
 ![[Screenshot 2025-12-08 at 3.56.25 PM.png]]
 
 Long rides have a way of collapsing every part of you across your fitness, mindset, and discipline into one long feedback loop. There’s simply too much valuable data in a ride, from heart rate to cadence, to ignore a proper retrospective. It reveals the story beneath the miles: the strengths that held the day together and the weak spots that quietly surfaced as the hours wore on.
