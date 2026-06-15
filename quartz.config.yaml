@@ -210,7 +210,7 @@ plugins:
       links:
         GitHub: https://github.com/rohitmalekar
   - source: github:quartz-community/recent-notes
-    enabled: true
+    enabled: false
     options:
       title: Recently updated
       limit: 4
