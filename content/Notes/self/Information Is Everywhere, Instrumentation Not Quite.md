@@ -4,6 +4,7 @@ tags:
 - Web3
 - Decentralization
 type: Reflection
+date: 2025-06-24
 ---
 
 Until barely a century ago, who would have thought that the faint light reaching Earth under the night sky carried clues to the marvellous secrets of the universe. And yet, the latest findings from the Vera C. Rubin Observatory wiith millions of galaxies, thousands of new asteroids, a 3.2-gigapixel image of the Virgo Cluster stand as proof of what becomes possible when years of global coordination, engineering ingenuity, and scientific curiosity align to build the right instruments. 

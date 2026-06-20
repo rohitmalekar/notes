@@ -3,6 +3,7 @@ title: Misery from the Loss of Critical Thinking
 tags:
 - Leadership
 type: Reflection
+date: 2023-05-01
 ---
 
 The gradual loss of unbiased, critical, and objective thinking in human minds will be the likeliest cause of our misery.  

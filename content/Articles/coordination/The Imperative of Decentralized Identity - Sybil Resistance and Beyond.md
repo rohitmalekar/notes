@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: decentralized-identity
-date: 2023-07-01
+date: 2023-09-15
 description: While I admire the ambition to decentralize and the tech involved in Worldcoin, I don't imagine handing over my biometrics to a non-governmental centralized entity. However, as more of our lives go digital, the need for more effective solutions for proof of personhood is an Achilles heel. In addition to the legal right to the Internet and safe borderless programmable money, the future of digital public goods critically depends on self-sovereign identity.
 ---
 

@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: delegation-done-right
-date: 2023-05-29
+date: 2023-07-08
 description: Gitcoin implemented Steward Health Cards in collaboration with Karma to address the challenge of assessing the level of engagement and activity of stewards in the Gitcoin DAO. The Health Cards use metrics such as Snapshot voting and Forum activity to quantify steward activity, with different weights assigned to different types of contributions. The algorithm calculates a Health Score for each steward, which is updated daily and displayed on a custom dashboard. This initiative aims to improve ...
 ---
 

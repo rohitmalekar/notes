@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: cohort-based-courses
-date: 2021-06-01
+date: 2021-11-14
 description: Cohort-Based Course is the new terminology in town. Without going into the debate of whether the phenomenon deserves a new name, there are a few elements of this experience that are being enabled creatively by more than a few instructors. Specifically, this includes peer-to-peer learning by design, small coach to coachee ratio, holding each other accountable for outcomes, dedicated bandwidth for spontaneous bi-directional communication as compared to a traditional classroom setup to name a few.
 ---
 

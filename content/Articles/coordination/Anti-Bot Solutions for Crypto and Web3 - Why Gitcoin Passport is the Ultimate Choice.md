@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: antibot-solutions
-date: 2023-09-01
+date: 2023-10-03
 description: The cryptocurrency industry is burgeoning at an unprecedented rate. Yet, with this growth come serious challenges, including an upsurge in bot attacks that threaten the security and integrity of crypto platforms and their users. From market manipulation to fraudulent transactions, bot attacks can wreak havoc in multiple ways. This underscores the critical need for advanced anti-bot solutions in safeguarding digital assets and ensuring a smooth user experience.
 ---
 

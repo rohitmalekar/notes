@@ -4,6 +4,7 @@ tags:
 - Well-Being
 type: Reference
 Reference: Brihadaranyaka Upanishad
+date: 2023-05-01
 ---
 
 The Brihadaranyaka Upanishad (IV.4.5) states,

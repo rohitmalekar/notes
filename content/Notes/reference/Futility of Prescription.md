@@ -4,6 +4,7 @@ tags:
 - Well-Being
 type: Reference
 Reference: 'Kapil Gupta: Conquering the Mind, https://nav.al/kapil'
+date: 2025-03-27
 ---
 
 The problem is that whenever you venture into the realm of art in any form, be it in business or sports or even in the setting of finding peace in your life or freedom or arriving at enlightenment–all of these so-called spiritual pursuits–those things cannot be prescriptionized. If you attempt to prescriptionize them, what happens is: the prescription becomes the new god. You begin to try to live up to the prescription.

@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: on-grieving-someone
-date: 2024-11-01
+date: 2024-11-17
 description: There is no easy way to grieve someone you’ve never met in real life.
 ---
 

@@ -7,7 +7,7 @@ tags:
 type:
   - Article
 permalink: enterprise-software-ux
-date: 2024-06-01
+date: 2025-11-19
 description: "Why enterprise software is so often clunky: systems integrators are rewarded for big-ticket, vendor-specific deals rather than employee experience. A look at the hidden incentive economics that shapes the tools organizations are forced to use."
 ---
 Enterprise software is rarely implemented out of thin air. It almost always replaces a quagmire of incumbent legacy applications and manual processes. An organization rarely has the internal chops to do "transformation" independently - from fit-gap analysis, vendor selection, change management, contingency planning, cutovers, etc. 

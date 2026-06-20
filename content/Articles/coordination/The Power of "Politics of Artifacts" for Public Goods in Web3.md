@@ -6,7 +6,7 @@ tags:
 type:
   - Article
 permalink: politics-of-artifacts
-date: 2023-06-01
+date: 2023-06-21
 description: Prof. Winner's 1980 paper ["Do artifacts have politics?"](https://www.jstor.org/stable/20024652) asserts that tech artifacts are not neutral but reinforce certain values, interests, and power relations in society. The paper outlines several examples to drive the point home.
 ---
 

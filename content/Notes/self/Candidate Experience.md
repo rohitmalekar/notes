@@ -3,6 +3,7 @@ title: Candidate Experience
 tags:
 - Recruiting
 type: Reflection
+date: 2023-05-01
 ---
 
 ## Candidate experience matters

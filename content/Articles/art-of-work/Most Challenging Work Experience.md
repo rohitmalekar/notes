@@ -7,7 +7,7 @@ type:
   - Article
 permalink: authentic-presence
 description: A week-long onboarding at a startup challenged years of conditioning to appear successful rather than be authentic. Unlearning the habit of conformity and learning to be genuinely present proved harder than any technical skill. This essay reflects on how embracing vulnerability became the most transformative work experience.
-date: 2021-09-01
+date: 2021-11-01
 ---
 
 My wife and I had our firstborn in 2014 when we were based out of the Bay Area. After a 6 year stint in Deloitte Consulting, I decided to take a break from a traveling job. I joined a technology startup, Medallia, in Palo Alto soon after. Now publicly listed with a 5 billion dollar market cap and soon to be going private again, it was then a relatively smaller 300 person company.  

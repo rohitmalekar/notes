@@ -5,6 +5,7 @@ tags:
 - Regen
 type: Reference
 Reference: Elinor Ostrom
+date: 2023-05-01
 ---
 
  

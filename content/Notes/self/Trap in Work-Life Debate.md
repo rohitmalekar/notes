@@ -5,6 +5,7 @@ tags:
 - Careers
 - Parenthood
 type: Reflection
+date: 2025-03-17
 ---
 
 The real trap in work-life balance debates is the false dichotomy that pits performance at work against comfort at home.

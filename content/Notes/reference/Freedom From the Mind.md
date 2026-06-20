@@ -4,6 +4,7 @@ tags:
 - Well-Being
 type: Reference
 Reference: 'Kapil Gupta: Conquering the Mind, https://nav.al/kapil'
+date: 2025-03-27
 ---
 
  

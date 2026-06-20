@@ -6,7 +6,7 @@ type:
   - Article
 permalink: quality-of-life
 description: External factors, such as wealth and infrastructure, don't guarantee a good life. Quality of life emerges from the quality of consciousness—the thoughts cultivated within. This essay examines how pursuing 'high-quality problems' that facilitate self-discovery and identity-building can naturally enhance both the quality of thought and life itself.
-date: 2021-04-01
+date: 2021-11-13
 ---
 
 ### What is Quality of Life?

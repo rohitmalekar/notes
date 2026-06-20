@@ -7,7 +7,7 @@ tags:
 type:
   - Article
 permalink: irony-purpose
-date: 2018-07-01
+date: 2021-11-13
 description: Imagine a piece of the jigsaw puzzle in isolation and removed from rest of the set. If it had a voice, it would probably raise some familiar questions, _“Why do I exist? Look at my odd shape. What purpose can this random shape serve?
 ---
 

@@ -4,6 +4,7 @@ tags:
 - Decentralization
 - DAO
 type: Reflection
+date: 2023-05-01
 ---
 
 At a minimum, an Impact DAO will need to crack the trifecta of:

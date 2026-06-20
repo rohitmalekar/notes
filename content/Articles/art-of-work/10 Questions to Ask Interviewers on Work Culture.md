@@ -7,7 +7,7 @@ type:
   - Article
 permalink: culture-questions
 description: Asking "How is the culture?" rarely yields honest answers. The real insights emerge from questions about how leaders resolve conflict, handle accountability, and respond to crises. This essay offers ten targeted questions to uncover authentic workplace culture during interviews.
-date: 2021-02-01
+date: 2021-11-10
 ---
 
 “There are no stupid questions” is a nice sentiment that may be appropriate in some contexts, however, the art of asking questions is an underrated skill, especially when we look for our next career move.

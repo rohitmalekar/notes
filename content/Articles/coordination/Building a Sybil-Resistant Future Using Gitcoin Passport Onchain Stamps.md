@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: passport-onchain-stamps
-date: 2023-09-01
+date: 2023-10-03
 description: The fragmented digital identity landscape creates barriers for users and developers in building trust and interoperability between identity and credentialing solutions. The article introduces Gitcoin Passport Onchain Stamps built using the Ethereum Attestation Service (EAS) to enable users to add their stamps to the Ethereum ecosystem. 
 ---
 

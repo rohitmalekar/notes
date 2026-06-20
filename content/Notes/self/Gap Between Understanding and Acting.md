@@ -3,6 +3,7 @@ title: Gap Between Understanding and Acting
 tags:
 - Well-Being
 type: Reflection
+date: 2025-04-03
 ---
 
 Most of our life is spent in the gap between intellectually understanding a concept and being able to shape our lived experience around it. 

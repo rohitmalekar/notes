@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: contentment
-date: 2025-02-26
+date: 2021-11-13
 description: Discontent is often rooted not in the absence of what we seek but in the inability to accept the present. The chase for the next promotion, role, or milestone becomes an ever-shifting goalpost when present-moment acceptance is missing. This essay examines why attaching identity to shortcomings or achievements is a trap, and how contentment and ambition can coexist when we drive with intent rather than from hunger.
 ---
 

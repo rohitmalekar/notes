@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: decoding-impact-daos-1
-date: 2022-12-01
+date: 2023-05-06
 description: The article discusses public goods and their importance in creating positive externalities for individuals who are not party to the transaction. Public goods are typically under-provided by the market due to the free-rider problem, where individuals can benefit from the provision of the good without contributing to its funding. Traditional mechanisms of public goods provision have primarily been owned by nation-states using taxation, but they often suffer from high overheads and rigidity in a...
 ---
 

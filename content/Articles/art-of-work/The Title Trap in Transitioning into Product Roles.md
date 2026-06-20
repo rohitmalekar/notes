@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: the-title-trap
-date: 2021-03-01
+date: 2021-11-13
 description: "I was recently asked this question:"
 ---
 

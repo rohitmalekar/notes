@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: gitcoin-grants-beta
-date: 2023-07-03
+date: 2023-07-08
 description: Gitcoin is empowering communities to fund their collective needs through the Gitcoin Grants Stack, a decentralized and customizable solution. The Grants Stack, built with Gitcoin's Allo Protocol, allows grants program managers, project owners, and community members to manage and participate in community-oriented grant programs. The Beta Round of the Grants Stack consisted of Core and Featured rounds, with feedback and Quadratic Voting used to select and support projects. The Core Round result...
 ---
 

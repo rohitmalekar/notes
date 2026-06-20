@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: liquid-staking-rocketpool
-date: 2023-05-01
+date: 2023-07-08
 description: Gitcoin has partnered with Rocket Pool to become a node operator and join the Oracle DAO, contributing to the decentralized staking of the Ethereum network. Rocket Pool is a liquid staking protocol with thousands of node operators and over 500,000 ETH staked. Gitcoin's participation as a node operator allows them to earn rewards for staked ETH, commission on pool staked ETH, and RPL rewards. The Oracle DAO acts as a bridge between the Execution Layer and Consensus Layer of Ethereum, providing...
 ---
 

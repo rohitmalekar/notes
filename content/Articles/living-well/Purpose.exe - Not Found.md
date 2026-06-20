@@ -6,7 +6,7 @@ type:
   - Article
 permalink: purpose
 description: This essay is a quiet dismantling of the purpose-industrial complex. It explores why meaning emerges not from goals, identity, or ambition, but from belonging, resonance, and the spaces that let you simply be while you’re still becoming. If you’ve ever reached a goal and felt strangely empty afterward, this is for you.
-date: 2025-10-01
+date: 2025-10-12
 ---
 
 We waste years chasing purpose as if it were a destination, like a trophy to earn, a story to tell. But purpose isn’t out there; it’s the residue of how you live. Like a lone jigsaw piece, you find meaning only in belonging, when the “me, myself, and I” dissolve into something larger. Find spaces that let you simply be while you’re still figuring out who you’re becoming. That’s where you notice what truly matters and what you no longer have a choice about.

@@ -4,6 +4,7 @@ tags:
 - Recruiting
 - Careers
 type: Reflection
+date: 2023-05-01
 ---
 
 While seeking a job during my Masters, one of the interviews with a partner in a boutique consulting firm in Chicago began with a candid admission that went somewhere in the lines of:

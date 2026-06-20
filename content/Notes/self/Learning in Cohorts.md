@@ -4,6 +4,7 @@ tags:
 - Design
 - Product
 type: Reflection
+date: 2023-05-01
 ---
 
 ### The Assertion

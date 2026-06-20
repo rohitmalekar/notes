@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: grantsscope-citizens-round
-date: 2023-06-01
+date: 2023-09-26
 description:
 ---
 Note: This grant application is entirely for retroactive funding for existing AI utilities.

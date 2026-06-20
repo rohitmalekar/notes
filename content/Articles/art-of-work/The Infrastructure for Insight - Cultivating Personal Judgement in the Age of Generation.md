@@ -7,7 +7,7 @@ type:
   - Article
 permalink: pkm
 description: In a world primed for distraction, investing in your own system for capturing and connecting insights isn't optional. It's your edge. Start building a personal knowledge system to protect your continuity of thought, fuel deeper judgment, and make every experience count.
-date: 2026-01-01
+date: 2026-01-07
 ---
 
 > *tl;dr: Online feeds and constant information streams fragment your continuity of thought, making it harder to sustain deep reasoning. Intentional note-taking fortifies your thinking by capturing insights, helping ideas connect and evolve. In the age of AI-generated content, building your own knowledge system ensures your judgment and perspective remain uniquely your own.*

@@ -4,6 +4,7 @@ tags:
 - Recruiting
 - Careers
 type: Reflection
+date: 2023-05-01
 ---
 
 You will have a much more rewarding experience working for a firm that believes in achieving commercial success by genuinely setting up individual employees for success, rather than in the companies where you are a resource entry in a staffing system that will automatically match you to the most economical opportunity based on your skills.

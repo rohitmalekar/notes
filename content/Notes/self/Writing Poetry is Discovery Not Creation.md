@@ -3,6 +3,7 @@ title: Writing Poetry is Discovery Not Creation
 tags:
 - Well-Being
 type: Reflection
+date: 2025-12-31
 ---
 
 Writing poetry sometimes feels like an archaeologist uncovering a hidden artefact.

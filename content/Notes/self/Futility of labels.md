@@ -3,6 +3,7 @@ title: Futility of labels
 tags:
 - Well-Being
 type: Reflection
+date: 2023-05-01
 ---
 
 Some labels we are born with, some we pick up. I have learnt they all have limited utility. Whenever oversubscribed, it has contracted my world-view. A common pattern increasingly repeating in my feed is "looking down the perch, my label is better than yours" finely crafted subtly condescending viewpoints.

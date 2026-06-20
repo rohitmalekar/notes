@@ -3,6 +3,7 @@ title: Losing to the Natural State of Mind
 tags:
 - Well-Being
 type: Reflection
+date: 2023-05-01
 ---
 
 The greatest impact you will deliver in your life will come from a pursuit where you just know you do not have any other choice.

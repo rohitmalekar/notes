@@ -4,6 +4,7 @@ tags:
 - Decentralization
 type: Reference
 Reference: Elinor Ostrom
+date: 2025-11-21
 ---
 
  

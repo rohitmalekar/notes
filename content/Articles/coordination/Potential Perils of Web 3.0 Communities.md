@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: web3-communities
-date: 2021-10-01
+date: 2021-11-13
 description: I am convinced Web 3.0-driven decentralized communities will be fairer in more ways than any social platform of yesteryears. However, I also think that when you confer the tools to the individual to be at par with a sovereign, along with our best, our worst will amplify too.
 ---
 

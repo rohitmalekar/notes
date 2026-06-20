@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: the-unsolicited-fortunes
-date: 2020-11-01
+date: 2021-11-13
 description: "The word in Pali language for gratitude is kataññutā. The word consists of two parts: kata, which means that which has been done, especially to oneself; and annuta means knowing or recognizing. I am likely missing yet another fifty but doing this exercise revealed the many things that are easy to take for granted."
 ---
 

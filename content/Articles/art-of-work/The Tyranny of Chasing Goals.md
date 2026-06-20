@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: chasing-goals
-date: 2021-07-01
+date: 2021-11-13
 description: Why are some goals harder than others? Why do certain skills feel forever out of reach? Why do some long-awaited milestones shower only fleeting happiness? Why does not competing for feel liberating at times?
 ---
 

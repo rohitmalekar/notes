@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: authentic-culture-2
-date: 2018-10-01
+date: 2021-11-13
 description: "Creating an authentic, homogenous, and sustainable work culture can take years. This three-part series outlines our experiences and learnings in this aspirational journey at Namma Studio. Often, defining your work culture requires you to first identify what your culture is not. The [[Designing An Authentic Work Culture - Part 1|first part]] of this series talks about how you can peel away the exterior layers of work-life that often get mistaken for culture."
 ---
 

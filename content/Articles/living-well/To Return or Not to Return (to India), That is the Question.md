@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: return-to-india
-date: 2019-02-01
+date: 2021-11-13
 description: 3 years ago, my family moved back home to India after a decade long stay in the U.S. I often hear questions from friends and co-workers about the move and the experience. For some in the U.S., the dilemma can be overbearing — while India is home we long to return, U.S. offers the prospect of a better life.
 ---
 

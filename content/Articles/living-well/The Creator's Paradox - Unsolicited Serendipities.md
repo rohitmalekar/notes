@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: the-creators-paradox
-date: 2021-07-01
+date: 2021-11-13
 description: ### **How do ideas originate?**
 ---
 

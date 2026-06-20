@@ -3,6 +3,7 @@ title: Human Centered Design Beyond Digital UX
 tags:
 - Product
 type: Reflection
+date: 2023-05-01
 ---
 
 > **Organisations need creative and human-centered approaches in disciplines beyond an interactive user experience.**

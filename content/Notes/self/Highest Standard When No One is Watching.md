@@ -3,6 +3,7 @@ title: Highest Standard When No One is Watching
 tags:
 - Well-Being
 type: Reflection
+date: 2025-12-31
 ---
 
 Let the clock run long enough, and a human mind eventually falls to the highest standard it holds itself accountable to when no one is watching.

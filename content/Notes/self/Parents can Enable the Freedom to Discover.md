@@ -3,6 +3,7 @@ title: Parents can Enable the Freedom to Discover
 tags:
 - Parenthood
 type: Reflection
+date: 2025-12-27
 ---
 
 People with close relationships with their parents: What have they done right?

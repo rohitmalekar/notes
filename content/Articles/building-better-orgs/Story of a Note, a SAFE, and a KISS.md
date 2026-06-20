@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: note-safe-kiss
-date: 2021-11-01
+date: 2021-11-13
 description: This is a fictitious narrative without numbers and formulae between an investor and an early-stage startup founder. It discusses basic concepts of convertible notes, simple agreement for future equity (SAFE) and keep it simple security (KISS).
 ---
 

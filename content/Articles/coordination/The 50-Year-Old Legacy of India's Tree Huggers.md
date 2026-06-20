@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: the-50yearold-legacy
-date: 2023-09-01
+date: 2023-10-04
 description: ### Regeneration Lessons from The Chipko Movement
 ---
 ### Regeneration Lessons from The Chipko Movement

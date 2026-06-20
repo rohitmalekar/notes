@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: greenpilled-implications-india
-date: 2022-03-01
+date: 2022-03-20
 description: The following are interpretative notes as part of reading the book, [Greenpilled](https://greenpill.party/). This is not a summary of the book, but rather the implications of the core concept in the book - applied regenerative cryptoeconomics - for the wicked problems in India.
 ---
 

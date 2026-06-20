@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: the-most-android
-date: 2021-08-01
+date: 2021-11-13
 description: _(The following was an assignment as part of a writing workshop to author a self-portrait in the third person, without using any adverbs, adjectives, and words with more than two syllables. Here's my fledgling attempt at self-deprecation in the form of an obituary from my wife's POV that she would read aloud to friends and family.)_
 ---
 

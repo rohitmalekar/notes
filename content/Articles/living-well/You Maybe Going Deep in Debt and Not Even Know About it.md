@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: gratitude
-date: 2017-03-01
+date: 2021-11-13
 description: Think about a time in your life when you felt very fortunate. It could be the moment when you realised that the long lasting friendships you have from school days were out of pure chance. It could be that lucky break you had in your career when you just happened to be at the right place at the right time. Some of you may have experienced that serendipitous moment when you first met your spouse after a series of random events.
 ---
 

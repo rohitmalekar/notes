@@ -5,6 +5,7 @@ tags:
 type: Reference
 Reference: Soon CS, Brass M, Heinze HJ, Haynes JD. Unconscious determinants of free
   decisions in the human brain, Nat Neurosci. 2008 May
+date: 2025-11-30
 ---
 
 While neural precursors of some decisions precede awareness, agency may lie less in when a decision starts and more in our ability to evaluate and override it. Neural preparation doesn’t equal destiny.

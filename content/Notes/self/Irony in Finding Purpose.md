@@ -3,6 +3,7 @@ title: Irony in Finding Purpose
 tags:
 - Well-Being
 type: Reflection
+date: 2023-05-01
 ---
 
 > **_It is but evident that the pursuit of finding one’s mission in life mandates removal of the “me”, “myself”, and “I” from the search._**

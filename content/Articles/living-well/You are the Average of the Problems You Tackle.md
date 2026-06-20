@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: average-of-problems
-date: 2024-10-01
+date: 2025-03-05
 description: You are not the average of the content that influences you. You are the average of the problems you choose to tackle in life.
 ---
 

@@ -4,6 +4,7 @@ tags:
   - Well-Being
 type: Reference
 Reference: https://x.com/thedankoe/status/2010751592346030461
+date: 2026-01-29
 ---
 
 A goal is a projection into the future that acts as a lens of perception, allowing you to notice information, ideas, and resources that aid in achieving it. This selective attention isn't conscious—the goal rewires what stands out to you in everyday experience. Two people can walk through the same environment and see entirely different things based on what they're pursuing.

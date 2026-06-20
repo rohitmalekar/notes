@@ -8,7 +8,7 @@ type:
 permalink: ai-as-amplifier
 image: '"Attachments/Cover ai-as-amplifier.jpg"'
 description: AI won’t give you a voice. It will only amplify the one you already have. The question isn’t what can AI do for me? It’s what do I want it to amplify? Three mindset shifts that change how you work with AI 👇
-date: 2025-09-01
+date: 2025-09-05
 ---
 
 Most of us come to AI with the wrong question: _“What can this tool do for me?”_

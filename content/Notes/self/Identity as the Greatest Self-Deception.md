@@ -3,6 +3,7 @@ title: Identity as the Greatest Self-Deception
 tags:
 - Well-Being
 type: Reflection
+date: 2026-01-02
 ---
 
 Yes, it is your body.

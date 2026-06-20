@@ -4,6 +4,7 @@ tags:
 - Well-Being
 - Climate
 type: Reflection
+date: 2025-03-04
 ---
 
 The climate crisis is a global challenge requiring local action and a critical change in perspective: we aren't born into this world; we are born out of this world. There is no future for our collective conscience without including nature as one of us.

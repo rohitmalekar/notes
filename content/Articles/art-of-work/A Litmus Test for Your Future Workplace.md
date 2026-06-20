@@ -7,7 +7,7 @@ type:
   - Article
 permalink: person-vs-resource
 description: Some companies hire you as a resource to fill a slot; others hire you as a person they want to know. The difference shapes everything—from your relationships at work to your long-term growth. This essay offers a simple litmus test to evaluate your future employer.
-date: 2021-03-01
+date: 2021-11-01
 ---
 
 Over the years, I have had dozens of conversations with colleagues and friends who were at the cusp of transitioning their career paths. Almost always, the trickiest and the longest part of the conversation hovers around objectively evaluating the intangible benefits of the current job vis-a-vis with the new employer. This is where numbers and data start to fade away over your intuition and instincts.  

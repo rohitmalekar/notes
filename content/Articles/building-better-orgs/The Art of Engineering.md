@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: art-engineering
-date: 2020-07-01
+date: 2021-11-13
 description: An artist creates her work as an aggregate of her creativity applied across many layers of perception for an immersive experience for the audience, no matter if you are reading a poem, enjoying a book, or staring at a painting. In that sense, engineers may not be too different.
 ---
 

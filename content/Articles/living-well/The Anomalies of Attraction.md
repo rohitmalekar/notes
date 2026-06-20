@@ -3,7 +3,7 @@ title: The Anomalies of Attraction
 tags:
   - Well-Being
 permalink: attraction
-date: 2023-07-01
+date: 2023-07-07
 description: "Human attraction resists the labels we invent for it. A reflection on why the faculties we use to understand affection are 'designed to fail,' and why what feels like an anomaly today may be perfectly natural."
 ---
 Human emotions and weather patterns have a lot in common. There are moments when both can catch us off guard. The lack of control and fallibility can be unnerving. So in our desire for domination, we begin devising things. We pour mercury into a glass tube and mark its surface. We color our emotions and label them on a wheel. All of this is useful in navigating our everyday lives. But when the emotion has to deal with feelings of attraction, affection, care, or commitment, the wheel goes for a toss.

@@ -3,6 +3,7 @@ title: Dissolving Ego
 tags:
 - Well-Being
 type: Reflection
+date: 2023-05-01
 ---
 
 Ever since we are born, we are wrapped in layers of labels to identify ourselves.  My name, my roots, my family, I am good enough at this, I am not good enough for that, my purpose...the list is endless.  

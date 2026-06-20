@@ -4,6 +4,7 @@ tags:
 - Product
 - Careers
 type: Reflection
+date: 2023-05-01
 ---
 
 The product manager needs to have a “detached commitment” for creating a meaningful impact on the user’s life. 

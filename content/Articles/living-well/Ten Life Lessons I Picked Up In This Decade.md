@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: ten-life-lessons
-date: 2019-12-01
+date: 2022-01-17
 description: "[[Impact of Life Lessons on Identity|Life Lessons]] emerge from a deep-rooted underlying shortcoming. Such situations often require extended experiential learning from mentors that lasts years. If done right, life lessons create such a paradigm shift that the learnings become an integral part of your identity. As we get close to turning the page on this decade, sharing a personal retrospective below — a list of ten most impactful tweet-length life lessons I picked up in the last 10 years."
 ---
 

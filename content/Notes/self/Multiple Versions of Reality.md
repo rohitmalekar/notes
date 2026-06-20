@@ -3,6 +3,7 @@ title: Multiple Versions of Reality
 tags:
 - Well-Being
 type: Reflection
+date: 2026-01-02
 ---
 
 **Composed reality:** I need to sort out what's on my plate before Monday kicks in.

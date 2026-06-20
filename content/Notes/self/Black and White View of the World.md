@@ -3,6 +3,7 @@ title: Black and White View of the World
 tags:
 - Well-Being
 type: Reflection
+date: 2023-05-01
 ---
 
 The potential of most social media platforms will remain unexploited until we fix the bugs in our behaviours.  

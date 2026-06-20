@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: role-of-inquiry
-date: 2023-11-01
+date: 2023-11-15
 description: One of the exciting things about decentralized infrastructure and tools is that they allow us to ask important questions about traditional institutions that prioritize control and for whom winning the game equates to accumulation and extraction. Instead, we now have the opportunity to create ecosystems that empower individuals to participate in economic practices that are more ethical, sustainable, and community-oriented. Ethically designed cryptoeconomic primitives hold the potential to resh...
 ---
 

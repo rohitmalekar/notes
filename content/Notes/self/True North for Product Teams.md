@@ -3,6 +3,7 @@ title: True North for Product Teams
 tags:
 - Product
 type: Reflection
+date: 2023-05-01
 ---
 
 > **A shared appreciation for a good design, irrespective of whether it is in code or colour, to do what’s right for the user by creating high-quality experiences should be a true north across teams.**

@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: beyond-stages
-date: 2026-02-11
+date: 2026-02-08
 description: The current L2 evaluation landscape relies on a single-axis Stages framework that fails to capture the diversity of what Layer 2s actually offer. By distinguishing between convex and concave evaluation dispositions, a multi-dimensional approach can assess security inheritance, differentiated value, interoperability depth, and vibes-substance alignment. This essay proposes how L2Beat could expand its evaluation infrastructure to help users find the L2 that matches their needs rather than simply ranking chains on a single leaderboard.
 ---
 

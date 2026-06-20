@@ -5,7 +5,7 @@ tags:
 type:
   - Article
 permalink: guildxyz-and-gitcoin
-date: 2023-09-01
+date: 2023-08-10
 description: The article discusses the challenges of interoperability and access in online communities, highlighting how Guild.xyz addresses these issues by providing infrastructure for platformless access management. Guild.xyz enables communities to create portable memberships and social structures across various platforms, ensuring consistent access and roles. The Guild Model operates based on diverse requirements from different blockchains and applications. Notably, Guild.xyz integrates with Gitcoin Pa...
 ---
 
