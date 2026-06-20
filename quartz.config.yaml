@@ -241,6 +241,7 @@ plugins:
         - description
         - tags
         - aliases
+        - Reference
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---

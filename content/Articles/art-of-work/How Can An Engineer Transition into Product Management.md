@@ -9,8 +9,6 @@ date: 2021-04-01
 description: Engineers asking how to transition into product management are often looking for a checklist—but what they actually need is a maker mindset, which they already have in abundance. The real obstacle isn't a missing credential or management experience; it's not having defined the role you're actually aspiring to before trying to get there. This essay argues that engineers are the best-positioned candidates for PM roles and maps the introspective work that must come before any external move.
 ---
 
-#Product 
-
 I get this question often in different forms, so I thought I would write this up in some detail.  
   
 

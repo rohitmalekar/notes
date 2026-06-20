@@ -2,14 +2,14 @@
 title: Cohort Created Course - A Creator Community Experiment
 tags:
   - Careers
+  - Product
+  - Well-Being
 type:
   - Article
 permalink: cohort-created-course
 date: 2021-11-01
 description: Most online courses are built by one person and consumed by many—but the earliest participants who shape the experience rarely get credit or a stake in what they helped create. The real insight is that learning works best as a two-way street, and those who contribute to building it deserve a share of what it becomes. This essay introduces a cohort-created course experiment on finding authentic belonging during a job search—and invites early participants to co-own the outcome.
 ---
-
-#Careers #Product #Well-Being 
 
 **Update Nov 10, 2021:** Follow [this](https://twitter.com/RohitMalekar/status/1453242936595042315?s=20) thread on Twitter for the latest status on this effort
 

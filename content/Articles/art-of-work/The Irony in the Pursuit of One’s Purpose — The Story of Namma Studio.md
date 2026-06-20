@@ -2,14 +2,14 @@
 title: The Irony in the Pursuit of One’s Purpose — The Story of Namma Studio
 tags:
   - Leadership
+  - Well-Being
+  - Culture
 type:
   - Article
 permalink: irony-purpose
 date: 2018-07-01
 description: Imagine a piece of the jigsaw puzzle in isolation and removed from rest of the set. If it had a voice, it would probably raise some familiar questions, _“Why do I exist? Look at my odd shape. What purpose can this random shape serve?
 ---
-
-#Leadership #Well-Being #Culture 
 
 Imagine a piece of the jigsaw puzzle in isolation and removed from rest of the set. If it had a voice, it would probably raise some familiar questions, _“Why do I exist? Look at my odd shape. What purpose can this random shape serve? And don’t get me started with the colors. How would I make this world a better place with all these arbitrary shades of mine?”_^jigsawpuzzle
 

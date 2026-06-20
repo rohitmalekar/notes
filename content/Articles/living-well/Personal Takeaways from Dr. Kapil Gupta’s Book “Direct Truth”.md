@@ -9,8 +9,6 @@ date: 2021-03-01
 description:
 ---
 
-#Well-Being 
-
 ### Things I have internalized from prior experience that were helpful to understand the book – The Creator’s Paradox
 
 How do ideas originate? As a creator, can you think of the last time an original idea flashed in the inner eye of your mind? It must have felt like a spontaneous spark out of nowhere. Are you always able to explain [[How do Ideas Originate|how you arrived at it?]] Have you ever felt that moment to be so abstract that words fail to define it?

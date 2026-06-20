@@ -9,8 +9,6 @@ date: 2024-06-01
 description: The regenerative movement offers early-stage founders a compelling but complex landscape where cybernetic principles, sustainability loops, and community-first governance intersect. Three key questions — around adaptive responses, value reinvestment cycles, and community beyond economics — guide founders building resilient regen ecosystems. This article draws from cybernetics, Ocean Protocol's sustainability framework, and Nathan Schneider's critique of cryptoeconomics to offer a structured lens.
 ---
 
-#Web3
-
 As the regen movement gains momentum, early-stage founders face unique challenges and opportunities to shape the future of sustainable and impactful blockchain-native projects. Drawing inspiration from cybernetics, sustainability principles, and community building, this article explores three key questions that can guide regen founders in creating resilient and thriving ecosystems.
 
 ### 1. Adapting to Complex Challenges: Insights from Cybernetics

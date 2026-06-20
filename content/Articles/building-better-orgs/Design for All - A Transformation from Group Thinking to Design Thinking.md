@@ -2,14 +2,13 @@
 title: Design for All - A Transformation from Group Thinking to Design Thinking
 tags:
   - Product
+  - Culture
 type:
   - Article
 permalink: design-for-all
 date: 2019-06-01
 description: Most digital transformations treat design as a specialist function—something designers do—while the engineers, architects, and executives around them operate on entirely different principles. The real blocker isn’t a lack of design talent; it’s that design thinking hasn’t crossed over into the people who make the decisions that shape user experience upstream. This essay makes the case that design is now too important to be left only to designers—and reflects on a two-day workshop that tried to change that.
 ---
-
-#Product #Culture 
 
 Launching the latest technology-enabled solutions is a low hanging fruit for an organisation in pursuit of digital transformation. A sustainable change will depend on the extent to which teams and leaders who don’t do design believe in the value of thinking for design. The tangible benefits of user-centric methodologies and innovation centers will remain elusive until every hand on the deck makes a conscious choice in aligning towards the work principles of design thinking. This is applicable for an engineer redesigning the website on the latest framework, for an architect charting the roadmap for a suite of mobile apps, for a program manager running the cloud infrastructure, or for an executive assessing funding needs for the adoption of machine learning.
 

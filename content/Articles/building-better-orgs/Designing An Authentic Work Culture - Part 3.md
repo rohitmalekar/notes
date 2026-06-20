@@ -9,8 +9,6 @@ date: 2018-10-01
 description: "Creating an authentic, homogenous, and sustainable work culture can take years. This three-part series outlines our experiences and learnings in this aspirational journey at Namma Studio. Often, defining your work culture requires you to first identify what your culture is not. The [[Designing An Authentic Work Culture - Part 1|first part]] of this series talks about how you can peel away the exterior layers of work-life that often get mistaken for culture."
 ---
 
-#Culture 
-
 Creating an authentic, homogenous, and sustainable work culture can take years. This three-part series outlines our experiences and learnings in this aspirational journey at Namma Studio. Often, defining your work culture requires you to first identify what your culture is not. The [[Designing An Authentic Work Culture - Part 1|first part]] of this series talks about how you can peel away the exterior layers of work-life that often get mistaken for culture. The [[Designing An Authentic Work Culture - Part 2|second part]] focuses on elements that are invariables to the existence of your organization and thus provide a tangible framework for work culture. Lastly, the third part in this series highlights practical examples of choices, actions, and habits in our day-to-day work life to transform the culture from being a noun into an action verb. Throughout the series, we will draw inspiration from some of the world’s oldest universal concepts first envisioned more than two millennia ago in the ancient Sanskrit texts of the Upanishads.
 
 ### Part 3 – Drive: Transforming Culture From A Noun Into A Verb

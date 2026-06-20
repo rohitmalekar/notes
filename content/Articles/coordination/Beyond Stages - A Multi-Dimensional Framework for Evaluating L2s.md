@@ -9,8 +9,6 @@ date: 2026-02-11
 description: The current L2 evaluation landscape relies on a single-axis Stages framework that fails to capture the diversity of what Layer 2s actually offer. By distinguishing between convex and concave evaluation dispositions, a multi-dimensional approach can assess security inheritance, differentiated value, interoperability depth, and vibes-substance alignment. This essay proposes how L2Beat could expand its evaluation infrastructure to help users find the L2 that matches their needs rather than simply ranking chains on a single leaderboard.
 ---
 
-#Web3
-
 Two recent posts in early February 2026( [here](https://x.com/VitalikButerin/status/2018711006394843585) and [here](https://x.com/VitalikButerin/status/2019341766407725170?s=20)) by Vitalik reframe what L2s are supposed to be. The short version: **L2s are no longer "branded shards" of Ethereum, and we should stop pretending they are.**
 
 L1 is scaling directly. Many L2s cannot or will not reach Stage 2. And "yet another EVM chain with an optimistic bridge" is to infrastructure what forking Compound was to governance. Comfortable repetition. 

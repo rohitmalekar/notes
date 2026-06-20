@@ -5,11 +5,6 @@ tags:
 type: Reflection
 ---
 
-> [!info] Note metadata
-> **Title:** Who Are You Being?
-> **Tags:** Well-Being
-> **Type:** Reflection
-
 **Who are you being?**
 
 We have been over-conditioned for doing. We are supposed to do things to change things, change ourselves. Calendars, reminders, notifications, tasks, checklists, procedures, steps, best practices, workshops, training…how many prescriptions will we drown ourselves in?

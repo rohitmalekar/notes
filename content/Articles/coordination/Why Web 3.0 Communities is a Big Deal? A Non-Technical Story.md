@@ -9,8 +9,6 @@ date: 2021-11-01
 description: ""
 ---
 
-#Web3
-
 ### Once Upon a Co-op
 
 Imagine a community of people who are passionate about teaching. These are people from different walks of life and from different parts of the world with a shared interest - to pay it forward by translating their tribal knowledge into structured coursework on a variety of topics spanning well-being, work-life integration, career growth, and other professional skills. They come together to form a co-operative with a premium membership - each member is an instructor.

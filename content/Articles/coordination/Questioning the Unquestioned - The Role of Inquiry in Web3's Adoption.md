@@ -9,8 +9,6 @@ date: 2023-12-01
 description: Quality of life depends on the quality of questions we ask, and most institutions shaping our digital and civic lives have never faced serious scrutiny at scale. Web3's most underappreciated contribution is not its technology but its capacity to provoke the right questions about control, ownership, and participation. This essay argues that questioning the design of 200-year-old institutions is the most accessible entry point for non-technical people into the broader web3 movement.
 ---
 
-#Web3
-
 After basic material needs are taken care of, the quality of life depends on the quality of our thoughts. The quality of our thoughts depends on the quality of our questions. What hinders our ability to ask high-quality questions? Assumptions. Conformance. Compliance.
 
 The most exciting thing about web3 for me is we are asking the right questions at scale - about decades-old monolithic control-first institutions and whether tech alone can be the savior against that baggage from the past. And it is through these questions we can get more people excited about web3.

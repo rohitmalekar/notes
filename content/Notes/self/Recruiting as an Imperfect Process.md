@@ -1,15 +1,10 @@
 ---
 title: Recruiting as an Imperfect Process
 tags:
-- recruiting
+- Recruiting
 - Careers
 type: Reflection
 ---
-
-> [!info] Note metadata
-> **Title:** Recruiting as an Imperfect Process
-> **Tags:** recruiting, Careers
-> **Type:** Reflection
 
 While seeking a job during my Masters, one of the interviews with a partner in a boutique consulting firm in Chicago began with a candid admission that went somewhere in the lines of:
 

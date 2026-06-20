@@ -1,10 +1,12 @@
 ---
+title: Three features I would pay for in a sufficiently decentralized social network
+tags:
+  - Web3
+  - Product
 permalink: farcaster
 date: 2022-10-01
+description: "A wishlist for what an open protocol like Farcaster could enable: granular topic-level content curation, and two more features worth paying for in a sufficiently decentralized social network."
 ---
-
-#Web3 #Product
-
 The motivations for a decentralized social network have roots in the restrictions laid by contemporary platforms on what users and developers can do to build a healthy ecosystem. For a detailed analysis of these motivations and resulting architecture choices, the essay ["Sufficient Decentralization for Social Networks"](https://www.varunsrinivasan.com/2022/01/11/sufficient-decentralization-for-social-networks) by Varun Srinivasan is a good starting point. The following wish list is inspired based on what an open protocol for a sufficiently decentralized social network, like [Farcaster](https://www.farcaster.xyz/) , can enable for users.
 
 #### 1. Grain of control in content curation

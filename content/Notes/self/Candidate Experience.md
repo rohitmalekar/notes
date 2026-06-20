@@ -1,14 +1,9 @@
 ---
 title: Candidate Experience
 tags:
-- recruiting
+- Recruiting
 type: Reflection
 ---
-
-> [!info] Note metadata
-> **Title:** Candidate Experience
-> **Tags:** recruiting
-> **Type:** Reflection
 
 ## Candidate experience matters
 Assessing a fit for a new job is a two-way street. Candidates have options. Your role is to represent the firm in the best light.

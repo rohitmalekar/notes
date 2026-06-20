@@ -9,8 +9,6 @@ date: 2022-03-01
 description: Our public goods are withering—not because people don't care, but because every current system is designed with incentives that reward individual extraction over collective sustenance. The missing ingredient isn't goodwill; it's a coordination mechanism that can align incentives, dissipate power from the center, and automate accountability at scale. This essay makes the case for why crypto and regenerative cryptoeconomics may be that mechanism—and serves as a primer for those new to Web3 before diving into Greenpilled.
 ---
 
-#Web3 
-
 ### Introduction
 I wrote this article an attempt for a prequel to the book [Greenpilled](https://greenpill.party/). The book by [Kevin Owocki](https://owocki.com/) is *"designed to teach the ethos & game theoretic concepts behind regenerative cryptoeconomics to the next generation of dreamers, builders, and internet citizens"*. If you are new to Web3 and Crypto, I hope this article serves as a stepping stone to then deep dive into the vision Greenpilled has to offer to sustain and thrive our public goods.
 

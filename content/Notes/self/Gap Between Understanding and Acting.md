@@ -5,11 +5,6 @@ tags:
 type: Reflection
 ---
 
-> [!info] Note metadata
-> **Title:** Gap Between Understanding and Acting
-> **Tags:** Well-Being
-> **Type:** Reflection
-
 Most of our life is spent in the gap between intellectually understanding a concept and being able to shape our lived experience around it. 
 
 >**This distance between knowing and doing is one of the deepest sources of quiet misery.**

@@ -9,8 +9,6 @@ date: 2020-08-01
 description: Can an eye ever see itself? Can a leg ever kick itself? Ever seen a hand that grabs itself, or perhaps, a tooth that takes a bite at itself? If you are “it” then you cannot exist out of what you are.
 ---
 
-#Well-Being 
-
 Can an eye ever see itself? Can a leg ever kick itself? Ever seen a hand that grabs itself, or perhaps, a tooth that takes a bite at itself? If you are “it” then you cannot exist out of what you are.
 
 So tell me how can you be defined by the thoughts alone that ring in your mind? For surely you have at least once or more heard a voice within that observed your own.

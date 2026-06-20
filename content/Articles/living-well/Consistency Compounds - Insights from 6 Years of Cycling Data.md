@@ -5,13 +5,10 @@ tags:
   - Well-Being
 type:
   - Article
-Reference:
 permalink: consistency
 description: Progress rarely comes from standout days. It comes from showing up on ordinary ones. Using long-term data as a lens, this piece explores how steady repetition reshapes capability and why we consistently misjudge what time can do.
 date: 2025-12-01
 ---
-
-#Fitness #Well-Being 
 
 There’s a familiar line in fitness: _the best workout is the one you actually do_. Over time, I’ve come to a quieter conclusion. The most important metric isn’t your best day. It’s how often you show up across ordinary ones.
 

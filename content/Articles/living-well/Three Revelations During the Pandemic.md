@@ -9,8 +9,6 @@ date: 2021-05-01
 description: In some corner of my mind, I knew these conditions existed, but the deeper I dug, the more I have realized these as massive personal blind spots.
 ---
 
-#Well-Being 
-
 In some corner of my mind, I knew these conditions existed, but the deeper I dug, the more I have realized these as massive personal blind spots.  
   
 **1. Skewed focus of "digital" India**  

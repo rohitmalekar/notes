@@ -9,8 +9,6 @@ description: Every gift the mind gives comes with a shadow. Imagination brings r
 date: 2026-02-01
 ---
 
-#Well-Being
-
 *I will give your mind the capacity to imagine and create.*
 *I will also give your mind the wanderings to pursue your wants.*
 

@@ -9,8 +9,6 @@ date: 2021-12-01
 description: For centuries, social and economic institutions have been built with a control-first mindset—and the intermediaries that grew from that design extract value from creators without giving them a real stake. Web3 flips this by making transparency and shared ownership the default, not the exception. This essay explores early impressions of Mirror as a platform that's beginning to translate that promise into practice—decentralizing value creation, governance, and ownership for communities that write and build together.
 ---
 
-#Web3 
-
 ## Unlocking the potential in decentralization
 
 For centuries now, we have been designing our social, industrial, and political institutions with a "control-first" mindset. Web 3.0 provides the protocols, infrastructure, and tools for "transparency-first" organizations and communities. There has never been a better time to re-imagine efforts to bring change at scale with and for those affected.

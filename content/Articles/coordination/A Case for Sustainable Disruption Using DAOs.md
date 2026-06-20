@@ -9,8 +9,6 @@ date: 2021-09-01
 description: The DAO conversation is drowning in token hype and tech infatuation—with almost no one asking which institutions actually deserve to be disrupted and why. The real promise of DAOs isn't decentralization for its own sake; it's restoring power to communities most removed from the decisions that affect them. This essay offers five diagnostic questions to cut through the noise and identify where DAOs can create lasting change versus where they're just the next fad.
 ---
 
-#Web3 
-
 There are a ton of valid use cases for Decentralized Autonomous Organizations (DAO) in Web 3.0. But there is ten times the noise and infatuation with underlying tech for the "how" before solving the "why".  
   
 Here are 5 questions worth thinking about before evaluating the construct of a DAO for the problem you are attempting.  

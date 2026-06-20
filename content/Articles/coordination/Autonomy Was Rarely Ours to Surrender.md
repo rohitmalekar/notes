@@ -9,8 +9,6 @@ date: 2026-03-25
 description: In India, the erosion of privacy and the failure of decentralization share a common root — not apathy, but a cultural conditioning that made surrendering autonomy feel natural. From joint families to Aadhaar, deference to power was never forced; it was familiar. This essay traces how that instinct was built, how it scaled, and why unlearning it is the real political project.
 ---
 
-#Decentralization
-
 Growing up in post-independence India, space was rarely yours alone. Whether in joint families or cramped urban chawls, decisions belonged to elders: the patriarch, the caste council, the zamindaar (landlord). Rebellion wasn't just discouraged; it was morally suspect. Privacy simply didn't exist. And when you grow up without it, you don't notice when it's taken from you at scale.
 
 Both privacy and decentralization require the same thing: autonomy. The quiet confidence to say, "This belongs to me, or to us, not to you". But generations of cultural conditioning had already quietly surrendered that instinct. Not through force. Through familiarity.

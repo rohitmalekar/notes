@@ -2,21 +2,40 @@
 
 > Essays, notes, and selected work on coordination, public goods, product craft, and living well.
 
-Rohit Malekar writes and thinks in public at rohitmalekar.in. This site is a digital garden — essays compound from atomic notes over time.
+Rohit Malekar writes and thinks in public at rohitmalekar.in. This site is a digital garden — essays compound from atomic notes over time. Rohit works at the intersection of data, funding systems, and coordination for digital public goods: designing grant programs, building analytics tools, and helping ecosystems make better decisions.
 
 ## Writings
 
 Essays organized into four themes:
 
-- [Coordination & Public Goods](https://rohitmalekar.in/articles/coordination/): Essays on funding systems, collective action, and digital public goods.
-- [The Art of Work](https://rohitmalekar.in/articles/art-of-work/): Reflections on careers, product craft, and doing meaningful work.
-- [Building Better Orgs](https://rohitmalekar.in/articles/building-better-orgs/): Writing on organizations, leadership, and coordination inside institutions.
-- [Living Well](https://rohitmalekar.in/articles/living-well/): Essays on habits, health, and the examined life.
+- [Coordination & Public Goods](https://rohitmalekar.in/articles/coordination/): Funding mechanisms, grants programs, DAOs, and the data behind making Web3 ecosystems work.
+- [The Art of Work](https://rohitmalekar.in/articles/art-of-work/): Careers, product craft, consulting lessons, and staying competent in the age of AI.
+- [Building Better Orgs](https://rohitmalekar.in/articles/building-better-orgs/): Work culture, leadership, and how organizations actually decide.
+- [Living Well](https://rohitmalekar.in/articles/living-well/): Attention, contentment, health, and the slow compounding of a deliberate life.
+
+## Featured essays
+
+- [Being Right Isn't Enough — Lessons for Ethereum from a 90s OS War](https://rohitmalekar.in/being-right-ethereum): GNU Hurd was architecturally superior to Linux and lost anyway. The same pattern haunts Ethereum — five lessons.
+- [WTF is Cluster-Matching QF?](https://rohitmalekar.in/cluster-matching-qf): How quadratic funding breaks under collusion, and a mechanism that fixes it.
+- [Grants for Public Good — A Roadmap for Resilient Democratic Funding](https://rohitmalekar.in/grants-for-public-good): A roadmap for funding that survives its funders.
+- [Harnessing Nature's Wisdom for Mechanism Design](https://rohitmalekar.in/harnessing-natures-wisdom): What ecosystems already know about incentives.
+- [The Infrastructure for Insight — Cultivating Personal Judgement in the Age of Generation](https://rohitmalekar.in/pkm): Building a personal knowledge system when anyone can generate plausible content.
+- [Why Most Organisations Aren't Ready for AI (and It's Not a Tech Problem)](https://rohitmalekar.in/ai-readiness): The real blockers to AI adoption are organizational, not technical.
+- [The Biggest Risk With AI Isn't Job Loss. It's Loss of Agency](https://rohitmalekar.in/ai-agency-loss): Why agency, not employment, is the thing to protect.
+- [AI as Amplifier — Three Shifts That Change How You Work](https://rohitmalekar.in/ai-as-amplifier): Three concrete shifts for working well alongside AI.
+- [If You Aren't Content Without it, You Won't be Content With it](https://rohitmalekar.in/contentment): On contentment, ambition, and the things we chase.
+- [Consistency Compounds — Insights from 6 Years of Cycling Data](https://rohitmalekar.in/consistency): What six years of personal cycling data reveals about consistency.
 
 ## Notes
 
 - [Notes](https://rohitmalekar.in/notes/): Atomic notes library — short reflections and referenced ideas that compound into essays over time.
+- [Reflections](https://rohitmalekar.in/notes/self/): First-person syntheses worked out in Rohit's own words.
+- [Reference Notes](https://rohitmalekar.in/notes/reference/): Ideas from books, papers, and talks, each with its source cited.
 
 ## Portfolio
 
-- [Portfolio](https://rohitmalekar.in/portfolio/): Selected work across research, data tools, writing, and speaking — funding systems and analytics for digital public goods.
+- [Portfolio](https://rohitmalekar.in/portfolio/): Selected work across research, data tools, writing, and speaking — funding systems and analytics for digital public goods, including work with Gitcoin, Octant, and across the Ethereum ecosystem.
+
+## Off the Track
+
+- [Off the Track](https://rohitmalekar.in/off-the-track/): Long-distance cycling around Bangalore and poetry — the slow miles and metaphors behind the rest of the work.

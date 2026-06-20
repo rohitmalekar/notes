@@ -2,17 +2,14 @@
 title: The Hidden Economics Behind Enterprise Software Choices
 tags:
   - Consulting
-  - "#Design"
-  - "#Product"
+  - Design
+  - Product
 type:
   - Article
-Reference:
 permalink: enterprise-software-ux
 date: 2024-06-01
+description: "Why enterprise software is so often clunky: systems integrators are rewarded for big-ticket, vendor-specific deals rather than employee experience. A look at the hidden incentive economics that shapes the tools organizations are forced to use."
 ---
-
-#Consulting #Design #Product 
-
 Enterprise software is rarely implemented out of thin air. It almost always replaces a quagmire of incumbent legacy applications and manual processes. An organization rarely has the internal chops to do "transformation" independently - from fit-gap analysis, vendor selection, change management, contingency planning, cutovers, etc. 
 
 The role of systems integrators comes into play here - large incumbent technology consultancies who already have a foot in the door for these clients. Mostly, these integrators compete on cost and focus on winning deals through efficiency and value for money. 

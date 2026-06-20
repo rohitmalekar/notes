@@ -10,8 +10,6 @@ description: AI promises to solve our problems faster than we can solve ourselve
 date: 2026-01-01
 ---
 
-#Well-Being #AI
-
 Makes me wonder which would be worse: to solve our problems with AI without the inner work of becoming, or to change ourselves too slowly to solve them at all.
 
 ![[AI Dilemma.png]]

@@ -5,11 +5,6 @@ tags:
 type: Reflection
 ---
 
-> [!info] Note metadata
-> **Title:** Multiple Versions of Reality
-> **Tags:** Well-Being
-> **Type:** Reflection
-
 **Composed reality:** I need to sort out what's on my plate before Monday kicks in.
 
 **Perceived reality:** I am floating on a molten rock tossed around in eternal space at unimaginable speeds.

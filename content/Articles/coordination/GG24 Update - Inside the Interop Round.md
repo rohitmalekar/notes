@@ -4,7 +4,6 @@ tags:
   - Web3
 type:
   - Article
-Reference:
 permalink: gg24-interop-update
 description: As Ethereum fragments across rollups and L2s, the risk isn't just scaling—it's losing the coherence that makes the ecosystem trustworthy and coordinated. Interoperability isn't one problem; it spans five distinct layers from protocol plumbing to data, governance, and funding infrastructure. This update goes inside the GG24 Interop Standards, Infrastructure & Analytics round to map who is building those layers today and why this work matters for Ethereum's connected future.
 ---

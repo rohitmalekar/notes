@@ -9,7 +9,6 @@ date: 2021-07-01
 description: Ever since we are born, we are wrapped in layers of labels to identify ourselves. My name, my roots, my family, I am good enough at this, I am not good enough for that, my purpose...the list is endless.
 ---
 
-#Well-Being 
   
  
 Ever since we are born, we are wrapped in layers of labels to identify ourselves.  My name, my roots, my family, I am good enough at this, I am not good enough for that, my purpose...the list is endless.  

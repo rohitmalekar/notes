@@ -9,8 +9,6 @@ date: 2020-11-01
 description: "The word in Pali language for gratitude is kataññutā. The word consists of two parts: kata, which means that which has been done, especially to oneself; and annuta means knowing or recognizing. I am likely missing yet another fifty but doing this exercise revealed the many things that are easy to take for granted."
 ---
 
-#Well-Being 
-
 The word in Pali language for gratitude is kataññutā. The word consists of two parts: kata, which means that which has been done, especially to oneself; and annuta means knowing or recognizing. I am likely missing yet another fifty but doing this exercise revealed the many things that are easy to take for granted.
 
 #### _— The serendipities_

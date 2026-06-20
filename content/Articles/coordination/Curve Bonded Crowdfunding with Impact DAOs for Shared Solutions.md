@@ -9,8 +9,6 @@ date: 2022-04-01
 description: Impact DAOs tackling public goods face the same recurring organizational challenges—funding, talent, reputation, governance—yet their hard-won solutions remain siloed, forcing each community to reinvent the wheel. The insight is that the shared DNA across Impact DAOs creates untapped potential for a services layer that codifies and redeploys this tribal knowledge at scale. This essay proposes a mechanism design using curve-bonded crowdfunding to fund exactly that—a community-owned services entity where early adopters share in the value they help create.
 ---
 
-#Web3 
-
 ### NEED: What is the problem to be solved? 
 
 > **Transforming siloed strengths into repeatable success for Impact DAOs**

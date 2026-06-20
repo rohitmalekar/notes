@@ -9,8 +9,6 @@ date: 2021-05-01
 description: '"Every right comes with a responsibility". Amongst the few things I remember reading in school, this one stands out. The recollection has been rather frequent in recent times when our individual ideals and values have drifted further apart from those with who we disagree with.'
 ---
 
-#Well-Being 
-
 "Every right comes with a responsibility". Amongst the few things I remember reading in school, this one stands out. The recollection has been rather frequent in recent times when our individual ideals and values have drifted further apart from those with who we disagree with.  
   
 However, there may be one exception to this norm. There has been some hue and cry against the powerful celebrities in Bollywood and Cricket who haven't moved a needle to use their large following to help mobilize efforts to fight Covid. Some say it is likely because they will lose the support of the government establishment if they were to be seen as critical of the situation on the ground.  

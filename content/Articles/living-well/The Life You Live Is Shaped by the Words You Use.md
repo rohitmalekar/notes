@@ -9,8 +9,6 @@ description: Most of us move through life shaped by terrain we didn't consciousl
 date: 2026-01-01
 ---
 
-#Well-Being
-
 You can't alter what you can't describe.
 
 That's the quiet truth behind why some people drift through decades while others seem to move with intention. It's not just discipline. It's rarely only luck. A lot of it is about articulation. How clearly can you put words to what you feel, what you fear, what you want?

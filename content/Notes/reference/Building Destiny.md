@@ -6,12 +6,6 @@ type: Reference
 Reference: Brihadaranyaka Upanishad
 ---
 
-> [!info] Note metadata
-> **Title:** Building Destiny
-> **Tags:** Well-Being
-> **Type:** Reference
-> **Reference:** Brihadaranyaka Upanishad
-
 The Brihadaranyaka Upanishad (IV.4.5) states,
 
 > You are what your deep, driving desire is.

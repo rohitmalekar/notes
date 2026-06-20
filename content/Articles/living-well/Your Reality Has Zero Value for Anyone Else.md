@@ -9,8 +9,6 @@ date: 2021-04-01
 description: 'Some labels we are born with, some we pick up. I have learnt they all have [[Futility of labels|limited utility]]. Whenever oversubscribed, it has contracted my world-view. A common pattern increasingly repeating in my feed is "looking down the perch, my label is better than yours" finely crafted subtly condescending viewpoints.'
 ---
 
-#Well-Being
-
 Some labels we are born with, some we pick up. I have learnt they all have [[Futility of labels|limited utility]]. Whenever oversubscribed, it has contracted my world-view. A common pattern increasingly repeating in my feed is "looking down the perch, my label is better than yours" finely crafted subtly condescending viewpoints.  
   
 Code over No-code, Design/Engineering Degree over No-degree, Product over Project, Dropouts over Graduation, FAANG over others, VC-funded over Bootstrap, Strategy over Execution, Start-Ups over Consulting jobs, Consulting over Corporate jobs...the list goes on.  

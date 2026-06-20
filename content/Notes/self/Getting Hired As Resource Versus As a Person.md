@@ -1,15 +1,10 @@
 ---
 title: Getting Hired As Resource Versus As a Person
 tags:
-- recruiting
+- Recruiting
 - Careers
 type: Reflection
 ---
-
-> [!info] Note metadata
-> **Title:** Getting Hired As Resource Versus As a Person
-> **Tags:** recruiting, Careers
-> **Type:** Reflection
 
 You will have a much more rewarding experience working for a firm that believes in achieving commercial success by genuinely setting up individual employees for success, rather than in the companies where you are a resource entry in a staffing system that will automatically match you to the most economical opportunity based on your skills.
 

@@ -9,8 +9,6 @@ date: 2021-06-01
 description: Building great digital products is harder than it looks—not because of the technology, but because of the invisible forces that quietly shape team culture, decision-making, and execution. Five years of hands-on product work across cross-functional teams surfaces a few recurring patterns that separate teams that ship with purpose from those that just ship. This essay distills those patterns into five hard-won lessons on what it actually takes to build products that matter.
 ---
 
-#Product 
-
 ### 1. The Shared DNA
 
 A typical team on the ground in an end-to-end digital transformation program will look no different than a jigsaw puzzle. From designers who bring together the disciplines of psychology, behavioural science, and interface design to the engineers who build best-of-the-breed applications, it is a gathering of individuals with their own shapes, sizes, colors, and most importantly, aspirations. What DNA in your organisation's culture will bind these diverse practitioners together?  

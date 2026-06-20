@@ -9,8 +9,6 @@ date: 2021-11-01
 description: This is a fictitious narrative without numbers and formulae between an investor and an early-stage startup founder. It discusses basic concepts of convertible notes, simple agreement for future equity (SAFE) and keep it simple security (KISS).
 ---
 
-#Startup-Finance 
-
 This is a fictitious narrative without numbers and formulae between an investor and an early-stage startup founder. It discusses basic concepts of convertible notes, simple agreement for future equity (SAFE) and keep it simple security (KISS).  
   
 The real-world conversations are a lot more nuanced and include complexities for events such as early exits. Often, the negotiations might borrow concepts from more than one of these instruments to create a hybrid agreement. However, if you are looking for an introduction to these concepts, this might provide you a starting point. This article is for informational purposes only and is not legal, financial, accounting, or tax advice.  

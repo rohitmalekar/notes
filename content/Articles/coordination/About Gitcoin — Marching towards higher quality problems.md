@@ -2,14 +2,13 @@
 title: About Gitcoin — Marching towards higher quality problems
 tags:
   - Web3
+  - Product
 type:
   - Article
 permalink: about-gitcoin
 date: 2022-11-01
 description: "Public goods are withering—not for lack of care, but because the systems for coordinating and funding them are broken by design. Web3 offers something genuinely new: the ability to program shared values into money and build transparent institutions that don't depend on who holds power. This essay explores how Gitcoin is laying the digital infrastructure for that future—and why the most exciting part is the quality of problems it makes possible to solve."
 ---
-
-#Web3 #Product 
 
 ## Reimagining the plumbing for public goods funding
 

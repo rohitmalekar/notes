@@ -1,10 +1,12 @@
 ---
+title: The Next Frontier for Indian Startups - Sequoias and Meadows
+tags:
+  - Startup-Finance
+  - Product
 permalink: next-frontier
 date: 2021-10-01
+description: "India's startup ecosystem needs more than VC-backed unicorns (the Sequoia trees) — it needs a sustainable 'meadow' of bootstrapped and alternatively-funded businesses. On the trade-offs founders make on the cap table, and what a healthier ecosystem requires."
 ---
-
-#Startup-Finance #Product 
-
 If I were to imagine a sustainable startup ecosystem for India for the next couple of decades, I bet we not only need the Sequoia trees (VC-backed unicorns), but we also need to care for and grow a large enough sustainable meadow that can support all sorts of life.
 
 #### What's wrong with Sequoia trees?

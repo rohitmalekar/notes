@@ -5,11 +5,6 @@ tags:
 type: Reflection
 ---
 
-> [!info] Note metadata
-> **Title:** Identity as the Greatest Self-Deception
-> **Tags:** Well-Being
-> **Type:** Reflection
-
 Yes, it is your body.
 
 But the body is not you.

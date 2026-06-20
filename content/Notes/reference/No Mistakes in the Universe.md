@@ -6,12 +6,6 @@ type: Reference
 Reference: Alan Watts
 ---
 
-> [!info] Note metadata
-> **Title:** No Mistakes in the Universe
-> **Tags:** Well-Being
-> **Type:** Reference
-> **Reference:** Alan Watts
-
  
  **_“There are no mistakes in the universe”_**
 

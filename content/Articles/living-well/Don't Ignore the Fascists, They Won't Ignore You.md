@@ -9,8 +9,6 @@ description: Genocidal hate content distributed at a rally in India's capital mi
 date: 2021-08-01
 ---
 
-#Well-Being
-
  
 A flyer was distributed at a rally at Jantar Mantar in New Delhi on August 8th, 2021. It carried genocidal hate content in Hindi against Islam. You may read the entire report [here](https://article-14.com/post/event-calling-for-genocide-against-muslims-in-india-s-capital-latest-in-an-unhindered-spiral-of-hate-speech--6115dc826c952) 
   

@@ -9,8 +9,6 @@ date: 2020-03-01
 description: We all appreciate what it takes for someone to run a marathon, even if not many of us have attempted it. At some point in our lives, we all have given a shot for a quick sprint or a long jog and know how hard it is to sustain it for 26.2 miles. However, it is often difficult for most of us to appreciate an equivalent amount of effort that goes into an outcome built upon a career practicing the craft of good design. ^design-interest
 ---
 
-#Product
-
 We all appreciate what it takes for someone to run a marathon, even if not many of us have attempted it. At some point in our lives, we all have given a shot for a quick sprint or a long jog and know how hard it is to sustain it for 26.2 miles. However, it is often difficult for most of us to appreciate an equivalent amount of effort that goes into an outcome built upon a career practicing the craft of good design. ^design-interest
 
 > Popular interest in design often halts at the superficial aspects of aesthetics, whether one is marveling at the creation of an artist, an architect, or a designer.

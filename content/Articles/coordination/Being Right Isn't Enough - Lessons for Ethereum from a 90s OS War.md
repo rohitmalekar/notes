@@ -9,8 +9,6 @@ date: 2026-02-27
 description: "GNU Hurd was architecturally superior to Linux and lost anyway, not because it was wrong, but because being right isn't enough. The same pattern haunts Ethereum today: the Hurd/Linux analogy, taken seriously, doesn't predict that the better-architected platform reforms in time; it predicts it loses. This essay draws five lessons from the 1990s OS war and holds them against what Ethereum has recently shipped, separating announcements that indicate the right problems are being named from the outcomes data that would prove those diagnoses are translating into reality."
 ---
 
-#Web3
-
 *(This essay is part of a series of reflections I am writing while pursuing the 2026 Ethereum Protocol Study Group (EPS). It was inspired by [Lecture 1](https://study.epf.wiki/mod/hvp/view.php?id=17), which covers Ethereum's predecessors and the culture it was built on. Explore the [EPF Wiki](https://epf.wiki/#/) to learn more or check out this [thread](https://x.com/joshdavislight/status/2023860142098596320) by [@joshdavislight](https://x.com/joshdavislight))*
 
 GNU Hurd was the better answer. Linux won anyway.

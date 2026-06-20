@@ -9,8 +9,6 @@ date: 2019-02-01
 description: 3 years ago, my family moved back home to India after a decade long stay in the U.S. I often hear questions from friends and co-workers about the move and the experience. For some in the U.S., the dilemma can be overbearing — while India is home we long to return, U.S. offers the prospect of a better life.
 ---
 
-#Well-Being 
-
 3 years ago, my family moved back home to India after a decade long stay in the U.S. I often hear questions from friends and co-workers about the move and the experience. For some in the U.S., the dilemma can be overbearing — while India is home we long to return, U.S. offers the prospect of a better life. At the end of the day, each one has to find an answer that is right for their context and situation. Having spent a few years in India since moving back, I am sharing what I have learnt on this side of the shore. If you are in a similar dilemma, hopefully, this article takes you a step closer to your decision that’s right for you.
 
 ### **Compare Mangoes with Mangoes, Not with Peaches**

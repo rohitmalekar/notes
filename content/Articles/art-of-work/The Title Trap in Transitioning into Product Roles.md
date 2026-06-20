@@ -9,8 +9,6 @@ date: 2021-03-01
 description: "I was recently asked this question:"
 ---
 
-#Product 
-
 I was recently asked this question:  
   
 _"I have 5 years of experience; however, transitioning to product implies taking up a job as an associate product manager. Should I pursue this?".  

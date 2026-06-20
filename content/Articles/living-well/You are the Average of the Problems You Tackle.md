@@ -9,8 +9,6 @@ date: 2024-10-01
 description: You are not the average of the content that influences you. You are the average of the problems you choose to tackle in life.
 ---
 
-#Well-Being 
-
 You are not the average of the content that influences you. You are the average of the problems you choose to tackle in life. 
 
 Seeking content that inspires you is overrated. Discovering worldviews as a byproduct of building something [[Irony in Finding Purpose|congruent to your calling]] is underrated. Content has utility, but there are bounds to it, and most of us spend way more time on it than it's worth. 

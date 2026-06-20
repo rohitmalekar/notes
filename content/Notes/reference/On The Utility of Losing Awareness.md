@@ -6,12 +6,6 @@ type: Reference
 Reference: https://dunia.gg/game/sessions/81744afe-acac-4629-945d-1e348959be0e
 ---
 
-> [!info] Note metadata
-> **Title:** On The Utility of Losing Awareness
-> **Tags:** Well-Being
-> **Type:** Reference
-> **Reference:** https://dunia.gg/game/sessions/81744afe-acac-4629-945d-1e348959be0e
-
 **Why do humans lose awareness of the present moment?**
 
 Because a universe where awareness never forgets itself would be a universe where nothing ever discovers itself. The forgetting isn't a flaw in the design. The forgetting _is_ the design.

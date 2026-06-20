@@ -9,8 +9,6 @@ date: 2026-02-23
 description: News and misinformation can feel one click away from overwhelming sanity. Meaning has to be chosen; agency belongs inside a circle of influence, and the rest can be cancelled, not from indifference but from prioritisation. This essay explores a deliberate stance for staying grounded, and why information technology today resembles early humans learning to hold fire.
 ---
 
-#Well-Being
-
 Insanity is a click away.
 
 In the last week, my feeds delivered a sequence of stories that didn’t feel like “updates” as much as they felt like a direct hit to the nervous system: violence inside homes, injustice moving at institutional speed, and a fog of misinformation that makes even real suffering harder to hold with clarity.

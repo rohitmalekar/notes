@@ -9,8 +9,6 @@ date: 2020-09-01
 description: Too many early-career professionals fixate on landing the PM title before they’ve ever exercised the underlying muscles—and in doing so, miss the point entirely. Product thinking isn’t a job description; it’s a set of practices anyone can apply right now, in whatever role they hold. This essay defines the four core responsibilities that separate genuine product thinking from the title, and makes the case that earning the role means demonstrating the work first.
 ---
 
-#Product 
-
 Lately, I have been getting a few queries from recent graduates on how to seek a job for a product manager (PM) role. My two cents: don’t.
 
 Trying to be a PM straight out of school is like attempting a competitive sport because you have read the rules and watched it unfold from the stadium seats. In that state, neither do we have enough muscle memory built in our minds to do most things right, nor enough battle scars to be remotely successful.

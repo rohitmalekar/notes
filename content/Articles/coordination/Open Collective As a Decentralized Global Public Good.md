@@ -2,14 +2,13 @@
 title: Open Collective As a Decentralized Global Public Good
 tags:
   - Web3
+  - Startup-Finance
 type:
   - Article
 permalink: open-collective-publicgood
 date: 2022-02-01
 description: The following is a thought experiment to explore how Open Collective can [Exit to Community](https://www.colorado.edu/lab/medlab/2020/08/31/exit-community-community-primer). The goal here is to "transition from a privately owned company to a structure that allows us to share power and revenue" with its community comprising of employees, Fiscal Hosts, Collectives, funders, investors, and individual contributors.
 ---
-
-#Web3 #Startup-Finance 
 
 The following is a thought experiment to explore how Open Collective can [Exit to Community](https://www.colorado.edu/lab/medlab/2020/08/31/exit-community-community-primer). The goal here is to "transition from a privately owned company to a structure that allows us to share power and revenue" with its community comprising of employees, Fiscal Hosts, Collectives, funders, investors, and individual contributors. 
 

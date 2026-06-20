@@ -6,11 +6,6 @@ tags:
 type: Reflection
 ---
 
-> [!info] Note metadata
-> **Title:** Learning in Cohorts
-> **Tags:** Design, Product
-> **Type:** Reflection
-
 ### The Assertion
 The most memorable learning experiences in life are a two-way street. Those moments happen when the speaker walks away from the experience as enriched as the audience. This is enabled by the spontaneity of the discourse in the form of questioning assumptions, exchanging ideas, sharing insights, and much more facilitated by the instructor. 
 

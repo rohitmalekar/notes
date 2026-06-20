@@ -9,8 +9,6 @@ description: External factors, such as wealth and infrastructure, don't guarante
 date: 2021-04-01
 ---
 
-#Well-Being
-
 ### What is Quality of Life?
 
 Once you have done enough to reasonably meet the basic needs of your lifestyle, the next jump in the quality of your life is not going to come from external factors. It will depend on what you cultivate inside of you — the quality of your thoughts.

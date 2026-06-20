@@ -9,8 +9,6 @@ date: 2024-01-01
 description: The Zuzalu Grants Program will be the largest Zuzalu-related QF rounds. This iteration of the Grants Program marks a departure from the previous focus solely on community projects. Our aspiration for the current year is to see a proliferation of events inspired by Zuzalu, contributing to the growth of the pop-up city movement. We anticipate a surge in social experiments and the emergence of new technologies that will propel initiatives in this developing field.
 ---
 
-#Web3 
-
 The Zuzalu Grants Program will be the largest Zuzalu-related QF rounds. This iteration of the Grants Program marks a departure from the previous focus solely on community projects.  Our aspiration for the current year is to see a proliferation of events inspired by Zuzalu, contributing to the growth of the pop-up city movement. We anticipate a surge in social experiments and the emergence of new technologies that will propel initiatives in this developing field.
 
 The program's primary objective is to foster the growth of spinoff events (Zu-villages) and to support technology-driven projects (digital public goods) that align with and advance Zuzalu's mission throughout 2024.

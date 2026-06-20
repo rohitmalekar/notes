@@ -9,8 +9,6 @@ date: 2026-03-15
 description: The baseline for knowledge work has changed, even before AI tools are fully reliable. Tasks built on relaying, summarizing, and packaging information are quickly becoming table stakes, which pushes real value toward judgment and original thinking. This essay explores why that shift feels threatening, where it creates freedom, and how professionals can respond by moving from compliance to craft.
 ---
 
-#AI
-
 It doesn't matter if Anthropic Cowork or OpenAI Frontier actually work as marketed right away. What matters is simpler and more uncomfortable: the expectations from a knowledge worker have shifted forever.
 
 ## The Relay Layer

@@ -9,8 +9,6 @@ date: 2021-07-01
 description: ### **How do ideas originate?**
 ---
 
-#Well-Being 
-
 ### **How do ideas originate?** 
 
 As a creator, can you think of the last time an original idea flashed in the inner eye of your mind? It must have felt like a spontaneous spark out of nowhere. Are you always able to explain [[How do Ideas Originate|how you arrived at it?]] Have you ever felt that moment to be so abstract that words fail to define it?   

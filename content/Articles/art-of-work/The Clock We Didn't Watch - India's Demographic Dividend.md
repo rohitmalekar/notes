@@ -9,8 +9,6 @@ description: India's working-age population share peaks around 2028-2030, after 
 date: 2026-01-01
 ---
 
-#Data-Analysis
-
 The uncomfortable truth: India's working-age population share will peak around 2028-2030. After that, it begins its slow decline. The window that economists have been talking about for decades, the demographic sweet spot, is closing.
 
 And we didn't fully show up for it.

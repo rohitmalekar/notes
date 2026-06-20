@@ -5,13 +5,10 @@ tags:
   - Well-Being
 type:
   - Article
-Reference:
 permalink: cycling-retro-300km
 description: "A 300 km ride is its own feedback loop. The data (heart rate, cadence, pace) tells a story beneath the miles: what held strong, and what quietly cracked. Here’s the retrospective of what worked well, and what needs sharpening before the next big ride."
 date: 2025-12-01
 ---
-
-#Fitness #Well-Being 
 
 ![[Screenshot 2025-12-08 at 3.56.25 PM.png]]
 

@@ -1,4 +1,5 @@
 ---
+title: My Experiments to Crack the Code of Deep Sleep
 permalink: deepsleep
 tags:
   - Well-Being
@@ -6,9 +7,6 @@ tags:
 description: Data-driven breakdown of how layered habits (early dinners, earlier bedtimes, consistent exercise, and stable sleep schedules) compound deep sleep gains.
 date: 2025-07-01
 ---
-
-#Well-Being #Fitness
-
 Deep sleep has been the single most influential lever in shifting my mornings, from starting the day weary and drained to waking up fresh, rested, and hopeful. It's the phase of sleep most tied to physical repair, immune health, and cognitive recovery.  Over the past year or so, I’ve been experimenting with small, deliberate changes to improve deep sleep. 
 
 Rather than tackling everything at once, I layered one habit at a time: eating earlier, going to bed earlier, exercising consistently, and finally stabilizing bedtime routines. Each experiment built on the last, and the data tells a compelling story of how these habits stack and compound. None of these are novel insights, but seeing them play out in my own data is a great form of reinforcement to keep going.

@@ -9,8 +9,6 @@ date: 2020-05-01
 description: The popular character forged by movies and TV series for a successful consultant often involves a pompous extrovert, mostly male, sweeping the clients off their feet with his pretentious know-it-all jargon. In reality, successful women and men leaders in consulting from whom I have learned the most have been introverts. They are great at direct concise communication when needed and always effortlessly step out of the celebratory limelight to let their clients and their teams shine in the succ...
 ---
 
-#Consulting
-
 The popular character forged by movies and TV series for a successful consultant often involves a pompous extrovert, mostly male, sweeping the clients off their feet with his pretentious know-it-all jargon. In reality, successful women and men leaders in consulting from whom I have learned the most have been introverts. They are great at direct concise communication when needed and always effortlessly step out of the celebratory limelight to let their clients and their teams shine in the success.
 
 Aldous Huxley, an English writer and philosopher, once said, **_“All science is the reduction of multiplicities to unities”._** If I were to attempt to reduce the science of consulting that I have learnt from these leaders into a few unities, then I would distill the secret sauce of building a sustainable career in consulting into the following three observations.

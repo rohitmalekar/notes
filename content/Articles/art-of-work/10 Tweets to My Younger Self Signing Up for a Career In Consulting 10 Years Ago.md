@@ -9,8 +9,6 @@ date: 2017-10-01
 description: Most people enter consulting without knowing what they’re actually signing up for—the brutal learning curve, the identity friction, and the moments that quietly make or break a career. A decade in, the clearest lesson is that survival isn’t about working harder; it’s about knowing when to absorb, when to lead, and when to walk away. Ten bite-sized truths this essay would send back to day one.
 ---
 
-#Consulting 
-
 Around this time 10 years ago while finishing up my Masters, I signed the job offer to start a career in consulting. On reflecting back, the first thing that comes to my mind is how little I knew of what I was signing up for! Since then, it’s been a period of many highs and lows, including a decision to leave consulting to fit personal priorities and joining back again when the time was right.
 
 Here are 10 things that I would tweet to my younger self signing that offer letter. Some of this is borrowed wisdom, some are things I learnt the hard way, while some are my own perspectives that got reinforced along this journey.

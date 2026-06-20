@@ -9,8 +9,6 @@ date: 2021-05-01
 description: Traditional VC is optimized for  unicorns—but most founders building sustainable, mission-driven businesses don't fit that mold, and the funding gap leaves critical problems permanently underfunded. The real issue isn't a lack of capital; it's a structural misalignment between how investors measure success and how many founders define it. This essay surveys a growing wave of alternative funding models—from Shared Earnings Agreements to Exit to Community—built for founders who measure winning differently.
 ---
 
-#Startup-Finance 
-
 More and more start-ups don't fit the casting required by traditional VCs (to earn 3X returns for their LPs), especially in economies like India where disparities are huge. There are a significantly diverse sets of critical problems that have capital needs but will forever lie outside the term sheets of traditional VCs. A lot is at stake to ensure entrepreneurs outside the mold survive.  
   
 This is not a criticism of the model followed by traditional VCs. If the operating model of your company has deep funding needs before it can break even and if you seek rapid growth to beat your competition out of business, then the traditional means of acquiring venture capital is definitely a great option to look at.  

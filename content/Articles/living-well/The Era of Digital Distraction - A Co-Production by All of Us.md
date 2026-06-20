@@ -4,13 +4,10 @@ tags:
   - Well-Being
 type:
   - Article
-Reference:
 permalink: digital-distraction
 description: We scroll alone but we distract together. An essay on how the digital distraction era is quietly built by individual participation with a personal introspection on attention, time, and the choice to focus deeply instead of endlessly.
 date: 2025-12-01
 ---
-
-#Well-Being 
 
 We are living in an age where distraction feels like the default, no longer an interruption. The bite-sized bursts of videos, auto-playing reels, infinite scroll feeds, and algorithmically curated micro-content have created a world engineered for fleeting engagement. Scientific research has increasingly shown that short-form video consumption can [reduce sustained attention](https://www.goodreads.com/book/show/29889454-the-distracted-mind), [increase impulsivity](https://www.journals.uchicago.edu/doi/full/10.1086/691462), and [shape compulsive usage](https://sites.harvard.edu/sitn/2018/05/01/dopamine-smartphones-battle-time/) patterns across age groups, including [teenagers and adults](https://pubmed.ncbi.nlm.nih.gov/27063068/). Findings from cognitive psychology, neuroscience, and behavioral studies outline measurable impacts on focus, working memory, and digital habit loops.
 

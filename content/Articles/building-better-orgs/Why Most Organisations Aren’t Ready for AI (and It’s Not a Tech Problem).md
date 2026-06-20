@@ -9,8 +9,6 @@ date: 2026-02-01
 description: Every wave of enterprise technology has promised transformation but delivered tool-level adoption instead. The pattern repeats because organisations use technology to avoid judgment rather than amplify it. This essay traces four decades of this dynamic and argues that AI readiness starts with organisational self-awareness, not technical capability.
 ---
 
-#AI
-
 Every organisation gets the technology it deserves, not the technology that's available.
 
 That might sound harsh. But technologies that amplify judgment fail when organisations try to use them to *avoid* judgment. This isn't a flaw in the technology. It's a mirror reflecting back what we actually are.

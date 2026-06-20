@@ -9,8 +9,6 @@ date: 2026-03-13
 description: "\"You don't need to learn X in the age of AI\" is one of the most viral pieces of advice right now, and one of the most quietly damaging. The short burst of productivity AI provides on unfamiliar terrain is real, but it's borrowed. This essay offers a two-mode framework for using AI in a way that compounds your skills rather than substitutes for them."
 ---
 
-#AI
-
 "You don't need to learn X in the age of AI" is one of the most viral pieces of advice floating around right now. It's also one of the most dangerous. To be clear: this isn't a nostalgia argument. AI is real, and ignoring it is its own kind of mistake. But there's a trap hidden in that advice that will hollow out your capabilities in slow motion, and it won't announce itself while it's happening.
 
 Think about following GPS every day without ever building a mental map of the city. You navigate fine, right up until the signal drops or you're somewhere the map doesn't cover. AI-assisted work on unfamiliar terrain operates the same way. Fluent until it isn't. Competent-looking until the moment it matters.

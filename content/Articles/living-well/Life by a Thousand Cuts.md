@@ -9,8 +9,6 @@ date: 2025-03-01
 description: ...we over-index our focus on what’s broken in our lives, seldom capturing the feeling of not having to worry about what we take for granted, like putting the next plate of food on the table or the shelter underneath we rest turning into a rubble.
 ---
 
-#Well-Being 
-
 ...we over-index our focus on what’s broken in our lives, seldom capturing the feeling of not having to worry about what we take for granted, like putting the next plate of food on the table or the shelter underneath we rest turning into a rubble.
 
 We then take the unsatiated mind and splice its attention into a thousand pieces, jamming the day with jobs to be done to satisfy the last ounce of every ambition. We invite mindless cacophony in every possible moment of silence, we swap every [[The Creator's Paradox - Unsolicited Serendipities|opportunity for a deep breath]] with yet another shallow anxious hustle.

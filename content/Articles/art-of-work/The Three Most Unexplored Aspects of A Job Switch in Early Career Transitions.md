@@ -2,15 +2,13 @@
 title: The Three Most Unexplored Aspects of A Job Switch in Early Career Transitions
 tags:
   - Careers
-  - recruiting
+  - Recruiting
 type:
   - Article
 permalink: job-switch-aspects
 description: Salary and title are easy to compare; the intangibles are harder. Understanding your future leaders, knowing whether you're valued as a person or a resource, and honestly assessing your own fit are often overlooked in career transitions. This essay unpacks three underexplored aspects that shape long-term career success.
 date: 2019-05-01
 ---
-
-#Careers #recruiting
 
 **Assessing a fit for a new job is a two-way street. Getting an intimate understanding of the true north of your future leaders, knowing what about you the company values the most, and a brutally authentic monologue to assess your fit for the role will drive your long term career success in the new environment.**
 

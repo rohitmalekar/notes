@@ -6,11 +6,6 @@ tags:
 type: Reflection
 ---
 
-> [!info] Note metadata
-> **Title:** Role of Crisis in Individual Life
-> **Tags:** Well-Being, Parenthood
-> **Type:** Reflection
-
 As with society, so with the individual: real change rarely happens in the absence of crisis.
 
 If you haven’t experienced a crisis, you’ve barely experienced radical change.

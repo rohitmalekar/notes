@@ -6,10 +6,4 @@ tags:
 type: Reference
 ---
 
-> [!info] Note metadata
-> **Title:** Culture as a Way of Working
-> **Tags:** Culture
-> **Type:** Reference
-> **Reference:** Organization Culture and Leadership, Edgar Schein
-
 Culture is a way of working together toward common goals that have been followed so frequently and so successfully that people don’t even think about trying to do things another way. If a culture has formed, people will autonomously do what they need to do to be successful.

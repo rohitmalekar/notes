@@ -10,8 +10,6 @@ description: Every technological wave has followed a reassuring pattern of displ
 due date: 2026-02-01
 ---
 
-#AI
-
 History is comforting.
 
 Every major technological wave displaced some jobs, created others, and eventually expanded the economic pie. The loom didn't eliminate work. Electricity didn't. The internet didn't. So the instinctive move is to say, "AI will follow the same script."

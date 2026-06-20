@@ -2,14 +2,13 @@
 title: Work Principles and Belief Systems — Two Sides of the Same Coin
 tags:
   - Leadership
+  - Well-Being
 type:
   - Article
 permalink: work-and-belief
 date: 2019-09-01
 description: "At certain points in our careers, we all have struggled to bring our true selves into our interactions at work. In those moments when we overcome this [[Belonging at Work|struggle]], we can fully align our actions with our hearts. This is crucial to building an authentic presence and a sense of belonging with the community at work. Whereas, in those moments when we are not ourselves there is a dent in that belonging."
 ---
-
-#Leadership #Well-Being 
 
 At certain points in our careers, we all have struggled to bring our true selves into our interactions at work. In those moments when we overcome this [[Belonging at Work|struggle]], we can fully align our actions with our hearts. This is crucial to building an authentic presence and a sense of belonging with the community at work. Whereas, in those moments when we are not ourselves there is a dent in that belonging.
 

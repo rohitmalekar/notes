@@ -9,8 +9,6 @@ date: 2025-02-26
 description: Discontent is often rooted not in the absence of what we seek but in the inability to accept the present. The chase for the next promotion, role, or milestone becomes an ever-shifting goalpost when present-moment acceptance is missing. This essay examines why attaching identity to shortcomings or achievements is a trap, and how contentment and ambition can coexist when we drive with intent rather than from hunger.
 ---
 
-#Well-Being
-
 If you aren't [[Coexisting Contentment and Ambition|content today without what you chase]], you won't be content tomorrow in spite of having it.   
   
 

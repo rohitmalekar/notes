@@ -9,8 +9,6 @@ date: 2024-03-01
 description: Two workshop sessions at Punjabi University's Centre for Emerging and Innovative Technology introduced faculty and students to DAOs through a hands-on quadratic voting exercise and talks from active DAO founders. The discussion traced DAOs from their theoretical roots to current challenges, advocating for solidarity, governance, and stewardship over scale. A hybrid model balancing legal realities with web3's coordination potential emerged as the most practical path forward.
 ---
 
-#Web3
-
 This material includes a walk-through across two 2-hour sessions with the faculty at the Punjabi University Centre for Emerging and Innovative Technology, Mohali, including a hands-on QV exercise, to illustrate the role of DAOs in driving participative governance for causes a community cares about.
 
 The discussion covered a brief history of DAOs, their theoretical underpinnings, practical challenges, and latest trends, including talks from the founders of Atlantis DAO (Irthu Suresh), Solarpunk DAO (Utkarsh Patel), and RegenBuild (Guru Vishwas).

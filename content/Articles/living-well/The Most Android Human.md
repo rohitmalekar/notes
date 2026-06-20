@@ -9,8 +9,6 @@ date: 2021-08-01
 description: _(The following was an assignment as part of a writing workshop to author a self-portrait in the third person, without using any adverbs, adjectives, and words with more than two syllables. Here's my fledgling attempt at self-deprecation in the form of an obituary from my wife's POV that she would read aloud to friends and family.)_
 ---
 
-#Fiction
-
 _(The following was an assignment as part of a writing workshop to author a self-portrait in the third person, without using any adverbs, adjectives, and words with more than two syllables. Here's my fledgling attempt at self-deprecation in the form of an obituary from my wife's POV that she would read aloud to friends and family.)_
 
 For a man who sought control, it is a matter of sorrow that Rohit could not be here to read his obit. If it was to be so, he would have practiced this speech two weeks prior with some of you. That would have been after him sharing a written draft a month prior for your review. No matter the number of comments you would have showered on him, he still would have gotten back to each of you with a response for every comment. Also, you would have a printed copy of his speech in your hands because how else might he have pampered you with his footnotes. And dare I say, I need not wager much for a claim that the writing would have a verse or two of his. Some of you have survived to tell the tale of his liking for his poems. Let us not pretend we don't know what I am talking about.

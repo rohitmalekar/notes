@@ -10,8 +10,6 @@ description: High-performing careers often stall in middle management because pr
 date: 2021-05-01
 ---
 
-#Leadership #Consulting
-
 ## Hypothesis
 
 Most high-performing careers hit a wall in middle management because practitioners shy away from taking risks to address [[High Quality Problem|high-quality problems]]. The conditioned responses to seek career progression act as traps that make it harder to develop skills required to expand the circle of influence.

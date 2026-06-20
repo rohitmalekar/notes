@@ -9,8 +9,6 @@ description: Marriage is often romanticized as a destination, but it functions m
 date: 2026-01-01
 ---
 
-#Well-Being
-
 Marriage is not a destination. It's a crucible.
 
 I'm not here to change anyone's mind, just to offer a map of what it might take, and what you might reap in return. There are no perfect marriages. Even a reasonably content one will demand consistent grind, suffering, and sacrifice. But in that process, you might just discover why it could be worth it.

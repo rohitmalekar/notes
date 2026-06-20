@@ -2,14 +2,13 @@
 title: A Longing for Belonging
 tags:
   - Well-Being
+  - Culture
 type:
   - Article
 permalink: belonging
 date: 2021-06-01
 description: The anxiety with which you search for a hometown delicacy in a new land is the same as that with which you look for familiar people and places when you visit your place of upbringing.
 ---
-
-#Well-Being #Culture 
 
 The anxiety with which you search for a hometown delicacy in a new land is the same as that with which you look for familiar people and places when you visit your place of upbringing.
 
