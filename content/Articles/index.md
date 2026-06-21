@@ -5,7 +5,7 @@ aliases:
 description: Essays on coordination and public goods, careers and product craft, organizations, and living well.
 ---
 
-I write to think. Over a decade of essays, that thinking has settled into four threads — how communities coordinate and fund what matters, how to build a career without losing yourself, how organizations actually work, and how to live well while doing all of the above.
+I write to think. Over a decade of essays, that thinking has settled into four threads: how communities coordinate and fund what matters, how to build a career without losing yourself, how organizations actually work, and how to live well while doing all of the above.
 
 Each theme below opens with a few hand-picked essays to start with, followed by the full archive.
 

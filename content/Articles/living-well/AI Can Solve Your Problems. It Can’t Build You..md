@@ -90,7 +90,7 @@ The pattern is the same across domains. Let AI hold the tongs. You swing the ham
 
 A well-forged blade remembers every fold. The heat lives in its structure. That memory is what holds the edge.
 
-But here’s the uncomfortable truth: maybe the last thing we need from AI is more ease. Maybe intelligence without tempering is not just hollow, but dangerous. It is sharp enough to cut, too brittle to trust.
+Maybe the last thing we need from AI is more ease. Intelligence without tempering is not just hollow, but dangerous. It is sharp enough to cut, too brittle to trust.
 
 We’ve been seduced by frictionlessness: faster, simpler, more efficient. But formation doesn’t happen in the fast lane. Real growth requires the resistance arising from the struggle, the uncertainty, and the revision. Maybe AI’s role isn’t to erase this friction, but to put up better, smarter barriers. Maybe the best tools are the ones that slow us down at precisely the hardest, most formative edges.
 

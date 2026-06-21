@@ -27,8 +27,6 @@ A decade of writing, organized into four themes.
 - **[[Articles/building-better-orgs/index|Building Better Orgs]]** — work culture, leadership, and how organizations decide
 - **[[Articles/living-well/index|Living Well]]** — attention, contentment, and the slow compounding of a deliberate life
 
-Alongside the essays, I grow an **[[Notes/index|atomic notes library]]** in public. It includes short reflections and referenced ideas that compound into the writing above.
-
 **Featured essays**
 - [[Being Right Isn't Enough - Lessons for Ethereum from a 90s OS War]]
 - [[The Infrastructure for Insight - Cultivating Personal Judgement in the Age of Generation]]
@@ -36,6 +34,8 @@ Alongside the essays, I grow an **[[Notes/index|atomic notes library]]** in publ
 - [[If You Aren't Content Without it, You Won't be Content With it]]
 
 [[Articles/index|View All Writings →]] 
+
+Alongside the essays, I grow an **[[Notes/index|atomic notes library]]** in public. It includes short reflections and referenced ideas that compound into the writing above.
 
 ## 🛠️ Recent Work
 - **Mapping Ecosystem Problems to Grants Funding** — Analysis to examine where GG24 capital allocation reliably reflects Ethereum priorities and where it structurally underfunds critical work • [Article](https://gov.gitcoin.co/t/mapping-problems-to-capital-insights-from-gitcoin-grants-24/24962) • [Dashboard](http://gg24-analysis.fly.dev) 
@@ -47,7 +47,7 @@ Alongside the essays, I grow an **[[Notes/index|atomic notes library]]** in publ
 
 ## ✨ Off the Track
 I believe slow miles and metaphors both help in understanding complexity, one through the body, the other through the heart. When I'm not building data tools or navigating funding labyrinths, I'm usually:
-- 🛠 Fixing a puncture mid-ride on **[[off-the-track|roads across Bangalore]]**
+- 🛠 Fixing a puncture mid-ride on **[[cycling|roads across Bangalore]]**
 - **✍️ [Scribbling poetry](https://breathefeellove.in/)** that often feels like debugging emotions
 
 ## Let's Collaborate
