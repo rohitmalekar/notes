@@ -7,11 +7,8 @@ type:
   - Article
 permalink: dharma-no-revival
 date: 2026-06-23
-description: "Drawing on the philosophy of Sanatan Dharma and its quality of being eternal and discovered rather than invented, this piece argues that the same principle applies to relationships and careers. When we root ourselves in authentic truths rather than constructed identities, we need no symbols, no revival — and no posturing."
+description: Drawing on the philosophy of Sanatan Dharma and its quality of being eternal and discovered rather than invented, this piece argues that the same principle applies to relationships and careers. When we root ourselves in authentic truths rather than constructed identities, we need no symbols, no revival and no posturing.
 ---
-
-# What is not invented needs no revival
-
 I don't write about faith here, but I'll make an exception. This is more philosophy than faith anyway, and some of the oldest writings known to humankind might have something to say about a trend I'm noticing on how fragile we are making our relationships and our vocations.
 
 Consider the checklist floating on social media: a true Sanatani wears a specific thread on the wrist, greets only with "Jai Shri Ram," eats no meat, and adds "Sanatani" to their bio as a badge. Or the politician who defends Sanatan Dharma loudly in public while practicing caste discrimination in private. Or the influencer who packages ayurvedic routines as "reclaiming our Sanatan roots" for a price. Claiming that a true Sanatani needs a thread on a wrist for their identity is like saying gravity needs a permit to work.
