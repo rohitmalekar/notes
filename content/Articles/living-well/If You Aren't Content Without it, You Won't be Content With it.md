@@ -22,7 +22,7 @@ The source of discontent is often not the absence of what you seek. 
   
 This is also why what we seek is often an ever-changing goal post. At work, it is about the ceaseless chase for that next promotion or a lucrative hike or that elusive role.   
   
-If you have been in your career long enough, you have achieved at least some of these milestones many times over. Yet, the race is on. It is because it was never about the absence of what you seek. You are not content with your present. [[On Accepting Who You Are|On Accepting Who You Are]] is key to break the vicious circle.  
+If you have been in your career long enough, you have achieved at least some of these milestones many times over. Yet, the race is on. It is because it was never about the absence of what you seek. You are not content with your present. [[On Accepting Who You Are|Accepting who you are]] is key to break the vicious circle.  
   
 
 ### But I don't want to accept who I am today

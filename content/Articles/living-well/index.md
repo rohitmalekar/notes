@@ -7,10 +7,10 @@ The longest-running thread in my writing: how to live deliberately in a world en
 
 ## Start here
 
-- [[Ten Life Lessons I Picked Up In This Decade]] — a decade's retrospective in ten tweet-length lessons
-- [[Consistency Compounds - Insights from 6 Years of Cycling Data]] — what six years of ride data says about showing up
-- [[My Experiments to Crack the Code of Deep Sleep]] — a data-driven hunt for better sleep
-- [[You Have the Right to Remain Silent]] — on the underrated power of not weighing in
+- [[The Life You Live Is Shaped by the Words You Use]] — articulating your inner world
+- [[If You Aren't Content Without it, You Won't be Content With it]] — can contentment and ambition can coexist
+- [[Decoding Quality of Life]] - seeking the quality of consciousness
 - [[Staying Sane When Insanity is a Click Away]] — defending attention in the outrage economy
+- [[The Era of Digital Distraction - A Co-Production by All of Us]] - we scroll alone but we distract together
 
 ## Full archive

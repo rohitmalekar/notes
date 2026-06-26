@@ -7,9 +7,9 @@ Organizations are coordination problems wearing a logo. These essays look at wor
 
 ## Start here
 
+- [[Why Most Organisations Aren’t Ready for AI (and It’s Not a Tech Problem)]] — the readiness gap nobody budgets for
 - [[Designing An Authentic Work Culture - Part 1]] — first of a three-part series on culture by design
 - [[Litmus Test for Leadership]] — a simple test for whether leadership deserves the title
 - [[The Secret to Building Sustainable Businesses]] — what outlasts growth hacks
-- [[Why Most Organisations Aren’t Ready for AI (and It’s Not a Tech Problem)]] — the readiness gap nobody budgets for
 
 ## Full archive

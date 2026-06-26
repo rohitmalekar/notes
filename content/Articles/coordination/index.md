@@ -3,7 +3,7 @@ title: Coordination & Public Goods
 description: Essays on funding mechanisms, grants programs, DAOs, and the data behind making Web3 ecosystems work.
 ---
 
-How do communities fund what markets won't? These essays cover quadratic funding, grants program design, DAOs, decentralized identity, and the analytics that make capital allocation legible — written from inside the work at Gitcoin, Octant, and across the Ethereum ecosystem.
+How do communities fund what markets won't? These essays cover quadratic funding, grants program design, DAOs, decentralized identity, and the analytics that make capital allocation legible, written from inside the work across the Ethereum ecosystem.
 
 ## Start here
 

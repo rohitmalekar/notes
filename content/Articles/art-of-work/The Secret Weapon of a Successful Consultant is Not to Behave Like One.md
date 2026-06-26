@@ -6,7 +6,7 @@ type:
   - Article
 permalink: consultant-weapon
 date: 2022-08-29
-description: The popular character forged by movies and TV series for a successful consultant often involves a pompous extrovert, mostly male, sweeping the clients off their feet with his pretentious know-it-all jargon. In reality, successful women and men leaders in consulting from whom I have learned the most have been introverts. They are great at direct concise communication when needed and always effortlessly step out of the celebratory limelight to let their clients and their teams shine in the succ...
+description: The popular character forged by movies and TV series for a successful consultant often involves a pompous extrovert, mostly male, sweeping the clients off their feet with his pretentious know-it-all jargon. In reality, successful women and men leaders in consulting from whom I have learned the most have been introverts. They are great at direct concise communication when needed and always effortlessly step out of the celebratory limelight to let their clients and their teams shine in the success.
 ---
 
 The popular character forged by movies and TV series for a successful consultant often involves a pompous extrovert, mostly male, sweeping the clients off their feet with his pretentious know-it-all jargon. In reality, successful women and men leaders in consulting from whom I have learned the most have been introverts. They are great at direct concise communication when needed and always effortlessly step out of the celebratory limelight to let their clients and their teams shine in the success.
