@@ -129,7 +129,7 @@ plugins:
     options:
       sortFn: |-
         (a, b) => {
-          const order = {'Writings': 0, 'Notes': 1, 'Portfolio': 2, 'Off the Track': 3};
+          const order = {'Work With Me': 0, 'Portfolio': 1, 'Writings': 2, 'Notes': 3, 'Off the Track': 4};
           const ai = order[a.displayName];
           const bi = order[b.displayName];
           if (ai !== undefined && bi !== undefined) return ai - bi;
