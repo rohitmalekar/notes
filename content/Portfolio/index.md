@@ -3,8 +3,10 @@ title: Portfolio
 description: Selected work across research, data tools, writing, and speaking — funding systems and analytics for digital public goods.
 ---
 
+**Featured case studies:** [[ens-dao-governance-research|ENS DAO Governance Research Platform]] · [[gg24-interop-round|GG24 Interop Round]]
+
 ## 🔎 Research & Strategy
-- **GG24 Domain Design (2025)** — Co-led Ethereum Interop Standards, Infra, and Analytics Quadratic Funding Round • [Article](https://gov.gitcoin.co/t/domain-announcement-interop-standards-infrastructure-analytics/24631) • [Interop Landscape](https://gov.gitcoin.co/t/gg24-update-inside-the-interop-standards-infra-analytics-round/24749) • [Grant Round Retro](https://gov.gitcoin.co/t/gg24-interop-round-retrospective/24936)
+- **GG24 Domain Design (2025)** — Co-led Ethereum Interop Standards, Infra, and Analytics Quadratic Funding Round • [[gg24-interop-round|Case Study]] • [Article](https://gov.gitcoin.co/t/domain-announcement-interop-standards-infrastructure-analytics/24631) • [Interop Landscape](https://gov.gitcoin.co/t/gg24-update-inside-the-interop-standards-infra-analytics-round/24749) • [Grant Round Retro](https://gov.gitcoin.co/t/gg24-interop-round-retrospective/24936)
 - **Open Data Standards & Analytics for Ethereum (2025)** — Sensemaking report for Gitcoin Grants • [Report](https://gov.gitcoin.co/t/gg24-sensemaking-open-data-standards-infrastructure-analytics-for-ethereum/23000/1)
 - **GG23 Retro Funding Metrics (2025)** — Framework for merit-based OSS funding • [Article](https://gov.gitcoin.co/t/gg23-how-were-powering-retroactive-funding-metrics-that-matter/20216)
 - **Open Source Funding Analysis (2025)** — Dashboard + insights on 47 Octant-funded OSS projects • [Blog](https://docs.opensource.observer/blog/octant-2024-grant-analytics)
@@ -13,7 +15,7 @@ description: Selected work across research, data tools, writing, and speaking �
 - **Codeless Conduct DAO Strategy (2022)** — Hackathon-winning governance model • [Strategy](https://github.com/rohitmalekar/codeless-conduct-feb2022/blob/main/Codeless%20Conduct%20DAO%20Strategy.md)
 
 ## 🛠️ Data Tools & Applications
-- **ENS DAO Governance Research Platform (2026)** — Analytics for governance retrospective  • [Dashboard](https://ensretro.metagov.org) · [Repo](https://github.com/metagov/ENS-Retro-Data) · [Report](https://discuss.ens.domains/t/ens-retro-draft-final-report/22067)
+- **ENS DAO Governance Research Platform (2026)** — Analytics for governance retrospective  • [[ens-dao-governance-research|Case Study]] • [Dashboard](https://ensretro.metagov.org) · [Repo](https://github.com/metagov/ENS-Retro-Data) · [Report](https://discuss.ens.domains/t/ens-retro-draft-final-report/22067)
 - **GG24 Funding Flows (2025)** — Mapping Ethereum's Challenges to GG24 Funding • [Article](https://gov.gitcoin.co/t/mapping-problems-to-capital-insights-from-gitcoin-grants-24/24962) • [Dashboard](https://gov.gitcoin.co) 
 - **Arbitrum Stylus Sprint Dashboard (2025)** — Ecosystem analytics platform • [App](https://stylus-sprint.streamlit.app/) · [Repo](https://github.com/rohitmalekar/stylus-dashboard)
 - **GG23 Retro Funding Analysis (2025)** — Dashboard for retro allocation insights • [App](https://gg23-retro-analysis.streamlit.app/) · [Repo](https://github.com/rohitmalekar/gg23-retrofunding)

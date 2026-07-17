@@ -211,7 +211,11 @@ plugins:
     enabled: true
     options:
       links:
+        About: /about
+        Work With Me: /work-with-me
+        Portfolio: /portfolio
         GitHub: https://github.com/rohitmalekar
+        RSS: /index.xml
   - source: github:quartz-community/recent-notes
     enabled: false
     options:

@@ -4,6 +4,11 @@
 
 Rohit Malekar writes and thinks in public at rohitmalekar.in. This site is a digital garden — essays compound from atomic notes over time. Rohit works at the intersection of data, funding systems, and coordination for digital public goods: designing grant programs, building analytics tools, and helping ecosystems make better decisions.
 
+## About & working together
+
+- [About](https://rohitmalekar.in/about): Who Rohit is — twenty years across consulting, product, and research (Deloitte, Medallia), now building funding systems and data tools for open source ecosystems. Includes ready-to-use speaker bios.
+- [Work With Me](https://rohitmalekar.in/work-with-me): Consulting, fractional roles, and project-based collaborations — grant program design, ecosystem analytics, research, and advisory for public-interest technology.
+
 ## Writings
 
 Essays organized into four themes:
@@ -35,6 +40,8 @@ Essays organized into four themes:
 ## Portfolio
 
 - [Portfolio](https://rohitmalekar.in/portfolio/): Selected work across research, data tools, writing, and speaking — funding systems and analytics for digital public goods, including work with Gitcoin, Octant, and across the Ethereum ecosystem.
+- [Case study: ENS DAO Governance Research Platform](https://rohitmalekar.in/ens-governance-analytics): Reproducible analytics stack (Dagster, dbt, DuckDB) across 7 onchain and forum data sources behind Metagov's independent governance retrospective of ENS DAO — cited in decisions over a $400M+ treasury.
+- [Case study: GG24 Interop Round](https://rohitmalekar.in/gg24-interop-case-study): Designing and operating Ethereum's first interop-focused grants domain — a $100K+ quadratic funding round — and what the data showed about QF underfunding infrastructure.
 
 ## Off the Track
 

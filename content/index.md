@@ -7,16 +7,14 @@ description: "Rohit Malekar helps funders and open source ecosystems design gran
   <img src="./Attachments/profile.jpg" alt="Rohit Malekar" style="width: 75px; margin-right: 20px;">
 <!-- About Text -->
   <div>
-    <h3>Shipping funding systems, data tools, and coordination infrastructure for open source ecosystems</h3>
+    <h3>I help funders and open source ecosystems see where capital flows, why, and what it produces — then I build the tools to act on it.</h3>
   </div>
 </div>
 
 ## About
-I work at the intersection of data, funding systems, and coordination for open source ecosystems. I've co-led grants rounds at Gitcoin, built analytics dashboards used in live funding decisions across the Ethereum ecosystem, and contributed governance research to ENS DAO through Metagov. I help communities and funders understand where capital flows, why, and what it produces, then build the tools to act on it.
+I work at the intersection of data, funding systems, and coordination for open source ecosystems. I've co-led grants rounds at Gitcoin, built analytics dashboards used in live funding decisions across the Ethereum ecosystem, and contributed governance research to ENS DAO through Metagov.
 
-My path here wasn't linear. Twenty years across consulting, product, and research, including strategy and analytics roles at Deloitte and Medallia, gave me the institutional rigor I now bring to coordination systems. 
-
-What gets me out of bed: population-scale coordination challenges where incentives, governance, and impact are harder to model but more meaningful to shape.
+My path here wasn't linear. Twenty years across consulting, product, and research, including strategy and analytics roles at Deloitte and Medallia, gave me the institutional rigor I now bring to coordination systems. [[about|More about me →]]
 
 ***Recent contributions at:** [Gitcoin](http://gitcoin.co) · [Open Source Observer](http://opensource.observer) · [Metagov](https://metagov.org) · [Scroll](https://scroll.io)* 
 
@@ -27,6 +25,11 @@ What gets me out of bed: population-scale coordination challenges where incentiv
 - **Scroll Delegate Accelerator: Metrics Module** — Designed and delivered a data-driven governance curriculum to 30 delegate candidates, equipping them to evaluate Scroll governance proposals with onchain metrics • [Curriculum](https://scrollzkp.notion.site/6-A-useful-approach-to-metrics-2ac7792d22af80f488cce5b6e7dfd508)
 
 [[Portfolio| View Full Portfolio →]]
+
+## 🤝 Work With Me
+I work with teams and funders who are building public-interest technology and need clearer strategy, better data, or stronger funding systems — grant program design, analytics dashboards, ecosystem research, and advisory support.
+
+[[work-with-me|How I support teams →]] · **📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)**
 
 ## ✍️ Explore the Garden
 A decade of writing, organized into four themes.
@@ -51,12 +54,8 @@ I believe slow miles and metaphors both help in understanding complexity, one th
 - 🛠 Fixing a puncture mid-ride on **[[cycling|roads across Bangalore]]**
 - **✍️ [Scribbling poetry](https://breathefeellove.in/)** that often feels like debugging emotions
 
-## Work With Me
-I work with teams and funders who are building public-interest technology and need clearer strategy, better data, or stronger funding systems — grant program design, analytics dashboards, ecosystem research, and advisory support.
+## Connect
 
-[[work-with-me|How I support teams →]]
+**📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email me](mailto:rohitmalekar@gmail.com)**
 
-**📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)**
-
-→ **[📬 Email me](mailto:rohitmalekar@gmail.com)** 
-**→ [🐦 Twitter](https://twitter.com/rohitmalekar) | [Farcaster](https://warpcast.com/rohitmalekar.eth) | [🔗 LinkedIn](https://www.linkedin.com/in/rohitmalekar/) | [💻 GitHub](https://github.com/rohitmalekar)**
+[X/Twitter](https://twitter.com/rohitmalekar) · [Farcaster](https://warpcast.com/rohitmalekar.eth) · [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [GitHub](https://github.com/rohitmalekar)
