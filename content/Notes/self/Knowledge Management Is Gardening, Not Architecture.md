@@ -2,7 +2,7 @@
 title: Knowledge Management Is Gardening, Not Architecture
 tags:
   - Learning
-type: reflection
+type: Reflection
 date: 2026-01-14
 ---
 

@@ -13,6 +13,7 @@ description: Selected work across research, data tools, writing, and speaking �
 - **Codeless Conduct DAO Strategy (2022)** — Hackathon-winning governance model • [Strategy](https://github.com/rohitmalekar/codeless-conduct-feb2022/blob/main/Codeless%20Conduct%20DAO%20Strategy.md)
 
 ## 🛠️ Data Tools & Applications
+- **ENS DAO Governance Research Platform (2026)** — Analytics for governance retrospective  • [Dashboard](https://ensretro.metagov.org) · [Repo](https://github.com/metagov/ENS-Retro-Data) · [Report](https://discuss.ens.domains/t/ens-retro-draft-final-report/22067)
 - **GG24 Funding Flows (2025)** — Mapping Ethereum's Challenges to GG24 Funding • [Article](https://gov.gitcoin.co/t/mapping-problems-to-capital-insights-from-gitcoin-grants-24/24962) • [Dashboard](https://gov.gitcoin.co) 
 - **Arbitrum Stylus Sprint Dashboard (2025)** — Ecosystem analytics platform • [App](https://stylus-sprint.streamlit.app/) · [Repo](https://github.com/rohitmalekar/stylus-dashboard)
 - **GG23 Retro Funding Analysis (2025)** — Dashboard for retro allocation insights • [App](https://gg23-retro-analysis.streamlit.app/) · [Repo](https://github.com/rohitmalekar/gg23-retrofunding)

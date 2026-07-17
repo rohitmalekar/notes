@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Rohit Malekar
-  pageTitleSuffix: ""
+  pageTitleSuffix: " · Rohit Malekar"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -110,6 +110,8 @@ plugins:
     options:
       enableSiteMap: true
       enableRSS: true
+      rssLimit: 50
+      includeEmptyFiles: false
   - source: github:quartz-community/favicon
     enabled: true
   - source: github:quartz-community/og-image

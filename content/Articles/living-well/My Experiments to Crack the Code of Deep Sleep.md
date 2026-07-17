@@ -6,6 +6,8 @@ tags:
   - Fitness
 description: Data-driven breakdown of how layered habits (early dinners, earlier bedtimes, consistent exercise, and stable sleep schedules) compound deep sleep gains.
 date: 2025-07-29
+type:
+  - Article
 ---
 Deep sleep has been the single most influential lever in shifting my mornings, from starting the day weary and drained to waking up fresh, rested, and hopeful. It's the phase of sleep most tied to physical repair, immune health, and cognitive recovery.  Over the past year or so, I’ve been experimenting with small, deliberate changes to improve deep sleep. 
 

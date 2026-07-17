@@ -1,5 +1,6 @@
 ---
-title: "Home"
+title: "Rohit Malekar"
+description: "Rohit Malekar helps funders and open source ecosystems design grant programs, build analytics tools, and understand where capital flows and what it produces."
 ---
 
 <div style="display: flex; align-items: center;">
@@ -11,9 +12,9 @@ title: "Home"
 </div>
 
 ## About
-I work at the intersection of data, funding systems, and coordination for open-source ecosystems. I've co-led grants rounds at Gitcoin, built analytics dashboards used in live funding decisions across the Ethereum ecosystem, and contributed governance research to ENS DAO through Metagov. I help communities and funders understand where capital flows, why, and what it produces, then build the tools to act on it.
+I work at the intersection of data, funding systems, and coordination for open source ecosystems. I've co-led grants rounds at Gitcoin, built analytics dashboards used in live funding decisions across the Ethereum ecosystem, and contributed governance research to ENS DAO through Metagov. I help communities and funders understand where capital flows, why, and what it produces, then build the tools to act on it.
 
-My path here wasn't linear. Eighteen years across consulting, product, and research, including strategy and analytics roles at Deloitte and Medallia, gave me the institutional rigor I now bring to coordination systems. 
+My path here wasn't linear. Twenty years across consulting, product, and research, including strategy and analytics roles at Deloitte and Medallia, gave me the institutional rigor I now bring to coordination systems. 
 
 What gets me out of bed: population-scale coordination challenges where incentives, governance, and impact are harder to model but more meaningful to shape.
 

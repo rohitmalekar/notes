@@ -3,7 +3,7 @@ title: Judgment Is the Premium in the Age of Generation
 tags:
   - AI
   - Leadership
-type: reflection
+type: Reflection
 date: 2026-01-14
 ---
 

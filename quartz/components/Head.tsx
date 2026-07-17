@@ -1,5 +1,5 @@
 import { i18n } from "../i18n"
-import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
+import { FullSlug, getFileExtension, joinSegments, pathToRoot, simplifySlug } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
@@ -13,8 +13,9 @@ export default (() => {
     ctx,
   }: QuartzComponentProps) => {
     const titleSuffix = cfg.pageTitleSuffix ?? ""
-    const title =
-      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+    const baseTitle = fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
+    // Skip the suffix when the page title already carries the site name (e.g. the homepage)
+    const title = baseTitle.includes(cfg.pageTitle) ? baseTitle : baseTitle + titleSuffix
     const description =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
@@ -27,9 +28,83 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
     const iconPath = joinSegments(baseDir, "static/icon.png")
 
-    // Url of current page
+    // Url of current page (canonical form: no trailing "index"; folder pages keep a trailing slash
+    // to match the sitemap and avoid canonical → 301 hops on GitHub Pages)
+    const simpleSlug = simplifySlug(fileData.slug!)
+    const isFolderPage = fileData.slug === "index" || fileData.slug!.endsWith("/index")
     const socialUrl =
-      fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
+      fileData.slug === "404"
+        ? url.toString()
+        : joinSegments(url.toString(), simpleSlug === "/" ? "" : simpleSlug).replace(
+            /\/*$/,
+            isFolderPage ? "/" : "",
+          )
+
+    const frontmatterType = fileData.frontmatter?.type as string | string[] | undefined
+    const isArticle = Array.isArray(frontmatterType)
+      ? frontmatterType.includes("Article")
+      : frontmatterType === "Article"
+    const publishedDate = fileData.dates?.published
+    const modifiedDate = fileData.dates?.modified
+
+    const siteUrl = `https://${cfg.baseUrl}/`
+    const authorId = `https://${cfg.baseUrl}/#person`
+    const jsonLd: object[] = []
+    if (fileData.slug === "index") {
+      jsonLd.push(
+        {
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "@id": authorId,
+          name: "Rohit Malekar",
+          url: siteUrl,
+          image: `https://${cfg.baseUrl}/Attachments/profile.jpg`,
+          jobTitle:
+            "Independent researcher and builder — funding systems and data for open source ecosystems",
+          description:
+            "Rohit Malekar designs funding systems, builds analytics tools, and researches governance for open source ecosystems, with work at Gitcoin, Metagov, Open Source Observer, and Scroll.",
+          knowsAbout: [
+            "grant program design",
+            "quadratic funding",
+            "ecosystem analytics",
+            "DAO governance",
+            "public goods funding",
+            "data engineering",
+            "product management",
+          ],
+          sameAs: [
+            "https://www.linkedin.com/in/rohitmalekar/",
+            "https://github.com/rohitmalekar",
+            "https://twitter.com/RohitMalekar",
+            "https://x.com/RohitMalekar",
+            "https://warpcast.com/rohitmalekar.eth",
+            "https://medium.com/@rohitmalekar",
+            "https://www.gitcoin.co/blog/author/rohit-malekar",
+            "https://breathefeellove.in/",
+          ],
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "@id": `https://${cfg.baseUrl}/#website`,
+          url: siteUrl,
+          name: cfg.pageTitle,
+          publisher: { "@id": authorId },
+        },
+      )
+    } else if (isArticle) {
+      jsonLd.push({
+        "@context": "https://schema.org",
+        "@type": "Article",
+        headline: baseTitle,
+        description,
+        url: socialUrl,
+        datePublished: publishedDate?.toISOString(),
+        dateModified: modifiedDate?.toISOString(),
+        image: `https://${cfg.baseUrl}/${fileData.slug}-og-image.webp`,
+        author: { "@type": "Person", "@id": authorId, name: "Rohit Malekar", url: siteUrl },
+      })
+    }
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
       (e) => e.name === CustomOgImagesEmitterName,
@@ -64,7 +139,13 @@ export default (() => {
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content={isArticle ? "article" : "website"} />
+        {isArticle && publishedDate && (
+          <meta property="article:published_time" content={publishedDate.toISOString()} />
+        )}
+        {isArticle && modifiedDate && (
+          <meta property="article:modified_time" content={modifiedDate.toISOString()} />
+        )}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
@@ -88,12 +169,26 @@ export default (() => {
             <meta property="twitter:domain" content={cfg.baseUrl}></meta>
             <meta property="og:url" content={socialUrl}></meta>
             <meta property="twitter:url" content={socialUrl}></meta>
+            {fileData.slug !== "404" && <link rel="canonical" href={socialUrl} />}
+            <link
+              rel="alternate"
+              type="application/rss+xml"
+              title={cfg.pageTitle}
+              href={joinSegments(url.toString(), "index.xml")}
+            />
           </>
         )}
 
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+
+        {jsonLd.map((obj) => (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(obj) }}
+          />
+        ))}
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js

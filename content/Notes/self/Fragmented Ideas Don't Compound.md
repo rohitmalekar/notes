@@ -2,7 +2,7 @@
 title: Fragmented Ideas Don't Compound
 tags:
   - Learning
-type: reflection
+type: Reflection
 date: 2026-01-14
 ---
 

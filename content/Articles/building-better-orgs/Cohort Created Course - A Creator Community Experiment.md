@@ -78,7 +78,7 @@ If you apply and don't find yourself in phase 1, I will automatically consider y
 ### FAQs
 
 #### Can I see the content prior? 
-Yes and no. You may not see the specifics of the 2-hour discussion, but through 60+ articles on this site, you will find my documented biases in building your craft and careers. The course will be based on these writings. Click [here](https://publish.obsidian.md/rohitmalekar) to explore.
+Yes and no. You may not see the specifics of the 2-hour discussion, but through 60+ articles on this site, you will find my documented biases in building your craft and careers. The course will be based on these writings. Click [[Articles/index|here]] to explore.
 
 #### Is there a cost to participate in Phase 1 and Phase 2?
 No. Also, at no point in time your live participation will exceed 2 hours in effort. As a core creator and co-creator, you will need to vote on a few decisions on the economics and distribution of the course. This will be done asynchronously. These are the only contributions I am looking for. 

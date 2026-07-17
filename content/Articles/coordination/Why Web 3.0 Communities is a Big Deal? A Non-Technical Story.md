@@ -51,7 +51,7 @@ Where there is code, there may be bugs. The vulnerabilities in the DAO code, if 
 
 Besides, there is always a risk that the financial incentives in the DAO might limit the foresight of its creators to see "beyond economic metrics" for the greater good of the community. That's a human problem, technology ain't going to fix it. If you are interested in the intersection of co-operative platforms enabled by blockchain governance, check out [this](https://thereboot.com/beyond-cryptoeconomics-platform-cooperativism-and-the-future-of-blockchain-governance/) article.
 
-Lastly, communities of the Web 3.0 era will bring voices with shared interests together and evenly distribute gains from the pursuit with the creators and builders of the community. On the flip side, I fear it will also add to the number of bubbles we choose to be cozy within. I have written about this separately [here](https://publish.obsidian.md/rohitmalekar/Articles/Craft/Potential+Perils+of+Web+3.0+Communities).
+Lastly, communities of the Web 3.0 era will bring voices with shared interests together and evenly distribute gains from the pursuit with the creators and builders of the community. On the flip side, I fear it will also add to the number of bubbles we choose to be cozy within. I have written about this separately [[Potential Perils of Web 3.0 Communities|here]].
 
 ### A Real Life Use Case - Government Sponsored Social Security Schemes
 

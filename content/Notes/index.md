@@ -7,6 +7,6 @@ This is my thinking in public, before it becomes essays. Each note captures one 
 
 Two collections:
 
-- **[[Notes/self/index|Reflections]]** — first-person syntheses: observations and arguments from I'm working out in my own words.
+- **[[Notes/self/index|Reflections]]** — first-person syntheses: observations and arguments I'm working out in my own words.
 - **[[Notes/reference/index|Reference Notes]]** — ideas from books, papers, and talks, each with its source cited.
 

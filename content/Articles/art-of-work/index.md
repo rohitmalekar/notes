@@ -3,7 +3,7 @@ title: The Art of Work
 description: Essays on careers, product craft, consulting lessons, and staying competent in the age of AI.
 ---
 
-Lessons from 18 years across consulting, product, and research on building a career that compounds, the craft of product management, and what AI changes (and reveals) about competence.
+Lessons from twenty years across consulting, product, and research on building a career that compounds, the craft of product management, and what AI changes (and reveals) about competence.
 
 ## Start here
 

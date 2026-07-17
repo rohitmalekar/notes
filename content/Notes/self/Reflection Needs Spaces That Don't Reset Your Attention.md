@@ -2,7 +2,7 @@
 title: Reflection Needs Spaces That Don't Reset Your Attention
 tags:
   - Well-Being
-type: reflection
+type: Reflection
 date: 2026-01-14
 ---
 

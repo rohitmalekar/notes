@@ -3,7 +3,7 @@ title: Curation Is the Edge No Algorithm Can Replicate
 tags:
   - Learning
   - AI
-type: reflection
+type: Reflection
 date: 2026-01-14
 ---
 

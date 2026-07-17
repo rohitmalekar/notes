@@ -3,7 +3,7 @@ title: Persona Trap - When Individuals Become the Culture
 tags:
   - Culture
   - Leadership
-type: reflection
+type: Reflection
 date: 2026-01-14
 ---
 
