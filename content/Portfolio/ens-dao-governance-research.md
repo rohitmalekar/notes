@@ -14,15 +14,15 @@ date: 2026-07-17
 
 ## The problem
 
-ENS DAO governs a treasury of over $400M, but the evidence for how well its governance actually works was scattered across onchain votes, delegate activity, forum threads, and working-group records. Metagov's independent retrospective needed a defensible, reproducible evidence base — not a one-off spreadsheet — so that findings could be verified, challenged, and kept alive after the report shipped.
+ENS DAO governs a treasury of over $400M, but the evidence for how well its governance actually works was scattered across onchain votes, delegate activity, forum threads, and working-group records. Metagov's independent retrospective needed a defensible, reproducible evidence base so that findings could be verified, challenged, and kept alive after the report shipped.
 
 ## What I built
 
 A reproducible research data platform that turns raw governance activity into analysis-ready data:
 
-- **Pipeline:** Dagster for orchestration, dbt for transformation, DuckDB for storage — a lightweight, fully open stack anyone can run locally.
+- **Pipeline:** Supported build using Dagster for orchestration, dbt for transformation, DuckDB for storage — a lightweight, fully open stack anyone can run locally.
 - **Coverage:** 7 data sources spanning onchain governance (votes, delegations, treasury flows) and offchain signals (forum discussions and related records).
-- **Outputs:** the datasets and analytics behind the retrospective's findings, published as a live research platform rather than static charts.
+- **Outputs:** Owned the datasets and analytics behind the retrospective's findings, published as a live research platform.
 
 ## The outcome
 
