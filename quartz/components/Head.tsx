@@ -79,7 +79,7 @@ export default (() => {
             "https://x.com/RohitMalekar",
             "https://warpcast.com/rohitmalekar.eth",
             "https://medium.com/@rohitmalekar",
-            "https://www.gitcoin.co/blog/author/rohit-malekar",
+            "https://hackernoon.com/u/rohitmalekar",
             "https://breathefeellove.in/",
           ],
         },

@@ -23,7 +23,7 @@ Search engines and LLMs currently see conflicting versions of you: Medium says "
 | **X/Twitter** (@RohitMalekar) | Bio → one-liner; website field → rohitmalekar.in. |
 | **Farcaster** (rohitmalekar.eth) | Same: bio + link. |
 | **HackerNoon** | If you can still edit your author profile, set the website link to rohitmalekar.in. Then send me the profile URL — I'll add it to the Person schema's `sameAs` list in `quartz/components/Head.tsx`. |
-| **Gitcoin blog author page** | Already in the schema. If Gitcoin lets you edit the author bio, add the site link. |
+| **Gitcoin blog author page** | Dead since Gitcoin's content rehaul (removed from schema; Portfolio links the archived copy). If Gitcoin republishes author pages, re-add to `sameAs` in Head.tsx. |
 
 ## Tool footer credits (high-authority backlinks)
 
