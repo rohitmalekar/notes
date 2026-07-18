@@ -149,7 +149,7 @@ We’ve seen the sparks of this in past rounds and experiments: community-funded
 
 **Footnote: Metrics-Enabled, Expert Stakeholder-Led Retro Funding**
 
-Drawn from [GG23](https://www.gitcoin.co/blog/gitcoin-grants-23-retro) and other retro funding pilots ([Optimism RF4](https://gov.optimism.io/t/retro-funding-4-learnings-and-reflections/9271), [Filecoin RetroPGF 1](https://docs.opensource.observer/blog/fil-retropgf-1)), this model combines:
+Drawn from [GG23](https://web.archive.org/web/20251101021505/https://www.gitcoin.co/blog/gitcoin-grants-23-retro) and other retro funding pilots ([Optimism RF4](https://gov.optimism.io/t/retro-funding-4-learnings-and-reflections/9271), [Filecoin RetroPGF 1](https://docs.opensource.observer/blog/fil-retropgf-1)), this model combines:
 
 * Metrics-Enabled: Baseline and domain-specific metrics inform initial algorithmic allocations.
 * Expert-Led: Domain specialists adjust allocations with context on data quality, security, or roadmap fit.

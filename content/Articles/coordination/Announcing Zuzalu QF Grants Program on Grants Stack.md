@@ -15,4 +15,4 @@ The program's primary objective is to foster the growth of spinoff events (Zu-vi
 
 Zuzalu will partner with Gitcoin and use Gitcoin’s Grants Stack, a tested platform for public goods funding.
 
-Access the complete article here on the [Gitcoin Blog](https://www.gitcoin.co/blog/zuzalu-qf-grants-program-on-grants-stack)
+Access the complete article here on the [Gitcoin Blog](https://web.archive.org/web/20251128224910/https://www.gitcoin.co/blog/zuzalu-qf-grants-program-on-grants-stack)

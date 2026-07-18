@@ -16,4 +16,4 @@ Modern mechanism design often assumes that agents are independent and self-inter
 - Understand the need for Cluster-Matching QF
 - Contrast results between QF and Cluster-Matching QF
 
-Access the complete article on the [Gitcoin Blog](https://www.gitcoin.co/blog/wtf-is-cluster-matching-qf)
+Access the complete article on the [Gitcoin Blog](https://web.archive.org/web/20260207173901/https://www.gitcoin.co/blog/wtf-is-cluster-matching-qf)

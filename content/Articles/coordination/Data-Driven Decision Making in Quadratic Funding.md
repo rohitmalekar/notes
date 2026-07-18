@@ -131,7 +131,7 @@ I am deeply grateful to Open Source Observer (OSO) and RegenData by Gitcoin for 
 - [How to retrieve key metrics for projects?](https://docs.opensource.observer/docs/use-cases/collection-view)
 ### References
 - Buterin, V., Hitzig, Z., & Weyl, E. G. (2018). _A flexible design for funding public goods_. Retrieved from [https://arxiv.org/pdf/1809.06421](https://arxiv.org/pdf/1809.06421)
-- Gitcoin. (2023). _The case for grant programs: How to incentivise ecosystem growth by funding innovation_. Retrieved from [https://www.gitcoin.co/blog/the-case-for-grant-programs-how-to-incentivise-ecosystem-growth-by-funding-innovation](https://www.gitcoin.co/blog/the-case-for-grant-programs-how-to-incentivise-ecosystem-growth-by-funding-innovation)
+- Gitcoin. (2023). _The case for grant programs: How to incentivise ecosystem growth by funding innovation_. Retrieved from [https://web.archive.org/web/20251115190319/https://www.gitcoin.co/blog/the-case-for-grant-programs-how-to-incentivise-ecosystem-growth-by-funding-innovation](https://web.archive.org/web/20251115190319/https://www.gitcoin.co/blog/the-case-for-grant-programs-how-to-incentivise-ecosystem-growth-by-funding-innovation)
 - Gitcoin. (2024). *Gitcoin by the numbers.* Retrieved from https://impact.gitcoin.co/
 - Grant Innovation Lab at Metagov. (2024). _State of Web3 grants report_. Retrieved from [https://drive.google.com/file/d/1JBbGos6Bjdvd1LRGDvIijREic4l7Th2I/view](https://drive.google.com/file/d/1JBbGos6Bjdvd1LRGDvIijREic4l7Th2I/view)
 - Lister, M. (2023, July). _Grants for public good: A roadmap for resilient democratic funding._ Retrieved from [https://gitcoin.mirror.xyz/YoSf01Pjm7ZDflCrLypbWxN0B0Fv2bYCVGLSOye8xjE](https://gitcoin.mirror.xyz/YoSf01Pjm7ZDflCrLypbWxN0B0Fv2bYCVGLSOye8xjE)
