@@ -80,6 +80,7 @@ export default (() => {
             "https://warpcast.com/rohitmalekar.eth",
             "https://medium.com/@rohitmalekar",
             "https://hackernoon.com/u/rohitmalekar",
+            "https://www.wikidata.org/wiki/Q140603264",
             "https://breathefeellove.in/",
           ],
         },
