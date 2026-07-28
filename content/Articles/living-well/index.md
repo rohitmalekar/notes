@@ -12,5 +12,6 @@ The longest-running thread in my writing: how to live deliberately in a world en
 - [[Decoding Quality of Life]] - seeking the quality of consciousness
 - [[Staying Sane When Insanity is a Click Away]] — defending attention in the outrage economy
 - [[The Era of Digital Distraction - A Co-Production by All of Us]] - we scroll alone but we distract together
+- [[On Meta-skills]] — the eight capacities that sit upstream of every skill you try to learn
 
 ## Full archive
