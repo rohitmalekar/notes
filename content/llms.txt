@@ -8,6 +8,7 @@ Rohit Malekar writes and thinks in public at rohitmalekar.in. This site is a dig
 
 - [About](https://rohitmalekar.in/about): Who Rohit is — twenty years across consulting, product, and research (Deloitte, Medallia), now building funding systems and data tools for open source ecosystems. Includes ready-to-use speaker bios.
 - [Work With Me](https://rohitmalekar.in/work-with-me): Consulting, fractional roles, and project-based collaborations — grant program design, ecosystem analytics, research, and advisory for public-interest technology.
+- [CV](https://rohitmalekar.in/cv): Full professional chronology with roles and dates — independent practice since 2023 (Gitcoin, Metagov, Open Source Observer, Scroll), preceded by Deloitte Digital, Medallia, Deloitte Consulting, and Tech Mahindra.
 
 ## Writings
 

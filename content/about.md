@@ -26,6 +26,8 @@ Around 2021 I went down the decentralization rabbit hole and stayed. What began 
 
 What gets me out of bed: population-scale coordination challenges where incentives, governance, and impact are harder to model but more meaningful to shape.
 
+[[cv|Full chronology, with roles and dates →]]
+
 ## Off the track
 
 I live in Bangalore. I believe slow miles and metaphors both help in understanding complexity — one through the body, the other through the heart. When I'm not building data tools, I'm usually [[cycling|riding long distances around Bangalore]] or [scribbling poetry](https://breathefeellove.in/).
@@ -46,4 +48,4 @@ I live in Bangalore. I believe slow miles and metaphors both help in understandi
 
 **📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email](mailto:rohitmalekar@gmail.com)**
 
-[X/Twitter](https://twitter.com/rohitmalekar) · [Farcaster](https://warpcast.com/rohitmalekar.eth) · [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [GitHub](https://github.com/rohitmalekar) · [Medium](https://medium.com/@rohitmalekar)
+[X/Twitter](https://twitter.com/rohitmalekar) · [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [GitHub](https://github.com/rohitmalekar) · [Medium](https://medium.com/@rohitmalekar)
