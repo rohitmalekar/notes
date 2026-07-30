@@ -24,7 +24,7 @@ My path here wasn't linear. Twenty years across consulting, product, and researc
 - **GG24 Interop Standards, Infrastructure & Analytics Round** — Co-designed and operated Ethereum's inaugural interop-focused grants domain; a $100K+ QF round on Giveth to fund the open standards, tooling, and measurement systems underlying Ethereum's multi-chain future • [Domain Design](https://gov.gitcoin.co/t/domain-announcement-interop-standards-infrastructure-analytics/24631) • [Interop Landscape](https://gov.gitcoin.co/t/gg24-update-inside-the-interop-standards-infra-analytics-round/24749) • [Retrospective](https://gov.gitcoin.co/t/gg24-interop-round-retrospective/24936)
 - **Scroll Delegate Accelerator: Metrics Module** — Designed and delivered a data-driven governance curriculum to 30 delegate candidates, equipping them to evaluate Scroll governance proposals with onchain metrics • [Curriculum](https://scrollzkp.notion.site/6-A-useful-approach-to-metrics-2ac7792d22af80f488cce5b6e7dfd508)
 
-[[Portfolio| View Full Portfolio →]]
+[[Portfolio/index| View Full Portfolio →]]
 
 ## 🤝 Work With Me
 I work with teams and funders who are building public-interest technology and need clearer strategy, better data, or stronger funding systems — grant program design, analytics dashboards, ecosystem research, and advisory support.
@@ -58,4 +58,4 @@ I believe slow miles and metaphors both help in understanding complexity, one th
 
 **📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email me](mailto:rohitmalekar@gmail.com)**
 
-[X/Twitter](https://twitter.com/rohitmalekar) · [Farcaster](https://warpcast.com/rohitmalekar.eth) · [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [GitHub](https://github.com/rohitmalekar)
+[X/Twitter](https://twitter.com/rohitmalekar) · [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [GitHub](https://github.com/rohitmalekar)

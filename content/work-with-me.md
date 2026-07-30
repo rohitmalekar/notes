@@ -41,8 +41,8 @@ Recent collaborations: [Gitcoin](https://gitcoin.co) · [Metagov](https://metago
 
 ## The full picture
 
-Browse [[Portfolio|selected work]] across research, data tools, writing, and speaking, or read [[about|how I got here]].
+Browse [[Portfolio/index|selected work]] across research, data tools, writing, and speaking, or read [[about|how I got here]].
 
 **📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email me](mailto:rohitmalekar@gmail.com)**
 
-[X/Twitter](https://twitter.com/rohitmalekar) · [Farcaster](https://warpcast.com/rohitmalekar.eth) · [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [GitHub](https://github.com/rohitmalekar)
+[X/Twitter](https://twitter.com/rohitmalekar) · [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [GitHub](https://github.com/rohitmalekar)
