@@ -1,0 +1,85 @@
+# WIKILINK GRAPH — generated 2026-08-02
+
+CV -> Portfolio/index; ens-dao-governance-research; gg24-interop-round; work-with-me
+On Meta-skills -> Agency in Thoughts Versus Action; Coexisting Contentment and Ambition; Debt of the Surplus Fortune; Do Yourself a Favor and Pick Up That Pen; Fallibility of Thoughts; Futility of Prescription; Futility of labels; Gap Between Understanding and Acting; Impact of Life Lessons on Identity; Life as a Pendulum; Losing to the Natural State of Mind; Most of Us Are Insane; Neti Neti; On Accepting Who You Are; Oversimplification of the Wiggly World; Prisoners of Our Own Biases; Quality of Life; Reflection Needs Spaces That Don't Reset Your Attention; Separateness; Tat Tvam Asi; Ten Life Lessons I Picked Up In This Decade; The Dual Gifts of Consciousness; The Unsolicited Fortunes – Fifty Things I Am Grateful For; Why 99% of the Self-Help Industry Is Slop - Gust Against Gravity; Writing Poetry is Discovery Not Creation
+Work With Me -> Portfolio/index; about; ens-dao-governance-research; gg24-interop-round
+Case Study: GG24 Interop Standards, Infrastructure & Analytics Round -> work-with-me
+Case Study: ENS DAO Governance Research Platform -> work-with-me
+About -> cv; cycling; ens-dao-governance-research; gg24-interop-round; work-with-me
+The Utility of Marriage -> Hardest Thing At and Outside Work; Identity as the Greatest Self-Deception; Irony in Love; New Versions of Youself; Prisoners of Our Own Biases; Who Are You Being?
+AI Can Solve Your Problems. It Can’t Build You. -> AI and Shape of Our Lives; Being Great is a Murky Affair; Belonging at Work; Building Destiny; Decoding Quality of Life; Feeling of Effort in Learning; Futility of Prescription; Gap Between Understanding and Acting; Hardest Test for Leadership; High Quality Problem; Judgment Is the Premium in the Age of Generation; Problems of the World and Individuals; Purpose.exe - Not Found; Role of Crisis in Individual Life; The Infrastructure for Insight - Cultivating Personal Judgement in the Age of Generation
+The Life You Live Is Shaped by the Words You Use -> Goals as Perceptual Lenses; The Infrastructure for Insight - Cultivating Personal Judgement in the Age of Generation; Why 99% of the Self-Help Industry Is Slop - Gust Against Gravity; notes/reference/Role of Language; notes/self/Writing Poetry is Discovery Not Creation
+The Infrastructure for Insight - Cultivating Personal Judgement in the Age of Generation -> Curation Is the Edge No Algorithm Can Replicate; Fragmented Ideas Don't Compound; Judgment Is the Premium in the Age of Generation; Knowledge Management Is Gardening, Not Architecture; Notes as Compound Interest; Reflection Needs Spaces That Don't Reset Your Attention
+Identity as the Greatest Self-Deception -> Neti Neti
+Writing Poetry is Discovery Not Creation -> How do Ideas Originate
+Highest Standard When No One is Watching -> Marginal Cost Doctrine
+Why 99% of the Self-Help Industry Is Slop - Gust Against Gravity -> Losing to the Natural State of Mind; Self-Help Traps
+Purpose.exe - Not Found -> The Irony in the Pursuit of One’s Purpose — The Story of Namma Studio; The Tyranny of Chasing Goals; Who Are You Being?
+The Physics of Desire -> Building Destiny; Freedom From the Mind; Tat Tvam Asi
+Role of Language -> Construction of Reality
+Sources of Sacredness -> On Sacredness
+On Sacredness -> Tat Tvam Asi
+Golf Swing and Being Whole -> Irony in Finding Purpose
+Trap in Work-Life Debate -> Hardest Thing At and Outside Work
+Irony in Love -> No Mistakes in the Universe; We Are Prisoners of Our Own Biases
+No Mistakes in the Universe -> Building Destiny
+Life by a Thousand Cuts -> Black and White View of the World; No Mistakes in the Universe; The Creator's Paradox - Unsolicited Serendipities
+You are the Average of the Problems You Tackle -> High Quality Problem; Irony in Finding Purpose; notes/self/Quality of Life
+The Imperative of Decentralized Identity - Sybil Resistance and Beyond -> Privacy versus Secrecy
+The Anomalies of Attraction -> Agency in Thoughts Versus Action; Neti Neti
+True North for Product Teams -> Culture as a Way of Working
+Tat Tvam Asi -> Seeker and the Sought
+On Accepting Who You Are -> Who Are You Being?
+Losing to the Natural State of Mind -> Futility of Prescription; Gap Between Understanding and Acting
+Individual Rationality -> Multipolar Trap
+Human Centered Design Beyond Digital UX -> Customer Service and AI
+Candidate Experience -> Recruiting as an Imperfect Process
+Why Web 3.0 Communities is a Big Deal? A Non-Technical Story -> Potential Perils of Web 3.0 Communities
+Three features I would pay for in a sufficiently decentralized social network -> Privacy versus Secrecy
+The Next Frontier for Indian Startups - Sequoias and Meadows -> Reining in Unbridled Tech
+Greenpilled - Implications for India -> The Decentralized Web and the Rise of Transparency-First Institutions; The Next Frontier for Indian Startups - Sequoias and Meadows
+Blockchain for Public Goods - A Prequel to Greenpilled -> Blockchain for Public Goods - A Prequel to Greenpilled; Cure for Information Asymmetry; DAO Trifecta; Individual Rationality; People on the Spot; Programmable Money
+The Power of Healthy Skepticism for Popular Opinions -> Misery from the Loss of Critical Thinking
+Ten Life Lessons I Picked Up In This Decade -> Building Destiny; Designing An Authentic Work Culture - Part 3; Impact of Life Lessons on Identity; Irony in Finding Purpose; Neti Neti; No Mistakes in the Universe; notes/self/Quality of Life
+The Holy Grail for the Enabling Tech for Cohort-Based Courses -> Learning in Cohorts
+Your Reality Has Zero Value for Anyone Else -> Futility of labels
+You Maybe Going Deep in Debt and Not Even Know About it -> Debt of the Surplus Fortune
+Work Principles and Belief Systems — Two Sides of the Same Coin -> Belonging at Work; Building Destiny; Irony in Finding Purpose; Neti Neti; Tat Tvam Asi
+We Are Prisoners of Our Own Biases -> Prisoners of Our Own Biases
+To Return or Not to Return (to India), That is the Question -> notes/self/Quality of Life
+Title Inflation in Product Management -> Layers of Management
+Three Revelations During the Pandemic -> Reining in Unbridled Tech
+The Tyranny of Chasing Goals -> Losing to the Natural State of Mind; Who Are You Being?; Why Do Careers Get Stuck in the Middle Management
+The Title Trap in Transitioning into Product Roles -> Do You Need to be a Product Manager to Apply Product Thinking; Title Inflation in Product Management
+The Secret to Building Sustainable Businesses -> Design for All - A Transformation from Group Thinking to Design Thinking; Design for Impact; Getting Hired As Resource Versus As a Person; Ten Life Lessons I Picked Up In This Decade
+The Product Management Grid -> Foundations of a scalable product
+The Making of a Megathon -> The Irony in the Pursuit of One’s Purpose — The Story of Namma Studio; True North for Product Teams
+The Irony of I -> Dissolving Ego; Irony in Finding Purpose; Neti Neti; Tat Tvam Asi
+The Irony in the Pursuit of One’s Purpose — The Story of Namma Studio -> Irony in Finding Purpose
+The Digital Transformation Trap — Compromising Human Experience with Agility and Speed -> Metric-Driven Success; The Secret to Building Sustainable Businesses; Work Principles and Belief Systems — Two Sides of the Same Coin
+The Creator's Paradox - Unsolicited Serendipities -> Golf Swing and Being Whole; How do Ideas Originate; Writing Poetry is Discovery Not Creation
+The Conformity Trap -> Belonging at Work; Impact of Life Lessons on Identity; On Accepting Who You Are
+The Art of Engineering -> Supercode
+Personal Takeaways from Dr. Kapil Gupta’s Book “Direct Truth” -> How do Ideas Originate; Losing to the Natural State of Mind
+One with the Divine -> Seeker and the Sought; Tat Tvam Asi
+Litmus Test for Leadership -> Hardest Test for Leadership
+If You Aren't Content Without it, You Won't be Content With it -> Coexisting Contentment and Ambition; Futility of labels; On Accepting Who You Are
+Designing An Authentic Work Culture - Part 3 -> Culture as a Way of Working; Designing An Authentic Work Culture - Part 1; Designing An Authentic Work Culture - Part 2
+Designing An Authentic Work Culture - Part 2 -> Building Destiny; Culture as a Way of Working; Designing An Authentic Work Culture - Part 1; Designing An Authentic Work Culture - Part 3
+Designing An Authentic Work Culture - Part 1 -> Designing An Authentic Work Culture - Part 2; Designing An Authentic Work Culture - Part 3; Neti Neti; Persona Trap - When Individuals Become the Culture
+Decoding Quality of Life -> Being Great is a Murky Affair; Futility of Prescription; Impact of Life Lessons on Identity; Order in Consciousness Through Goal Pursuit; To Return or Not to Return (to India), That is the Question
+A Longing for Belonging -> Belonging at Work; Search for Belonging
+10 Questions to Ask Interviewers on Work Culture -> The Three Most Unexplored Aspects of A Job Switch in Early Career Transitions; Why Is “Do You Have Any Questions” One of The Most Important Questions In Your Interview
+Why Is "Do You Have Any Questions" One of The Most Important Questions In Your Interview -> Hiring is a Two Way Street
+Why Do Careers Get Stuck in the Middle Management -> 10 Questions to Ask Interviewers on Work Culture; Decoding Quality of Life; High Quality Problem; Irony in Finding Purpose
+The Three Most Unexplored Aspects of A Job Switch in Early Career Transitions -> Culture - Created in the trenches; Getting Hired As Resource Versus As a Person; Recruiting as an Imperfect Process
+Most Challenging Work Experience -> Impact of Life Lessons on Identity; The Conformity Trap; The Irony in the Pursuit of One’s Purpose — The Story of Namma Studio
+Cohort Created Course - A Creator Community Experiment -> A Longing for Belonging; Articles/index; Cohort Created Course - A Creator Community Experiment; Learning in Cohorts; Recruiting as an Imperfect Process; The Next Frontier for Indian Startups - Sequoias and Meadows
+A Litmus Test for Your Future Workplace -> Getting Hired As Resource Versus As a Person
+A Case for Sustainable Disruption Using DAOs -> Cure for Information Asymmetry
+5 lessons from 5 years of building products -> Detached Commitment for a Product Manager; Foundations of a scalable product; Human Centered Design Beyond Digital UX; Metric-Driven Success; True North for Product Teams
+How Can An Engineer Transition into Product Management -> Losing to the Natural State of Mind
+A rant and a wishlist for ed-tech in India -> Reining in Unbridled Tech
+Do You Need to be a Product Manager to Apply Product Thinking -> Detached Commitment for a Product Manager; Metric-Driven Success
+Design for All - A Transformation from Group Thinking to Design Thinking -> Human Centered Design Beyond Digital UX; True North for Product Teams
+Cycling -> BRM Checklist; Consistency Compounds - Insights from 6 Years of Cycling Data; Retrospective from Surviving A 300 km Cycling Ride; Why Gada Training Became My Secret Weapon for Long-Distance Cycling; Zone 2 Training - The Slow is Smooth, Smooth is Fast of Cycling
