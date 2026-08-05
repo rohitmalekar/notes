@@ -1,6 +1,6 @@
 ---
 title: About
-description: "Rohit Malekar builds funding systems, data tools, and governance research for open source ecosystems — after twenty years across consulting, product, and research at firms like Deloitte and Medallia."
+description: Rohit Malekar builds funding systems, data tools, and governance research for open source ecosystems, after twenty years across consulting, product, and research at firms like Deloitte and Medallia.
 tags:
   - Web3
 date: 2026-07-17
@@ -20,7 +20,7 @@ If any of that sounds like something your team needs, see [[work-with-me|how I w
 
 ## How I got here
 
-My path wasn't linear. I spent twenty years across consulting, product, and research — including strategy and analytics roles at Deloitte and Medallia — building the institutional rigor I now bring to coordination systems.
+My path wasn't linear. I spent twenty years across consulting, product, and research, including strategy and analytics roles at Deloitte and Medallia, building the institutional rigor I now bring to coordination systems.
 
 Around 2021 I went down the decentralization rabbit hole and stayed. What began as writing about DAOs and public goods (runner-up, HackerNoon Contributor of the Year for DAO coverage, 2022) turned into building: [GrantsScope](https://grantsscope.xyz/), an LLM-powered grantee-discovery tool for Gitcoin rounds; funding-flow analyses across GG22–GG24; and eventually designing and operating grant rounds myself.
 
@@ -30,7 +30,7 @@ What gets me out of bed: population-scale coordination challenges where incentiv
 
 ## Off the track
 
-I live in Bangalore. I believe slow miles and metaphors both help in understanding complexity — one through the body, the other through the heart. When I'm not building data tools, I'm usually [[cycling|riding long distances around Bangalore]] or [scribbling poetry](https://breathefeellove.in/).
+I live in Bangalore. I believe slow miles and metaphors both help in understanding complexity, one through the body, the other through the heart. When I'm not building data tools, I'm usually [[cycling|riding long distances around Bangalore]] or [scribbling poetry](https://breathefeellove.in/).
 
 ## Bios for organizers
 
@@ -42,7 +42,7 @@ I live in Bangalore. I believe slow miles and metaphors both help in understandi
 
 **Longer (~100 words):**
 
-> Rohit Malekar works at the intersection of data, funding systems, and coordination for open source ecosystems. He co-designed and operated Ethereum's first interop-focused grants domain in Gitcoin Grants 24, built the reproducible analytics stack behind Metagov's independent governance retrospective of ENS DAO — cited in active decisions over a $400M+ treasury — and created GrantsScope, an LLM-powered grantee-discovery tool for public goods funding. He has delivered data-driven governance curricula for Scroll delegates and ecosystem research with Open Source Observer. His earlier career spans twenty years of consulting, product, and research, including Deloitte and Medallia. He writes essays and atomic notes in public at rohitmalekar.in.
+> Rohit Malekar works at the intersection of data, funding systems, and coordination for open source ecosystems. He co-designed and operated Ethereum's first interop-focused grants domain in Gitcoin Grants 24, built the reproducible analytics stack behind Metagov's independent governance retrospective of ENS DAO and created GrantsScope, an LLM-powered grantee-discovery tool for public goods funding. He has delivered data-driven governance curricula for Scroll delegates and ecosystem research with Open Source Observer. His earlier career spans twenty years of consulting, product, and research, including Deloitte and Medallia. He writes essays and atomic notes in public at rohitmalekar.in.
 
 ## Elsewhere
 

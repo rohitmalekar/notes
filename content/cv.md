@@ -1,6 +1,6 @@
 ---
 title: CV
-description: "Full professional chronology for Rohit Malekar — independent practice in open source funding and ecosystem analytics, preceded by twenty years at Deloitte, Medallia, and Tech Mahindra."
+description: Full professional chronology for Rohit Malekar. Independent practice in open source funding and ecosystem analytics, preceded by twenty years at Deloitte, Medallia, and Tech Mahindra.
 date: 2026-07-30
 ---
 

@@ -1,4 +1,4 @@
-# CORPUS INDEX — generated 2026-08-02 — 302 notes, newest first
+# CORPUS INDEX — generated 2026-08-03 — 302 notes, newest first
 # Record = 2 lines:  TITLE ~ type ~ date ~ tags ~ words ~ path-under-content/
 #                    thesis
 # Read full text with: content/<path>. Public URLs live in corpus/index.jsonl.

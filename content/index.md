@@ -14,7 +14,7 @@ description: "Rohit Malekar helps funders and open source ecosystems design gran
 ## About
 I work at the intersection of data, funding systems, and coordination for open source ecosystems. I've co-led grants rounds at Gitcoin, built analytics dashboards used in live funding decisions across the Ethereum ecosystem, and contributed governance research to ENS DAO through Metagov.
 
-My path here wasn't linear. Twenty years across consulting, product, and research, including strategy and analytics roles at Deloitte and Medallia, gave me the institutional rigor I now bring to coordination systems. [[about|More about me →]]
+My path here wasn't linear. Twenty three years across consulting, product, and research, including strategy and analytics roles at Deloitte and Medallia, gave me the institutional rigor I now bring to coordination systems. [[about|More about me →]]
 
 ***Recent contributions at:** [Gitcoin](http://gitcoin.co) · [Open Source Observer](http://opensource.observer) · [Metagov](https://metagov.org) · [Scroll](https://scroll.io)* 
 
@@ -27,7 +27,7 @@ My path here wasn't linear. Twenty years across consulting, product, and researc
 [[Portfolio/index| View Full Portfolio →]]
 
 ## 🤝 Work With Me
-I work with teams and funders who are building public-interest technology and need clearer strategy, better data, or stronger funding systems — grant program design, analytics dashboards, ecosystem research, and advisory support.
+I work with teams and funders who are building public-interest technology and need clearer strategy, better data, or stronger funding systems using grant program design, analytics dashboards, ecosystem research, and advisory support.
 
 [[work-with-me|How I support teams →]] · **📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)**
 

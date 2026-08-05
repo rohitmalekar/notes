@@ -13,3 +13,4 @@ replit.nix
 quartz/cli/tui/dist/
 content/Drafts/
 .claude/settings.local.json
+__pycache__/
