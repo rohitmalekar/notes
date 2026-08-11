@@ -1,3 +1,8 @@
+---
+name: notes-add-frontmatter
+description: Add YAML frontmatter to a draft markdown file that already exists on disk, classifying it as Article, Reflection, or Reference and deriving all required fields. Use when the user has a draft file without frontmatter and wants it prepared for publishing.
+---
+
 # /add-frontmatter — Add YAML frontmatter to a draft markdown file
 
 Read the draft file at the path given in args (or ask for it if omitted). Analyze the content and prepend the appropriate YAML frontmatter block.
