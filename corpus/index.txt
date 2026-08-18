@@ -1,10 +1,12 @@
-# CORPUS INDEX — generated 2026-08-03 — 302 notes, newest first
+# CORPUS INDEX — generated 2026-08-17 — 304 notes, newest first
 # Record = 2 lines:  TITLE ~ type ~ date ~ tags ~ words ~ path-under-content/
 #                    thesis
 # Read full text with: content/<path>. Public URLs live in corpus/index.jsonl.
 
+The Sense of Us ~ Reference ~ 2026-08-11 ~ Culture ~ 53w ~ Notes/reference/The Sense of Us.md
+  My argument is that all the symptoms we can see—corruption, incompetence, inconsiderate behaviour—stem from the same deep cause in the Indian psyche. The lack of a sense of 'us.' Public…
 CV ~ Note ~ 2026-07-30 ~ - ~ 591w ~ cv.md
-  Full professional chronology for Rohit Malekar — independent practice in open source funding and ecosystem analytics, preceded by twenty years at Deloitte, Medallia, and Tech Mahindra.
+  Full professional chronology for Rohit Malekar. Independent practice in open source funding and ecosystem analytics, preceded by twenty years at Deloitte, Medallia, and Tech Mahindra.
 On Meta-skills ~ Article ~ 2026-07-28 ~ Well-Being ~ 1092w ~ Articles/living-well/On Meta-skills.md
   Meta-skills accelerate your ability to acquire new skills by altering the natural state of your mind. Eight prompts, not prescriptions, for chiselling the worldview that got you here but won't…
 Work With Me ~ Note ~ 2026-07-17 ~ - ~ 430w ~ work-with-me.md
@@ -13,14 +15,16 @@ Case Study: GG24 Interop Standards, Infrastructure & Analytics Round ~ Portfolio
   Designing and operating Ethereum's first interop-focused grants domain in Gitcoin Grants 24 — a $100K+ quadratic funding round — and what the capital-allocation data revealed about how QF treats infrastructure.
 Case Study: ENS DAO Governance Research Platform ~ Portfolio ~ 2026-07-17 ~ Web3,Data-Analysis ~ 265w ~ Portfolio/ens-dao-governance-research.md
   How a reproducible analytics stack — Dagster, dbt, and DuckDB across 7 onchain and forum data sources — became the evidence base for Metagov's independent governance retrospective of ENS DAO…
-About ~ Note ~ 2026-07-17 ~ Web3 ~ 495w ~ about.md
-  Rohit Malekar builds funding systems, data tools, and governance research for open source ecosystems — after twenty years across consulting, product, and research at firms like Deloitte and Medallia.
+About ~ Note ~ 2026-07-17 ~ Web3 ~ 482w ~ about.md
+  Rohit Malekar builds funding systems, data tools, and governance research for open source ecosystems, after twenty years across consulting, product, and research at firms like Deloitte and Medallia.
 What is not invented needs no revival ~ Article ~ 2026-06-23 ~ Culture,Well-Being ~ 425w ~ Articles/living-well/What is not invented needs no revival.md
   Drawing on the philosophy of Sanatan Dharma and its quality of being eternal and discovered rather than invented, this piece argues that the same principle applies to relationships and careers.…
 On Over-Independence ~ Reflection ~ 2026-06-12 ~ Well-Being ~ 107w ~ Notes/self/On Over-Independence.md
   As a child, when you expressed a need but it didn't work, or it came with a social cost (embarrassment, rejection, being seen as weak or burdensome), you often adapt…
 India's Cycle of Self-Defeat ~ Reflection ~ 2026-06-10 ~ Culture ~ 101w ~ Notes/self/India's Cycle of Self-Defeat.md
   Sometimes I wonder if anyone hates Indians more than other Indians.
+Bengaluru's Outer Ring Road - The Drowning Tech Corridor Built on Top of a Lake System ~ Article ~ 2026-06-04 ~ Climate ~ 1376w ~ Articles/coordination/Bengaluru's Outer Ring Road - The Drowning Tech Corridor Built on Top of a Lake System.md
+  ORR floods because it was built on top of the city's natural drainage architecture. This is a manufactured, systemic crisis, not a weather event, and fragmented governance across BBMP/GBA, BDA…
 Ain't Life a Sandwich ~ Reflection ~ 2026-06-03 ~ Well-Being ~ 84w ~ Notes/self/Ain't Life a Sandwich.md
   The filling is made up of moments where you are fully alive, in the present, letting the universe experience itself through you, but sandwiched between rueful regret and unfulfilled desires.
 The Performance of Fineness ~ Reflection ~ 2026-05-31 ~ Well-Being ~ 124w ~ Notes/self/The Performance of Fineness.md
