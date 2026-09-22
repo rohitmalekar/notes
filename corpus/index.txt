@@ -1,8 +1,10 @@
-# CORPUS INDEX — generated 2026-09-22 — 305 notes, newest first
+# CORPUS INDEX — generated 2026-09-22 — 306 notes, newest first
 # Record = 2 lines:  TITLE ~ type ~ date ~ tags ~ words ~ path-under-content/
 #                    thesis
 # Read full text with: content/<path>. Public URLs live in corpus/index.jsonl.
 
+Ethereum's Privacy Stack and the Gap in the Middle ~ Article ~ 2026-09-22 ~ Web3,Decentralization ~ 2978w ~ Articles/coordination/Ethereum's Privacy Stack and the Gap in the Middle.md
+  Ethereum is building privacy by separating neutral mechanisms at the base layer from policy set by wallets, pools, rollups and institutional systems. The teams at both ends are well funded.…
 Why Would Anyone Pay an Actual Therapist Now? ~ Article ~ 2026-08-18 ~ Well-Being,AI ~ 345w ~ Articles/living-well/Why Would Anyone Pay an Actual Therapist Now.md
   Machines can't yet emulate the stakes and continuity that effective therapy needs. Text is a terrible medium for machine-assisted therapy, and the fix isn't a clever wrapper on a frontier…
 The Sense of Us ~ Reference ~ 2026-08-11 ~ Culture ~ 53w ~ Notes/reference/The Sense of Us.md
