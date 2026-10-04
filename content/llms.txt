@@ -1,20 +1,21 @@
 # Rohit Malekar
 
-> Essays, notes, and selected work on coordination, public goods, product craft, and living well.
+> Research, essays, and selected work on Ethereum in institutional finance, coordination and public goods, product craft, and living well.
 
-Rohit Malekar writes and thinks in public at rohitmalekar.in. This site is a digital garden — essays compound from atomic notes over time. Rohit works at the intersection of data, funding systems, and coordination for digital public goods: designing grant programs, building analytics tools, and helping ecosystems make better decisions.
+Rohit Malekar writes and thinks in public at rohitmalekar.in. This site is a digital garden — essays compound from atomic notes over time. Rohit researches how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. He writes The Monsoon Ledger (https://themonsoonledger.com/), a weekly on policy, regulation and Ethereum across Asian finance, and was lead researcher on Ethereum and Indian Institutional Finance (https://institutions.ethindia.co/briefing.html) for ETHIndia. Before this he spent four years designing grant programs and building analytics inside Ethereum, and twenty years in strategy and analytics at Deloitte and Medallia.
 
 ## About & working together
 
-- [About](https://rohitmalekar.in/about): Who Rohit is — twenty years across consulting, product, and research (Deloitte, Medallia), now building funding systems and data tools for open source ecosystems. Includes ready-to-use speaker bios.
-- [Work With Me](https://rohitmalekar.in/work-with-me): Consulting, fractional roles, and project-based collaborations — grant program design, ecosystem analytics, research, and advisory for public-interest technology.
-- [CV](https://rohitmalekar.in/cv): Full professional chronology with roles and dates — independent practice since 2023 (Gitcoin, Metagov, Open Source Observer, Scroll), preceded by Deloitte Digital, Medallia, Deloitte Consulting, and Tech Mahindra.
+- [About](https://rohitmalekar.in/about): Who Rohit is: twenty years across consulting, product, and research (Deloitte, Medallia), four years allocating capital inside Ethereum, now researching Ethereum adoption in Asian institutional finance. Includes ready-to-use speaker bios.
+- [Work With Me](https://rohitmalekar.in/work-with-me): Full-time roles, advisory, commissioned research, and speaking on Ethereum adoption in institutional finance across India, Singapore and Hong Kong.
+- [CV](https://rohitmalekar.in/cv): Full professional chronology with roles and dates — institutional finance research since 2026 (ETHIndia, The Monsoon Ledger), independent practice 2023-2026 (Gitcoin, Metagov, Open Source Observer, Scroll), preceded by Deloitte Digital, Medallia, Deloitte Consulting, and Tech Mahindra.
 
 ## Writings
 
-Essays organized into four themes:
+Essays organized into five themes:
 
-- [Coordination & Public Goods](https://rohitmalekar.in/articles/coordination/): Funding mechanisms, grants programs, DAOs, and the data behind making Web3 ecosystems work.
+- [Ethereum & Institutional Finance](https://rohitmalekar.in/articles/institutions/): Privacy, settlement, and what it takes for regulated institutions to adopt public blockchains.
+- [Public Goods & Coordination](https://rohitmalekar.in/articles/coordination/): Funding mechanisms, grants programs, DAOs, and the data behind making Web3 ecosystems work.
 - [The Art of Work](https://rohitmalekar.in/articles/art-of-work/): Careers, product craft, consulting lessons, and staying competent in the age of AI.
 - [Building Better Orgs](https://rohitmalekar.in/articles/building-better-orgs/): Work culture, leadership, and how organizations actually decide.
 - [Living Well](https://rohitmalekar.in/articles/living-well/): Attention, contentment, health, and the slow compounding of a deliberate life.

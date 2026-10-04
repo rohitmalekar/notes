@@ -60,10 +60,15 @@ export default (() => {
           url: siteUrl,
           image: `https://${cfg.baseUrl}/Attachments/profile.jpg`,
           jobTitle:
-            "Independent researcher and builder — funding systems and data for open source ecosystems",
+            "Researcher and writer on Ethereum in institutional finance across Asia",
           description:
-            "Rohit Malekar designs funding systems, builds analytics tools, and researches governance for open source ecosystems, with work at Gitcoin, Metagov, Open Source Observer, and Scroll.",
+            "Rohit Malekar researches how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. He writes The Monsoon Ledger and led research on ETHIndia's briefing on Ethereum and Indian institutional finance.",
           knowsAbout: [
+            "tokenisation",
+            "blockchain settlement",
+            "stablecoins",
+            "digital asset regulation in India",
+            "Ethereum in institutional finance",
             "grant program design",
             "quadratic funding",
             "ecosystem analytics",
@@ -81,6 +86,7 @@ export default (() => {
             "https://medium.com/@rohitmalekar",
             "https://hackernoon.com/u/rohitmalekar",
             "https://www.wikidata.org/wiki/Q140603264",
+            "https://themonsoonledger.com/",
             "https://breathefeellove.in/",
           ],
         },
