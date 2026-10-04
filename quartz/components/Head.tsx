@@ -98,6 +98,26 @@ export default (() => {
           name: cfg.pageTitle,
           publisher: { "@id": authorId },
         },
+        {
+          "@context": "https://schema.org",
+          "@type": "Periodical",
+          "@id": "https://themonsoonledger.com/#periodical",
+          name: "The Monsoon Ledger",
+          url: "https://themonsoonledger.com/",
+          description: "Policy, regulation and Ethereum across Asian finance.",
+          author: { "@id": authorId },
+          publisher: { "@id": authorId },
+          inLanguage: "en",
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "Report",
+          name: "Ethereum and Indian Institutional Finance",
+          url: "https://institutions.ethindia.co/briefing.html",
+          author: { "@id": authorId },
+          publisher: { "@type": "Organization", name: "ETHIndia", url: "https://ethindia.co" },
+          datePublished: "2026",
+        },
       )
     } else if (isArticle) {
       jsonLd.push({
