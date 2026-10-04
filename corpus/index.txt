@@ -1,26 +1,26 @@
-# CORPUS INDEX — generated 2026-09-22 — 306 notes, newest first
+# CORPUS INDEX — generated 2026-10-04 — 306 notes, newest first
 # Record = 2 lines:  TITLE ~ type ~ date ~ tags ~ words ~ path-under-content/
 #                    thesis
 # Read full text with: content/<path>. Public URLs live in corpus/index.jsonl.
 
-Ethereum's Privacy Stack and the Gap in the Middle ~ Article ~ 2026-09-22 ~ Web3,Decentralization ~ 2978w ~ Articles/coordination/Ethereum's Privacy Stack and the Gap in the Middle.md
+Work With Me ~ Note ~ 2026-10-01 ~ - ~ 419w ~ work-with-me.md
+  Research, advisory, full-time roles and speaking on Ethereum adoption in institutional finance across India, Singapore and Hong Kong.
+CV ~ Note ~ 2026-10-01 ~ - ~ 706w ~ cv.md
+  Full professional chronology for Rohit Malekar. Research on Ethereum in Asian institutional finance, preceded by independent practice in ecosystem analytics and twenty years at Deloitte, Medallia, and Tech Mahindra.
+Ethereum's Privacy Stack and the Gap in the Middle ~ Article ~ 2026-09-22 ~ Web3,Decentralization ~ 2978w ~ Articles/institutions/Ethereum's Privacy Stack and the Gap in the Middle.md
   Ethereum is building privacy by separating neutral mechanisms at the base layer from policy set by wallets, pools, rollups and institutional systems. The teams at both ends are well funded.…
 Why Would Anyone Pay an Actual Therapist Now? ~ Article ~ 2026-08-18 ~ Well-Being,AI ~ 345w ~ Articles/living-well/Why Would Anyone Pay an Actual Therapist Now.md
   Machines can't yet emulate the stakes and continuity that effective therapy needs. Text is a terrible medium for machine-assisted therapy, and the fix isn't a clever wrapper on a frontier…
 The Sense of Us ~ Reference ~ 2026-08-11 ~ Culture ~ 53w ~ Notes/reference/The Sense of Us.md
   My argument is that all the symptoms we can see—corruption, incompetence, inconsiderate behaviour—stem from the same deep cause in the Indian psyche. The lack of a sense of 'us.' Public…
-CV ~ Note ~ 2026-07-30 ~ - ~ 591w ~ cv.md
-  Full professional chronology for Rohit Malekar. Independent practice in open source funding and ecosystem analytics, preceded by twenty years at Deloitte, Medallia, and Tech Mahindra.
 On Meta-skills ~ Article ~ 2026-07-28 ~ Well-Being ~ 1092w ~ Articles/living-well/On Meta-skills.md
   Meta-skills accelerate your ability to acquire new skills by altering the natural state of your mind. Eight prompts, not prescriptions, for chiselling the worldview that got you here but won't…
-Work With Me ~ Note ~ 2026-07-17 ~ - ~ 430w ~ work-with-me.md
-  Consulting, fractional roles, and project-based collaborations in grant program design, ecosystem analytics, and funding systems for public-interest technology.
 Case Study: GG24 Interop Standards, Infrastructure & Analytics Round ~ Portfolio ~ 2026-07-17 ~ Web3,Data-Analysis ~ 268w ~ Portfolio/gg24-interop-round.md
   Designing and operating Ethereum's first interop-focused grants domain in Gitcoin Grants 24 — a $100K+ quadratic funding round — and what the capital-allocation data revealed about how QF treats infrastructure.
 Case Study: ENS DAO Governance Research Platform ~ Portfolio ~ 2026-07-17 ~ Web3,Data-Analysis ~ 265w ~ Portfolio/ens-dao-governance-research.md
   How a reproducible analytics stack — Dagster, dbt, and DuckDB across 7 onchain and forum data sources — became the evidence base for Metagov's independent governance retrospective of ENS DAO…
-About ~ Note ~ 2026-07-17 ~ Web3 ~ 482w ~ about.md
-  Rohit Malekar builds funding systems, data tools, and governance research for open source ecosystems, after twenty years across consulting, product, and research at firms like Deloitte and Medallia.
+About ~ Note ~ 2026-07-17 ~ Web3 ~ 537w ~ about.md
+  Rohit Malekar researches how banks, market infrastructure and regulators in Asia could use Ethereum, after twenty years in strategy and analytics at Deloitte and Medallia and four years allocating capital…
 What is not invented needs no revival ~ Article ~ 2026-06-23 ~ Culture,Well-Being ~ 425w ~ Articles/living-well/What is not invented needs no revival.md
   Drawing on the philosophy of Sanatan Dharma and its quality of being eternal and discovered rather than invented, this piece argues that the same principle applies to relationships and careers.…
 On Over-Independence ~ Reflection ~ 2026-06-12 ~ Well-Being ~ 107w ~ Notes/self/On Over-Independence.md
@@ -57,7 +57,7 @@ The Human Paradox of Dharma ~ Reflection ~ 2026-03-10 ~ Well-Being ~ 61w ~ Notes
   Nothing beats the mental gymnastics to justify falling for a temptation, except, the self-deceit to rationalize and live with the consequences after.
 GG24 Update - Inside the Interop Round ~ Article ~ 2026-03-10 ~ Web3 ~ 1632w ~ Articles/coordination/GG24 Update - Inside the Interop Round.md
   As Ethereum fragments across rollups and L2s, the risk isn't just scaling—it's losing the coherence that makes the ecosystem trustworthy and coordinated. Interoperability isn't one problem; it spans five distinct…
-Being Right Isn't Enough - Lessons for Ethereum from a 90s OS War ~ Article ~ 2026-02-27 ~ Web3 ~ 1987w ~ Articles/coordination/Being Right Isn't Enough - Lessons for Ethereum from a 90s OS War.md
+Being Right Isn't Enough - Lessons for Ethereum from a 90s OS War ~ Article ~ 2026-02-27 ~ Web3 ~ 1987w ~ Articles/institutions/Being Right Isn't Enough - Lessons for Ethereum from a 90s OS War.md
   GNU Hurd was architecturally superior to Linux and lost anyway, not because it was wrong, but because being right isn't enough. The same pattern haunts Ethereum today: the Hurd/Linux analogy…
 Privacy Versus Secrecy ~ Reference ~ 2026-02-24 ~ Decentralization,Well-Being ~ 52w ~ Notes/reference/Privacy versus Secrecy.md
   Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn't want the whole world to know, but a…
@@ -499,7 +499,7 @@ The Power of Healthy Skepticism for Popular Opinions ~ Article ~ 2022-01-17 ~ We
   It was the end of 2015. I was in the U.S. and had been exposed to politics there for a few years at that time. The Right was clamoring that…
 Ten Life Lessons I Picked Up In This Decade ~ Article ~ 2022-01-17 ~ Well-Being ~ 607w ~ Articles/living-well/Ten Life Lessons I Picked Up In This Decade.md
   [[Impact of Life Lessons on Identity|Life Lessons]] emerge from a deep-rooted underlying shortcoming. Such situations often require extended experiential learning from mentors that lasts years. If done right, life lessons…
-The Decentralized Web and the Rise of Transparency-First Institutions ~ Article ~ 2021-12-02 ~ Web3 ~ 1276w ~ Articles/coordination/The Decentralized Web and the Rise of Transparency-First Institutions.md
+The Decentralized Web and the Rise of Transparency-First Institutions ~ Article ~ 2021-12-02 ~ Web3 ~ 1276w ~ Articles/institutions/The Decentralized Web and the Rise of Transparency-First Institutions.md
   The inevitable redistribution of power Every generation has a seminal fight or two that define its years of existence. The memorable ones include people joining hands for the greater good…
 Early Impressions of Mirror ~ Article ~ 2021-12-01 ~ Web3 ~ 681w ~ Articles/coordination/Early Impressions of Mirror.md
   For centuries, social and economic institutions have been built with a control-first mindset—and the intermediaries that grew from that design extract value from creators without giving them a real stake.…
