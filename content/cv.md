@@ -1,20 +1,27 @@
 ---
 title: CV
-description: Full professional chronology for Rohit Malekar. Independent practice in open source funding and ecosystem analytics, preceded by twenty years at Deloitte, Medallia, and Tech Mahindra.
-date: 2026-07-30
+description: Full professional chronology for Rohit Malekar. Research on Ethereum in Asian institutional finance, preceded by independent practice in ecosystem analytics and twenty years at Deloitte, Medallia, and Tech Mahindra.
+date: 2026-10-01
 ---
 
-*Last updated: July 2026 · For how I work with teams, see [[work-with-me|Work With Me]].*
+*Last updated: October 2026 · For how I work with teams, see [[work-with-me|Work With Me]].*
 
 ## Profile
 
-Twenty-three years leading data, product, and research work across management consulting, enterprise software, and independent practice. For Fortune 500 clients at Deloitte, global brands at Medallia, and now foundations, protocols, and grant programs building open source funding systems.
+Twenty-three years leading data, product, and research work across management consulting, enterprise software, and independent practice. I now research how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. That work draws on two decades with Fortune 500 clients at Deloitte and global brands at Medallia, and four years allocating and measuring capital inside Ethereum.
 
-My work turns messy, multi-source data into decisions people can act on: funder-fit scorecards, governance analytics, capital allocation frameworks, and the operating models around them. I've built consulting practices and led cross-functional design and engineering teams for global clients, and I now apply that same institutional rigor to population-scale coordination problems where incentives, governance, and impact are harder to model but more meaningful to shape.
+My work turns messy, multi-source data into decisions people can act on: funder-fit scorecards, governance analytics, capital allocation frameworks, and the operating models around them. I've built consulting practices and led cross-functional design and engineering teams for global clients, and I bring the same institutional rigor to the question regulated finance in Asia is now asking: what tokenised infrastructure should run on.
 
 ## Work
 
-### Independent Practice · Ecosystem Research, Funding Design & Analytics · Jun 2023 – Present
+### Independent · Ethereum & Institutional Finance Research · 2026 – Present
+
+Research and writing on Ethereum adoption by banks, market infrastructure and regulators across India, Singapore and Hong Kong.
+
+- **ETHIndia — Lead Researcher, [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html):** Seven-module briefing on India's tokenisation mandates under SEBI and RBI, comparative legal frameworks, market sizing, Ethereum versus permissioned alternatives, privacy, and adoption mechanics, with a source-verified figure ledger.
+- **Author, [The Monsoon Ledger](https://themonsoonledger.com/):** Weekly publication on policy, regulation and Ethereum across Asian finance, covering regulatory circulars, institutional pilots, and technical explainers.
+
+### Independent Practice · Ecosystem Research, Funding Design & Analytics · Jun 2023 – 2026
 
 Advise foundations, protocols, and grant programs on where capital goes and what it produces. Clients include Gitcoin, Metagov, Open Source Observer, and Scroll.
 

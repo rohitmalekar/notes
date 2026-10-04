@@ -1,43 +1,44 @@
 ---
 title: Work With Me
-description: Consulting, fractional roles, and project-based collaborations in grant program design, ecosystem analytics, and funding systems for public-interest technology.
-date: 2026-07-17
+description: Research, advisory, full-time roles and speaking on Ethereum adoption in institutional finance across India, Singapore and Hong Kong.
+date: 2026-10-01
 ---
 
-I work with teams and funders who are building public-interest technology and need clearer strategy, better data, or stronger funding systems.
+I work with banks, market infrastructure, fintechs and protocol teams taking Ethereum into regulated finance in Asia, and with the people deciding whether they should.
 
-If you're designing a grant program, evaluating impact, or trying to make sense of a complex ecosystem, I can help.
+If you're evaluating a tokenisation or settlement pilot, mapping what regulators in India, Singapore or Hong Kong will allow, or need a briefing that leads with evidence rather than advocacy, I can help.
 
 **📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email me](mailto:rohitmalekar@gmail.com)**
 
 ## What I do
 
-- **Design and operate grant or funding programs** — from mechanism selection and domain thesis to round operations and retrospectives
-- **Build analytics dashboards and decision-support tools** — data pipelines and interfaces that inform live funding decisions, not vanity charts
-- **Ecosystem research and sensemaking** — landscape reports, retrospectives, and metrics frameworks that funders actually act on
-- **Product and data strategy** — for open-source, climate, and civic tech initiatives
-- **Workshops and advisory** — data-driven governance curricula and alignment support for teams and delegates
+- **Regulatory and market mapping**: what SEBI, RBI, MAS and the HKMA have mandated, piloted or left silent, and where the opportunity sits for your segment
+- **Commissioned research and briefings**: market sizing, use-case evaluation and source-verified briefings written for decision-makers
+- **Pilot and architecture evaluation**: public Ethereum, L2s and permissioned alternatives compared on settlement, privacy and compliance requirements
+- **Data and dashboards**: tracking tokenisation pilots, issuance and onchain activity with reproducible pipelines
+- **Speaking and bylines**: panels, podcasts and guest columns on institutional adoption of Ethereum in Asia
+
+## Open to
+
+- **Full-time roles** in institutional research, ecosystem strategy or business development at protocols, L2s, tokenisation platforms and financial institutions
+- **Fractional and advisory** engagements across a season of work
+- **Commissioned research** with a defined deliverable
+- **Speaking** at industry and policy events
 
 ## Selected outcomes
 
-- **Built the analytics behind Metagov's independent governance retrospective of ENS DAO** — a reproducible data stack across 7 onchain and forum sources, now a live research platform cited in active decisions over a $400M+ treasury. [[ens-dao-governance-research|Case study →]]
-- **Co-designed and operated Ethereum's first interop-focused grants domain** in Gitcoin Grants 24 — a $100K+ quadratic funding round, from domain thesis to public retrospective. [[gg24-interop-round|Case study →]]
-- **Trained 30 delegate candidates** in the Scroll Delegate Accelerator to evaluate governance proposals with onchain metrics. [Curriculum](https://scrollzkp.notion.site/6-A-useful-approach-to-metrics-2ac7792d22af80f488cce5b6e7dfd508)
-- **Created [GrantsScope](https://grantsscope.xyz/)** — an LLM-powered grantee-discovery tool used by donors across Gitcoin funding rounds.
+- **Lead researcher, [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html)** for ETHIndia: a seven-module briefing on India's tokenisation mandates, with every figure source-linked in a public ledger.
+- **Author, [The Monsoon Ledger](https://themonsoonledger.com/)**: a weekly on policy, regulation and Ethereum across India, Singapore and Hong Kong.
+- **Built the analytics behind Metagov's independent governance review of ENS DAO**: a reproducible data stack across 7 onchain and forum sources, cited in decisions over a $400M+ treasury. [[ens-dao-governance-research|Case study →]]
+- **Co-designed and operated Ethereum's first interop-focused grants domain** in Gitcoin Grants 24: a $100K+ round, from domain thesis to public retrospective. [[gg24-interop-round|Case study →]]
 
-Recent collaborations: [Gitcoin](https://gitcoin.co) · [Metagov](https://metagov.org) · [Open Source Observer](https://opensource.observer) · [Scroll](https://scroll.io)
+Collaborations: [ETHIndia](https://ethindia.co) · [Gitcoin](https://gitcoin.co) · [Metagov](https://metagov.org) · [Open Source Observer](https://opensource.observer) · [Scroll](https://scroll.io)
 
 <!-- TODO (Rohit): add 2-3 short testimonials here once collected — one line each, name + role + org. -->
 
-## How engagements work
+**A good fit** if you're building or evaluating Ethereum-based infrastructure for regulated finance in Asia and want someone who has spent twenty years inside institutions and four inside Ethereum.
 
-- **Short-term consulting** — a scoped question answered in weeks, not quarters: a funding-program audit, a retrospective, a metrics framework.
-- **Project-based** — a defined deliverable: an analytics dashboard, an ecosystem research report, or a grant round designed and operated end to end.
-- **Fractional** — ongoing data and strategy capacity embedded with your team across a season of work.
-
-**A good fit** if you're working on public-interest technology, you have more data than clarity, and you want someone senior who can move between mechanism design, data engineering, and the story the numbers tell.
-
-**Probably not a fit** if the goal is marketing analytics or growth hacking — plenty of people do that better than I do.
+**Probably not a fit** if the goal is token marketing or price commentary.
 
 ## The full picture
 

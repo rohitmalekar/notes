@@ -1,9 +1,14 @@
 ---
 title: Portfolio
-description: Selected work across research, data tools, writing, and speaking — funding systems and analytics for digital public goods.
+description: Selected work across institutional finance research, data tools, writing, and speaking, from Ethereum adoption in Asian finance to funding systems for digital public goods.
 ---
 
-**Featured case studies:** [[ens-dao-governance-research|ENS DAO Governance Research Platform]] · [[gg24-interop-round|GG24 Interop Round]]
+**Featured:** [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html) · [The Monsoon Ledger](https://themonsoonledger.com/) ·  [[ens-dao-governance-research|ENS DAO Governance Research Platform]] · [[gg24-interop-round|GG24 Interop Round]]
+
+## 🏦 Institutional Finance
+- **Ethereum and Indian Institutional Finance (2026)**: lead researcher on a seven-module ETHIndia briefing covering India's tokenisation mandates, legal frameworks, market sizing, Ethereum versus permissioned alternatives, privacy and adoption mechanics • [Briefing](https://institutions.ethindia.co/briefing.html)
+- **The Monsoon Ledger (2026)**: weekly publication on policy, regulation and Ethereum across Asian finance, with Weekly Brief, State of Play, Regulatory Wire, Pilot Scorecard and Under the Hood • [Publication](https://themonsoonledger.com/)
+- **Ethereum's Privacy Stack and the Gap in the Middle (2026)**: essay on base-layer privacy mechanisms, institutional policy layers and the applied cryptography research between them • [[Ethereum's Privacy Stack and the Gap in the Middle|Essay]]
 
 ## 🔎 Research & Strategy
 - **GG24 Domain Design (2025)** — Co-led Ethereum Interop Standards, Infra, and Analytics Quadratic Funding Round • [[gg24-interop-round|Case Study]] • [Article](https://gov.gitcoin.co/t/domain-announcement-interop-standards-infrastructure-analytics/24631) • [Interop Landscape](https://gov.gitcoin.co/t/gg24-update-inside-the-interop-standards-infra-analytics-round/24749) • [Grant Round Retro](https://gov.gitcoin.co/t/gg24-interop-round-retrospective/24936)

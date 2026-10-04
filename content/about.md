@@ -1,6 +1,6 @@
 ---
 title: About
-description: Rohit Malekar builds funding systems, data tools, and governance research for open source ecosystems, after twenty years across consulting, product, and research at firms like Deloitte and Medallia.
+description: Rohit Malekar researches how banks, market infrastructure and regulators in Asia could use Ethereum, after twenty years in strategy and analytics at Deloitte and Medallia and four years allocating capital inside Ethereum.
 tags:
   - Web3
 date: 2026-07-17
@@ -10,27 +10,27 @@ date: 2026-07-17
 
 ## What I do now
 
-I work at the intersection of data, funding systems, and coordination for open source ecosystems. In practice, that means three kinds of work:
+I research how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. In practice:
 
-- **Designing and operating funding programs** — I co-led grants rounds at Gitcoin, including [[gg24-interop-round|Ethereum's first interop-focused grants domain]] in Gitcoin Grants 24.
-- **Building analytics that funders act on** — dashboards and data platforms used in live funding decisions, like the [[ens-dao-governance-research|analytics behind Metagov's independent governance retrospective of ENS DAO]], cited in active decisions over a $400M+ treasury.
-- **Researching how ecosystems decide** — sensemaking reports, retrospectives, and metrics frameworks for organizations like Gitcoin, Metagov, Open Source Observer, and Scroll.
+- **Writing [The Monsoon Ledger](https://themonsoonledger.com/)**, a weekly on policy, regulation and Ethereum across Asian finance, with a regulatory wire, a pilot scorecard and technical explainers.
+- **Leading research on [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html)** for ETHIndia, a seven-module briefing on India's tokenisation mandates and what they should run on.
+- **Advising teams** taking Ethereum into regulated markets in Asia, starting from the specific problem and the person who owns it.
 
 If any of that sounds like something your team needs, see [[work-with-me|how I work with teams]].
 
 ## How I got here
 
-My path wasn't linear. I spent twenty years across consulting, product, and research, including strategy and analytics roles at Deloitte and Medallia, building the institutional rigor I now bring to coordination systems.
+I spent twenty years across consulting, product, and research, including strategy and analytics roles at Deloitte and Medallia. That is where I learned how large institutions evaluate technology: through procurement, risk committees and a demand for evidence over enthusiasm.
 
-Around 2021 I went down the decentralization rabbit hole and stayed. What began as writing about DAOs and public goods (runner-up, HackerNoon Contributor of the Year for DAO coverage, 2022) turned into building: [GrantsScope](https://grantsscope.xyz/), an LLM-powered grantee-discovery tool for Gitcoin rounds; funding-flow analyses across GG22–GG24; and eventually designing and operating grant rounds myself.
+Around 2021 I went down the decentralization rabbit hole and stayed. What began as writing about DAOs and public goods (runner-up, HackerNoon Contributor of the Year for DAO coverage, 2022) turned into building and operating: [GrantsScope](https://grantsscope.xyz/), funding-flow analyses across Gitcoin Grants 22 to 24, [[gg24-interop-round|Ethereum's first interop-focused grants domain]], and the [[ens-dao-governance-research|analytics behind Metagov's governance review of ENS DAO]], a $400M+ treasury. Four years of allocating and measuring capital onchain taught me how the Ethereum stack behaves in production and how to tell what it delivers.
 
-What gets me out of bed: population-scale coordination challenges where incentives, governance, and impact are harder to model but more meaningful to shape.
+In 2026 those two halves met. India has already decided to tokenise, Singapore and Hong Kong are running pilots, and the open question is what this infrastructure should run on. I now work on that question.
 
 [[cv|Full chronology, with roles and dates →]]
 
 ## Off the track
 
-I live in Bangalore. I believe slow miles and metaphors both help in understanding complexity, one through the body, the other through the heart. When I'm not building data tools, I'm usually [[cycling|riding long distances around Bangalore]] or [scribbling poetry](https://breathefeellove.in/).
+I live in Bangalore. I believe slow miles and metaphors both help in understanding complexity, one through the body, the other through the heart. When I'm not reading regulatory circulars, I'm usually [[cycling|riding long distances around Bangalore]] or [scribbling poetry](https://breathefeellove.in/).
 
 ## Bios for organizers
 
@@ -38,14 +38,14 @@ I live in Bangalore. I believe slow miles and metaphors both help in understandi
 
 **Short (~50 words):**
 
-> Rohit Malekar builds funding systems and data tools for open source ecosystems. He has co-led grants rounds at Gitcoin, built the analytics behind Metagov's governance retrospective of ENS DAO, and created GrantsScope. Before web3, he spent two decades in consulting, product, and research at firms like Deloitte and Medallia. He writes at rohitmalekar.in.
+> Rohit Malekar researches how banks, market infrastructure and regulators in Asia could use Ethereum. He writes The Monsoon Ledger, a weekly on policy, regulation and Ethereum across Asian finance, and led research on ETHIndia's briefing on Ethereum and Indian institutional finance. Earlier he spent twenty years at firms like Deloitte and Medallia.
 
 **Longer (~100 words):**
 
-> Rohit Malekar works at the intersection of data, funding systems, and coordination for open source ecosystems. He co-designed and operated Ethereum's first interop-focused grants domain in Gitcoin Grants 24, built the reproducible analytics stack behind Metagov's independent governance retrospective of ENS DAO and created GrantsScope, an LLM-powered grantee-discovery tool for public goods funding. He has delivered data-driven governance curricula for Scroll delegates and ecosystem research with Open Source Observer. His earlier career spans twenty years of consulting, product, and research, including Deloitte and Medallia. He writes essays and atomic notes in public at rohitmalekar.in.
+> Rohit Malekar researches how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. He writes The Monsoon Ledger, a weekly on policy, regulation and Ethereum across Asian finance, and was lead researcher on Ethereum and Indian Institutional Finance, a seven-module briefing published by ETHIndia. Before this he spent four years allocating and measuring capital inside Ethereum: co-running Gitcoin grant rounds, designing Ethereum's first interop standards funding round, and building the analytics behind Metagov's governance review of ENS DAO. His earlier career spans twenty years of strategy, product and analytics, including Deloitte and Medallia.
 
 ## Elsewhere
 
 **📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email](mailto:rohitmalekar@gmail.com)**
 
-[X/Twitter](https://twitter.com/rohitmalekar) · [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [GitHub](https://github.com/rohitmalekar) · [Medium](https://medium.com/@rohitmalekar)
+[X/Twitter](https://twitter.com/rohitmalekar) · [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [GitHub](https://github.com/rohitmalekar) · [The Monsoon Ledger](https://themonsoonledger.com/) · [Medium](https://medium.com/@rohitmalekar)
