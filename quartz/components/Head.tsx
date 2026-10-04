@@ -86,7 +86,6 @@ export default (() => {
             "https://medium.com/@rohitmalekar",
             "https://hackernoon.com/u/rohitmalekar",
             "https://www.wikidata.org/wiki/Q140603264",
-            "https://themonsoonledger.com/",
             "https://breathefeellove.in/",
           ],
         },
@@ -104,10 +103,7 @@ export default (() => {
           "@id": "https://themonsoonledger.com/#periodical",
           name: "The Monsoon Ledger",
           url: "https://themonsoonledger.com/",
-          description: "Policy, regulation and Ethereum across Asian finance.",
           author: { "@id": authorId },
-          publisher: { "@id": authorId },
-          inLanguage: "en",
         },
         {
           "@context": "https://schema.org",
