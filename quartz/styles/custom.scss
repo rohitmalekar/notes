@@ -1,3 +1,74 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Inline SVG charts in articles. Marks use --chart-1; text and grid use theme tokens.
+:root {
+  --chart-1: #2a78d6;
+}
+
+:root[saved-theme="dark"] {
+  --chart-1: #3987e5;
+}
+
+figure.chart {
+  margin: 2rem 0;
+
+  > svg {
+    width: 100%;
+    height: auto;
+    display: block;
+    font-family: var(--bodyFont);
+  }
+
+  .mark {
+    fill: var(--chart-1);
+  }
+
+  .line {
+    stroke: var(--chart-1);
+    fill: none;
+    stroke-width: 2;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+  }
+
+  .dot {
+    fill: var(--chart-1);
+    stroke: var(--light);
+    stroke-width: 2;
+  }
+
+  .grid {
+    stroke: var(--lightgray);
+    stroke-width: 1;
+  }
+
+  .ref {
+    stroke: var(--darkgray);
+    stroke-width: 1.5;
+    stroke-dasharray: 4 3;
+  }
+
+  .label {
+    fill: var(--darkgray);
+    font-size: 15px;
+  }
+
+  .value {
+    fill: var(--dark);
+    font-size: 15px;
+    font-weight: 600;
+  }
+
+  .muted {
+    fill: var(--gray);
+    font-size: 13px;
+  }
+
+  figcaption {
+    color: var(--gray);
+    font-size: 0.85rem;
+    margin-top: 0.5rem;
+  }
+}
