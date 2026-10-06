@@ -42,7 +42,7 @@ All three are the same act. A number in one account goes down and a number in an
 <text class="muted" x="502.5" y="222" text-anchor="middle">6%</text>
 <text class="muted" x="600" y="222" text-anchor="middle">8%</text>
 </svg>
-<figcaption>Fees plus exchange-rate markup on a $200 transfer, Q3 2025. UPI person-to-person transfers carry no charge for consumers. Source: <a href="https://remittanceprices.worldbank.org/">World Bank Remittance Prices Worldwide</a></figcaption>
+<figcaption>Fees plus exchange-rate markup on a $200 transfer, Q3 2025. Source: <a href="https://remittanceprices.worldbank.org/">World Bank Remittance Prices Worldwide</a><br/>UPI stays free for consumers, and person-to-person transfers carry no charge. From 15 October 2026, merchants pay a Merchant Discount Rate (MDR) of 0.4% on UPI payments above ₹2,000, capped at ₹300 a transaction. Payments up to ₹2,000 and small merchants receiving up to ₹1 lakh a month stay at zero, and merchants cannot pass the charge on to customers. Source: <a href="https://financialservices.gov.in/sites/default/files/2026-09/FAQs---Merchant-Discount-Rate--MDR--on-Select-UPI--P2M--Transactions_0.pdf">NPCI MDR FAQs</a></figcaption>
 </figure>
 
 ## Every institution keeps its own books
@@ -110,7 +110,7 @@ The early movers are central banks, market infrastructure and large banks, worki
 
 Swift's entry says the most about direction. Swift built the messaging network that let every bank keep its own books for fifty years, and it now runs a shared ledger for its member banks. In India, the regulator that oversaw the move from paper shares to demat is building the next version with the central bank.
 
-The amounts are still small next to the markets they sit in. Indian corporate bonds outstanding total about ₹53.6 lakh crore, so Demat 2.0's first ₹1,025 crore is roughly 0.02% of the market ([ETHIndia briefing](https://institutions.ethindia.co/briefing.html)). Growth is fast all the same. US government debt held on public shared ledgers rose from about \$100 million at the start of 2023 to almost \$15 billion in October 2026.
+The amounts are still small next to the markets they sit in. Indian corporate bonds outstanding total about ₹61 lakh crore, according to [SEBI's chairman](https://www.businesstoday.in/markets/story/corporate-bonds-hit-rs61-lakh-crore-sebi-pushes-for-deeper-and-more-liquid-debt-markets-557148-2026-09-23) in September 2026, so Demat 2.0's first ₹1,025 crore is under 0.02% of the market. Growth is fast all the same. US government debt held on public shared ledgers rose from about \$100 million at the start of 2023 to almost \$15 billion in October 2026.
 
 <figure class="chart">
 <svg viewBox="0 0 640 250" role="img" aria-labelledby="tt-title tt-desc">
@@ -145,7 +145,7 @@ The amounts are still small next to the markets they sit in. Indian corporate bo
 
 ## What to expect
 
-Most people will never knowingly use a shared ledger. They will notice the effects instead: an off-exchange bond trade that settles the same day instead of in three to seven, or money to family abroad that arrives in minutes on a Sunday. The plumbing will stay as invisible as NPCI is to most UPI users.
+Most people will never knowingly use a shared ledger. They will notice the effects instead: a bond trade where the bond and the payment change hands in the same instant, or money to family abroad that arrives in minutes on a Sunday. The plumbing will stay as invisible as NPCI is to most UPI users.
 
 Institutions will move first, and among themselves. Bond issuance, fund shares, repo and payments between banks come before anything retail, because the parties are few, regulated and already know each other. The G20 wants three in four cross-border payments to reach the recipient within an hour by the end of 2027, and the [Financial Stability Board](https://www.fsb.org/2025/10/g20-roadmap-for-cross-border-payments-consolidated-progress-report-for-2025/) says that target will probably be missed.
 
