@@ -75,3 +75,5 @@ I know Christmas ain't close, but hey, Diwali is. Here's my wish list for regula
 8. Give approved ledgers settlement finality in statute, and collect stamp duty by smart contract at the point of transfer.
 9. Open a FEMA route, starting at GIFT City, for foreign investors to hold Indian tokenized securities.
 10. Publish the numbers from Demat 2.0 and UMI: settlement times, costs and investor counts.
+
+I publish weekly at [The Monsoon Ledger](https://themonsoonledger.com/) on how banks, market infrastructure and regulators across India, Singapore and Hong Kong could use Ethereum for tokenization, settlement and verification.

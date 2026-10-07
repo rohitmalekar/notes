@@ -1,13 +1,17 @@
-# CORPUS INDEX — generated 2026-10-04 — 306 notes, newest first
+# CORPUS INDEX — generated 2026-10-07 — 308 notes, newest first
 # Record = 2 lines:  TITLE ~ type ~ date ~ tags ~ words ~ path-under-content/
 #                    thesis
 # Read full text with: content/<path>. Public URLs live in corpus/index.jsonl.
 
+Tokenized Securities: A Diwali Wish List for SEBI and RBI ~ Article ~ 2026-10-07 ~ Web3 ~ 1069w ~ Articles/institutions/Tokenized Securities - A Diwali Wish List for SEBI and RBI.md
+  The SEC and SEBI agree that a tokenized security should be fungible with its conventional twin: same identifier, same rights, convertible without loss. The US has written that principle down…
+Why Some Money Moves in Seconds and Some Takes Days ~ Article ~ 2026-10-06 ~ Web3 ~ 1944w ~ Articles/institutions/Why Some Money Moves in Seconds and Some Takes Days.md
+  A UPI payment clears in seconds while money sent abroad can take days and lose 6% to fees. The difference comes from how many separate record-keepers have to agree that…
 Work With Me ~ Note ~ 2026-10-01 ~ - ~ 419w ~ work-with-me.md
   Research, advisory, full-time roles and speaking on Ethereum adoption in institutional finance across India, Singapore and Hong Kong.
 CV ~ Note ~ 2026-10-01 ~ - ~ 706w ~ cv.md
   Full professional chronology for Rohit Malekar. Research on Ethereum in Asian institutional finance, preceded by independent practice in ecosystem analytics and twenty years at Deloitte, Medallia, and Tech Mahindra.
-Ethereum's Privacy Stack and the Gap in the Middle ~ Article ~ 2026-09-22 ~ Web3,Decentralization ~ 2978w ~ Articles/institutions/Ethereum's Privacy Stack and the Gap in the Middle.md
+Ethereum's Privacy Stack and the Gap in the Middle ~ Article ~ 2026-09-22 ~ Web3,Decentralization ~ 3168w ~ Articles/institutions/Ethereum's Privacy Stack and the Gap in the Middle.md
   Ethereum is building privacy by separating neutral mechanisms at the base layer from policy set by wallets, pools, rollups and institutional systems. The teams at both ends are well funded.…
 Why Would Anyone Pay an Actual Therapist Now? ~ Article ~ 2026-08-18 ~ Well-Being,AI ~ 345w ~ Articles/living-well/Why Would Anyone Pay an Actual Therapist Now.md
   Machines can't yet emulate the stakes and continuity that effective therapy needs. Text is a terrible medium for machine-assisted therapy, and the fix isn't a clever wrapper on a frontier…
