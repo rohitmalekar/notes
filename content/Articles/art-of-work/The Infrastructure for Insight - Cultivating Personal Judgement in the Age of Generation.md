@@ -10,7 +10,7 @@ description: Online feeds break continuity of thought. A personal knowledge syst
 date: 2026-01-07
 ---
 
-> *tl;dr: Online feeds and constant information streams fragment your continuity of thought, making it harder to sustain deep reasoning. Intentional note-taking fortifies your thinking by capturing insights, helping ideas connect and evolve. In the age of AI-generated content, building your own knowledge system ensures your judgment and perspective remain uniquely your own.*
+> *tl;dr: Online feeds fragment your continuity of thought and make sustained reasoning harder. Intentional note-taking captures insights so they can connect and evolve over time. When AI can generate plausible content on demand, a personal knowledge management system keeps your judgment grounded in your own tested experience.*
 
 ## The continuity of thought
 In an internet saturated with AI-optimised noise, continuity of thought has become fragile. Our feeds are primed for interruption. Short-form content, reels, infinite scroll, and algorithmic summaries collapse context by design. Each item stands alone, and nothing asks you to carry a thought forward, so you are always beginning again.
