@@ -1,8 +1,10 @@
-# CORPUS INDEX — generated 2026-10-07 — 308 notes, newest first
+# CORPUS INDEX — generated 2026-10-09 — 309 notes, newest first
 # Record = 2 lines:  TITLE ~ type ~ date ~ tags ~ words ~ path-under-content/
 #                    thesis
 # Read full text with: content/<path>. Public URLs live in corpus/index.jsonl.
 
+Reading 24 Blockchain Pilots in India, Singapore and Hong Kong ~ Article ~ 2026-10-09 ~ Web3 ~ 636w ~ Articles/institutions/Reading 24 Blockchain Pilots in India, Singapore and Hong Kong.md
+  A read across 24 projects in India, Singapore and Hong Kong that put money, securities or payments on a blockchain, each checked against the institution's own sources. Banks use public…
 Tokenized Securities: A Diwali Wish List for SEBI and RBI ~ Article ~ 2026-10-07 ~ Web3 ~ 1069w ~ Articles/institutions/Tokenized Securities - A Diwali Wish List for SEBI and RBI.md
   The SEC and SEBI agree that a tokenized security should be fungible with its conventional twin: same identifier, same rights, convertible without loss. The US has written that principle down…
 Why Some Money Moves in Seconds and Some Takes Days ~ Article ~ 2026-10-06 ~ Web3 ~ 1944w ~ Articles/institutions/Why Some Money Moves in Seconds and Some Takes Days.md
@@ -103,8 +105,8 @@ Fragmented Ideas Don't Compound ~ Reflection ~ 2026-01-14 ~ Learning ~ 76w ~ Not
   When ideas are repeatedly chopped into fragments, they don't compound. You react more than you reason. Compounding requires continuity—a thread that carries forward from one thought to the next. Infinite…
 Curation Is the Edge No Algorithm Can Replicate ~ Reflection ~ 2026-01-14 ~ Learning,AI ~ 75w ~ Notes/self/Curation Is the Edge No Algorithm Can Replicate.md
   A personal repository of tested insights, refined over time, becomes a competitive edge that no algorithm can replicate. Not because the information is secret—most of it isn't. But because the…
-The Infrastructure for Insight - Cultivating Personal Judgement in the Age of Generation ~ Article ~ 2026-01-07 ~ Careers,Leadership ~ 1174w ~ Articles/art-of-work/The Infrastructure for Insight - Cultivating Personal Judgement in the Age of Generation.md
-  In a world primed for distraction, investing in your own system for capturing and connecting insights isn't optional. It's your edge. Start building a personal knowledge system to protect your…
+The Infrastructure for Insight - Cultivating Personal Judgement in the Age of Generation ~ Article ~ 2026-01-07 ~ Careers,Leadership ~ 800w ~ Articles/art-of-work/The Infrastructure for Insight - Cultivating Personal Judgement in the Age of Generation.md
+  Online feeds break continuity of thought. A personal knowledge system holds your insights long enough to connect, so your judgment builds on your own past work.
 The Quiet Epidemic of Checking Out at Home ~ Article ~ 2026-01-05 ~ Well-Being ~ 1191w ~ Articles/living-well/The Quiet Epidemic of Checking Out at Home.md
   Repeated inattention at home isn’t always indifference. Its under-regulated presence is shaped by stress and context. Research suggests that this often appears alongside high cognitive performance rather than in opposition…
 Search for Belonging ~ Reflection ~ 2026-01-02 ~ Well-Being ~ 45w ~ Notes/self/Search for Belonging.md
