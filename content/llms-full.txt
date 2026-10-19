@@ -1,0 +1,886 @@
+# Rohit Malekar
+
+> Research, essays, and selected work on Ethereum in institutional finance, coordination and public goods, product craft, and living well.
+
+This is the full-text companion to https://rohitmalekar.in/llms.txt. It holds Rohit's profile, CV, case studies and his essays on Ethereum in institutional finance in full, followed by a catalog of every other essay with its URL and summary. Fetch a catalog URL to read that essay in full.
+
+# Profile
+
+## About
+
+URL: https://rohitmalekar.in/about
+Date: 2026-07-17
+
+### What I do now
+
+I research how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. In practice:
+
+- **Writing [The Monsoon Ledger](https://themonsoonledger.com/)**, a weekly on policy, regulation and Ethereum across Asian finance, with a regulatory wire, a pilot scorecard and technical explainers.
+- **Leading research on [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html)** for ETHIndia, a seven-module briefing on India's tokenisation mandates and what they should run on.
+- **Advising teams** taking Ethereum into regulated markets in Asia, starting from the specific problem and the person who owns it.
+
+If any of that sounds like something your team needs, see how I work with teams.
+
+### How I got here
+
+I spent twenty years across consulting, product, and research, including strategy and analytics roles at Deloitte and Medallia. That is where I learned how large institutions evaluate technology: through procurement, risk committees and a demand for evidence over enthusiasm.
+
+Around 2021 I went down the decentralization rabbit hole and stayed. What began as writing about DAOs and public goods (runner-up, HackerNoon Contributor of the Year for DAO coverage, 2022) turned into building and operating: [GrantsScope](https://grantsscope.xyz/), funding-flow analyses across Gitcoin Grants 22 to 24, Ethereum's first interop-focused grants domain, and the analytics behind Metagov's governance review of ENS DAO, a $400M+ treasury. Four years of allocating and measuring capital onchain taught me how the Ethereum stack behaves in production and how to tell what it delivers.
+
+In 2026 those two halves met. India has already decided to tokenise, Singapore and Hong Kong are running pilots, and the open question is what this infrastructure should run on. I now work on that question.
+
+Full chronology, with roles and dates →
+
+### Off the track
+
+I live in Bangalore. I believe slow miles and metaphors both help in understanding complexity, one through the body, the other through the heart. When I'm not reading regulatory circulars, I'm usually riding long distances around Bangalore or [scribbling poetry](https://breathefeellove.in/).
+
+### Bios for organizers
+
+*Use these as-is for talks, podcasts, or bylines.*
+
+**Short (~50 words):**
+
+> Rohit Malekar researches how banks, market infrastructure and regulators in Asia could use Ethereum. He writes The Monsoon Ledger, a weekly on policy, regulation and Ethereum across Asian finance, and led research on ETHIndia's briefing on Ethereum and Indian institutional finance. Earlier he spent twenty years at firms like Deloitte and Medallia.
+
+**Longer (~100 words):**
+
+> Rohit Malekar researches how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. He writes The Monsoon Ledger, a weekly on policy, regulation and Ethereum across Asian finance, and was lead researcher on Ethereum and Indian Institutional Finance, a seven-module briefing published by ETHIndia. Before this he spent four years allocating and measuring capital inside Ethereum: co-running Gitcoin grant rounds, designing Ethereum's first interop standards funding round, and building the analytics behind Metagov's governance review of ENS DAO. His earlier career spans twenty years of strategy, product and analytics, including Deloitte and Medallia.
+
+### Elsewhere
+
+**📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email](mailto:rohitmalekar@gmail.com)**
+
+[X/Twitter](https://twitter.com/rohitmalekar) · [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [GitHub](https://github.com/rohitmalekar) · [The Monsoon Ledger](https://themonsoonledger.com/) · [Medium](https://medium.com/@rohitmalekar)
+
+## Work With Me
+
+URL: https://rohitmalekar.in/work-with-me
+Date: 2026-10-01
+
+I work with banks, market infrastructure, fintechs and protocol teams taking Ethereum into regulated finance in Asia, and with the people deciding whether they should.
+
+If you're evaluating a tokenisation or settlement pilot, mapping what regulators in India, Singapore or Hong Kong will allow, or need a briefing that leads with evidence rather than advocacy, I can help.
+
+**📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email me](mailto:rohitmalekar@gmail.com)**
+
+### What I do
+
+- **Regulatory and market mapping**: what SEBI, RBI, MAS and the HKMA have mandated, piloted or left silent, and where the opportunity sits for your segment
+- **Commissioned research and briefings**: market sizing, use-case evaluation and source-verified briefings written for decision-makers
+- **Pilot and architecture evaluation**: public Ethereum, L2s and permissioned alternatives compared on settlement, privacy and compliance requirements
+- **Data and dashboards**: tracking tokenisation pilots, issuance and onchain activity with reproducible pipelines
+- **Speaking and bylines**: panels, podcasts and guest columns on institutional adoption of Ethereum in Asia
+
+### Open to
+
+- **Full-time roles** in institutional research, ecosystem strategy or business development at protocols, L2s, tokenisation platforms and financial institutions
+- **Fractional and advisory** engagements across a season of work
+- **Commissioned research** with a defined deliverable
+- **Speaking** at industry and policy events
+
+### Selected outcomes
+
+- **Lead researcher, [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html)** for ETHIndia: a seven-module briefing on India's tokenisation mandates, with every figure source-linked in a public ledger.
+- **Author, [The Monsoon Ledger](https://themonsoonledger.com/)**: a weekly on policy, regulation and Ethereum across India, Singapore and Hong Kong.
+- **Built the analytics behind Metagov's independent governance review of ENS DAO**: a reproducible data stack across 7 onchain and forum sources, cited in decisions over a $400M+ treasury. Case study →
+- **Co-designed and operated Ethereum's first interop-focused grants domain** in Gitcoin Grants 24: a $100K+ round, from domain thesis to public retrospective. Case study →
+
+Collaborations: [ETHIndia](https://ethindia.co) · [Gitcoin](https://gitcoin.co) · [Metagov](https://metagov.org) · [Open Source Observer](https://opensource.observer) · [Scroll](https://scroll.io)
+
+**A good fit** if you're building or evaluating Ethereum-based infrastructure for regulated finance in Asia and want someone who has spent twenty years inside institutions and four inside Ethereum.
+
+**Probably not a fit** if the goal is token marketing or price commentary.
+
+### The full picture
+
+Browse selected work across research, data tools, writing, and speaking, or read how I got here.
+
+**📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email me](mailto:rohitmalekar@gmail.com)**
+
+[X/Twitter](https://twitter.com/rohitmalekar) · [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [GitHub](https://github.com/rohitmalekar)
+
+## CV
+
+URL: https://rohitmalekar.in/cv
+Date: 2026-10-01
+
+*Last updated: October 2026 · For how I work with teams, see Work With Me.*
+
+### Profile
+
+Twenty-three years leading data, product, and research work across management consulting, enterprise software, and independent practice. I now research how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. That work draws on two decades with Fortune 500 clients at Deloitte and global brands at Medallia, and four years allocating and measuring capital inside Ethereum.
+
+My work turns messy, multi-source data into decisions people can act on: funder-fit scorecards, governance analytics, capital allocation frameworks, and the operating models around them. I've built consulting practices and led cross-functional design and engineering teams for global clients, and I bring the same institutional rigor to the question regulated finance in Asia is now asking: what tokenised infrastructure should run on.
+
+### Work
+
+#### Independent · Ethereum & Institutional Finance Research · 2026 – Present
+
+Research and writing on Ethereum adoption by banks, market infrastructure and regulators across India, Singapore and Hong Kong.
+
+- **ETHIndia — Lead Researcher, [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html):** Seven-module briefing on India's tokenisation mandates under SEBI and RBI, comparative legal frameworks, market sizing, Ethereum versus permissioned alternatives, privacy, and adoption mechanics, with a source-verified figure ledger.
+- **Author, [The Monsoon Ledger](https://themonsoonledger.com/):** Weekly publication on policy, regulation and Ethereum across Asian finance, covering regulatory circulars, institutional pilots, and technical explainers.
+
+#### Independent Practice · Ecosystem Research, Funding Design & Analytics · Jun 2023 – 2026
+
+Advise foundations, protocols, and grant programs on where capital goes and what it produces. Clients include Gitcoin, Metagov, Open Source Observer, and Scroll.
+
+- **Gitcoin — Ecosystem Research & Grants Domain Operator:** Mapped the national philanthropy landscape and local partner ecosystem for a civic-resilience platform, producing funder-fit scorecards, stakeholder network maps, and positioning narratives. Co-designed and operated Ethereum's inaugural Interop Standards funding round, a $100K+ matching pool, from problem framing and eligibility design through public retrospective. Case study →
+- **Metagov — Governance Analytics:** Built the analytics layer for an independent governance retrospective of a $400M+ treasury, including a reproducible data pipeline spanning seven onchain and forum data sources; now a live research platform cited in active governance decisions. Case study →
+- **Open Source Observer — Ecosystem Analytics:** Built impact dashboards and ecosystem narratives for open source funding programs, translating GitHub and onchain metrics into intelligence that program operators and funders used to make allocation decisions.
+- **Scroll — Governance Curriculum:** Designed and delivered a data-driven governance curriculum to 30 delegate candidates, including an original framework for measuring organizational health.
+
+Full portfolio of research, tools, writing, and talks →
+
+#### Deloitte Digital, Bengaluru, India · Manager → Senior Manager · Mar 2016 – May 2023
+
+Led business development, client service, and practice building for a digital consultancy delivering experience-led transformation across UX, engineering, cloud, and data analytics. Built and led cross-functional design and engineering teams delivering user-centered transformation programs, owning the full lifecycle of experience-first products from strategy through launch. Grew the practice through new client acquisition, capability development, and senior stakeholder relationships.
+
+#### Medallia, Palo Alto, U.S. · Senior Manager, Professional Services · Jun 2014 – Jan 2016
+
+Operationalized enterprise-wide customer experience management programs for global brands  enabling clients to capture feedback at scale, analyze performance, and turn signal into journey improvements. Partnered with executive sponsors to embed measurement into how their organizations made decisions.
+
+#### Deloitte Consulting, San Francisco & Chicago, U.S. · Consultant → Manager · Sep 2008 – May 2014
+
+Led program management and implementation of enterprise solutions for health care reform, core health plan administration, and enterprise performance management. Ran multi-workstream delivery for large regulated clients, coordinating business, technology, and compliance stakeholders through high-stakes go-lives.
+
+#### Tech Mahindra, Pune, India · Technical Associate · Jul 2003 – Jun 2006
+
+Delivered operational analytics and reporting solutions for telecommunications clients while managing client service across the information systems development lifecycle.
+
+### Education
+
+**M.S. in Information Systems** · Kelley School of Business, Indiana University, U.S. · 2006 – 2008
+
+**B.E. in Computer Engineering** · Maharashtra Institute of Technology, Pune, India · 1999 – 2003
+
+### Contact
+
+**📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email me](mailto:rohitmalekar@gmail.com)**
+
+[LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [GitHub](https://github.com/rohitmalekar) · [X/Twitter](https://twitter.com/rohitmalekar)
+
+# Portfolio
+
+## Case Study: GG24 Interop Standards, Infrastructure & Analytics Round
+
+URL: https://rohitmalekar.in/gg24-interop-case-study
+Date: 2026-07-17
+
+**Program:** [Gitcoin Grants 24](https://grants.gitcoin.co) · **Role:** Domain co-designer & operator · **Year:** 2025
+
+### The problem
+
+Ethereum's multi-chain future depends on open interop standards, shared tooling, and measurement systems — exactly the kind of work that struggles to attract funding because it is invisible to end users. GG24 introduced domain-based rounds, and interoperability needed a domain thesis: what to fund, why, and how to know if it worked.
+
+### What I did
+
+- **Domain design:** co-authored the [domain thesis](https://gov.gitcoin.co/t/domain-announcement-interop-standards-infrastructure-analytics/24631) for the Interop Standards, Infrastructure & Analytics round — scoping which layers of the interop stack the round should fund.
+- **Landscape research:** mapped the [interop ecosystem](https://gov.gitcoin.co/t/gg24-update-inside-the-interop-standards-infra-analytics-round/24749) so donors could see where each grantee sits in the stack.
+- **Round operations:** ran a $100K+ quadratic funding round on Giveth, from grantee curation through payout.
+- **Retrospective:** published a [full retrospective](https://gov.gitcoin.co/t/gg24-interop-round-retrospective/24936) so the next domain operator starts from evidence, not anecdotes.
+
+### What the data showed
+
+In a companion [capital-allocation analysis across GG24](https://gov.gitcoin.co/t/mapping-problems-to-capital-insights-from-gitcoin-grants-24/24962), I demonstrated that quadratic funding reliably funds visible, legible work but structurally underfunds ecosystem-critical infrastructure. That finding directly informs how domain operators design future rounds — including whether QF is the right mechanism for a given domain at all.
+
+### Artifacts
+
+- [Domain announcement & thesis](https://gov.gitcoin.co/t/domain-announcement-interop-standards-infrastructure-analytics/24631)
+- [Interop landscape deep-dive](https://gov.gitcoin.co/t/gg24-update-inside-the-interop-standards-infra-analytics-round/24749)
+- [Round retrospective](https://gov.gitcoin.co/t/gg24-interop-round-retrospective/24936)
+- [GG24 capital-allocation analysis](https://gov.gitcoin.co/t/mapping-problems-to-capital-insights-from-gitcoin-grants-24/24962) · [Dashboard](https://gg24-analysis.fly.dev)
+- [Green Pill podcast segment on the round](https://youtu.be/Z9m7bLuxFQw?si=TVXUC-mmtyTWrc-3&t=2396)
+
+---
+
+*Designing a grant program and want it grounded in mechanism evidence? Here's how I work with teams →*
+
+## Case Study: ENS DAO Governance Research Platform
+
+URL: https://rohitmalekar.in/ens-governance-analytics
+Date: 2026-07-17
+
+**Client:** [Metagov](https://metagov.org), for the ENS DAO community · **Role:** Data & analytics lead · **Year:** 2025–26
+
+### The problem
+
+ENS DAO governs a treasury of over $400M, but the evidence for how well its governance actually works was scattered across onchain votes, delegate activity, forum threads, and working-group records. Metagov's independent retrospective needed a defensible, reproducible evidence base so that findings could be verified, challenged, and kept alive after the report shipped.
+
+### What I built
+
+A reproducible research data platform that turns raw governance activity into analysis-ready data:
+
+- **Pipeline:** Supported build using Dagster for orchestration, dbt for transformation, DuckDB for storage — a lightweight, fully open stack anyone can run locally.
+- **Coverage:** 7 data sources spanning onchain governance (votes, delegations, treasury flows) and offchain signals (forum discussions and related records).
+- **Outputs:** Owned the datasets and analytics behind the retrospective's findings, published as a live research platform.
+
+### The outcome
+
+- The retrospective and its data platform are public: findings can be reproduced from source, not taken on faith.
+- The [live dashboard](https://ensretro.metagov.org) is cited in active ENS DAO governance discussions — the analysis outlived the report.
+- The stack is a template for any DAO that wants governance research grounded in verifiable data.
+
+### Artifacts
+
+- [Live research platform](https://ensretro.metagov.org)
+- [Open-source data stack](https://github.com/metagov/ENS-Retro-Data)
+- [Draft final report on the ENS forum](https://discuss.ens.domains/t/ens-retro-draft-final-report/22067)
+
+---
+
+*Need a defensible evidence base for governance or funding decisions? Here's how I work with teams →*
+
+# Ethereum & Institutional Finance
+
+## Tokenized Securities: A Diwali Wish List for SEBI and RBI
+
+URL: https://rohitmalekar.in/tokenized-securities-diwali-wish-list
+Date: 2026-10-07
+
+SEC and SEBI both agree, in principle, that tokenized securities ought to be fungible. In other words, a tokenized share or bond is the same instrument as its conventional twin: it has the same identifier and the same rights, and it can move between the two forms without loss. But there is a vast difference in how those principles transition into practice.
+
+### The US, one filing at a time
+
+In the US, the principle has been written down, one filing at a time, and is now running in production.
+
+#### Guidance and definitions
+
+In January 2026, staff from three SEC divisions [said](https://www.cooley.com/news/insight/2026/2026-02-04-statement-on-tokenized-securities) the format of a security doesn't change how the securities laws apply. They sorted tokenized securities into three kinds: issued by the issuer, custodial and synthetic. In March, the SEC and CFTC [jointly defined](https://www.winston.com/en/blogs-and-podcasts/capital-markets-and-securities-law-watch/sec-clarifies-the-application-of-federal-securities-laws-to-crypto-assets) a "digital security" as a security whose record of ownership is kept, in whole or in part, on a crypto network.
+
+#### Trading in the same order book
+
+Also in March, the SEC [approved Nasdaq's rule](https://www.dechert.com/knowledge/onpoint/2026/3/sec-issues-landmark-interpretation-on-the-application-of-federal.html) to trade tokenized Russell 1000 stocks and major-index ETFs in the same order book as ordinary shares. The tokens use the same CUSIP and ticker and carry the same rights. Settlement stays at T+1 through DTC.
+
+#### Settlement in production
+
+Under its December 2025 no-action letter, DTC [ran live production trades](https://finance.yahoo.com/markets/crypto/articles/dtcc-executes-first-live-trades-175751804.html) on 15 July with more than 30 firms. The trades ran on Hyperledger Besu and Canton and covered equity and Treasury delivery-versus-payment, repo, securities lending and collateral pledges. DTC says a tokenized position converts back to the traditional form at will. The [full service](https://www.dtcc.com/news/2026/may/04/dtcc-advances-development-of-new-tokenization-service) is due this month.
+
+#### The innovation exemption
+
+On 17 September, the SEC [issued a five-year "innovation exemption"](https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment) for trading tokenized NMS stocks on-chain. Venues can run permissioned automated market makers on public, permissionless chains, provided the token carries the same economic and voting rights as the share. The [order has its own stop-losses](https://www.sidley.com/en/insights/newsupdates/2026/09/sec-issues-innovation-exemption-for-onchain-trading-of-tokenized-us-listed-stocks):
+
+- For the largest stocks, a venue can list at most 75 symbols and trade at most 0.25% of each stock's daily volume.
+- No leverage is allowed.
+- Trading halts whenever the underlying stock halts.
+- Every trading participant is screened.
+- A venue must give the issuer 30 days' notice before trading a third party's token of its stock.
+- Trade data is published within ten minutes.
+
+Two days ago, OKXICE, a joint venture of ICE and OKX, [became the first to file](https://finance.yahoo.com/markets/crypto/articles/nyse-parent-just-filed-tokenize-025259404.html) under the exemption, for 63 stocks.
+
+#### Shareholder records on public chains
+
+Registered transfer agents already keep the official shareholder record on public chains. [Franklin Templeton](https://sec.gov/Archives/edgar/data/1786958/000174177323002447/c497k.htm) has done it for its money market fund since 2021, and [Galaxy](https://www.galaxy.com/newsroom/galaxy-superstate-launch-glxy-tokenized-public-shares) has done it for its Nasdaq-listed shares since 2025.
+
+### India's Demat 2.0 pilot
+
+In India, the most advanced step is Demat 2.0, which SEBI and RBI [launched last month](https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/successful-launch-of-demat-2-0-pilot-project-for-tokenised-corporate-bonds_104418.html). REC, L&T and IIFL issued ₹1,025 crore of tokenized bonds, settled in wholesale CBDC. SEBI's [FAQ](https://www.sebi.gov.in/sebi_data/faqfiles/sep-2026/1789049630065.pdf) says "the token is the corporate bond". So the principle is the same.
+
+The way India got there is different. The depositories own the ledger, they hold investors' private keys, and they remain the legal record. Per the same FAQ, that design leaves the Depositories Act, 1996 untouched. The pilot runs inside SEBI's regulatory sandbox, with relaxations for a fixed scope and period.
+
+### Questions the sandbox leaves open
+
+Remove any one of those supports and the basic legal questions have no answer:
+
+- Can a token on a ledger the depositories don't own be legal evidence of ownership? No provision says so.
+- Is a tokenized bond a virtual digital asset under India's tax law, attracting 30% tax and 1% TDS on every transfer? The VDA definition is wide enough to catch it, and I have yet to see a notification that carves it out.
+- Who collects stamp duty when a transfer settles on a ledger rather than through an exchange or depository?
+- Can a foreign investor hold an Indian tokenized security outside a demat account? No FEMA rule addresses it.
+- When is a transfer on a ledger legally final, and which record wins if the ledger and the depository disagree?
+- RBI's tokenized certificates of deposit on the [Unified Markets Interface](https://www.rbi.org.in/Scripts/BS_SpeechesView.aspx?Id=1525) are [live](https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx?Id=1466), and RBI has yet to say whether the token is the legal record or a mirror of one.
+
+### A Diwali wish list for India's regulators
+
+I know Christmas ain't close, but hey, Diwali is. Here's my wish list for regulatory stance in India to adopt distributed ledgers for tokenized securities, with stop-loss baked in the design.
+
+1. Write the token into law. Amend the Depositories Act, or SEBI's regulations under it, so that a record on an approved distributed ledger can be the register of ownership, kept by a depository or a licensed token registrar.
+2. Make fungibility a right. A tokenized security should keep the same ISIN and convert to and from ordinary demat form at par, on demand, within a day. This is the first stop-loss: if a ledger fails, the investor walks back to demat with nothing lost.
+3. Keep a golden record. Reconcile the ledger against the depository daily, and state in the rules which record prevails in a dispute.
+4. Carve tokenized securities out of the VDA definition, and tax the instrument rather than the wrapper.
+5. Let public chains in with the controls Hong Kong and Singapore already require: whitelisted wallets, and the power for the issuer or depository to freeze and force-transfer.
+6. Cap tokenized issuance and trading, as the SEC's innovation exemption does with symbol and volume limits for US stocks. Raise the cap only after each period of clean reconciliation and settlement data, and pause new issuance automatically if a reconciliation break crosses a set threshold.
+7. Publish the sandbox's graduation criteria up front, so issuers know what data moves a pilot into a standing framework and what ends it.
+8. Give approved ledgers settlement finality in statute, and collect stamp duty by smart contract at the point of transfer.
+9. Open a FEMA route, starting at GIFT City, for foreign investors to hold Indian tokenized securities.
+10. Publish the numbers from Demat 2.0 and UMI: settlement times, costs and investor counts.
+
+I publish weekly at [The Monsoon Ledger](https://themonsoonledger.com/) on how banks, market infrastructure and regulators across India, Singapore and Hong Kong could use Ethereum for tokenization, settlement and verification.
+
+## Why Some Money Moves in Seconds and Some Takes Days
+
+URL: https://rohitmalekar.in/why-money-moves-slowly
+Date: 2026-10-06
+
+Paying for chai with UPI takes about two seconds. Selling shares through a broker in India puts the money in your bank account the next working day. Sending money to a parent in another country can take anywhere from an hour to several days, and on average about 6% of a \$200 transfer is lost to fees and exchange-rate markups, according to the [World Bank](https://remittanceprices.worldbank.org/).
+
+All three are the same act. A number in one account goes down and a number in another account goes up. The difference in speed and cost has little to do with distance or computers. It comes from how many separate record-keepers have to agree that the money moved.
+
+What it costs to send $200
+UPI transfers within India are free for consumers. Sending $200 abroad costs 4.59% through digital services, 6.36% on global average and 7.30% through cash-based services, against a G20 and UN target of 3% by 2030.
+Cost of sending $200, as a share of the amount
+
+UPI transfer within India
+Free
+Digital remittance services
+Digital remittance services: 4.59%
+4.6%
+Global average
+Global average: 6.36%
+6.4%
+Cash-based services
+Cash-based services: 7.30%
+7.3%
+
+G20 and UN target for 2030: 3%
+0%
+2%
+4%
+6%
+8%
+
+Fees plus exchange-rate markup on a $200 transfer, Q3 2025. Source: World Bank Remittance Prices WorldwideUPI stays free for consumers, and person-to-person transfers carry no charge. From 15 October 2026, merchants pay a Merchant Discount Rate (MDR) of 0.4% on UPI payments above ₹2,000, capped at ₹300 a transaction. Payments up to ₹2,000 and small merchants receiving up to ₹1 lakh a month stay at zero, and merchants cannot pass the charge on to customers. Source: NPCI MDR FAQs
+
+### Every institution keeps its own books
+
+Your bank balance is an entry in your bank's ledger. Your broker keeps a ledger of the shares you own, the depository keeps another, and the exchange's clearing corporation keeps a third. None of them can see or write to the others' books.
+
+When money or an asset moves between two institutions, each one updates its own record and sends messages to confirm that the other did the same. Someone then has to check that the records match. Finance calls this reconciliation, and every bank, custodian and fund house runs a back office for it. When two records disagree, people chase the difference by email and phone until they find it.
+
+A cross-border payment shows the problem at its worst. An Indian bank usually has no account with a small bank in another country, so the payment travels through one or more correspondent banks that hold accounts with both. Each hop adds its own ledger, messages, compliance checks and fee, and loses a day if it falls on a weekend or public holiday in either country.
+
+A payment sent abroad today:
+
+```mermaid
+flowchart LR
+  A["Your bank(its ledger)"] -->|"message, then reconcile"| B["Correspondent bank(its ledger)"]
+  B -->|"message, then reconcile"| C["Recipient's bank(its ledger)"]
+```
+
+The same payment on a shared ledger:
+
+```mermaid
+flowchart LR
+  D["Your bank"] --> L[("Shared record")]
+  L --> E["Recipient's bank"]
+```
+
+Even UPI only looks instant. Your phone confirms in seconds because both banks update their customers' accounts straight away. The banks then pay each other in batches, several times a day, on a net basis through their accounts at the Reserve Bank of India ([NPCI](https://www.npci.org.in/PDF/npci/others/UPI-Settlement-Process.pdf)). The reconciliation still happens. UPI hides it well because a single operator, NPCI, sits in the middle and every bank accepts its record of who owes whom.
+
+### Why this was not fixed long ago
+
+The obvious fix is one shared record that every institution reads and writes, leaving nothing to reconcile. The obstacle has always been deciding who holds it. Banks compete with each other, and none will let a rival keep the master copy of its customers' money. Countries feel the same way about each other's institutions.
+
+For about 250 years the answer has been to appoint a trusted middleman and give it the master copy for one narrow job.
+
+```mermaid
+timeline
+  title A trusted middleman for each job
+  1770s : London banks open a clearing house to swap cheques and settle only the difference
+  1973 : Banks found SWIFT to standardise payment messages, leaving every ledger where it was
+  1996 : NSDL moves Indian shares from paper certificates into demat accounts
+  2016 : NPCI launches UPI and becomes the trusted middle for retail payments
+  2022 : RBI pilots a wholesale digital rupee : MAS starts Project Guardian
+  2026 : Swift opens a shared ledger to banks : SEBI and RBI launch Demat 2.0
+```
+
+Each of these worked inside its own boundary. A depository covers one country's securities. UPI covers one country's rupee payments, with links to other countries negotiated one at a time. Cross-border payments still pass along chains of correspondent banks because no global operator exists that every country and bank would trust.
+
+Shared-ledger technology changed one thing. Over the past decade it has become practical to run a single record that many institutions update together, with the rules about who can write what enforced by software and cryptography instead of by one operator's word. Every participant can verify that nobody has altered the record. The same record can hold both the asset and the money, so both sides of a trade move at the same instant or neither moves. Finance calls this atomic settlement, and it removes the risk that one side pays and the other never delivers.
+
+A shared ledger does not make anything fast by itself, and UPI proves you can be fast without one. Its use is narrower: many institutions that do not fully trust each other need to agree on the same record, and no single operator exists that all of them would accept. That describes most of cross-border finance and much of the bond market.
+
+### Where it is being tried
+
+The early movers are central banks, market infrastructure and large banks, working mostly with assets that institutions trade among themselves.
+
+| Initiative | Where | What moves on it | Status, October 2026 |
+|---|---|---|---|
+| [Demat 2.0](https://www.theblock.co/news/regulation/2026-09-11-indias-sebi-demat-2-0-pilot-debuts-with-over-100-million-in-tokenized-bonds-414252) | India: SEBI and RBI | Corporate bonds issued directly on a shared ledger and paid for in wholesale digital rupees | Pilot launched 10 September 2026. REC, L&T and IIFL Finance raised ₹1,025 crore |
+| [Wholesale e-rupee](https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=54616) | India: RBI | Settlement of government bond trades between banks | Pilot since 1 November 2022 with nine banks |
+| [Project Guardian](https://www.mas.gov.sg/schemes-and-initiatives/project-guardian) | Singapore: MAS | Tokenised bonds, funds, foreign exchange and repo | More than 40 institutions since 2022 |
+| [Project Ensemble](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2025/11/20251113-3/) | Hong Kong: HKMA | Tokenised bank deposits used to buy tokenised money market funds | Real-money pilot running through 2026 |
+| [Swift shared ledger](https://www.theblock.co/post/407687/swift-launches-blockchain-ledger-for-tokenized-deposit-pilot-with-17-banks) | 17 banks including DBS, OCBC, UOB, HSBC and Citi | Tokenised bank deposits for cross-border payments, around the clock | Live since 9 July 2026 |
+| [Kinexys](https://www.dlnews.com/articles/markets/jpmorgan-expands-digital-assets-push-with-mitsubishi-deal-as-it-targets-dollar10bn-in-daily-transactions/) by JPMorgan | Global | Payments and repo between institutional clients | About \$5 billion a day as of March 2026 |
+| [BUIDL](https://app.rwa.xyz/treasuries) by BlackRock | Global | Shares in a US Treasury money market fund | Launched March 2024, one of the largest tokenised Treasury funds |
+
+Swift's entry says the most about direction. Swift built the messaging network that let every bank keep its own books for fifty years, and it now runs a shared ledger for its member banks. In India, the regulator that oversaw the move from paper shares to demat is building the next version with the central bank.
+
+The amounts are still small next to the markets they sit in. Indian corporate bonds outstanding total about ₹61 lakh crore, according to [SEBI's chairman](https://www.businesstoday.in/markets/story/corporate-bonds-hit-rs61-lakh-crore-sebi-pushes-for-deeper-and-more-liquid-debt-markets-557148-2026-09-23) in September 2026, so Demat 2.0's first ₹1,025 crore is under 0.02% of the market. Growth is fast all the same. US government debt held on public shared ledgers rose from about \$100 million at the start of 2023 to almost \$15 billion in October 2026.
+
+Tokenised US Treasuries, 2023 to 2026
+Value of US Treasury products recorded on public shared ledgers: about $0.1 billion in January 2023, $1.1 billion in March 2024, just under $4 billion in January 2025, $8.9 billion in January 2026 and $14.8 billion in October 2026.
+Tokenised US Treasuries, value in US dollars
+
+$0
+$4B
+$8B
+$12B
+$16B
+
+January 2023: about $0.1 billion
+March 2024: $1.08 billion
+January 2025: just under $4 billion
+January 2026: $8.9 billion
+October 2026: $14.8 billion
+$0.1B
+$14.8B
+2023
+2024
+2025
+2026
+
+Sources: CoinDesk for January 2023 and March 2024; Cointelegraph citing RWA.xyz for January 2025 and January 2026; RWA.xyz for October 2026.
+
+### What to expect
+
+Most people will never knowingly use a shared ledger. They will notice the effects instead: a bond trade where the bond and the payment change hands in the same instant, or money to family abroad that arrives in minutes on a Sunday. The plumbing will stay as invisible as NPCI is to most UPI users.
+
+Institutions will move first, and among themselves. Bond issuance, fund shares, repo and payments between banks come before anything retail, because the parties are few, regulated and already know each other. The G20 wants three in four cross-border payments to reach the recipient within an hour by the end of 2027, and the [Financial Stability Board](https://www.fsb.org/2025/10/g20-roadmap-for-cross-border-payments-consolidated-progress-report-for-2025/) says that target will probably be missed.
+
+In Asia, regulators are leading. MAS, HKMA, RBI and SEBI designed the pilots above and chose who takes part. That makes adoption slower and more permissioned than in crypto markets, and more likely to last.
+
+The open question is whether these ledgers will connect. A Singapore network, a Hong Kong network and an Indian network that cannot exchange assets with each other would rebuild today's chain of correspondent banks one layer up. Whether they interoperate, and whether they run on public networks or stay private, will decide how much of the promise above arrives.
+
+I track these pilots and the regulation around them every week at [The Monsoon Ledger](https://themonsoonledger.com/).
+
+## Ethereum's Privacy Stack and the Gap in the Middle
+
+URL: https://rohitmalekar.in/ethereum-privacy-stack
+Date: 2026-09-22
+
+#### TL;DR
+
+If Ethereum is going to live up to its name as a "world computer," it has to carry a user's shielded transfer and a bank's confidential bond on the same chain, along with everything in between.
+
+The approach that has emerged separates mechanism from policy. The base layer provides neutral mechanisms, so private transactions get included and metadata does not leak. Everything built on top, including wallets, shielded pools, rollups and institutional systems, sets its own policy on who sees what.
+
+Both ends of that stack now have committed teams and money. Core developers and Ethereum Foundation researchers own the mechanism. Companies, several of them spun out of the Foundation in 2026, increasingly set the policy. What lost its home in the [June 2026 restructuring](https://www.techtimes.com/articles/318949/20260623/ethereum-foundation-cuts-54-jobs-shuts-zk-research-lab-slashes-budget-40.htm) is the shared applied cryptography in the middle: [MACI](https://maci.pse.dev/), [Semaphore](https://semaphore.pse.dev/), and the unglamorous work of making zero-knowledge proofs run on an ordinary phone.
+
+#### A public ledger is a privacy problem by design
+
+Every transaction on Ethereum is published to everyone, forever. That is the property that makes the chain verifiable without a trusted operator: anyone can re-run the whole history and check that the rules were followed. It is also the property that makes it unusable for most of what money is actually used for.
+
+A salary paid onchain reveals the salary. A treasury moving funds reveals its position before the trade settles. A person who receives one payment from a known address has their entire financial history linked to their name from that moment on, backwards and forwards. Addresses are pseudonyms, and pseudonyms leak. Chain analysis firms have spent a decade building the tooling to de-anonymise them, and they are good at it.
+
+The exposure is not limited to the ledger. Before a transaction is included in a block it sits in the public mempool, where anyone can read it. Specialised actors watch that queue and profit by reordering around what they see, which is how sandwich attacks and other forms of [MEV](https://ethereum.org/en/developers/docs/mev/) work. Even the act of reading the chain leaks: most wallets query a handful of large data providers, so those providers learn which addresses you care about and when.
+
+So "put it on a public blockchain" and "keep it private" are in direct tension. Resolving that tension is the entire subject below.
+
+#### Two different things get called privacy
+
+The word covers two requirements that sound similar and need different machinery.
+
+A bank settling a bond wants **confidentiality**. It has a defined set of counterparties, auditors and supervisors, each entitled to see a different slice of the transaction. The bank is content for all of them to see their slice. What it will not accept is the public seeing any of it, because position sizes and counterparty relationships are commercially sensitive. Confidentiality is about controlling the audience, and the bank knows exactly who is in it.
+
+A person sending money wants **user privacy**. There is no defined audience. The requirement is that a transfer cannot be linked back to them by anyone, including parties they have never heard of and cannot negotiate with. This is closer to anonymity, and it is harder, because it is a claim about what an unbounded set of observers can infer.
+
+The two pull in opposite directions when regulation enters. Regulators are broadly comfortable with confidentiality, since someone accountable still holds the keys to disclosure. They are legislating against pure anonymity. The EU's Anti-Money Laundering Regulation, [Regulation (EU) 2024/1624](https://eur-lex.europa.eu/eli/reg/2024/1624/oj), prohibits regulated firms from keeping anonymous accounts or handling anonymity-enhancing coins [from 10 July 2027](https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027).
+
+That deadline shapes almost every design decision in the sections that follow. The teams building for individuals are not building anonymity and hoping regulators look away. They are building anonymity with a disclosure mechanism attached, so a user can prove something about their funds without revealing which funds they are.
+
+#### Mechanism at the base, policy above it
+
+The design principle Ethereum has settled on is to keep the base layer neutral.
+
+The protocol does not decide who deserves privacy or under what conditions. It provides mechanisms: a guarantee that a transaction will be included even if block builders would rather drop it, a way for many users to share one sending account, a queue that does not reveal contents before ordering. These are useful to a shielded pool, a bank and a regular wallet alike, and they do not encode a view about any of them.
+
+Policy sits above. A shielded pool decides what proof of clean provenance it demands at withdrawal. A bank's rollup decides which regulator holds which viewing key. A wallet decides what it exposes to its RPC provider. Each of those is a contestable judgement that will change as law and norms change, which is exactly why none of them belongs in a hard fork that takes years to alter.
+
+This split is also, as it happens, roughly the line along which the Ethereum Foundation has reorganised itself.
+
+#### Who is building what
+
+What follows is not exhaustive, and the boundaries are porous. It is a map of who owns which layer as of late 2026.
+
+##### Protocol: the mechanism layer
+
+Changes here ship through hard forks, are built by core developers and Ethereum Foundation researchers, and take years. They are worth tracking because they are the only part of the stack that no individual company can withdraw.
+
+- [Account abstraction](https://eips.ethereum.org/EIPS/eip-8141) plus [FOCIL (EIP-7805)](https://eips.ethereum.org/EIPS/eip-7805): Today, a small number of large block builders decide which transactions make it into a block. A transaction they dislike, or that their compliance counsel dislikes, can simply never be included, and nothing in the protocol objects. FOCIL puts a small, randomly selected committee of validators in charge of publishing a list of transactions the next block is obliged to include. Paired with account abstraction through [frame transactions (EIP-8141)](https://eips.ethereum.org/EIPS/eip-8141), which lets a smart contract account define its own rules for validating and paying for a transaction, private transactions get inclusion guarantees written into the protocol itself. **So what:** without this, every other privacy tool on this list sits on top of a chokepoint. A shielded withdrawal that no builder will include is not private, it is just stuck.
+- [Keyed nonces (EIP-8250)](https://eips.ethereum.org/EIPS/eip-8250): A nonce is the counter that orders transactions from a single account, and today it is strictly sequential, so two transactions from one sender cannot be processed independently. That forces privacy systems into a bad choice. Either every user gets their own sending account, which creates a distinct onchain fingerprint, or they share an account and queue behind each other. Keyed nonces give one account multiple independent counters, so many users can send through the same address without serialising. **So what:** the strength of any privacy system is the size of its anonymity set, meaning how many other people you could plausibly be. This change lets a crowd share one front door without tripping over each other, which keeps the crowd large. It and the main account abstraction changes are slated for the Hegota fork, currently being scoped, with timelines drifting toward 2027.
+- Encrypted mempool, [EIP-8105](https://eips.ethereum.org/EIPS/eip-8105) and [LUCID (EIP-8184)](https://eips.ethereum.org/EIPS/eip-8184): Both proposals let a user submit a sealed transaction that is ordered while still encrypted and only revealed once its position in the block is fixed. LUCID was [drafted](https://ethereum-magicians.org/t/eip-8184-lucid-encrypted-mempool/28017) by the Foundation's [Robust Incentives Group](https://rig.ethereum.org/) and deliberately avoids enshrining any one encryption scheme. An [Encrypt the Mempool](https://encryptedmempool.org/) coalition, which includes [Shutter](https://blog.shutter.network/shutter-joins-the-encrypt-the-mempool-coalition/), [Fairblock](https://www.fairblock.network/) and [Nillion](https://nillion.com/), is pushing for inclusion in the I\* fork. **So what:** read the mechanism carefully, because it is narrower than it sounds. Transactions are revealed eventually. This protects against being front-run and sandwiched in the moments before inclusion. It does not give you confidentiality, and anyone who sells it as privacy is overselling it.
+
+##### Wallet and access layer
+
+Protocol guarantees are worthless if using them requires a cryptography degree. This layer is about getting privacy into the software people already have open, and most of it is Ethereum Foundation work.
+
+- [Kohaku](https://github.com/ethereum/kohaku): An open-source SDK, [released in May 2026](https://cryptobriefing.com/kohaku-sdk-wallet-privacy-integration/), that lets any wallet integrate shielded pools through plugins rather than building the integration itself. Plugins for [Railgun](https://railgun.org/), [Privacy Pools](https://privacypools.com/) and [Tornado Cash](https://en.wikipedia.org/wiki/Tornado_Cash) are all still alpha. **So what:** a two-person wallet team can now offer privacy features that previously needed a dedicated cryptography department. Privacy that lives in a specialist app is used by specialists. Privacy that ships as a checkbox in the wallet someone already has is used by everyone else.
+- Private reads: When your wallet displays a balance, it asks an RPC provider about your addresses, and that provider learns which addresses belong to one person even when the chain does not say so. Private read techniques let a wallet fetch the data it needs without revealing which records it asked for. **So what:** you can hold a perfectly shielded balance and still be deanonymised by the act of checking it. This closes a side channel that most users do not know exists.
+- [Shutter](https://shutter.network/) and [Primev](https://docs.primev.xyz/): Both run encrypted transaction ordering outside the protocol, reachable today by pointing a wallet at a custom RPC endpoint. **So what:** the protocol version of this is years out. These give users the protection now, and give the EIP authors real operating data about what breaks at scale.
+
+##### Shielded pools on L1: user privacy with compliance built in
+
+These are the systems an individual actually uses to break the link between where funds came from and where they go. All are built by independent teams, and all have converged on roughly the same answer to the regulatory problem.
+
+The shared mechanism is worth stating once, plainly. You deposit into a pool along with many others. Later you withdraw to a fresh address and, instead of revealing which deposit was yours, you submit a zero-knowledge proof: a cryptographic argument that your deposit belongs to some set of acceptable deposits, which convinces the verifier without disclosing which member it is. The privacy comes from the size of the set. The compliance comes from how the set is chosen.
+
+- [Privacy Pools](https://privacypools.com/), by [0xbow](https://0xbow.io/), builds on a [2023 paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4563364) co-authored by Vitalik Buterin, Jacob Illum, Matthias Nadler and Fabian Schär. At withdrawal you prove membership in an association set curated to exclude funds tied to illicit activity. **So what:** this inverts the usual argument about mixers. Rather than the honest user being tarred by association with whoever else used the pool, they get to cryptographically separate themselves from the bad deposits while still hiding among the good ones. It is the strongest available answer to "privacy tools only exist to launder money."
+- [Railgun](https://railgun.org/) runs its own screening system, [Private Proofs of Innocence](https://docs.railgun.org/wiki/assurance/private-proofs-of-innocence), applied as funds enter rather than at withdrawal. **So what:** same principle, different point of enforcement, and a useful demonstration that the compliance policy is genuinely a choice at this layer rather than something the chain imposes.
+- [Tornado Cash](https://en.wikipedia.org/wiki/Tornado_Cash) is the original design, without a screening layer, and the reason the entire category now ships with one. Its sanctioning by OFAC in 2022, [delisted in March 2025](https://home.treasury.gov/news/press-releases/sb0057) after the Fifth Circuit found the agency had exceeded its authority, and the prosecutions of its developers that followed anyway, is the lived history that every team above is designing around. **So what:** the compliance features in these products are not decoration. They are the difference between shipping and being charged.
+
+##### L2s and confidential execution
+
+Layer 2s are separate chains that inherit Ethereum's security by posting proofs back to it. Because they control their own execution environment, they can do things mainnet cannot, including running computation over data that is never revealed in the clear. This is where confidentiality and user privacy are being served by the same infrastructure, and it is mostly venture-funded companies.
+
+- [Aztec](https://aztec.network/) is an L2 built around private computation from the ground up rather than bolted on, with selective disclosure to regulators as a design goal. It [reached Stage 2 on L2BEAT](https://l2beat.com/scaling/projects/aztecnetwork) after onchain governance revoked ownership of the rollup contract. **So what:** Stage 2 is the top of L2BEAT's maturity ladder and means no administrator can override the protocol or seize funds. A privacy chain with an admin key is a privacy promise. A privacy chain without one is a privacy guarantee, and Aztec is currently the only decentralised L2 with privacy native to the protocol.
+- [ZKsync Prividium](https://www.zksync.io/prividium) targets banks and corporates whose privacy requirement comes from regulation rather than preference, giving each institution control over who can query its data. A [consortium of five US regional banks](https://thedefiant.io/news/tradfi-and-fintech/cari-zksync-prividium-tokenized-deposits-e07mwc) with over $600 billion in combined deposits is building a tokenized deposit platform on it. **So what:** this is the clearest evidence that institutional demand is real rather than theoretical, and that the constraint on adoption was confidentiality rather than throughput.
+- [Zama](https://www.zama.org/) takes a different cryptographic route, using fully homomorphic encryption, which allows computation to be performed directly on encrypted data without decrypting it first. In March 2026, GSR [completed the first confidential OTC trade](https://www.gsr.io/insights/gsr-and-zama-complete-landmark-first-confidential-otc-trade-on-ethereum) using it on mainnet, with the traded quantity staying encrypted between two fully identified counterparties. **So what:** zero-knowledge proofs let you prove a fact about hidden data. FHE lets a contract compute on hidden data. That difference opens up applications, such as confidential order matching, that proofs alone cannot reach, at a performance cost that is still falling.
+
+##### Institutional integration: confidentiality for regulated players
+
+The layer above the chains, where an institution's actual requirements get translated into a deployment. This is commercial consulting work, and it is where the Foundation's own people went.
+
+- [EthSystems](https://ethsystems.org/) is the for-profit successor to the Ethereum Foundation's Institutional Privacy Task Force, [spun out in July 2026](https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing) with backing from Bitmine, Sharplink and Joe Lubin. It builds systems where each party sees only what it is entitled to, with selective disclosure kept in for compliance, and it arrived with a year of open-source work already published: private bonds, confidential stablecoin transfers, private cross-chain settlement, and an [Ethereum Privacy Map](https://github.com/ethsystems/map) cataloguing institutional requirements across the ecosystem. **So what:** the task force spent its Foundation years in hundreds of conversations with central banks, regulators and financial institutions. That accumulated knowledge of what supervisors will actually accept is still public, since the [knowledge base](https://ethsystems.org/patterns/) and the Ethereum Privacy Map are open source on GitHub. What EthSystems sells is the bespoke engagement work of applying it to a given institution.
+- Two other Foundation spin-outs complete the picture. [Ethlabs](https://ethlabs.org/) is a non-profit R&D lab founded by five former senior EF researchers, focused on settlement speed, mainnet capacity and institutional infrastructure. [Ethereum Institutional](https://www.coindesk.com/tech/2026/07/01/ethereum-gets-a-new-nonprofit-focused-on-institutional-adoption) is a non-profit offering banks and asset managers a neutral point of contact as they evaluate the chain. **So what:** three organisations, the same funders, and a clear pattern. Work that serves institutions found money quickly.
+
+#### The gap
+
+The restructuring roughly follows the mechanism and policy line, although the Foundation [kept an Access cluster and an Institutional cluster](https://blog.ethereum.org/2026/06/23/ef-structure) in-house, the first committed to a "zero option" that keeps an intermediary-free path open for every intermediated one, so some wallet-layer and policy work still sits inside it.
+
+Core developers and the Foundation own the mechanism, and that work is funded and progressing. Companies set the policy, especially for institutions, and that work is funded and progressing faster. The Foundation consolidated its research under a mandate called CROPS, covering censorship resistance, resilience, openness, privacy and security, and privacy now sits in its Protocol Cluster as a [long-horizon research goal](https://www.techtimes.com/articles/318949/20260623/ethereum-foundation-cuts-54-jobs-shuts-zk-research-lab-slashes-budget-40.htm).
+
+What did not survive the [40% budget cut and 54 job losses in June 2026](https://www.techtimes.com/articles/318949/20260623/ethereum-foundation-cuts-54-jobs-shuts-zk-research-lab-slashes-budget-40.htm) was [PSE](https://pse.dev/), the Privacy Stewards of Ethereum, as an engineering organisation. PSE was the lab that turned zero-knowledge research into shipped code. It maintained [MACI](https://maci.pse.dev/), which enables voting where no one can prove how they voted and therefore no one can buy the vote (votes are hidden from the public but [visible to the coordinator](https://maci.pse.dev/blog/tags/maci) who tallies them, and the anti-bribery guarantee assumes that coordinator is honest), and [Semaphore](https://semaphore.pse.dev/), which lets someone prove they belong to a group without revealing which member they are. It also did the deeply unglamorous work of shrinking proof generation until it runs on a mid-range phone rather than a server. The drift had started before June 2026: PSE [sunset the MACI Platform](https://pse.dev/blog/reflecting-on-maci-platform) in May 2025, [refocused](https://ethereum-magicians.org/t/pse-roadmap-2025-and-beyond/25423) that September from a cryptography explorations team to a problem-first team that would not own every solution, and now [lists Semaphore](https://pse.dev/projects/semaphore) as monitored for bug fixes with no active feature development.
+
+None of that has an obvious commercial owner. Anonymous voting infrastructure does not have a customer with a procurement budget. Proof performance on cheap hardware benefits everyone downstream and is billable to no one. EthSystems, which TechTimes [calls](https://www.techtimes.com/articles/320511/20260715/ethereum-foundations-privacy-spinout-targets-bank-confidentiality-gap.htm) the best-funded applied-ZKP team now that PSE is gone while saying it does not replace PSE, is the nearest candidate. Its [building-blocks catalogue](https://ethsystems.org/patterns/) has no entry for MACI or Semaphore, and its proving entries (Safe Proof Delegation, co-SNARK delegated proving, Relay-Mediated Proving) move proving off the device rather than making it fast on one. These are shared inputs that every project on the map above consumes and none has an incentive to fund alone, which is the textbook shape of a public good and the textbook reason it gets underprovided when the organisation that was carrying it stops.
+
+The mandate still lists privacy. The lab that executed on it is gone.
+
+#### It is going to take a village
+
+There are real grounds for optimism here, and they are worth stating before the caveat.
+
+Five years ago, "privacy on Ethereum" meant one mixing contract and a lot of arguing. Today there is a coherent division of labour across five layers, with credible teams at each. Inclusion guarantees are being written into the protocol. Wallets are getting privacy as a dependency rather than a project. Shielded pools have found a compliance story that survives contact with a regulator. Institutions are deploying real money on confidential rails. That is not a roadmap, it is shipped or shipping work.
+
+The caveat is that the shape of the funding now tilts toward whoever can pay. Institutional privacy has customers and will be fine. Protocol mechanisms have the Foundation and the core developer process and will be fine. The shared cryptographic substrate in between has neither, and it is the part that everything else quietly depends on.
+
+That gap is fillable, and the mechanisms to fill it already exist in this ecosystem. Retroactive funding, protocol guild style ongoing support for maintainers, L2 sequencer revenue directed at upstream dependencies, and the grants programmes that have funded exactly this kind of work for years. What it needs is for the projects that consume MACI, Semaphore and fast client-side proving to treat them as infrastructure they are jointly responsible for, rather than as free inputs that someone else will keep maintaining.
+
+No single organisation is going to carry applied cryptography for Ethereum again. The Foundation just demonstrated that it cannot, and no company has a reason to. Which leaves the village.
+
+## Being Right Isn't Enough - Lessons for Ethereum from a 90s OS War
+
+URL: https://rohitmalekar.in/being-right-ethereum
+Date: 2026-02-27
+
+*(This essay is part of a series of reflections I am writing while pursuing the 2026 Ethereum Protocol Study Group (EPS). It was inspired by [Lecture 1](https://study.epf.wiki/mod/hvp/view.php?id=17), which covers Ethereum's predecessors and the culture it was built on. Explore the [EPF Wiki](https://epf.wiki/#/) to learn more or check out this [thread](https://x.com/joshdavislight/status/2023860142098596320) by [@joshdavislight](https://x.com/joshdavislight))*
+
+GNU Hurd was the better answer. Linux won anyway.
+
+That's the short version. The longer version is more unsettling, and if you're building anything meant to outlast the next wave of competition, it's worth sitting with.
+
+Richard Stallman's [GNU Hurd](https://www.gnu.org/software/hurd/) was architecturally elegant, built on a [microkernel design](https://www.gnu.org/software/hurd/hurd-paper.html#design) that separated concerns beautifully. It was what computer scientists of the era [considered the correct way to build](https://groups.google.com/g/comp.os.minix/c/wlhw16QWltI/m/T1L667lVAAAJ) an operating system. Linus Torvalds' Linux was the opposite: a monolithic kernel, fast and loose, the kind of thing that earned [public mockery](https://en.wikipedia.org/wiki/Tanenbaum%E2%80%93Torvalds_debate) from academics. Tanenbaum famously called it obsolete before it was even finished. Yet Linux is everywhere. Hurd is a [historical footnote](https://www.gnu.org/software/hurd/).
+
+> ***History doesn't grade on a curve for architectural virtue.***
+
+I keep coming back to this story when thinking about Ethereum. Not to predict doom.  Ethereum is in a far stronger position than Hurd ever was, but because the comparison functions as a useful memento mori. This write-up is about the lessons from the Hurd/Linux saga I can't shake.
+
+### Before the Lessons
+
+A confession. The Hurd/Linux analogy, taken solely and seriously, does not predict that Ethereum learns its lesson in time. It predicts that Ethereum loses. The historical pattern is not "architecturally sophisticated platform gets warned, reforms, and wins." The pattern is "simpler, faster, more pragmatic entrant displaces the incumbent regardless of technical merit." If you run the analogy straight, Ethereum is Hurd in terms of a system with a better answer that real developers found too slow and too complicated to wait for. These lessons matter precisely because there is no guarantee Ethereum is the platform that reads them in time.
+
+Secondly, each lesson below includes what Ethereum has announced or initiated in response to the risk described. Those announcements are genuinely positive signals. They indicate the right problems are being named. But announcements are where Hurd supporters also lived. The Hurd project had roadmaps, mailing list threads, and architectural documents that were entirely correct about what needed to happen. The question is not whether Ethereum's leadership has diagnosed the problems accurately. The question is whether those diagnoses are translating into shipped, adopted outcomes. Where the evidence below is an EF blog post or a stated intention, read it as a leading indicator, not a lagging one. The real measure will be developer retention numbers, transaction fee trends, and whether the tooling improvements are in users' hands.
+
+### Lesson 1: Running Software Beats Correct Software
+
+Hurd spent nearly a decade with almost nothing you could actually use. No real hardware support. No drivers worth mentioning. Theoretically superior but practically absent. Linux shipped. It ran on real machines, supported real peripherals, and let developers build real things.
+
+> ***There's a version of this risk lurking inside Ethereum's roadmap.*** 
+
+The [previous version](https://x.com/VitalikButerin/status/1588669782471368704?s=20) of the Ethereum Roadmap, showcasing The Merge, The Surge, The Scourge, The Verge, and The Purge, was technically justified with a coherent long-arc vision. But when the "real" Ethereum is always the next version, users and developers start hedging elsewhere. Layer 2s have bought time here by shipping usability now, but the fragmentation that followed is its own kind of Hurd trap. Progress deferred is opportunity handed to competitors.
+
+That risk hasn't gone away. But the last twelve months are harder to dismiss than they used to be. The most honest answer to the "always the next version" critique is what Ethereum actually shipped. In 2025, [Pectra](https://blog.ethereum.org/2025/04/23/pectra-mainnet) landed in May with 11 EIPs, including [EIP-7702](https://eips.ethereum.org/EIPS/eip-7702) (programmable wallets), which saw [over 11,000 onchain authorizations within a week of launch](https://www.theblock.co/post/354414/smart-wallet-adoption-surges-after-pectra-upgrade) from wallets including MetaMask, OKX, and WhiteBIT. [Fusaka](https://blog.ethereum.org/2025/11/06/fusaka-mainnet-announcement) followed in December with PeerDAS and an 8x increase in theoretical blob capacity. The mainnet gas limit doubled from 30M to 60M, the first significant increase since 2021. This makes more room for transactions and more room for L2s, the two numbers that determine whether Ethereum stays cheap under pressure.
+
+The EF's [February 2026 Protocol Priorities update](https://blog.ethereum.org/2026/02/18/protocol-priorities-update-2026) named the next two forks, Glamsterdam (H1 2026) and Hegotá (H2 2026), with a defined scope and a [strawmap](https://strawmap.org) through 2029. More importantly, it institutionalised a twice-yearly upgrade cadence, the first time Ethereum has had a predictable delivery rhythm rather than one defined by R&D readiness. 
+
+### Lesson 2: Ecosystem Gravity Is Hard to Build, Easy to Lose
+
+Once Linux accumulated device drivers, package ecosystems, and community tooling, Hurd couldn't catch up, even as Hurd improved. The switching cost wasn't technical. It was the accumulated weight of everything built *around* Linux.
+
+> ***Ethereum has this moat today. Solidity developers, EVM tooling, DeFi composability, institutional familiarity. That's real. But it's not permanent.*** 
+
+Solana isn't just competing on throughput; it's building a parallel ecosystem of tooling, developer habits, and user onboarding flows. Every time a developer chooses Rust on Solana because the experience feels better, that's a small Hurd moment. Individually negligible. Collectively, the kind of thing that turns a dominant platform into a cautionary case study.
+
+The risk is real. So is the response, though whether it's fast enough is a separate question. One of the leading causes weakening Ethereum's ecosystem gravity is the fragmentation trap across L2s. The [Open Intents Framework](https://docs.openintents.xyz/docs) addresses this directly: it lets users declare desired outcomes (move funds, swap, pay) and lets solvers find optimal cross-chain routes. It's no longer a specification; Eco Routes, Uniswap's cross-chain swaps via Across, and Optimism's Superchain bridge interfaces are all running on it today. The [Ethereum Interoperability Layer (EIL)](https://blog.ethereum.org/2025/11/18/eil) goes further, explicitly targeting cross-chain finality of 15–30 seconds, down from 13–19 minutes, designed to make multi-L2 interactions feel like a single chain.
+
+But infrastructure alone doesn't explain why a developer or user stays on Ethereum rather than migrating elsewhere. That's what the recent ["Defipunk" commitment](https://blog.ethereum.org/2026/02/23/commitment-to-defi) is attempting to answer. The EF's position, announced in February 2026, is that Ethereum's DeFi should be permissionless, open-source, privacy-first, and built to pass the [walkaway test](https://x.com/VitalikButerin/status/2026338053162414545?s=20): A protocol should keep running even if its founding team disappears or turns hostile. No admin keys, no emergency backdoors. It is a credible-neutrality play, an attempt to make the ecosystem itself the differentiator, not just the underlying chain.
+
+### Lesson 3: Governance Coherence Beats Governance Purity
+
+GNU Hurd suffered from slow, ideologically filtered decision-making. Linux had Torvalds who was opinionated, sometimes abrasive, but decisive. Patches got merged or rejected. Things moved.
+
+Ethereum's governance is deliberately decentralized, and that's philosophically coherent. But the EIP process can produce years-long delays on changes that look routine from the outside. The counter-argument I find most honest: decentralized governance isn't a bug in Ethereum's design, it is the product. Trustlessness requires no single point of control. Still, the Hurd lesson stands. Ideological purity in governance can become a bottleneck that competitors exploit. 
+
+> ***The question isn't whether to decentralize. It's how to coordinate faster without betraying the core commitment.***
+
+The twice-yearly cadence is a real improvement, but it proves a narrower thing than it seems. Knowing *when* decisions will ship is different from knowing *how* contested decisions get made. The cadence solves a coordination problem. It doesn't touch the harder one.
+
+[FOCIL (EIP-7805)](https://eips.ethereum.org/EIPS/eip-7805) makes this a little more concrete. A [technically contentious change](https://www.theblock.co/post/390682/vitalik-buterin-is-building-a-cypherpunk-principled-non-ugly-ethereum-as-devs-officially-add-focil-to-upgrade-roadmap) debated hard before landing in Hegotá's confirmed scope isn't evidence that governance got faster. It's evidence that the mechanism works, albeit slowly, through disagreement, by rough consensus. That's not a failure. But it's also not Torvalds.
+
+Ethereum cannot have a Torvalds and shouldn't want one. The real risk isn't the absence of a benevolent dictator. It's that coordination costs compound: across hundreds of independent teams, across client diversity requirements, across a community that treats legitimacy as a precondition for any change. Competitors with simpler governance structures will sometimes move faster, and some of those changes will matter. Whether the speed disadvantage is worth the trustlessness guarantee is a question Ethereum keeps deferring. The fork cadence helps at the margins. That question remains open.
+
+### Lesson 4: "Worse Is Better" Is Real, and It's Uncomfortable
+
+Richard Gabriel [wrote about this](https://www.dreamsongs.com/RiseOfWorseIsBetter.html) directly. Unix and C were simpler, less correct, more pragmatic who beat Lisp's more elegant systems because good-enough solutions that ship win over perfect solutions that don't. Linux was "worse" than Hurd by the measure of OS theory. It won because of that, not despite it.
+
+This may be the sharpest edge for Ethereum. If a simpler blockchain with lower costs, more accessible, somewhat less decentralized delivers enough utility to capture the next wave of developers and users, Ethereum's theoretical superiority in trust model may not save it. This isn't an argument for abandoning principles. 
+
+> ***It's an argument for being brutally honest about where "good enough" serves users better than "correct."*** 
+
+L2s are partly an acknowledgement of this: keep the base layer trustworthy, let the execution layers be fast and cheap.
+
+The [Trillion Dollar Security initiative's Phase 2](https://blog.ethereum.org/en/2025/08/20/trillion-dollar-sec-2) extends this logic into UX: the EF surveyed the ecosystem, identified wallet security and blind signing as the highest priority friction points, and launched a minimum wallet security standard, complete with a public grant to [Walletbeat](https://walletbeat.xyz)  and a push for transaction decoding that shows users human-readable outcomes instead of raw calldata. Another pillar is less visible but equally pragmatic: a shared open-source database of smart contract vulnerabilities, designed to integrate with IDEs so developers get flagged for known vulnerability patterns before deploying. No new chain required. No architectural elegance. Just the EF doing coordination work that no individual team has enough incentive to do alone. That's Ethereum choosing "good enough, right now" over 
+"architecturally correct, eventually." Sometimes winning looks like plumbing.
+
+### Lesson 5: Being Right Doesn't Mean You Win
+
+GNU Hurd was right about microkernel architecture in many ways. Modern macOS (XNU) and various server architectures vindicate what Hurd was attempting. But being right didn't matter, because Linux had won. That was that.
+
+Ethereum's decentralization and censorship resistance may be genuinely correct for the long-term architecture of a global financial coordination layer. 
+
+> ***At the risk of sounding fatalistic: correctness doesn't guarantee adoption.*** 
+
+The protocol that gets embedded into the habits, tools, and institutions of the next billion users will be extraordinarily hard to displace, regardless of whether a better one exists. That makes user and developer experience not a secondary concern downstream of protocol correctness. It makes it existential.
+
+The clearest signal that Ethereum is building for permanence isn't a treasury decision, it's the [Trillion Dollar Security initiative](https://blog.ethereum.org/2025/05/14/trillion-dollar-security), an explicit, named, multi-year program to make Ethereum secure enough for sovereign and institutional-scale value storage. The target is a world where billions of individuals are comfortable holding $1,000 onchain, and institutions are comfortable storing $1 trillion in a single contract. There's now a [public dashboard](https://trilliondollarsecurity.org) measuring progress across six security domains (UX, smart contracts, infrastructure, consensus, incident response, and governance) so the community can hold the initiative accountable in public. The post-quantum readiness work (hash-based signatures, STARKs, quantum-resistant precompiles) and the Hegotá-targeted Verkle tree transition (reducing node hardware requirements and enabling stateless clients) are investments in the same direction: they have no short-term marketing payoff, and they look unnecessary until they aren't. (Whether these commitments survive the organizational pressures of a bear market cycle is the open question the dashboard itself cannot answer.)
+
+### The Real Lesson
+
+GNU Hurd teaches that the gap between "building the right thing" and "building the thing that wins" is where ecosystems go to die.
+
+Ethereum has what Hurd never did: real users, real capital, real network effects. Those are genuine advantages. They are also exactly the kind of advantages that look decisive right up until they don't.
+
+Stay obsessed with shipping. Lower friction relentlessly. And never mistake being architecturally correct for being actually used.
+
+## The Decentralized Web and the Rise of Transparency-First Institutions
+
+URL: https://rohitmalekar.in/decentralized-web-transparency
+Date: 2021-12-02
+
+### The inevitable redistribution of power
+Every generation has a seminal fight or two that define its years of existence. The memorable ones include people joining hands for the greater good in spite of individual sacrifices. The most memorable ones are rooted in defending the lines for equity and justice.
+
+As with earlier efforts in decentralization, whether its labor unions or cooperatives, the building of decentralized Web will see its chapters of resistance. 
+
+> It just might not look like the battlegrounds of the past, but make no mistake, this is about redistribution of power.
+
+As Pete Seeger would have put it, at some point in the future, you will have to choose, "Which side are you on?". Except, the world of the future may not be as black and white as the past and there will be many sides for you to choose. Fasten up, here's why I say this:
+
+### Understanding the nature of control today - A scaled tilted for the few
+There is an emerging pattern in multiple industries where the setup now is skewed for the few who scale at the expense of many who got them there. If a need for change arises, the control in these organizations stays centralized with the board members, or at best with shareholders, both of which could have economic incentives at odds with the greater good. I am a pessimist when it comes to any company board's capability to look beyond its fiduciary duties to maximize shareholder gains. And it is even far-fetched when that board has VCs optimizing for a rocketship. 
+
+> It is not about right or wrong. It is what the board is for.
+
+A global cab aggregator will optimize for efficiency in operations at the expense of the well-being of their driver "partners". Large food delivery businesses will have no qualms making lucrative but unhealthy meal options easy to find on the site.
+
+Even considering the possibility of a few inadvertent fallouts from benign intent, centrally controlled organizations or environments operated by closed intermediaries are growing their hold of unreasonable power over the impacted community. Worse, the same powers also have access to influence the future without direct accountability to its constituents from whom they derive value, like letting insurance lobbyists draft healthcare law, or having social media companies set standards for privacy. 
+
+Shouldn't a board of a product company go beyond the comfortable definitions of fiduciary responsibility for legacy stakeholders? Shouldn't they be also directly accountable to users or "partners" who are the builders of the business?
+
+### Where are the emerging fault lines? A case of disenfranchised edges 
+To evaluate what institutions are ripe for disruption through decentralization, assess where the stakeholders or communities impacted by the institution are most removed from the process today.
+
+- **ALIGNMENT of financial incentives:** Today, how strongly are the gains correlated for those who are in control of decisions versus those impacted? (e.g. there is a weak correlation between policy holders' financial well-being and margins of a health insurance company)
+
+- **REPRESENTATION of the community:** Today, how much change is driven by those impacted versus those in control? (e.g. the most vulnerable in our societies have little say with how effectively social welfare is implemented by the government)
+
+- **INFLUENCE in the outcome by the community:** Today, how much of the value created by the institution is a direct result of the community's effort? (e.g. most gig economy platforms are efficient intermediaries at best for the work put in by partners)
+
+- **ENABLEMENT by automation:** Today, how much of the day-to-day interactions between the community and the institution have the potential to be codified by a ruleset? (e.g. most of the needs of a retail banking customer can be confined within a series of predictable steps)
+
+- **SENTIENT specialist expertise needed:** Today, how deep are the requirements for human subject matter experts to be at the helm for managing exceptions and out-of-ordinary situations? (e.g. most social media platforms need humans in the loop to address hate speech)
+
+You will sense a pattern emerging that spans across a significant portion of the world we know in Web 2.0, across social media giants, insurance companies, gig economy platforms, and might I say, even social security and welfare. And that's just the tip of the iceberg.
+
+### What does the alternative look like? A transparency-first mindset 
+For centuries, we have been designing our social, industrial, and political institutions with a "control-first" mindset. Web 3.0 provides the protocols, infrastructure, and tools for "transparency-first" orgs.
+
+Does this mean our democracies and markets are broken? The concepts are probably still fine, but the tweak needed is in the execution to pivot from control-first to transparency-first setup for some of the underlying institutions, especially those who fit the bill above.
+
+> There has never been a better time to re-think entrepreneurship as a pursuit to bring change at scale with and for those impacted. 
+
+This is best enabled at the intersection of community building, technology innovation, and behavioral economics. The decentralized structures can unlock this by dissipating the power to decide how to extract value and automating the ability to extract it, thus drastically reducing historically prevalent sources of information asymmetry, corruption, and ineffectiveness.
+
+This feels aspirational now but will soon become table stakes. The transparency-first mindset will redefine the relationship between the governing and the governed. Institutions that owe access to operations and data to their constituents will have to be redesigned.
+
+### What will it take? The politics of Web 3.0
+There is potential in the underlying Web 3.0 constructs to "unionize" those who have been kept away from the gains of capitalism by select intermediaries through control and power. Once technology is sorted, the fight will turn political. The biggest challenge in this transition isn't the decentralized democratic setup of the social layer in a DAO, nor is it the complexity in the technology to automate the self-enforcement of the governance. Those problems are a function of effort and will get solved.
+
+> The biggest challenge is going to be in navigating the conversations with those in power to be willing to let go of their share of control for the greater good of the community.
+
+In the commercial sector, the markets will force the move in the long run as intermediary-less structures reap the benefits of newer models of value creation. In the public sector (governance led by governments), the road is steep and uphill.
+
+### How do we get there? Technology alone won't cut it
+We need more conversation on how we can unlearn years of brainwashing and instead design institutions and build governance ground up with a transparency-first mindset.
+
+In addition to the technologists, will the builders in the physical world, the community organizers leading coops, the bureaucrats driving government institutions, the creators, the singers, etc. embrace or push for the change? It just feels the tech is overshadowing conversations vis-a-vis the mainstream use cases, e.g. implications for coops to mobilize, transparency in government operations, creative ownership, etc. are huge. We need designers, sociologist, community builders, etc. to shape this.
+
+The conversation we need en-masse isn't only Blockchain or Tokens or NFTs. Those are just the tools. They will hype, evolve, be embraced, and be replaced. 
+
+> Now that we have ways to embed transparency and automation with greater finesse, what do we do about it?
+
+### What does this mean for me?
+What transpires could be our generation's defining cause - a fight for transparent governance. From profitable communities that share gains amongst the builders of the business to restructuring government institutions that balance performance and equity.
+
+Which side are you on?
+
+# Catalog of other essays
+
+## The Art of Work
+
+- [Holding the Reins of a Second Brain](https://rohitmalekar.in/second-brain-reins) (2026-10-19): AI makes a second brain faster at capture, linking and recall, but none of that improves judgment. Using the chariot from the Katha Upanishad, this essay argues that a second brain amplifies impact only when you slow down after each signal to work out what it did to you, and write the note in your own words.
+- [AI Didn't Raise the Bar. It Revealed It.](https://rohitmalekar.in/shifted-expectations) (2026-03-15): The baseline for knowledge work has changed, even before AI tools are fully reliable. Tasks built on relaying, summarizing, and packaging information are quickly becoming table stakes, which pushes real value toward judgment and original thinking. This essay explores why that shift feels threatening, where it creates freedom, and how professionals can respond by moving from compliance to craft.
+- [AI Will Make You "Look" Competent. That's the Problem.](https://rohitmalekar.in/learning-with-ai) (2026-03-13): \"You don't need to learn X in the age of AI\" is one of the most viral pieces of advice right now, and one of the most quietly damaging. The short burst of productivity AI provides on unfamiliar terrain is real, but it's borrowed. This essay offers a two-mode framework for using AI in a way that compounds your skills rather than substitutes for them.
+- [The Biggest Risk With AI Isn’t Job Loss. It’s Loss of Agency.](https://rohitmalekar.in/ai-agency-loss) (2026-02-16): Every technological wave has followed a reassuring pattern of displacement, adaptation, and expansion. AI is expected to do the same, but it operates in the domain of judgment and abstraction, not just repetitive tasks, representing a possible structural break from historical precedent. This essay explores why the real risk isn't mass unemployment but uneven agency, and why the capacity to remain cognitively central may not distribute as widely as we assume.
+- [The Clock We Didn't Watch - India's Demographic Dividend](https://rohitmalekar.in/demographic-dividend) (2026-01-15): India's working-age population share peaks around 2028-2030, after which the demographic window begins to close. The East Asian Tigers captured 25-40% of their GDP growth from demographic dividends; India has realised roughly a third of its potential, constrained by regulatory burdens, education-employment mismatches, and late-arriving policy interventions.
+- [The Infrastructure for Insight - Cultivating Personal Judgement in the Age of Generation](https://rohitmalekar.in/pkm) (2026-01-07): Online feeds break continuity of thought. A personal knowledge system holds your insights long enough to connect, so your judgment builds on your own past work.
+- [AI as Amplifier: Three Shifts That Change How You Work](https://rohitmalekar.in/ai-as-amplifier) (2025-09-05): AI won’t give you a voice. It will only amplify the one you already have. The question isn’t what can AI do for me? It’s what do I want it to amplify? Three mindset shifts that change how you work with AI 👇
+- [The Secret Weapon of a Successful Consultant is Not to Behave Like One](https://rohitmalekar.in/consultant-weapon) (2022-08-29): The popular character forged by movies and TV series for a successful consultant often involves a pompous extrovert, mostly male, sweeping the clients off their feet with his pretentious know-it-all jargon. In reality, successful women and men leaders in consulting from whom I have learned the most have been introverts. They are great at direct concise communication when needed and always effortlessly step out of the celebratory limelight to let their clients and their teams shine in the success.
+- [The Irony in the Pursuit of One’s Purpose — The Story of Namma Studio](https://rohitmalekar.in/irony-purpose) (2021-11-13): Imagine a piece of the jigsaw puzzle in isolation and removed from rest of the set. If it had a voice, it would probably raise some familiar questions, _“Why do I exist? Look at my odd shape. What purpose can this random shape serve?
+- [The Tyranny of Chasing Goals](https://rohitmalekar.in/chasing-goals) (2021-11-13): Why are some goals harder than others? Why do certain skills feel forever out of reach? Why do some long-awaited milestones shower only fleeting happiness? Why does not competing for feel liberating at times?
+- [Title Inflation in Product Management](https://rohitmalekar.in/product-titles) (2021-11-13): Most fields are troubled with title inflation, sometimes out of necessity, however, often out of vanity. But it feels like product management is out of hand. I am sharing my personal 1-line litmus tests I use to ratify titles. I don't expect everyone to agree with these - use it or refine it as you see fit :)
+- [Work Principles and Belief Systems — Two Sides of the Same Coin](https://rohitmalekar.in/work-and-belief) (2021-11-13): At certain points in our careers, we all have struggled to bring our true selves into our interactions at work. In those moments when we overcome this struggle, we can fully align our actions with our hearts. This is crucial to building an authentic presence and a sense of belonging with the community at work. Whereas, in those moments when we are not ourselves there is a dent in that belonging.
+- [The Title Trap in Transitioning into Product Roles](https://rohitmalekar.in/the-title-trap) (2021-11-13): I was recently asked this question:
+- [The Enigma of Executive Presence](https://rohitmalekar.in/executive-presence) (2021-11-13): Early in my career, most of my peers along with me received consistent feedback to improve executive presence. Few offered insights on what it actually meant and fewer had actionable inputs to share. Over the years, I have come across countless articles that emphasize on developing communication styles that focus on the “executive” and very little that talks about the “presence”.
+- [The Product Management Grid](https://rohitmalekar.in/product-management-grid) (2021-11-13): I no longer assume I know what someone actually does when they say they are a Product Manager. This year, I had a chance to have over 40 or so 1:1s with folks from outside of work in different stages of their product management journey. No two roles were the same. I distilled our conversations into one picture in an attempt to put a unifying model to the various flavors of product management discipline out there.
+- [10 Questions to Ask Interviewers on Work Culture](https://rohitmalekar.in/culture-questions) (2021-11-10): Asking "How is the culture?" rarely yields honest answers. The real insights emerge from questions about how leaders resolve conflict, handle accountability, and respond to crises. This essay offers ten targeted questions to uncover authentic workplace culture during interviews.
+- [The Three Most Unexplored Aspects of A Job Switch in Early Career Transitions](https://rohitmalekar.in/job-switch-aspects) (2021-11-01): Salary and title are easy to compare; the intangibles are harder. Understanding your future leaders, knowing whether you're valued as a person or a resource, and honestly assessing your own fit are often overlooked in career transitions. This essay unpacks three underexplored aspects that shape long-term career success.
+- [A Litmus Test for Your Future Workplace](https://rohitmalekar.in/person-vs-resource) (2021-11-01): Some companies hire you as a resource to fill a slot; others hire you as a person they want to know. The difference shapes everything—from your relationships at work to your long-term growth. This essay offers a simple litmus test to evaluate your future employer.
+- [Why Is "Do You Have Any Questions" One of The Most Important Questions In Your Interview](https://rohitmalekar.in/interview-questions) (2021-11-01): The final minutes of an interview—when candidates can ask questions—are often fumbled or wasted. Yet this window offers a rare chance to control the conversation and assess if the role is truly right for you. This essay explains why this question matters and how to prepare for it effectively.
+- [Why Do Careers Get Stuck in the Middle Management](https://rohitmalekar.in/middle-management-trap) (2021-11-01): High-performing careers often stall in middle management because practitioners avoid high-quality problems in favor of comfortable, low-risk work. The traps include expecting linear progression, switching jobs for roles instead of tribes, and treating purpose as a fact-finding mission. This essay offers a framework for expanding your circle of influence.
+- [Most Challenging Work Experience](https://rohitmalekar.in/authentic-presence) (2021-11-01): A week-long onboarding at a startup challenged years of conditioning to appear successful rather than be authentic. Unlearning the habit of conformity and learning to be genuinely present proved harder than any technical skill. This essay reflects on how embracing vulnerability became the most transformative work experience.
+- [Building Sustainable Careers in Product](https://rohitmalekar.in/product-careers) (2021-08-12): Product management titles and career paths can be confusing. This visual captures key insights from a conversation on demystifying product management titles and building sustainable careers in product.
+- [Equations for Building Products with Sanity](https://rohitmalekar.in/equations-for-building) (2021-07-01): Product teams routinely conflate outputs with outcomes, tools with methods, and activity with progress—and the resulting confusion costs more time than any missed deadline. The reframe is simple: precision in language is precision in thinking, and sloppy equations lead to sloppy products. This essay distills a set of non-negotiable logical relationships every product manager should internalize to build with clarity instead of chaos.
+- [5 lessons from 5 years of building products](https://rohitmalekar.in/5-product-lessons) (2021-06-01): Building great digital products is harder than it looks—not because of the technology, but because of the invisible forces that quietly shape team culture, decision-making, and execution. Five years of hands-on product work across cross-functional teams surfaces a few recurring patterns that separate teams that ship with purpose from those that just ship. This essay distills those patterns into five hard-won lessons on what it actually takes to build products that matter.
+- [How Can An Engineer Transition into Product Management](https://rohitmalekar.in/transitioning-to-product) (2021-04-01): Engineers asking how to transition into product management are often looking for a checklist—but what they actually need is a maker mindset, which they already have in abundance. The real obstacle isn't a missing credential or management experience; it's not having defined the role you're actually aspiring to before trying to get there. This essay argues that engineers are the best-positioned candidates for PM roles and maps the introspective work that must come before any external move.
+- [Do You Need to be a Product Manager to Apply Product Thinking](https://rohitmalekar.in/product-thinking) (2020-09-01): Too many early-career professionals fixate on landing the PM title before they’ve ever exercised the underlying muscles—and in doing so, miss the point entirely. Product thinking isn’t a job description; it’s a set of practices anyone can apply right now, in whatever role they hold. This essay defines the four core responsibilities that separate genuine product thinking from the title, and makes the case that earning the role means demonstrating the work first.
+- [10 Tweets to My Younger Self Signing Up for a Career In Consulting 10 Years Ago](https://rohitmalekar.in/10-tweets-consulting) (2017-10-01): Most people enter consulting without knowing what they’re actually signing up for—the brutal learning curve, the identity friction, and the moments that quietly make or break a career. A decade in, the clearest lesson is that survival isn’t about working harder; it’s about knowing when to absorb, when to lead, and when to walk away. Ten bite-sized truths this essay would send back to day one.
+
+## Building Better Orgs
+
+- [Why Most Organisations Aren’t Ready for AI (and It’s Not a Tech Problem)](https://rohitmalekar.in/ai-readiness) (2026-02-01): Every wave of enterprise technology has promised transformation but delivered tool-level adoption instead. The pattern repeats because organisations use technology to avoid judgment rather than amplify it. This essay traces four decades of this dynamic and argues that AI readiness starts with organisational self-awareness, not technical capability.
+- [The Hidden Economics Behind Enterprise Software Choices](https://rohitmalekar.in/enterprise-software-ux) (2025-11-19): Why enterprise software is so often clunky: systems integrators are rewarded for big-ticket, vendor-specific deals rather than employee experience. A look at the hidden incentive economics that shapes the tools organizations are forced to use.
+- [The Next Frontier for Indian Startups - Sequoias and Meadows](https://rohitmalekar.in/next-frontier) (2023-01-01): India's startup ecosystem needs more than VC-backed unicorns (the Sequoia trees) — it needs a sustainable 'meadow' of bootstrapped and alternatively-funded businesses. On the trade-offs founders make on the cap table, and what a healthier ecosystem requires.
+- [The Power of Healthy Skepticism for Popular Opinions](https://rohitmalekar.in/power-of-skepticism) (2022-01-17): It was the end of 2015. I was in the U.S. and had been exposed to politics there for a few years at that time. The Right was clamoring that the biggest threat to their country is ISIS.
+- [The Holy Grail for the Enabling Tech for Cohort-Based Courses](https://rohitmalekar.in/cohort-based-courses) (2021-11-14): Cohort-Based Course is the new terminology in town. Without going into the debate of whether the phenomenon deserves a new name, there are a few elements of this experience that are being enabled creatively by more than a few instructors. Specifically, this includes peer-to-peer learning by design, small coach to coachee ratio, holding each other accountable for outcomes, dedicated bandwidth for spontaneous bi-directional communication as compared to a traditional classroom setup to name a few.
+- [The Making of a Megathon](https://rohitmalekar.in/megathon) (2021-11-13): There are many advantages to taking time off to try to build things in time-bound short burst hackathons. It allows engineers to get out of the comfort zone and challenge the status quo on unsolved problems. For most companies, it is a channel to attempt things out of the ordinary and for engineers to prove their potential. Moreover, it is a safe environment to fail fast and accelerate learning.
+- [Designing An Authentic Work Culture - Part 3](https://rohitmalekar.in/authentic-culture-3) (2021-11-13): Creating an authentic, homogenous, and sustainable work culture can take years. This three-part series outlines our experiences and learnings in this aspirational journey at Namma Studio. Often, defining your work culture requires you to first identify what your culture is not. The first part of this series talks about how you can peel away the exterior layers of work-life that often get mistaken for culture.
+- [Litmus Test for Leadership](https://rohitmalekar.in/litmus-test-leadership) (2021-11-13): When Mike Tyson was asked by a reporter whether he was worried about Evander Holyfield and his fight plan he answered, “Everyone has a plan until they get punched in the mouth.” Most work communities establish values to guide the culture in their organizations. It is relatively easy to define a set of values to be hung as posters on office walls or to be printed on coffee mugs. It is harder to sustain those ideals through tough sales targets and challenging project deadlines. Hardest ...
+- [Designing An Authentic Work Culture - Part 2](https://rohitmalekar.in/authentic-culture-2) (2021-11-13): Creating an authentic, homogenous, and sustainable work culture can take years. This three-part series outlines our experiences and learnings in this aspirational journey at Namma Studio. Often, defining your work culture requires you to first identify what your culture is not. The first part of this series talks about how you can peel away the exterior layers of work-life that often get mistaken for culture.
+- [Story of a Note, a SAFE, and a KISS](https://rohitmalekar.in/note-safe-kiss) (2021-11-13): This is a fictitious narrative without numbers and formulae between an investor and an early-stage startup founder. It discusses basic concepts of convertible notes, simple agreement for future equity (SAFE) and keep it simple security (KISS).
+- [Designing An Authentic Work Culture - Part 1](https://rohitmalekar.in/authentic-culture-1) (2021-11-13): Creating an authentic, homogenous, and sustainable work culture can take years. This three-part series outlines our experiences and learnings in this aspirational journey at Namma Studio. Often, defining your work culture requires you to first identify what your culture is not. The first part of this series talks about how you can peel away the exterior layers of work-life that often get mistaken for culture.
+- [The Digital Transformation Trap — Compromising Human Experience with Agility and Speed](https://rohitmalekar.in/digital-transformation-trap) (2021-11-13): The early years of computer programming had a singular focus on the underlying data and processes being automated with a naive disregard for the human working with the application. As the audience for the computer applications outgrew the back-office personnel to include everyday users, the discipline of human-centered design has become critical to elevate the effectiveness of technology investments. Most enterprises that embark on the journey of digital transformation begin by leveraging pri...
+- [The Art of Engineering](https://rohitmalekar.in/art-engineering) (2021-11-13): An artist creates her work as an aggregate of her creativity applied across many layers of perception for an immersive experience for the audience, no matter if you are reading a poem, enjoying a book, or staring at a painting. In that sense, engineers may not be too different.
+- [The Secret to Building Sustainable Businesses](https://rohitmalekar.in/sustainable-business) (2021-11-13): We all appreciate what it takes for someone to run a marathon, even if not many of us have attempted it. At some point in our lives, we all have given a shot for a quick sprint or a long jog and know how hard it is to sustain it for 26.2 miles. However, it is often difficult for most of us to appreciate an equivalent amount of effort that goes into an outcome built upon a career practicing the craft of good design. ^design-interest
+- [Nailing the Interview as an Interviewer](https://rohitmalekar.in/interviewer-habits) (2021-11-01): Much has been written about how candidates should approach interviews—far less about how interviewers should. A candidate's first potential employee experience starts during the interview. This essay outlines ten micro-habits that interviewers can adopt to create a fair and respectful candidate experience.
+- [Cohort Created Course - A Creator Community Experiment](https://rohitmalekar.in/cohort-created-course) (2021-11-01): Most online courses are built by one person and consumed by many—but the earliest participants who shape the experience rarely get credit or a stake in what they helped create. The real insight is that learning works best as a two-way street, and those who contribute to building it deserve a share of what it becomes. This essay introduces a cohort-created course experiment on finding authentic belonging during a job search—and invites early participants to co-own the outcome.
+- [A Brief Look at Alternative VC Funding Models](https://rohitmalekar.in/alternative-funding) (2021-05-01): Traditional VC is optimized for unicorns—but most founders building sustainable, mission-driven businesses don't fit that mold, and the funding gap leaves critical problems permanently underfunded. The real issue isn't a lack of capital; it's a structural misalignment between how investors measure success and how many founders define it. This essay surveys a growing wave of alternative funding models—from Shared Earnings Agreements to Exit to Community—built for founders who measure winning differently.
+- [A rant and a wishlist for ed-tech in India](https://rohitmalekar.in/edtech-india) (2021-01-01): India's ed-tech boom is pouring billions into digitizing an outdated educational experience—faster, not better. The core problem isn't a lack of technology; it's that ed-tech is being treated as a product problem when it's fundamentally a service design problem. This essay makes the case for what genuine education reform in India would look like, and what ed-tech would need to get right to matter.
+- [Design for All - A Transformation from Group Thinking to Design Thinking](https://rohitmalekar.in/design-for-all) (2019-06-01): Most digital transformations treat design as a specialist function—something designers do—while the engineers, architects, and executives around them operate on entirely different principles. The real blocker isn’t a lack of design talent; it’s that design thinking hasn’t crossed over into the people who make the decisions that shape user experience upstream. This essay makes the case that design is now too important to be left only to designers—and reflects on a two-day workshop that tried to change that.
+
+## Public Goods & Coordination
+
+- [Bengaluru's Outer Ring Road - The Drowning Tech Corridor Built on Top of a Lake System](https://rohitmalekar.in/orr-drowning-corridor) (2026-06-04): ORR floods because it was built on top of the city's natural drainage architecture. This is a manufactured, systemic crisis, not a weather event, and fragmented governance across BBMP/GBA, BDA, BWSSB and the Revenue Department means no single agency owns the problem.
+- [Autonomy Was Rarely Ours to Surrender](https://rohitmalekar.in/autonomy-power-india) (2026-03-26): In India, the erosion of privacy and the failure of decentralization share a common root — not apathy, but a cultural conditioning that made surrendering autonomy feel natural. From joint families to Aadhaar, deference to power was never forced; it was familiar. This essay traces how that instinct was built, how it scaled, and why unlearning it is the real political project.
+- [GG24 Update - Inside the Interop Round](https://rohitmalekar.in/gg24-interop-update) (2026-03-10): As Ethereum fragments across rollups and L2s, the risk isn't just scaling—it's losing the coherence that makes the ecosystem trustworthy and coordinated. Interoperability isn't one problem; it spans five distinct layers from protocol plumbing to data, governance, and funding infrastructure. This update goes inside the GG24 Interop Standards, Infrastructure & Analytics round to map who is building those layers today and why this work matters for Ethereum's connected future.
+- [Beyond Stages - A Multi-Dimensional Framework for Evaluating L2s](https://rohitmalekar.in/beyond-stages) (2026-02-08): The current L2 evaluation landscape relies on a single-axis Stages framework that fails to capture the diversity of what Layer 2s actually offer. By distinguishing between convex and concave evaluation dispositions, a multi-dimensional approach can assess security inheritance, differentiated value, interoperability depth, and vibes-substance alignment. This essay proposes how L2Beat could expand its evaluation infrastructure to help users find the L2 that matches their needs rather than simply ranking chains on a single leaderboard.
+- [GG23 - How We’re Powering Retroactive Funding - Metrics That Matter](https://rohitmalekar.in/gg23-retro-funding) (2025-11-13): GG23 is piloting metrics-based retro funding to reward mature OSS projects based on real, measurable impact on the Gitcoin Community. At Open Source Observer, we collaborated closely with the Gitcoin team to design a transparent, data-driven metrics framework rooted in verifiable public data — including Allo GMV, donor engagement patterns, and GitHub activity. Our goal was to help badgeholders make informed decisions by surfacing clear signals of long-term impact.
+- [GG24 Sensemaking - Open Data Standards, Infrastructure & Analytics for Ethereum](https://rohitmalekar.in/gg24_sensemaking) (2025-08-18): Ethereum’s growth depends on more than scaling blockspace. It needs open, verifiable data that makes the network legible to everyone. This report maps 20+ use cases across explorers, analytics, standards, and metrics, and outlines three strategic opportunities for 2025: unified L1–L2 visibility, institutional DeFi legitimacy, and transparent OSS funding.By funding open data infrastructure, we can move beyond fragmentation and silos toward a more credible, resilient Ethereum ecosystem.
+- [Gitcoin Grants 23 - A Milestone Round for Public Goods Funding](https://rohitmalekar.in/gg23-milestone) (2025-06-01): GG23's Mature Builders Retro Funding round marked Gitcoin's second major experiment with retroactive public goods funding at scale, allocating over $600,000 across 30 projects. Unlike conventional grants, this round was designed to reward impact already delivered, combining badgeholder voting with data-driven selection. This article documents how merit-based accountability at scale moved from concept to execution.
+- [Predicting Public Goods Funding Using Reward Distribution Curves - An Exploratory Approach](https://rohitmalekar.in/articles/coordination/predicting-public-goods-funding-using-reward-distribution-curves---an-exploratory-approach) (2025-01-15): An exploratory approach to predicting public goods funding: can power-law patterns in reward distribution curves — an 'invariable' across Gitcoin, Optimism, and Open Collective grant rounds — predict how much a project would receive without relying on noisy data?
+- [Advancing data science on the Gitcoin Grants Stack](https://rohitmalekar.in/gitcoin-data-science) (2025-01-01): Open Source Observer partnered with Gitcoin to enhance data infrastructure and analytics on the Grants Stack, making it easier for developers and researchers to connect grants data with public datasets. The collaboration aimed to streamline data engineering, improve donor transparency, and enable more data-driven decision-making for the Gitcoin ecosystem. This post demonstrates practical applications including grantee exploration, coding activity evaluation, and funding pattern analysis.
+- [Looking back at Octant's funding to open source in 2024](https://rohitmalekar.in/octant-2024-oss) (2025-01-01): In 2024, Octant supported 47 open source software teams across four epochs, spanning a diverse range from privacy tools like Tor to analytics platforms like L2Beat. High-level developer activity trends across these projects reveal ongoing contributions, growth areas, and the breadth of what each team has been building. This analysis offers additional context for the ecosystem without direct project comparisons, acknowledging the diversity of missions involved.
+- [Data-Driven Decision Making in Quadratic Funding](https://rohitmalekar.in/data-driven-qf) (2024-12-01): In quadratic funding rounds with hundreds of grantees, the loudest voices tend to win—not the most impactful projects. The fix isn't more curation; it's giving donors the analytical tools to move from subjective narratives to objective, customizable evaluation of what grantees actually built. This study presents a live data-driven tool deployed during Gitcoin Grants 22 that lets donors define their own metrics and composite scores to discover and fund projects that match their priorities.
+- [Grants for Public Good - A Roadmap for Resilient Democratic Funding](https://rohitmalekar.in/grants-for-public-good) (2024-07-02): This article, based on the [talk](https://www.youtube.com/watch?v=v34j8dVRd-g) by Meg Lister, Product Lead, Gitcoin Grants Stack, at Funding the Commons, delves into the integral role of grants in shaping the web3 ecosystem. It explores the mechanism for Direct Grants and Quadratic Funding, their strategic implementation at different stages of ecosystem growth, and their impact on fostering a dynamic and resilient community. The article also discusses the nuances of managing these programs am...
+- [Announcing Zuzalu QF Grants Program on Grants Stack](https://rohitmalekar.in/announcing-zuzalu-qf) (2024-07-02): The Zuzalu Grants Program will be the largest Zuzalu-related QF rounds. This iteration of the Grants Program marks a departure from the previous focus solely on community projects. Our aspiration for the current year is to see a proliferation of events inspired by Zuzalu, contributing to the growth of the pop-up city movement. We anticipate a surge in social experiments and the emergence of new technologies that will propel initiatives in this developing field.
+- [Navigating the Regen Movement - Key Considerations for Early-Stage Founders](https://rohitmalekar.in/regen-founders) (2024-06-01): The regenerative movement offers early-stage founders a compelling but complex landscape where cybernetic principles, sustainability loops, and community-first governance intersect. Three key questions — around adaptive responses, value reinvestment cycles, and community beyond economics — guide founders building resilient regen ecosystems. This article draws from cybernetics, Ocean Protocol's sustainability framework, and Nathan Schneider's critique of cryptoeconomics to offer a structured lens.
+- [Get to Know About DAOs - A Campus Workshop](https://rohitmalekar.in/dao-campus-workshop) (2024-03-01): Two workshop sessions at Punjabi University's Centre for Emerging and Innovative Technology introduced faculty and students to DAOs through a hands-on quadratic voting exercise and talks from active DAO founders. The discussion traced DAOs from their theoretical roots to current challenges, advocating for solidarity, governance, and stewardship over scale. A hybrid model balancing legal realities with web3's coordination potential emerged as the most practical path forward.
+- [WTF is Cluster-Matching QF?](https://rohitmalekar.in/cluster-matching-qf) (2024-02-01): Modern mechanism design assumes independent agents, leaving Quadratic Funding vulnerable to collusion and over-coordination from pre-existing participant relationships. Cluster-Matching QF, introduced during GG18, addresses these power imbalances by accounting for social ties in funding allocation. This article recaps how QF works, examines its vulnerabilities, and contrasts outcomes before and after Cluster-Matching is applied.
+- [Questioning the Unquestioned - The Role of Inquiry in Web3's Adoption](https://rohitmalekar.in/inquiry-web3) (2023-12-01): Quality of life depends on the quality of questions we ask, and most institutions shaping our digital and civic lives have never faced serious scrutiny at scale. Web3's most underappreciated contribution is not its technology but its capacity to provoke the right questions about control, ownership, and participation. This essay argues that questioning the design of 200-year-old institutions is the most accessible entry point for non-technical people into the broader web3 movement.
+- [The Role of Inquiry for a Regenerative Future](https://rohitmalekar.in/role-of-inquiry) (2023-11-15): One of the exciting things about decentralized infrastructure and tools is that they allow us to ask important questions about traditional institutions that prioritize control and for whom winning the game equates to accumulation and extraction. Instead, we now have the opportunity to create ecosystems that empower individuals to participate in economic practices that are more ethical, sustainable, and community-oriented. Ethically designed cryptoeconomic primitives hold the potential to resh...
+- [Announcing Gitcoin Grants 19](https://rohitmalekar.in/announcing-gitcoin-grants) (2023-11-15): Gitcoin Grants aims to foster innovation in the web3 space while aligning with the principles of decentralization and community empowerment. The broader vision for GG19 is to maintain the essence of Gitcoin Grants amid a shift towards a suite of decentralized products, ensuring the community ethos remains vibrant. Essential intents for GG19 include re-centering core values, improving program quality and user experience, increasing transparency, and advancing decentralization: back to our roots.
+- [Harnessing Nature’s Wisdom for Mechanism Design](https://rohitmalekar.in/harnessing-natures-wisdom) (2023-11-15): In this article, we introduce the concept of mechanism design inspired by nature to further enhance human coordination using blockchain, drawing from the innate intelligence and self-organizing principles observed in nature. The [GreenPill meme](https://x.com/owocki/status/1515040025049661445?s=20) represents a potential for regenerative cryptoeconomics to orchestrate human coordination in a manner conducive to building and preserving public goods. Central to this aspiration is the principle ...
+- [Gitcoin Grants Round 18 - Results and Recap](https://rohitmalekar.in/gitcoin-grants-round) (2023-11-01): Whether improving Ethereum, educating developers, guaranteeing onchain privacy, or fighting for crypto in DC, builders have used Gitcoin to connect with their community and make a lasting impact. Gitcoin Grants 18 (GG18) was the latest iteration of the quarterly quadratic funding rounds that ran on the decentralized Grants Stack. This round saw increased crowdfunded contributions above the previous two rounds on Grants Stack – making it the biggest ever on the new decentralized tech stack. Wi...
+- [Intro to Direct Grants - How Do They Work?](https://rohitmalekar.in/direct-grants) (2023-11-01): Grants drive early support for web3 projects, maintaining their independence and nurturing talent within ecosystems. As Gitcoin evolves into a protocolDAO, we're excited to introduce Direct Grants on Grants Stack, diversifying funding mechanisms for a more robust web3 ecosystem. Grants offer early support for web3 projects that drive progress while helping teams and communities maintain independence. This assists ecosystem funders - from well-known protocols to tokenized communities - in deve...
+- [Driving Innovation with Quadratic Voting - Fantom’s Journey with Grants Stack](https://rohitmalekar.in/driving-innovation-with) (2023-11-01): This case study showcases the role of Gitcoin Grants Stack in simplifying and democratizing the funding process for the Fantom community. Fantom, an EVM-based L1, introduced the Ecosystem Vault to provide decentralized funding for developers in their ecosystem. Grants Stack facilitated Quadratic Voting (QV) using valueless GitcoinVote tokens to promote transparent, inclusive, and secure funding decisions without the need for direct donations. This enabled the democratic distribution of 750,00...
+- [The 50-Year-Old Legacy of India's Tree Huggers](https://rohitmalekar.in/the-50yearold-legacy) (2023-10-04): #### Regeneration Lessons from The Chipko Movement
+- [Linea's Human-First Campaign Using Gitcoin Passport](https://rohitmalekar.in/lineas-humanfirst-campaign) (2023-10-03): In the lead-up to the mainnet alpha release, Linea organized the Linea Voyage initiative, involving early community members and partners to shape the platform. This initiative included challenges and exploration of the Linea ecosystem on the testnet, where users earned points towards Linea NFTs. To combat congestion caused by automated activities, Linea partnered with Gitcoin Passport for user verification to prioritize genuine human engagement, rewarding those with high Gitcoin Passport Scor...
+- [Building a Sybil-Resistant Future Using Gitcoin Passport Onchain Stamps](https://rohitmalekar.in/passport-onchain-stamps) (2023-10-03): The fragmented digital identity landscape creates barriers for users and developers in building trust and interoperability between identity and credentialing solutions. The article introduces Gitcoin Passport Onchain Stamps built using the Ethereum Attestation Service (EAS) to enable users to add their stamps to the Ethereum ecosystem.
+- [Strengthening CyberConnect's Loyalty Program with Gitcoin Passport](https://rohitmalekar.in/passport-cyberconnect) (2023-10-03): CyberConnect, a web3 social network that empowers users to own their digital identity and content, faced challenges with Sybil attacks in their FanClub loyalty program. These attacks led to an unfair distribution of rewards. They initially used manual review processes to identify and ban Sybil accounts, but it was time-consuming. To address this issue, they integrated Gitcoin Passport, dividing the reward pool into a Main Pool and a Side Pool.
+- [Protecting ShapeShift's OP Rewards Programs from Bots and Sybils](https://rohitmalekar.in/protecting-shapeshifts-rewards) (2023-10-03): ShapeShift envisions a financial system without borders, built on decentralized protocols, and aims to offer a comprehensive alternative to centralized exchanges (CEXs). It is an open-source, multi-chain, self-custody crypto platform helping individuals achieve financial sovereignty. Currently, many CEXs provide some form of crypto Earn product that is protected from Sybil attacks through KYC requirements integrated into the platform. ShapeShift DAO has replicated this user experience in DeFi...
+- [Anti-Bot Solutions for Crypto and Web3 - Why Gitcoin Passport is the Ultimate Choice](https://rohitmalekar.in/antibot-solutions) (2023-10-03): The cryptocurrency industry is burgeoning at an unprecedented rate. Yet, with this growth come serious challenges, including an upsurge in bot attacks that threaten the security and integrity of crypto platforms and their users. From market manipulation to fraudulent transactions, bot attacks can wreak havoc in multiple ways. This underscores the critical need for advanced anti-bot solutions in safeguarding digital assets and ensuring a smooth user experience.
+- [GrantsScope - Citizens Round Application](https://rohitmalekar.in/grantsscope-citizens-round) (2023-09-26)
+- [Decoding Impact DAOs (Part 2)](https://rohitmalekar.in/decoding-impact-daos-2) (2023-09-15): This write-up advocates for decentralization, emphasizing that local communities possess the expertise and motivation to manage shared resources effectively. It challenges the traditional "control-first" mindset of centralized institutions, highlighting the potential for decentralized structures to empower local decision-making and address issues of information asymmetry and corruption. Blockchain technology, particularly in the context of Web3 and Impact DAOs, is seen as a catalyst for embed...
+- [The Imperative of Decentralized Identity - Sybil Resistance and Beyond](https://rohitmalekar.in/decentralized-identity) (2023-09-15): While I admire the ambition to decentralize and the tech involved in Worldcoin, I don't imagine handing over my biometrics to a non-governmental centralized entity. However, as more of our lives go digital, the need for more effective solutions for proof of personhood is an Achilles heel. In addition to the legal right to the Internet and safe borderless programmable money, the future of digital public goods critically depends on self-sovereign identity.
+- [Guild.xyz and Gitcoin Passport Partner to Stop Bots and Sybil Attackers](https://rohitmalekar.in/guildxyz-and-gitcoin) (2023-08-10): The article discusses the challenges of interoperability and access in online communities, highlighting how Guild.xyz addresses these issues by providing infrastructure for platformless access management. Guild.xyz enables communities to create portable memberships and social structures across various platforms, ensuring consistent access and roles. The Guild Model operates based on diverse requirements from different blockchains and applications. Notably, Guild.xyz integrates with Gitcoin Pa...
+- [Results for Steward Council Elections v3 - Empowering Community Voice](https://rohitmalekar.in/gitcoin-council-elections) (2023-08-10): Progressive decentralization requires shifting authority and responsibility to a federation of functional units that receive their mandates and funding from the DAO. As Gitcoin grows from millions to billions of dollars allocated to digital public goods yearly, this process must be accomplished alongside the community contributing to these public goods. The Gitcoin governance remains committed to enabling community participation, ensuring that the impact of these funds aligns with our collect...
+- [Liquid Staking with Rocket Pool - How Gitcoin is Contributing to Ethereum's Decentralization](https://rohitmalekar.in/liquid-staking-rocketpool) (2023-07-08): Gitcoin has partnered with Rocket Pool to become a node operator and join the Oracle DAO, contributing to the decentralized staking of the Ethereum network. Rocket Pool is a liquid staking protocol with thousands of node operators and over 500,000 ETH staked. Gitcoin's participation as a node operator allows them to earn rewards for staked ETH, commission on pool staked ETH, and RPL rewards. The Oracle DAO acts as a bridge between the Execution Layer and Consensus Layer of Ethereum, providing...
+- [Bankless Academy - A Gitcoin Passport Case Study](https://rohitmalekar.in/bankless-academy) (2023-07-08): Bankless Academy, an open-source education platform for web3 users, implemented an integration with Gitcoin Passport to defend against malicious actors earning learning credentials. Gitcoin Passport allows users to demonstrate trustable credentials from both web2 and web3 sources, protecting user privacy and verifying account uniqueness. By requiring users to collect a determined number of stamps from different platforms, Bankless Academy ensures uniqueness and prevents Sybil attacks. The int...
+- [The Gitcoin Grants Beta Round - Results and Recap](https://rohitmalekar.in/gitcoin-grants-beta) (2023-07-08): Gitcoin is empowering communities to fund their collective needs through the Gitcoin Grants Stack, a decentralized and customizable solution. The Grants Stack, built with Gitcoin's Allo Protocol, allows grants program managers, project owners, and community members to manage and participate in community-oriented grant programs. The Beta Round of the Grants Stack consisted of Core and Featured rounds, with feedback and Quadratic Voting used to select and support projects. The Core Round result...
+- [Hypercerts - A new primitive for public goods funding](https://rohitmalekar.in/hypercerts-funding) (2023-07-08): Hypercerts and Gitcoin have collaborated to introduce hypercerts for eligible projects in the Gitcoin Program Alpha Round. Hypercerts are ERC-1155 semi-fungible tokens that serve as impact claims and enable different funding mechanisms to interoperate. With the Hypercerts Foundation's implementation, project owners can mint hypercerts for their past work and allocate fractions to supporters. These hypercerts are soulbound and cannot be sold or transferred, but projects can add benefits for hy...
+- [Web3 Grants Program Tooling Landscape](https://rohitmalekar.in/web3-grants-program) (2023-07-08): This article discusses the challenges and opportunities in the current tooling landscape for web3 grants programs. It highlights the importance of effective tooling for standardization, efficiency, and a seamless grantee experience. The article presents four approaches to tooling: protocol-based, bolt-on, blended, and community insights-driven. It introduces Gitcoin Grants Stack as a protocol-enabled solution that enables communities to create, manage, and grow their grants programs.
+- [Delegation done right - Steward Health Cards](https://rohitmalekar.in/delegation-done-right) (2023-07-08): Gitcoin implemented Steward Health Cards in collaboration with Karma to address the challenge of assessing the level of engagement and activity of stewards in the Gitcoin DAO. The Health Cards use metrics such as Snapshot voting and Forum activity to quantify steward activity, with different weights assigned to different types of contributions. The algorithm calculates a Health Score for each steward, which is updated daily and displayed on a custom dashboard. This initiative aims to improve ...
+- [How Gitcoin Passport Protects Testnet Funds - A Case Study with PoWFaucet](https://rohitmalekar.in/gitcoin-passport-faucet) (2023-07-08): The case study explores the challenges faced by the Goerli testnet in distributing testnet funds and the approach taken by PoWFaucet to protect those funds. To streamline Sybil protection and improve the developer experience, PoWFaucet integrated Gitcoin Passport, which allows users to prove their unique identity without compromising privacy. By utilizing the Gitcoin Scorer API, PoWFaucet scores the identities of Passport holders and adjusts reward factors accordingly. This integration has in...
+- [Building Reputation on {r}elinkd - A Gitcoin Passport Case Study](https://rohitmalekar.in/building-reputation-onchain) (2023-07-08): The {r}elinkd platform aims to bring a web2 native user experience to web3 identity management by creating and managing identity profiles. It integrates with Gitcoin Passport to provide user-friendly tools for web3 identity verification and reputation management. Users can display their credentials, incorporate verified links, and earn stamps based on their on-chain activity.
+- [The Case for Grant Programs](https://rohitmalekar.in/grant-programs-case) (2023-07-03): Grants are crucial for supporting and advancing web3 projects while maintaining community sovereignty. They encourage developers and creatives to work on challenging projects and help ecosystems remain competitive. Grants can unite an ecosystem around shared goals, provide early-stage funding for projects, and support niche technologies. Establishing a grants program involves setting clear goals, determining grant types and approval criteria, allocating funds, and engaging potential funders a...
+- [Introducing gtcETH - A New Way to Fund Public Goods through Staked ETH](https://rohitmalekar.in/gtceth-funding) (2023-07-03): Gitcoin and Index Coop have partnered to create Gitcoin Staked ETH Index (gtcETH), an ERC-20 token that provides diversified exposure to liquid staking tokens while allowing users to earn staking rewards and contribute to public goods simultaneously. The token aims to simplify staking in Ethereum and offer a passive way to fund public goods. It will be built on Index Protocol and include liquid staking tokens from Rocket Pool, Lido, and StakeWise. A portion of the staking rewards earned by th...
+- [From Grantee to Funder - Push Protocol](https://rohitmalekar.in/grantee-to-funder) (2023-07-03): Push Protocol is a decentralized communication protocol for web3 that aims to provide users with notifications and messaging capabilities. It allows users, dApps, and service providers to create notifications based on on-chain or off-chain events and offers a secure messaging protocol. The protocol has made significant progress, launching on Ethereum mainnet and powering notifications for popular web3 applications. It has also rebranded and expanded its services to Polygon, releasing the alph...
+- [The Power of "Politics of Artifacts" for Public Goods in Web3](https://rohitmalekar.in/politics-of-artifacts) (2023-06-21): Prof. Winner's 1980 paper ["Do artifacts have politics?"](https://www.jstor.org/stable/20024652) asserts that tech artifacts are not neutral but reinforce certain values, interests, and power relations in society. The paper outlines several examples to drive the point home.
+- [Decoding Impact DAOs (Part 1)](https://rohitmalekar.in/decoding-impact-daos-1) (2023-05-06): The article discusses public goods and their importance in creating positive externalities for individuals who are not party to the transaction. Public goods are typically under-provided by the market due to the free-rider problem, where individuals can benefit from the provision of the good without contributing to its funding. Traditional mechanisms of public goods provision have primarily been owned by nation-states using taxation, but they often suffer from high overheads and rigidity in a...
+- [Why Web 3.0 Communities is a Big Deal? A Non-Technical Story](https://rohitmalekar.in/why-web-30) (2023-03-07)
+- [Three features I would pay for in a sufficiently decentralized social network](https://rohitmalekar.in/farcaster) (2023-01-01): A wishlist for what an open protocol like Farcaster could enable: granular topic-level content curation, and two more features worth paying for in a sufficiently decentralized social network.
+- [About Gitcoin — Marching towards higher quality problems](https://rohitmalekar.in/about-gitcoin) (2022-11-01): Public goods are withering—not for lack of care, but because the systems for coordinating and funding them are broken by design. Web3 offers something genuinely new: the ability to program shared values into money and build transparent institutions that don't depend on who holds power. This essay explores how Gitcoin is laying the digital infrastructure for that future—and why the most exciting part is the quality of problems it makes possible to solve.
+- [Curve Bonded Crowdfunding with Impact DAOs for Shared Solutions](https://rohitmalekar.in/curve-bonded-crowdfunding) (2022-04-01): Impact DAOs tackling public goods face the same recurring organizational challenges—funding, talent, reputation, governance—yet their hard-won solutions remain siloed, forcing each community to reinvent the wheel. The insight is that the shared DNA across Impact DAOs creates untapped potential for a services layer that codifies and redeploys this tribal knowledge at scale. This essay proposes a mechanism design using curve-bonded crowdfunding to fund exactly that—a community-owned services entity where early adopters share in the value they help create.
+- [Greenpilled - Implications for India](https://rohitmalekar.in/greenpilled-implications-india) (2022-03-20): The following are interpretative notes as part of reading the book, [Greenpilled](https://greenpill.party/). This is not a summary of the book, but rather the implications of the core concept in the book - applied regenerative cryptoeconomics - for the wicked problems in India.
+- [Strategy for Codeless Conduct DAO](https://rohitmalekar.in/strategy-for-codeless) (2022-03-20): [Community Track Submission for Codeless Conduct Hackathon (Feb 2022)](https://gitcoin.co/issue/1kxnetwork/codelessconduct/6/100027751): An outline of the purpose, approach, and evolution of the Codeless Conduct from a standalone hackathon to becoming a collective to drive participation of diverse talent in the Web3 ecosystem, eventually scaling to a DAO with self-sustaining liquidity.
+- [Blockchain for Public Goods - A Prequel to Greenpilled](https://rohitmalekar.in/blockchain-public-goods) (2022-03-01): Our public goods are withering—not because people don't care, but because every current system is designed with incentives that reward individual extraction over collective sustenance. The missing ingredient isn't goodwill; it's a coordination mechanism that can align incentives, dissipate power from the center, and automate accountability at scale. This essay makes the case for why crypto and regenerative cryptoeconomics may be that mechanism—and serves as a primer for those new to Web3 before diving into Greenpilled.
+- [Open Collective As a Decentralized Global Public Good](https://rohitmalekar.in/open-collective-publicgood) (2022-02-16): The following is a thought experiment to explore how Open Collective can [Exit to Community](https://www.colorado.edu/lab/medlab/2020/08/31/exit-community-community-primer). The goal here is to "transition from a privately owned company to a structure that allows us to share power and revenue" with its community comprising of employees, Fiscal Hosts, Collectives, funders, investors, and individual contributors.
+- [Early Impressions of Mirror](https://rohitmalekar.in/early-impressions-of) (2021-12-01): For centuries, social and economic institutions have been built with a control-first mindset—and the intermediaries that grew from that design extract value from creators without giving them a real stake. Web3 flips this by making transparency and shared ownership the default, not the exception. This essay explores early impressions of Mirror as a platform that's beginning to translate that promise into practice—decentralizing value creation, governance, and ownership for communities that write and build together.
+- [Potential Perils of Web 3.0 Communities](https://rohitmalekar.in/web3-communities) (2021-11-13): I am convinced Web 3.0-driven decentralized communities will be fairer in more ways than any social platform of yesteryears. However, I also think that when you confer the tools to the individual to be at par with a sovereign, along with our best, our worst will amplify too.
+- [A Case for Sustainable Disruption Using DAOs](https://rohitmalekar.in/dao-disruption) (2021-09-01): The DAO conversation is drowning in token hype and tech infatuation—with almost no one asking which institutions actually deserve to be disrupted and why. The real promise of DAOs isn't decentralization for its own sake; it's restoring power to communities most removed from the decisions that affect them. This essay offers five diagnostic questions to cut through the noise and identify where DAOs can create lasting change versus where they're just the next fad.
+
+## Living Well
+
+- [Why Would Anyone Pay an Actual Therapist Now?](https://rohitmalekar.in/ai-therapy) (2026-08-18): Machines can't yet emulate the stakes and continuity that effective therapy needs. Text is a terrible medium for machine-assisted therapy, and the fix isn't a clever wrapper on a frontier model, it's a purpose-built system still not yet attempted.
+- [On Meta-skills](https://rohitmalekar.in/meta-skills) (2026-07-28): Meta-skills accelerate your ability to acquire new skills by altering the natural state of your mind. Eight prompts, not prescriptions, for chiselling the worldview that got you here but won't get you further.
+- [What is not invented needs no revival](https://rohitmalekar.in/dharma-no-revival) (2026-06-23): Drawing on the philosophy of Sanatan Dharma and its quality of being eternal and discovered rather than invented, this piece argues that the same principle applies to relationships and careers. When we root ourselves in authentic truths rather than constructed identities, we need no symbols, no revival and no posturing.
+- [Zone 2 Training - The Slow is Smooth, Smooth is Fast of Cycling](https://rohitmalekar.in/zone-two-training) (2026-05-17): Most training instincts push toward harder effort, but Zone 2, the threshold where conversation is possible but unwanted, produces some of the deepest physiological adaptations in endurance sport. Consistent riding at this modest intensity builds mitochondria, shifts the body toward fat as its primary fuel, and quietly extends what's possible over long distances. The results are slow and invisible, which is precisely what makes them hard to trust.
+- [Staying Sane When Insanity Is a Click Away](https://rohitmalekar.in/staying-sane) (2026-02-23): News and misinformation can feel one click away from overwhelming sanity. Meaning has to be chosen; agency belongs inside a circle of influence, and the rest can be cancelled, not from indifference but from prioritisation. This essay explores a deliberate stance for staying grounded, and why information technology today resembles early humans learning to hold fire.
+- [The Utility of Marriage](https://rohitmalekar.in/marriage-utility) (2026-01-28): Marriage is often romanticized as a destination, but it functions more like a crucible—demanding grind, suffering, and sacrifice. The couples who last don't just participate in the marriage; they become it. This essay explores why the work is brutal and why it might still be worth it.
+- [AI Can Solve Your Problems. It Can’t Build You.](https://rohitmalekar.in/ai-as-forge) (2026-01-25): AI promises to solve our problems faster than we can solve ourselves, but solutions aren't the same as transformation. Using the forge as metaphor, this essay explores a third path between acceleration without inner work and formation too slow to matter. The question isn't whether to use AI. It's whether we'll use it to skip the fire or to tend it.
+- [The Mind's Terms of Service](https://rohitmalekar.in/mind-tos) (2026-01-22): Every gift the mind gives comes with a shadow. Imagination brings restless wanting. Perception carries bias. Self-awareness can't fully see itself. These aren't flaws to fix. They're part of the deal. This essay explores what changes when you stop fighting them.
+- [The Life You Live Is Shaped by the Words You Use](https://rohitmalekar.in/words-shape-life) (2026-01-18): Most of us move through life shaped by terrain we didn't consciously build—thoughts, memories, and assumptions that steer us without our awareness. This essay explores how deliberate writing becomes a tool for excavating what lies within, and why articulating your inner world is the first step toward living with intention rather than by accident.
+- [The Quiet Epidemic of Checking Out at Home](https://rohitmalekar.in/absent-mindedness) (2026-01-05): Repeated inattention at home isn’t always indifference. Its under-regulated presence is shaped by stress and context. Research suggests that this often appears alongside high cognitive performance rather than in opposition to it. This essay explores why it strains relationships and how awareness can be rebuilt.
+- [Consistency Compounds - Insights from 6 Years of Cycling Data](https://rohitmalekar.in/consistency) (2025-12-30): Progress rarely comes from standout days. It comes from showing up on ordinary ones. Using long-term data as a lens, this piece explores how steady repetition reshapes capability and why we consistently misjudge what time can do.
+- [Retrospective from Surviving A 300 km Cycling Ride](https://rohitmalekar.in/cycling-retro-300km) (2025-12-08): A 300 km ride is its own feedback loop. The data (heart rate, cadence, pace) tells a story beneath the miles: what held strong, and what quietly cracked. Here’s the retrospective of what worked well, and what needs sharpening before the next big ride.
+- [The Era of Digital Distraction - A Co-Production by All of Us](https://rohitmalekar.in/digital-distraction) (2025-12-04): We scroll alone but we distract together. An essay on how the digital distraction era is quietly built by individual participation with a personal introspection on attention, time, and the choice to focus deeply instead of endlessly.
+- [You Can’t Outrun a Misaligned Life](https://rohitmalekar.in/health-iceberg) (2025-11-08): Most health advice focuses on habits you can track. But the truth is, you can’t optimize your way out of a misaligned life. The real work of well-being lives beneath the surface in how you see yourself, relate to others, and align your daily choices with what you truly value.
+- [Why 99% of the Self-Help Industry Is Slop - Gust Against Gravity](https://rohitmalekar.in/self-help) (2025-10-14): The self-help industry sells gusts of motivation to stones rolling down their own slopes. Unless you reshape your mountain, your mind, you’ll always roll the same way. Everything else is a gust against gravity.
+- [Purpose.exe - Not Found](https://rohitmalekar.in/purpose) (2025-10-12): This essay is a quiet dismantling of the purpose-industrial complex. It explores why meaning emerges not from goals, identity, or ambition, but from belonging, resonance, and the spaces that let you simply be while you’re still becoming. If you’ve ever reached a goal and felt strangely empty afterward, this is for you.
+- [The Physics of Desire](https://rohitmalekar.in/physics-of-desire) (2025-10-07): We can model eclipses, storms, and markets, yet treat our inner world as unknowable. This essay asks a quieter question: what if desire follows laws too? Drawing a line from ancient insight to modern systems thinking, it frames desire as a causal chain rather than a mystery.
+- [Why Gada Training Became My Secret Weapon for Long-Distance Cycling](https://rohitmalekar.in/gada) (2025-09-22): Cycling built my legs, but stressed my back and wrists. The missing piece? A traditional Indian mace used in martial arts and fitness. How swinging the gada rewired my endurance and made 100 km rides feel smoother.
+- [My Experiments to Crack the Code of Deep Sleep](https://rohitmalekar.in/deepsleep) (2025-07-29): Data-driven breakdown of how layered habits (early dinners, earlier bedtimes, consistent exercise, and stable sleep schedules) compound deep sleep gains.
+- [Life by a Thousand Cuts](https://rohitmalekar.in/thousand-cuts) (2025-03-06): ...we over-index our focus on what’s broken in our lives, seldom capturing the feeling of not having to worry about what we take for granted, like putting the next plate of food on the table or the shelter underneath we rest turning into a rubble.
+- [You are the Average of the Problems You Tackle](https://rohitmalekar.in/average-of-problems) (2025-03-05): You are not the average of the content that influences you. You are the average of the problems you choose to tackle in life.
+- [On grieving someone you never met](https://rohitmalekar.in/on-grieving-someone) (2024-11-17): There is no easy way to grieve someone you’ve never met in real life.
+- [The Anomalies of Attraction](https://rohitmalekar.in/attraction) (2023-07-07): Human attraction resists the labels we invent for it. A reflection on why the faculties we use to understand affection are 'designed to fail,' and why what feels like an anomaly today may be perfectly natural.
+- [Don't Ignore the Fascists, They Won't Ignore You](https://rohitmalekar.in/fascist-warning) (2023-06-14): Genocidal hate content distributed at a rally in India's capital might seem like someone else's problem. But history shows that fascism never stops at its first target—today's bystanders become tomorrow's victims. This essay explores why speaking up matters, even in small ways, and why staying silent is not a neutral act.
+- [Ten Life Lessons I Picked Up In This Decade](https://rohitmalekar.in/ten-life-lessons) (2022-01-17): Life Lessons emerge from a deep-rooted underlying shortcoming. Such situations often require extended experiential learning from mentors that lasts years. If done right, life lessons create such a paradigm shift that the learnings become an integral part of your identity. As we get close to turning the page on this decade, sharing a personal retrospective below — a list of ten most impactful tweet-length life lessons I picked up in the last 10 years.
+- [One with the Divine](https://rohitmalekar.in/one-with-divine) (2021-11-13): Can an eye ever see itself? Can a leg ever kick itself? Ever seen a hand that grabs itself, or perhaps, a tooth that takes a bite at itself? If you are “it” then you cannot exist out of what you are.
+- [Your Reality Has Zero Value for Anyone Else](https://rohitmalekar.in/value-of-reality) (2021-11-13): Some labels we are born with, some we pick up. I have learnt they all have limited utility. Whenever oversubscribed, it has contracted my world-view. A common pattern increasingly repeating in my feed is "looking down the perch, my label is better than yours" finely crafted subtly condescending viewpoints.
+- [Personal Takeaways from Dr. Kapil Gupta’s Book “Direct Truth”](https://rohitmalekar.in/direct-truth) (2021-11-13)
+- [The Unsolicited Fortunes – Fifty Things I Am Grateful For](https://rohitmalekar.in/the-unsolicited-fortunes) (2021-11-13): The word in Pali language for gratitude is kataññutā. The word consists of two parts: kata, which means that which has been done, especially to oneself; and annuta means knowing or recognizing. I am likely missing yet another fifty but doing this exercise revealed the many things that are easy to take for granted.
+- [Three Revelations During the Pandemic](https://rohitmalekar.in/pandemic-revelations) (2021-11-13): In some corner of my mind, I knew these conditions existed, but the deeper I dug, the more I have realized these as massive personal blind spots.
+- [To Return or Not to Return (to India), That is the Question](https://rohitmalekar.in/return-to-india) (2021-11-13): 3 years ago, my family moved back home to India after a decade long stay in the U.S. I often hear questions from friends and co-workers about the move and the experience. For some in the U.S., the dilemma can be overbearing — while India is home we long to return, U.S. offers the prospect of a better life.
+- [You Maybe Going Deep in Debt and Not Even Know About it](https://rohitmalekar.in/gratitude) (2021-11-13): Think about a time in your life when you felt very fortunate. It could be the moment when you realised that the long lasting friendships you have from school days were out of pure chance. It could be that lucky break you had in your career when you just happened to be at the right place at the right time. Some of you may have experienced that serendipitous moment when you first met your spouse after a series of random events.
+- [Decoding Quality of Life](https://rohitmalekar.in/quality-of-life) (2021-11-13): External factors, such as wealth and infrastructure, don't guarantee a good life. Quality of life emerges from the quality of consciousness—the thoughts cultivated within. This essay examines how pursuing 'high-quality problems' that facilitate self-discovery and identity-building can naturally enhance both the quality of thought and life itself.
+- [The Creator's Paradox - Unsolicited Serendipities](https://rohitmalekar.in/the-creators-paradox) (2021-11-13): #### How do ideas originate?
+- [A Longing for Belonging](https://rohitmalekar.in/belonging) (2021-11-13): The anxiety with which you search for a hometown delicacy in a new land is the same as that with which you look for familiar people and places when you visit your place of upbringing.
+- [We Are Prisoners of Our Own Biases](https://rohitmalekar.in/biases) (2021-11-13): Why do we have to choose between putting a person on a permanent pedestal for their noblest deeds or criticizing their entire identity for their worst choices? Sharing a few thoughts based on recent events on whom we choose to follow at work, in our communities, and personal lives.
+- [If You Aren't Content Without it, You Won't be Content With it](https://rohitmalekar.in/contentment) (2021-11-13): Discontent is often rooted not in the absence of what we seek but in the inability to accept the present. The chase for the next promotion, role, or milestone becomes an ever-shifting goalpost when present-moment acceptance is missing. This essay examines why attaching identity to shortcomings or achievements is a trap, and how contentment and ambition can coexist when we drive with intent rather than from hunger.
+- [You Have the Right to Remain Silent](https://rohitmalekar.in/you-have-the) (2021-11-13): Every right comes with a responsibility". Amongst the few things I remember reading in school, this one stands out. The recollection has been rather frequent in recent times when our individual ideals and values have drifted further apart from those with who we disagree with.
+- [The Most Android Human](https://rohitmalekar.in/the-most-android) (2021-11-13): _(The following was an assignment as part of a writing workshop to author a self-portrait in the third person, without using any adverbs, adjectives, and words with more than two syllables. Here's my fledgling attempt at self-deprecation in the form of an obituary from my wife's POV that she would read aloud to friends and family.)_
+- [The Conformity Trap](https://rohitmalekar.in/the-conformity-trap) (2021-11-13): _And the people in the houses all went to the university Where they all were put in boxes Little boxes all the same And there's doctors and there's lawyers And business executives And they're all made out of ticky tacky And they all look just the same _ This is from the song "Little Boxes" written and composed by Malvina Reynolds in 1962. It was a hit when Pete Seeger released his cover version in 1963. The rest of the song is a satire on the then-emerging conformist middle-class attitudes in...
+- [The Irony of I](https://rohitmalekar.in/the-irony-of-I) (2021-11-13): Ever since we are born, we are wrapped in layers of labels to identify ourselves. My name, my roots, my family, I am good enough at this, I am not good enough for that, my purpose...the list is endless.
+- [How do the humans plead - Guilty or Not Conscious](https://rohitmalekar.in/guilty-not-conscious) (2021-11-13): As I write this article, I dig in for another serving from the plastic container that the delicacy got delivered with. The stockpile of these white objects in my kitchen storage keeps stealthily growing. The tasty bite melting in my mouth dissolves the guilt of collecting them from my past explorations for the newest cuisines in the city, delivered in 30 minutes or free. These plastics are going to far outlast the companies that sent them and will linger through many a generation of humans be...
