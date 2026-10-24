@@ -7,7 +7,7 @@ description: "Rohit Malekar researches and writes on how banks, market infrastru
   <img src="./Attachments/profile.jpg" alt="Rohit Malekar" style="width: 75px; margin-right: 20px;">
 <!-- About Text -->
   <div>
-    <h3>I research how banks, market infrastructure and regulators in Asia could use Ethereum, and write it up for the people who have to decide.</h3>
+    <h3>I help banks, market infrastructure and regulators in Asia decide how to use Ethereum.</h3>
   </div>
 </div>
 
