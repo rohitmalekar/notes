@@ -2,6 +2,7 @@
 title: Check my fit for your role
 description: Ask an AI assistant to assess Rohit Malekar against your job description, using his CV, case studies and a decade of writing.
 date: 2026-10-19
+unlisted: true
 ---
 
 I'm looking for my next role in product, data or research. Pick an assistant below. It will ask for your job description, read my CV, case studies and a decade of writing, and tell you where I fit and where I don't.
