@@ -25,7 +25,7 @@ If any of that sounds like something your team needs, see how I work with teams.
 
 I spent twenty years across consulting, product, and research, including strategy and analytics roles at Deloitte and Medallia. That is where I learned how large institutions evaluate technology: through procurement, risk committees and a demand for evidence over enthusiasm.
 
-Around 2021 I went down the decentralization rabbit hole and stayed. What began as writing about DAOs and public goods (runner-up, HackerNoon Contributor of the Year for DAO coverage, 2022) turned into building and operating: [GrantsScope](https://grantsscope.xyz/), funding-flow analyses across Gitcoin Grants 22 to 24, Ethereum's first interop-focused grants domain, and the analytics behind Metagov's governance review of ENS DAO, a $400M+ treasury. Four years of allocating and measuring capital onchain taught me how the Ethereum stack behaves in production and how to tell what it delivers.
+Around 2021 I went down the decentralization rabbit hole and stayed. What began as writing about DAOs and public goods (runner-up, HackerNoon Contributor of the Year for DAO coverage, 2022) turned into building and operating: [GrantsScope](https://grantsscope.xyz/), funding-flow analyses across Gitcoin Grants 22 to 24, Ethereum's first interop-focused grants domain, and the analytics behind Metagov's governance review of ENS DAO, a $400M+ treasury. I also built impact dashboards for open source funding programs at Open Source Observer and designed a data-driven governance curriculum for Scroll's delegate candidates. Three years of allocating and measuring capital onchain taught me how the Ethereum stack behaves in production and how to tell what it delivers.
 
 In 2026 those two halves met. India has already decided to tokenise, Singapore and Hong Kong are running pilots, and the open question is what this infrastructure should run on. I now work on that question.
 
@@ -45,7 +45,7 @@ I live in Bangalore. I believe slow miles and metaphors both help in understandi
 
 **Longer (~100 words):**
 
-> Rohit Malekar researches how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. He writes The Monsoon Ledger, a weekly on policy, regulation and Ethereum across Asian finance, and was lead researcher on Ethereum and Indian Institutional Finance, a seven-module briefing published by ETHIndia. Before this he spent four years allocating and measuring capital inside Ethereum: co-running Gitcoin grant rounds, designing Ethereum's first interop standards funding round, and building the analytics behind Metagov's governance review of ENS DAO. His earlier career spans twenty years of strategy, product and analytics, including Deloitte and Medallia.
+> Rohit Malekar researches how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. He writes The Monsoon Ledger, a weekly on policy, regulation and Ethereum across Asian finance, and was lead researcher on Ethereum and Indian Institutional Finance, a seven-module briefing published by ETHIndia. Before this he spent three years allocating and measuring capital inside Ethereum: co-running Gitcoin grant rounds, designing Ethereum's first interop standards funding round, and building the analytics behind Metagov's governance review of ENS DAO, with further work for Open Source Observer and Scroll. His earlier career spans twenty years of strategy, product and analytics, including Deloitte and Medallia.
 
 ### Elsewhere
 
@@ -109,7 +109,7 @@ Date: 2026-10-01
 
 ### Profile
 
-Twenty-three years leading data, product, and research work across management consulting, enterprise software, and independent practice. I now research how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. That work draws on two decades with Fortune 500 clients at Deloitte and global brands at Medallia, and four years allocating and measuring capital inside Ethereum.
+Twenty-three years leading data, product, and research work across management consulting, enterprise software, and independent practice. I now research how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. That work draws on two decades with Fortune 500 clients at Deloitte and global brands at Medallia, and three years allocating and measuring capital inside Ethereum.
 
 My work turns messy, multi-source data into decisions people can act on: funder-fit scorecards, governance analytics, capital allocation frameworks, and the operating models around them. I've built consulting practices and led cross-functional design and engineering teams for global clients, and I bring the same institutional rigor to the question regulated finance in Asia is now asking: what tokenised infrastructure should run on.
 
