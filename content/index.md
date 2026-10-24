@@ -19,7 +19,7 @@ I write **[The Monsoon Ledger](https://themonsoonledger.com/)**, a weekly briefi
 
 ## Before this
 
-Twenty years in strategy and analytics at Deloitte and Medallia, then four years allocating and measuring capital onchain at Gitcoin, Metagov and Scroll. Most recently, lead researcher on ETHIndia's [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html) briefing. [[Portfolio/index|See the portfolio →]]
+Twenty years in strategy and analytics at Deloitte and Medallia, then three years allocating and measuring capital onchain at Gitcoin, Open Source Observer, Metagov and Scroll. Most recently, lead researcher on ETHIndia's [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html) briefing. [[Portfolio/index|See the portfolio →]]
 
 [[Portfolio/index#🏦 Institutional Finance|Institutional Finance]] · [[Portfolio/index#🔎 Research & Strategy|Research & Strategy]] · [[Portfolio/index#🛠️ Data Tools & Applications|Data Tools & Applications]] · [[Portfolio/index#🗒️ Content & Writing|Content & Writing]] · [[Portfolio/index#🎧 Speaking & Workshops|Speaking & Workshops]]
 
