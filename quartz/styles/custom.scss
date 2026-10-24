@@ -72,3 +72,11 @@ figure.chart {
     margin-top: 0.5rem;
   }
 }
+
+// Home page stays on one screen: drop the properties box and date line.
+body[data-slug="index"] {
+  .note-properties,
+  .content-meta {
+    display: none;
+  }
+}
