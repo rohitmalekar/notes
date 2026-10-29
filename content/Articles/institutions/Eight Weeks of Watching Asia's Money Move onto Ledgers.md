@@ -46,11 +46,15 @@ The next problem is privacy. A whitelisted token on a public chain shows every h
 
 > My guess is that privacy, more than throughput, will decide whether the next Asian issuers pick a public chain.
 
-## Ethereum's upgrade calendar is now a bank's problem
+## Banks now have a stake in Ethereum's upgrades
 
 Ethereum's next upgrade, Glamsterdam, raises the gas cost of writing new state. Writing to an empty storage slot goes from 20,000 to 97,920 gas. On 22 October the Ethereum Foundation postponed the upgrade on the Hoodi testnet to study how that repricing interacts with contracts already on mainnet. Five pilots on the Scorecard in Singapore and Hong Kong run contracts on Ethereum mainnet, and none of their issuers has said whether their code uses the patterns at risk ([Weekly Brief No. 8](https://themonsoonledger.com/brief/8-jpmd-ethereum-mainnet/)).
 
-In [Weekly Brief No. 4](https://themonsoonledger.com/brief/4-glamsterdam-testnet-asia-issuers/) I wrote that Glamsterdam strengthens the case for Ethereum mainnet. I still think so. What I underweighted is that a bank on a public chain inherits a change process it does not control, decided on open calls by developers who may not know its contract exists. That is what MAS's caps and the HKMA's "extra caution" are pricing ([Under the Hood on whitelisted tokens](https://themonsoonledger.com/under-the-hood/2026-09-whitelist-on-a-public-chain/)). I would like to see an Asian issuer, or its tokenisation agent, speak up on an All Core Devs call before mainnet.
+In [Weekly Brief No. 4](https://themonsoonledger.com/brief/4-glamsterdam-testnet-asia-issuers/) I wrote that Glamsterdam strengthens the case for Ethereum mainnet. I still think so.
+
+> What I underweighted is that a bank on a public chain inherits a change process it does not control, decided on open calls by developers who may not know its contract exists.
+
+That is what MAS's caps and the HKMA's "extra caution" are pricing ([Under the Hood on whitelisted tokens](https://themonsoonledger.com/under-the-hood/2026-09-whitelist-on-a-public-chain/)). I would like to see an Asian issuer, or its tokenisation agent, speak up on an All Core Devs call before mainnet.
 ## Calls I made and how they are holding
 
 - Singapore should stop at trace, freeze and burn, and not restrict holders' wallets ([No. 1](https://themonsoonledger.com/brief/1-singapore-stablecoin-law-freeze-powers/)). The consultation closed on 16 October. MAS has not responded. Open.
@@ -79,4 +83,4 @@ What I think would need to change:
 
 New Hoodi and mainnet dates for Glamsterdam. MAS's response to its stablecoin consultation. CMU OmniClear's digital asset platform and CBDC settlement on EnsembleTX in Hong Kong, both promised by year-end. How JPMD admits holders on Ethereum, and whether it names a client in Asia.
 
-If you are at Devcon in Mumbai and work on any of this, especially from the Indian side, I would like to compare notes. The Monsoon Ledger publishes every Monday at [themonsoonledger.com](https://themonsoonledger.com/), with the sources behind everything above.
+If you are at Devcon in Mumbai and work on any of this, especially from the Indian side, I would like to compare notes. The Monsoon Ledger publishes through the week at [themonsoonledger.com](https://themonsoonledger.com/), with the sources behind everything above.
