@@ -1,7 +1,7 @@
 ---
 title: Being Right Isn't Enough - Lessons for Ethereum from a 90s OS War
 tags:
-  - Web3
+  - DLT
 type:
   - Article
 permalink: being-right-ethereum

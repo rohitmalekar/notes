@@ -1,7 +1,7 @@
 ---
 title: Why Some Money Moves in Seconds and Some Takes Days
 tags:
-  - Web3
+  - DLT
 type:
   - Article
 permalink: why-money-moves-slowly
