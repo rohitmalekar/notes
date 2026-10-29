@@ -42,7 +42,9 @@ The moment that changed my thinking was the Financial Stability Board's note to 
 
 > The compliance officer and the financial stability regulator want the same record, and the token contract is the one place that can hold it.
 
-The next problem is privacy. A whitelisted token on a public chain shows every holding to anyone who looks. On 23 October EthSystems published a proof of concept for confidential money market fund shares on Ethereum, and the same day a token standard with Ant Group authors, which approves transfers through zero-knowledge proofs, moved to Review. I wrote up [where the EthSystems design fits among the ways Asian funds keep their registers](https://themonsoonledger.com/under-the-hood/2026-10-tokenised-fund-registers/). My guess is that privacy, more than throughput, will decide whether the next Asian issuers pick a public chain.
+The next problem is privacy. A whitelisted token on a public chain shows every holding to anyone who looks. On 23 October EthSystems published a proof of concept for confidential money market fund shares on Ethereum, and the same day a token standard with Ant Group authors, which approves transfers through zero-knowledge proofs, moved to Review. I wrote up [where the EthSystems design fits among the ways Asian funds keep their registers](https://themonsoonledger.com/under-the-hood/2026-10-tokenised-fund-registers/).
+
+> My guess is that privacy, more than throughput, will decide whether the next Asian issuers pick a public chain.
 
 ## Ethereum's upgrade calendar is now a bank's problem
 
