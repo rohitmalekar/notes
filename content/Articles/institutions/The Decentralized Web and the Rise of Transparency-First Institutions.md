@@ -1,7 +1,7 @@
 ---
 title: The Decentralized Web and the Rise of Transparency-First Institutions
 tags:
-  - Web3
+  - DLT
 type:
   - Article
 permalink: decentralized-web-transparency

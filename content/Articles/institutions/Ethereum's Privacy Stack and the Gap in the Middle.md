@@ -1,7 +1,7 @@
 ---
 title: Ethereum's Privacy Stack and the Gap in the Middle
 tags:
-  - Web3
+  - DLT
   - Decentralization
 type:
   - Article

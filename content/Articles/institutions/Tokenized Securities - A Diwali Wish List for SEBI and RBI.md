@@ -1,7 +1,7 @@
 ---
 title: "Tokenized Securities: A Diwali Wish List for SEBI and RBI"
 tags:
-  - Web3
+  - DLT
 type:
   - Article
 permalink: tokenized-securities-diwali-wish-list
