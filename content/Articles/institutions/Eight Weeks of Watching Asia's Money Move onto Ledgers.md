@@ -1,5 +1,5 @@
 ---
-title: "Eight Weeks of Watching Asia's Money Move onto Ledgers"
+title: "Asia Is Deciding Which Money Settles Onchain"
 tags:
   - DLT
 type:
@@ -14,7 +14,7 @@ I started [The Monsoon Ledger](https://themonsoonledger.com/) in early September
 
 The Monsoon Ledger puts the three side by side.
 
-I have read the circulars, consultation papers, bank releases and Ethereum core developer calls that touch regulated finance in India, Singapore and Hong Kong, and written them up as plainly as I can. Eight [Weekly Briefs](https://themonsoonledger.com/brief/), 43 entries on the [Pilot Scorecard](https://themonsoonledger.com/pilots/) and 26 items on the [Regulatory Wire](https://themonsoonledger.com/wire/) later, I have noticed a challenge with my own method.
+![[monsoon-ledger-sep-oct-2026.webp]]
 
 Weekly writing puts the event in focus. A licence is granted or a testnet forks, and it gets its paragraph and its source link. The week does not show drift or the slow change in what things matter and why. In traditional finance that drift takes a year or more. In this ecosystem, things alter much more quickly because regulation and Ethereum's own roadmap are moving in the same weeks and reacting to each other.
 
@@ -63,6 +63,8 @@ That is what MAS's caps and the HKMA's "extra caution" are pricing ([Under the H
 - Glamsterdam makes Ethereum mainnet an easier place for issuers to stay ([No. 4](https://themonsoonledger.com/brief/4-glamsterdam-testnet-asia-issuers/)). The Hoodi delay complicates it. Holding, with the caveat above.
 
 ## India, in the week Devcon comes to Mumbai
+
+![[state-of-play-oct-2026.webp]]
 
 India is good at building rails. UPI carried about 86 per cent of India's retail payment transactions in 2025-26 ([Under the Hood](https://themonsoonledger.com/under-the-hood/2026-10-retail-e-rupee-and-upi/)). Demat 2.0 issued Rs 1,025 crore of tokenised bonds in its first week and settles them against central bank money at the same moment ([Under the Hood](https://themonsoonledger.com/under-the-hood/2026-09-demat-2-tokenised-bonds/)). The RBI built its own Unified Markets Interface to tokenise assets and settle them in wholesale CBDC.
 
