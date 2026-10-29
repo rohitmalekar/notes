@@ -51,9 +51,6 @@ The next problem is privacy. A whitelisted token on a public chain shows every h
 Ethereum's next upgrade, Glamsterdam, raises the gas cost of writing new state. Writing to an empty storage slot goes from 20,000 to 97,920 gas. On 22 October the Ethereum Foundation postponed the upgrade on the Hoodi testnet to study how that repricing interacts with contracts already on mainnet. Five pilots on the Scorecard in Singapore and Hong Kong run contracts on Ethereum mainnet, and none of their issuers has said whether their code uses the patterns at risk ([Weekly Brief No. 8](https://themonsoonledger.com/brief/8-jpmd-ethereum-mainnet/)).
 
 In [Weekly Brief No. 4](https://themonsoonledger.com/brief/4-glamsterdam-testnet-asia-issuers/) I wrote that Glamsterdam strengthens the case for Ethereum mainnet. I still think so. What I underweighted is that a bank on a public chain inherits a change process it does not control, decided on open calls by developers who may not know its contract exists. That is what MAS's caps and the HKMA's "extra caution" are pricing ([Under the Hood on whitelisted tokens](https://themonsoonledger.com/under-the-hood/2026-09-whitelist-on-a-public-chain/)). I would like to see an Asian issuer, or its tokenisation agent, speak up on an All Core Devs call before mainnet.
-
-Hoodi, the testnet that slipped, is named after a metro station on Bengaluru's Purple Line.
-
 ## Calls I made and how they are holding
 
 - Singapore should stop at trace, freeze and burn, and not restrict holders' wallets ([No. 1](https://themonsoonledger.com/brief/1-singapore-stablecoin-law-freeze-powers/)). The consultation closed on 16 October. MAS has not responded. Open.
