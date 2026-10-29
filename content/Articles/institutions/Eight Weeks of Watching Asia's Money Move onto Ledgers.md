@@ -26,7 +26,11 @@ In early September I thought the story was tokenisation: which bonds, funds and 
 
 The answers split within a few weeks of each other. Hong Kong's fourth digital green bond, priced on 28 September, let investors in the Hong Kong dollar tranche pay in tokenised bank deposits for the first time ([Weekly Brief No. 5](https://themonsoonledger.com/brief/5-hk-green-bond-tokenised-deposits/)). India's [Demat 2.0](https://themonsoonledger.com/pilots/in-sebi-demat-2-tokenised-corporate-bonds/) settles tokenised corporate bonds only in the RBI's wholesale CBDC, so commercial bank credit never enters settlement. Singapore issued two tokenised MAS Bills settled in wholesale CBDC, and on 9 October MAS's Chia Der Jiun said of stablecoins: "There may be limits to their suitability for settling large wholesale transactions" ([Weekly Brief No. 6](https://themonsoonledger.com/brief/6-glamsterdam-sepolia-gas-limit/)). Hong Kong's Policy Address pointed retail the other way, toward licensed stablecoins settling tokenised money market funds ([Weekly Brief No. 3](https://themonsoonledger.com/brief/3-hkdap-business-payments-policy-address/)).
 
-I find this a more honest debate than the stablecoin-versus-CBDC one it replaced. Each central bank is deciding how much private credit it will allow into the plumbing, and each answer follows its own history. India trusts the infrastructure it owns. Hong Kong lets banks and licensed issuers compete. Singapore wants a stablecoin to earn its place. If you only read one explainer from the Ledger, make it [why a tokenised deposit and a stablecoin are different claims](https://themonsoonledger.com/under-the-hood/2026-09-tokenised-deposits-and-stablecoins/).
+I find this a more honest debate than the stablecoin-versus-CBDC one it replaced.
+
+> Each central bank is deciding how much private credit it will allow into the plumbing, and each answer follows its own history. India trusts the infrastructure it owns. Hong Kong lets banks and licensed issuers compete. Singapore wants a stablecoin to earn its place.
+
+If you only read one explainer from the Ledger, make it [why a tokenised deposit and a stablecoin are different claims](https://themonsoonledger.com/under-the-hood/2026-09-tokenised-deposits-and-stablecoins/).
 
 ## Public chain, closed door
 
