@@ -1,7 +1,7 @@
 ---
 title: "Eight Weeks of Watching Asia's Money Move onto Ledgers"
 tags:
-  - Web3
+  - DLT
 type:
   - Article
 permalink: monsoon-ledger-eight-weeks
