@@ -10,7 +10,11 @@ description: "A monthly step back from The Monsoon Ledger: what changed in Asian
 draft: true
 ---
 
-I started [The Monsoon Ledger](https://themonsoonledger.com/) in early September this year. Every Monday since, I have read the circulars, consultation papers, bank releases and Ethereum core developer calls that touch regulated finance in India, Singapore and Hong Kong, and written them up as plainly as I can. Eight [Weekly Briefs](https://themonsoonledger.com/brief/), 43 entries on the [Pilot Scorecard](https://themonsoonledger.com/pilots/) and 26 items on the [Regulatory Wire](https://themonsoonledger.com/wire/) later, I have noticed a challenge with my own method.
+I started [The Monsoon Ledger](https://themonsoonledger.com/) in early September this year. Policy, regulation and technology in Asian finance tend to be discussed in separate rooms. Regulators write rules without seeing how a public chain settles a trade. Builders ship products without reading the circular that decides whether a bank can use them. The Ethereum ecosystem hears about Asian pilots late and second-hand.
+
+The Monsoon Ledger puts the three side by side.
+
+Every Monday since, I have read the circulars, consultation papers, bank releases and Ethereum core developer calls that touch regulated finance in India, Singapore and Hong Kong, and written them up as plainly as I can. Eight [Weekly Briefs](https://themonsoonledger.com/brief/), 43 entries on the [Pilot Scorecard](https://themonsoonledger.com/pilots/) and 26 items on the [Regulatory Wire](https://themonsoonledger.com/wire/) later, I have noticed a challenge with my own method.
 
 Weekly writing puts the event in focus. A licence is granted or a testnet forks, and it gets its paragraph and its source link. The week does not show drift or the slow change in what things matter and why. In traditional finance that drift takes a year or more. In this ecosystem, things alter much more quickly because regulation and Ethereum's own roadmap are moving in the same weeks and reacting to each other.
 
