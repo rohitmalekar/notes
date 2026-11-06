@@ -52,7 +52,7 @@ That cash sits off Ethereum, so the same-transaction payment that works for fund
 
 And then there's what Ethereum+ needs to get right. Ethereum+ for me is everything that sits on top of the protocol to keep balances confidential onchain while still letting the right parties read them. A bond desk won't want its positions readable by anyone with a block explorer.
 
-A few years ago, the loudest thing in privacy on Ethereum was Tornado Cash (and the arguing over sanctions). Today teams are building for regulated assets, but it's early. Zama's confidential tokens are live on mainnet, and [EthSystems has proofs of concept](https://themonsoonledger.com/brief/8-jpmd-ethereum-mainnet/) for private money market funds and bonds.
+A few years ago, the loudest thing in privacy on Ethereum was Tornado Cash (and the arguing over sanctions). Today teams are building for regulated assets, but it's early. Zama's confidential tokens are live on mainnet, and [EthSystems has proofs of concept](https://themonsoonledger.com/under-the-hood/2026-10-tokenised-fund-registers/) for private money market funds and bonds.
 
 ## Where this leaves things
 
