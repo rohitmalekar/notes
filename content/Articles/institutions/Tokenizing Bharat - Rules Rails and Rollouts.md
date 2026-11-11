@@ -6,7 +6,7 @@ type:
   - Article
 permalink: tokenizing-bharat
 date: 2026-11-11
-description: "Notes from the Devcon 8 Mumbai panel with Pramod Rao, Sanmesh Kalyanpur and Pramod Mishra on how India can bring in tokenization: how a regulator reads a new instrument, the rails India already runs, and what pilots in grain warehousing and bonds need to show before they scale."
+description: "Notes from the Devcon 8 Mumbai panel with Pramod Rao, Sanmesh Kalyanpur and Pramod Mishra on how India can bring in tokenization, and what pilots in grain warehousing and bonds need to show before they scale."
 draft: false
 ---
 ![](https://www.youtube.com/watch?v=S1J_lg-Anac)
@@ -17,7 +17,7 @@ India has trillions of rupees locked in gold, unpaid invoices, warehouse grain, 
 
 Tokenization puts them on a shared ledger where they can be divided and transferred quickly. Speed works in both directions, though. A bad position that a regulator could once stop in time can now spread before anyone steps in.
 
-So I opened the panel with one question for the stage: how does India bring in tokenization without breaking what already works? With a former regulator, an infrastructure builder and someone running live deployments on the panel, I organized my questions around rules, rails and rollouts.
+So I opened the panel with one question for the stage: how does India bring in tokenization without breaking what already works? I organized my questions around rules, rails and rollouts, one for each panelist's side of the work.
 
 ## The panel
 
@@ -29,7 +29,7 @@ So I opened the panel with one question for the stage: how does India bring in t
 
 **My question to Pramod Rao:** builders, and I include myself, often see the regulator as the one saying no. When a new economic instrument lands on a regulator's desk, how do they evaluate it?
 
-He pushed back on "move fast and break things." His alternative was to build deliberately, so that new instruments become lasting institutions instead of things that make confidence evaporate or carry risks nobody imagined.
+He pushed back on "move fast and break things." His alternative was to build deliberately, so that new instruments become lasting institutions, and do not make confidence evaporate or carry risks nobody imagined.
 
 > "You are in a jungle if you are working in the arena without regulation. What regulation seeks to do is create a playground. People who come into the playground know that there is a rule, there is a referee, there is somebody who will call out if there is unfair play." (Pramod Rao)
 
@@ -62,9 +62,9 @@ He answered with live deployments:
 
 He described a glide path of more than ten years. Access started with investors who understood the instrument and could afford a loss. The minimum ticket for a REIT began around ₹10 lakh, came down in steps, and today you can buy a single unit on the exchange. Online bond platforms followed the same logic. Bonds are an institutional product almost everywhere, so SEBI built a regime to open them up, and there are now 30 to 35 such platforms.
 
-Then he gave the example I'd point every builder to. When digital gold took off, the regulator responded with electronic gold receipts, after several rounds of consultation. Some digital gold players didn't see their business model in the final rules and stayed outside. He called that a fatal flaw, while also saying regulators should keep a listening ear.
+His example for builders was digital gold. When it took off, the regulator responded with electronic gold receipts, after several rounds of consultation. Some digital gold players didn't see their business model in the final rules and stayed outside. He called that a fatal flaw, while also saying regulators should keep a listening ear.
 
-The numbers he shared make the case. Electronic gold receipts have done about ₹100 to 200 crore in cumulative sales since launch. Digital gold now averages at least ₹2,000 to 3,000 crore a month.
+Electronic gold receipts have done about ₹100 to 200 crore in cumulative sales since launch. Digital gold now averages at least ₹2,000 to 3,000 crore a month.
 
 > "It takes two to tango. I would genuinely hope the entrepreneurs in that space and the regulators come together to see what is the bridge. And maybe that might be the very first real-world asset that can easily get tokenized and distributed." (Pramod Rao)
 
@@ -90,7 +90,7 @@ He also listed what sits around any token: AI on one side, quantum on the other,
 
 **My question to Pramod Rao:** SEBI's pilot has tokenized more than ₹1,000 crore of bonds. Say it's running well a year from now. What signals would a regulator look for before opening access or moving to the next asset?
 
-He was clear that he's stepped away from SEBI and was hypothesizing. This was his lens:
+He was clear that he's stepped away from SEBI and was hypothesizing. He would check:
 
 1. The token must keep what the regulator wanted from the original instrument. If a bond can only be sold at ₹1 lakh face value, the token has to represent that ₹1 lakh. Fractionalization itself isn't the problem: some bonds already go down to ₹10,000 and ₹1,000 when they meet certain norms.
 2. Instant settlement changes how the market clears. India is already on T+1, with T+0 proposed. Atomic delivery-versus-payment means every trade settles gross instead of being netted at the exchange. Does gross settlement raise risk across the system? Does it disrupt clearing?
@@ -132,7 +132,7 @@ The biggest one, he said, is emotional attachment to the technology, which leads
 
 Two of the three went to MSME credit. On stage I cited roughly ₹25 lakh crore as the MSME credit gap. SIDBI's latest estimate puts it closer to [₹30 lakh crore](https://www.sidbi.in/blog/the-msme-credit-gap-in-india-what-does-the-data-say), so that's where I'd watch for the first pilots that matter.
 
-The morning had opened with the point that the barrier to building keeps falling, which makes the choice of what to build matter more. This panel gave me a sharper list of what to build and what has to hold while we build it.
+This panel gave me a sharper list of what to build and what has to hold while we build it.
 
 My thanks to Pramod Rao, Sanmesh Kalyanpur and Pramod Mishra. The full recording is on the Ethereum Foundation's YouTube channel: [Tokenizing Bharat](https://www.youtube.com/watch?v=S1J_lg-Anac).
 
