@@ -9,6 +9,8 @@ date: 2026-11-11
 description: "Notes from the Devcon 8 Mumbai panel with Pramod Rao, Sanmesh Kalyanpur and Pramod Mishra on how India can bring in tokenization: how a regulator reads a new instrument, the rails India already runs, and what pilots in grain warehousing and bonds need to show before they scale."
 draft: false
 ---
+![](https://www.youtube.com/watch?v=S1J_lg-Anac)
+
 *Notes from the panel I moderated at Devcon 8 Mumbai for ETHIndia, with Pramod Rao (ex Exec Director, SEBI), Sanmesh Kalyanpur (Director of Programs, Finternet Labs) and Pramod Mishra (Director, PwC).*
 
 India has trillions of rupees locked in gold, unpaid invoices, warehouse grain, buildings and highways. These assets are hard to split, slow to move and hard to trade.
