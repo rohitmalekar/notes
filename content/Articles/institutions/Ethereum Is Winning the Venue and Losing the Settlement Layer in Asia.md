@@ -115,7 +115,8 @@ The rulebooks themselves point to what would shift the balance:
 
 - A change of default for permissionless chains in the Basel Committee's targeted review.
 - Layer 2 safeguards, which MAS already cites as an advance since the Basel standard was written.
-- A documented point of finality, which MAS asks for by name.
+- A finality law that treats a finalised Ethereum checkpoint as final against insolvency law. Today an issuer can name the checkpoint in its documents, as MAS asks, but a contract that points to it may not bind a liquidator.
+- A published point of finality for each layer 2, so an issuer knows which of the sequencer's confirmation, the batch on mainnet or the end of a challenge window counts.
 - Allowlists built on attestations a holder carries across issuers, in place of one whitelist per contract.
 - Privacy that still lets an issuer and a supervisor see what they must.
 
