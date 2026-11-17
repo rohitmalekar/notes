@@ -21,7 +21,7 @@ All five markets treat a [tokenised security](https://themonsoonledger.com/state
 
 They part ways on the ledger. India's tokenised bonds sit on a ledger the depositories own. South Korea's draft rules require one shared by at least two account managers and the Korea Securities Depository. Japan's digital bonds run on consortium chains such as ibet and Canton. Singapore and Hong Kong let regulated funds issue on Ethereum, under conditions.
 
-![[ethereum-asia-ledger-map.svg]]
+![Which ledger regulated finance uses, by market and instrument](ethereum-asia-ledger-map.svg)
 *Figure 1. Which ledger regulated finance uses in each market, as of 16 November 2026.*
 
 > In Asia, the argument has moved on from whether tokenisation is legal to who owns the ledger it runs on.
@@ -90,14 +90,14 @@ That cap keeps bank issuance on public chains at pilot scale. The Basel Committe
 
 Put the entries together and a structure appears. Central bank ledgers form the settlement core. Tokenised deposits and licensed stablecoins act as bridges. Public chains become a distribution layer for regulated assets with controls in the token. Self-custody and open DeFi sit beyond a gate of travel rules, wallet checks and whitelists.
 
-![[ethereum-asia-structure.svg]]
+![The structure forming across five Asian markets](ethereum-asia-structure.svg)
 *Figure 2. The structure forming across the five markets.*
 
 The risk in this structure is five national stacks that cannot talk to each other. Cross-border recognition is where that gets settled: whether Singapore's route for foreign-regulated stablecoins covers Hong Kong's licensees, which foreign regimes Japan deems equivalent, and how far BLOOM goes now that the central banks of Malaysia and Thailand have joined. A public chain no single country runs is an obvious meeting point for regulated assets from different jurisdictions. Whether regulators accept it as one is still open.
 
 Several dated tests fall in the next five months.
 
-![[ethereum-asia-timeline.svg]]
+![Dated tests between November 2026 and March 2027](ethereum-asia-timeline.svg)
 *Figure 3. Dated and pending decisions, November 2026 to March 2027.*
 
 ### What It Means for Ethereum
