@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Dated tests between November 2026 and March 2027</title>
+  <desc id="d">Timeline. Later in 2026: Basel Committee update on its targeted review. End of 2026: retail access target for HKDAP, CMU OmniClear digital asset platform, Hong Kong insurer capital rules. 4 February 2027: South Korea's tokenised securities law takes effect. By 31 March 2027: Japan's megabanks start real transactions in their joint yen stablecoin. Undated: MAS responses, South Korea's Digital Asset Basic Act bill, Japan's fiscal 2027 tax outline.</desc>
+  <rect width="820" height="300" fill="#FFFFFF"/>
+
+  <!-- Axis: 1 Nov 2026 at x=40, 150px per month -->
+  <line x1="40" y1="140" x2="790" y2="140" stroke="#9E9E9E" stroke-width="2"/>
+  <g font-size="11.5" fill="#6B6B6B" text-anchor="middle">
+    <line x1="40" y1="134" x2="40" y2="146" stroke="#9E9E9E"/><text x="40" y="162">Nov 2026</text>
+    <line x1="190" y1="134" x2="190" y2="146" stroke="#9E9E9E"/><text x="190" y="162">Dec</text>
+    <line x1="340" y1="134" x2="340" y2="146" stroke="#9E9E9E"/><text x="340" y="162">Jan 2027</text>
+    <line x1="490" y1="134" x2="490" y2="146" stroke="#9E9E9E"/><text x="490" y="162">Feb</text>
+    <line x1="640" y1="134" x2="640" y2="146" stroke="#9E9E9E"/><text x="640" y="162">Mar</text>
+    <line x1="790" y1="134" x2="790" y2="146" stroke="#9E9E9E"/><text x="790" y="162">Apr</text>
+  </g>
+
+  <!-- Today -->
+  <line x1="125" y1="120" x2="125" y2="140" stroke="#1F1F1F" stroke-dasharray="3 2"/>
+  <text x="125" y="114" font-size="11.5" font-weight="600" fill="#1F1F1F" text-anchor="middle">Today</text>
+
+  <!-- Basel bracket, below -->
+  <line x1="125" y1="178" x2="338" y2="178" stroke="#3F5AA6" stroke-width="3"/>
+  <text x="232" y="196" font-size="12" fill="#3F5AA6" text-anchor="middle">Later in 2026: Basel targeted review update</text>
+
+  <!-- End of 2026 -->
+  <circle cx="338" cy="140" r="6" fill="#8C4A8C"/>
+  <line x1="338" y1="134" x2="338" y2="96" stroke="#8C4A8C"/>
+  <g font-size="12" fill="#2B2B2B" text-anchor="middle">
+    <text x="338" y="30" font-weight="700" fill="#8C4A8C">End of 2026, Hong Kong</text>
+    <text x="338" y="48">HKDAP retail access target</text>
+    <text x="338" y="65">CMU OmniClear digital asset platform</text>
+    <text x="338" y="82">Insurer capital rules for stablecoins</text>
+  </g>
+
+  <!-- Korea -->
+  <circle cx="511" cy="140" r="6" fill="#9A6B12"/>
+  <line x1="511" y1="134" x2="511" y2="96" stroke="#9A6B12"/>
+  <g font-size="12" fill="#2B2B2B" text-anchor="middle">
+    <text x="535" y="48" font-weight="700" fill="#9A6B12">4 Feb 2027, South Korea</text>
+    <text x="535" y="65">Tokenised securities law</text>
+    <text x="535" y="82">takes effect</text>
+  </g>
+
+  <!-- Japan -->
+  <circle cx="785" cy="140" r="6" fill="#3F5AA6"/>
+  <line x1="785" y1="134" x2="785" y2="96" stroke="#3F5AA6"/>
+  <g font-size="12" fill="#2B2B2B" text-anchor="end">
+    <text x="800" y="48" font-weight="700" fill="#3F5AA6">By 31 Mar 2027, Japan</text>
+    <text x="800" y="65">Megabanks' joint yen</text>
+    <text x="800" y="82">stablecoin in real use</text>
+  </g>
+
+  <!-- Pending -->
+  <rect x="40" y="222" width="750" height="62" rx="8" fill="#F4F4F4" stroke="#BDBDBD" stroke-dasharray="4 3"/>
+  <text x="58" y="246" font-size="12.5" font-weight="700" fill="#1F1F1F">Pending, no date</text>
+  <text x="200" y="246" font-size="12" fill="#2B2B2B">MAS responses on stablecoin law and on capital for permissionless chains</text>
+  <text x="200" y="268" font-size="12" fill="#2B2B2B">South Korea's Digital Asset Basic Act bill; Japan's fiscal 2027 tax outline</text>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 380" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Which ledger regulated finance uses, by market and instrument</title>
+  <desc id="d">Grid of three instruments by five markets. Tokenised securities are on public chains in Singapore and Hong Kong and on private ledgers elsewhere. Stablecoins are on public chains in Hong Kong and Japan, with nothing live in India, Singapore and South Korea. Bank money and settlement are on private or central bank ledgers in every market.</desc>
+  <rect width="820" height="380" fill="#FFFFFF"/>
+  <g font-size="13" font-weight="600" fill="#1F1F1F" text-anchor="middle">
+    <text x="250" y="38">India</text>
+    <text x="374" y="38">Singapore</text>
+    <text x="498" y="38">Hong Kong</text>
+    <text x="622" y="38">Japan</text>
+    <text x="746" y="38">South Korea</text>
+  </g>
+  <g font-size="13" font-weight="600" fill="#1F1F1F">
+    <text x="16" y="92">Tokenised securities<tspan x="16" dy="17">and funds</tspan></text>
+    <text x="16" y="182">Stablecoins</text>
+    <text x="16" y="256">Bank money and<tspan x="16" dy="17">settlement</tspan></text>
+  </g>
+  <!-- Row 1 -->
+  <g font-size="11.5" text-anchor="middle">
+    <rect x="190" y="56" width="120" height="76" rx="6" fill="#E8DCC4"/>
+    <text x="250" y="90" fill="#2B2B2B">Depository ledger<tspan x="250" dy="15">(Demat 2.0)</tspan></text>
+    <rect x="314" y="56" width="120" height="76" rx="6" fill="#2E7D6B"/>
+    <text x="374" y="90" fill="#FFFFFF">Ethereum,<tspan x="374" dy="15">permissioned tokens</tspan></text>
+    <rect x="438" y="56" width="120" height="76" rx="6" fill="#2E7D6B"/>
+    <text x="498" y="90" fill="#FFFFFF">Ethereum and an L2,<tspan x="498" dy="15">with controls</tspan></text>
+    <rect x="562" y="56" width="120" height="76" rx="6" fill="#E8DCC4"/>
+    <text x="622" y="90" fill="#2B2B2B">Consortium chains<tspan x="622" dy="15">(ibet, Canton)</tspan></text>
+    <rect x="686" y="56" width="120" height="76" rx="6" fill="#E8DCC4"/>
+    <text x="746" y="90" fill="#2B2B2B">Shared KSD ledger<tspan x="746" dy="15">(from Feb 2027)</tspan></text>
+  </g>
+  <!-- Row 2 -->
+  <g font-size="11.5" text-anchor="middle">
+    <rect x="190" y="140" width="120" height="76" rx="6" fill="#F4F4F4" stroke="#BDBDBD" stroke-dasharray="4 3"/>
+    <text x="250" y="182" fill="#6B6B6B">No framework</text>
+    <rect x="314" y="140" width="120" height="76" rx="6" fill="#F4F4F4" stroke="#BDBDBD" stroke-dasharray="4 3"/>
+    <text x="374" y="174" fill="#6B6B6B">Law proposed;<tspan x="374" dy="15">no issuer yet</tspan></text>
+    <rect x="438" y="140" width="120" height="76" rx="6" fill="#2E7D6B"/>
+    <text x="498" y="174" fill="#FFFFFF">HKDAP on Ethereum,<tspan x="498" dy="15">whitelisted</tspan></text>
+    <rect x="562" y="140" width="120" height="76" rx="6" fill="#2E7D6B"/>
+    <text x="622" y="174" fill="#FFFFFF">JPYC on Ethereum,<tspan x="622" dy="15">open access</tspan></text>
+    <rect x="686" y="140" width="120" height="76" rx="6" fill="#F4F4F4" stroke="#BDBDBD" stroke-dasharray="4 3"/>
+    <text x="746" y="182" fill="#6B6B6B">Draft law</text>
+  </g>
+  <!-- Row 3 -->
+  <g font-size="11.5" text-anchor="middle">
+    <rect x="190" y="224" width="120" height="76" rx="6" fill="#E8DCC4"/>
+    <text x="250" y="258" fill="#2B2B2B">Wholesale e-rupee<tspan x="250" dy="15">on RBI's UMI</tspan></text>
+    <rect x="314" y="224" width="120" height="76" rx="6" fill="#E8DCC4"/>
+    <text x="374" y="258" fill="#2B2B2B">Wholesale CBDC,<tspan x="374" dy="15">SGD Testnet</tspan></text>
+    <rect x="438" y="224" width="120" height="76" rx="6" fill="#E8DCC4"/>
+    <text x="498" y="258" fill="#2B2B2B">EnsembleTX,<tspan x="498" dy="15">central bank money</tspan></text>
+    <rect x="562" y="224" width="120" height="76" rx="6" fill="#E8DCC4"/>
+    <text x="622" y="258" fill="#2B2B2B">DCJPY consortium<tspan x="622" dy="15">network</tspan></text>
+    <rect x="686" y="224" width="120" height="76" rx="6" fill="#E8DCC4"/>
+    <text x="746" y="258" fill="#2B2B2B">Project Hangang,<tspan x="746" dy="15">bank nodes only</tspan></text>
+  </g>
+  <!-- Legend -->
+  <g font-size="12" fill="#2B2B2B">
+    <rect x="190" y="326" width="16" height="16" rx="3" fill="#2E7D6B"/>
+    <text x="214" y="339">Public chain, live</text>
+    <rect x="350" y="326" width="16" height="16" rx="3" fill="#E8DCC4"/>
+    <text x="374" y="339">Private, consortium or central bank ledger</text>
+    <rect x="636" y="326" width="16" height="16" rx="3" fill="#F4F4F4" stroke="#BDBDBD" stroke-dasharray="4 3"/>
+    <text x="660" y="339">Nothing live</text>
+  </g>
+  <text x="16" y="368" font-size="11" fill="#6B6B6B">Source: The Monsoon Ledger, State of Play, as of 16 November 2026</text>
+</svg>
