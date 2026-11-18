@@ -13,7 +13,7 @@ Date: 2026-07-17
 
 ### What I do now
 
-I research how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. In practice:
+I research how banks, market infrastructure and regulators in India, Singapore, Hong Kong, Japan and South Korea could use Ethereum for tokenisation, settlement and verification. In practice:
 
 - **Writing [The Monsoon Ledger](https://themonsoonledger.com/)**, a weekly on policy, regulation and Ethereum across Asian finance, with a regulatory wire, a pilot scorecard and technical explainers.
 - **Leading research on [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html)** for ETHIndia, a seven-module briefing on India's tokenisation mandates and what they should run on.
@@ -45,7 +45,7 @@ I live in Bangalore. I believe slow miles and metaphors both help in understandi
 
 **Longer (~100 words):**
 
-> Rohit Malekar researches how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. He writes The Monsoon Ledger, a weekly on policy, regulation and Ethereum across Asian finance, and was lead researcher on Ethereum and Indian Institutional Finance, a seven-module briefing published by ETHIndia. Before this he spent three years allocating and measuring capital inside Ethereum: co-running Gitcoin grant rounds, designing Ethereum's first interop standards funding round, and building the analytics behind Metagov's governance review of ENS DAO, with further work for Open Source Observer and Scroll. His earlier career spans twenty years of strategy, product and analytics, including Deloitte and Medallia.
+> Rohit Malekar researches how banks, market infrastructure and regulators in India, Singapore, Hong Kong, Japan and South Korea could use Ethereum for tokenisation, settlement and verification. He writes The Monsoon Ledger, a weekly on policy, regulation and Ethereum across Asian finance, and was lead researcher on Ethereum and Indian Institutional Finance, a seven-module briefing published by ETHIndia. Before this he spent three years allocating and measuring capital inside Ethereum: co-running Gitcoin grant rounds, designing Ethereum's first interop standards funding round, and building the analytics behind Metagov's governance review of ENS DAO, with further work for Open Source Observer and Scroll. His earlier career spans twenty years of strategy, product and analytics, including Deloitte and Medallia.
 
 ### Elsewhere
 
@@ -60,7 +60,7 @@ Date: 2026-10-01
 
 I work with banks, market infrastructure, fintechs and protocol teams taking Ethereum into regulated finance in Asia, and with the people deciding whether they should.
 
-If you're evaluating a tokenisation or settlement pilot, mapping what regulators in India, Singapore or Hong Kong will allow, or need a briefing that leads with evidence rather than advocacy, I can help.
+If you're evaluating a tokenisation or settlement pilot, mapping what regulators in India, Singapore, Hong Kong, Japan or South Korea will allow, or need a briefing that leads with evidence rather than advocacy, I can help.
 
 **📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email me](mailto:rohitmalekar@gmail.com)**
 
@@ -82,7 +82,7 @@ If you're evaluating a tokenisation or settlement pilot, mapping what regulators
 ### Selected outcomes
 
 - **Lead researcher, [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html)** for ETHIndia: a seven-module briefing on India's tokenisation mandates, with every figure source-linked in a public ledger.
-- **Author, [The Monsoon Ledger](https://themonsoonledger.com/)**: a weekly on policy, regulation and Ethereum across India, Singapore and Hong Kong.
+- **Author, [The Monsoon Ledger](https://themonsoonledger.com/)**: a weekly on policy, regulation and Ethereum across India, Singapore, Hong Kong, Japan and South Korea.
 - **Built the analytics behind Metagov's independent governance review of ENS DAO**: a reproducible data stack across 7 onchain and forum sources, cited in decisions over a $400M+ treasury. Case study →
 - **Co-designed and operated Ethereum's first interop-focused grants domain** in Gitcoin Grants 24: a $100K+ round, from domain thesis to public retrospective. Case study →
 
@@ -109,7 +109,7 @@ Date: 2026-10-01
 
 ### Profile
 
-Twenty-three years leading data, product, and research work across management consulting, enterprise software, and independent practice. I now research how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. That work draws on two decades with Fortune 500 clients at Deloitte and global brands at Medallia, and three years allocating and measuring capital inside Ethereum.
+Twenty-three years leading data, product, and research work across management consulting, enterprise software, and independent practice. I now research how banks, market infrastructure and regulators in India, Singapore, Hong Kong, Japan and South Korea could use Ethereum for tokenisation, settlement and verification. That work draws on two decades with Fortune 500 clients at Deloitte and global brands at Medallia, and three years allocating and measuring capital inside Ethereum.
 
 My work turns messy, multi-source data into decisions people can act on: funder-fit scorecards, governance analytics, capital allocation frameworks, and the operating models around them. I've built consulting practices and led cross-functional design and engineering teams for global clients, and I bring the same institutional rigor to the question regulated finance in Asia is now asking: what tokenised infrastructure should run on.
 
@@ -117,7 +117,7 @@ My work turns messy, multi-source data into decisions people can act on: funder-
 
 #### Independent · Ethereum & Institutional Finance Research · 2026 – Present
 
-Research and writing on Ethereum adoption by banks, market infrastructure and regulators across India, Singapore and Hong Kong.
+Research and writing on Ethereum adoption by banks, market infrastructure and regulators across India, Singapore, Hong Kong, Japan and South Korea.
 
 - **ETHIndia — Lead Researcher, [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html):** Seven-module briefing on India's tokenisation mandates under SEBI and RBI, comparative legal frameworks, market sizing, Ethereum versus permissioned alternatives, privacy, and adoption mechanics, with a source-verified figure ledger.
 - **Author, [The Monsoon Ledger](https://themonsoonledger.com/):** Weekly publication on policy, regulation and Ethereum across Asian finance, covering regulatory circulars, institutional pilots, and technical explainers.

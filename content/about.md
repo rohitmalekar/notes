@@ -10,7 +10,7 @@ date: 2026-07-17
 
 ## What I do now
 
-I research how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. In practice:
+I research how banks, market infrastructure and regulators in India, Singapore, Hong Kong, Japan and South Korea could use Ethereum for tokenisation, settlement and verification. In practice:
 
 - **Writing [The Monsoon Ledger](https://themonsoonledger.com/)**, a weekly on policy, regulation and Ethereum across Asian finance, with a regulatory wire, a pilot scorecard and technical explainers.
 - **Leading research on [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html)** for ETHIndia, a seven-module briefing on India's tokenisation mandates and what they should run on.
@@ -42,7 +42,7 @@ I live in Bangalore. I believe slow miles and metaphors both help in understandi
 
 **Longer (~100 words):**
 
-> Rohit Malekar researches how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. He writes The Monsoon Ledger, a weekly on policy, regulation and Ethereum across Asian finance, and was lead researcher on Ethereum and Indian Institutional Finance, a seven-module briefing published by ETHIndia. Before this he spent three years allocating and measuring capital inside Ethereum: co-running Gitcoin grant rounds, designing Ethereum's first interop standards funding round, and building the analytics behind Metagov's governance review of ENS DAO, with further work for Open Source Observer and Scroll. His earlier career spans twenty years of strategy, product and analytics, including Deloitte and Medallia.
+> Rohit Malekar researches how banks, market infrastructure and regulators in India, Singapore, Hong Kong, Japan and South Korea could use Ethereum for tokenisation, settlement and verification. He writes The Monsoon Ledger, a weekly on policy, regulation and Ethereum across Asian finance, and was lead researcher on Ethereum and Indian Institutional Finance, a seven-module briefing published by ETHIndia. Before this he spent three years allocating and measuring capital inside Ethereum: co-running Gitcoin grant rounds, designing Ethereum's first interop standards funding round, and building the analytics behind Metagov's governance review of ENS DAO, with further work for Open Source Observer and Scroll. His earlier career spans twenty years of strategy, product and analytics, including Deloitte and Medallia.
 
 ## Elsewhere
 

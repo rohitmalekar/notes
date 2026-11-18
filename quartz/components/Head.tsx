@@ -62,7 +62,7 @@ export default (() => {
           jobTitle:
             "Researcher and writer on Ethereum in institutional finance across Asia",
           description:
-            "Rohit Malekar researches how banks, market infrastructure and regulators in India, Singapore and Hong Kong could use Ethereum for tokenisation, settlement and verification. He writes The Monsoon Ledger and led research on ETHIndia's briefing on Ethereum and Indian institutional finance.",
+            "Rohit Malekar researches how banks, market infrastructure and regulators in India, Singapore, Hong Kong, Japan and South Korea could use Ethereum for tokenisation, settlement and verification. He writes The Monsoon Ledger and led research on ETHIndia's briefing on Ethereum and Indian institutional finance.",
           knowsAbout: [
             "tokenisation",
             "blockchain settlement",

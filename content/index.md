@@ -13,7 +13,7 @@ description: "Rohit Malekar researches and writes on how banks, market infrastru
 
 ## Now
 
-I write **[The Monsoon Ledger](https://themonsoonledger.com/)**, a weekly briefing for banks, market infrastructure and regulators on Ethereum, tokenisation and settlement across India, Singapore and Hong Kong (with Japan and South Korea coming soon). Alongside the weekly commentary, the site keeps living pages that update as rules change, a regulatory watch and a scorecard of institutional pilots.
+I write **[The Monsoon Ledger](https://themonsoonledger.com/)**, a weekly briefing for banks, market infrastructure and regulators on Ethereum, tokenisation and settlement across India, Singapore, Hong Kong, Japan and South Korea. Alongside the weekly commentary, the site keeps living pages that update as rules change, a regulatory watch and a scorecard of institutional pilots.
 
 [Weekly Brief](https://themonsoonledger.com/brief/) · [State of Play](https://themonsoonledger.com/state-of-play/) · [Regulatory Wire](https://themonsoonledger.com/wire/) · [Pilot Scorecard](https://themonsoonledger.com/pilots/) · [Under the Hood](https://themonsoonledger.com/under-the-hood/)
 

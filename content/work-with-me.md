@@ -1,12 +1,12 @@
 ---
 title: Work With Me
-description: Research, advisory, full-time roles and speaking on Ethereum adoption in institutional finance across India, Singapore and Hong Kong.
+description: Research, advisory, full-time roles and speaking on Ethereum adoption in institutional finance across India, Singapore, Hong Kong, Japan and South Korea.
 date: 2026-10-01
 ---
 
 I work with banks, market infrastructure, fintechs and protocol teams taking Ethereum into regulated finance in Asia, and with the people deciding whether they should.
 
-If you're evaluating a tokenisation or settlement pilot, mapping what regulators in India, Singapore or Hong Kong will allow, or need a briefing that leads with evidence rather than advocacy, I can help.
+If you're evaluating a tokenisation or settlement pilot, mapping what regulators in India, Singapore, Hong Kong, Japan or South Korea will allow, or need a briefing that leads with evidence rather than advocacy, I can help.
 
 **📅 [Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email me](mailto:rohitmalekar@gmail.com)**
 
@@ -28,7 +28,7 @@ If you're evaluating a tokenisation or settlement pilot, mapping what regulators
 ## Selected outcomes
 
 - **Lead researcher, [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html)** for ETHIndia: a seven-module briefing on India's tokenisation mandates, with every figure source-linked in a public ledger.
-- **Author, [The Monsoon Ledger](https://themonsoonledger.com/)**: a weekly on policy, regulation and Ethereum across India, Singapore and Hong Kong.
+- **Author, [The Monsoon Ledger](https://themonsoonledger.com/)**: a weekly on policy, regulation and Ethereum across India, Singapore, Hong Kong, Japan and South Korea.
 - **Built the analytics behind Metagov's independent governance review of ENS DAO**: a reproducible data stack across 7 onchain and forum sources, cited in decisions over a $400M+ treasury. [[ens-dao-governance-research|Case study →]]
 - **Co-designed and operated Ethereum's first interop-focused grants domain** in Gitcoin Grants 24: a $100K+ round, from domain thesis to public retrospective. [[gg24-interop-round|Case study →]]
 
