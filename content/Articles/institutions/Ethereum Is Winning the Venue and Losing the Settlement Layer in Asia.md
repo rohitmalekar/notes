@@ -1,5 +1,5 @@
 ---
-title: "Ethereum Is Winning the Venue and Losing the Settlement Layer in Asia"
+title: "Asia Has Opened the Venue to Ethereum but Not Yet Settlement"
 tags:
   - DLT
   - Decentralization
