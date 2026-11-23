@@ -5,6 +5,7 @@ tags:
 type:
   - Article
 permalink: tokenized-securities-diwali-wish-list
+canonical: https://themonsoonledger.com/essays/diwali-wish-list-sebi-rbi/
 date: 2026-10-07
 description: "The SEC and SEBI agree that a tokenized security should be fungible with its conventional twin: same identifier, same rights, convertible without loss. The US has written that principle down filing by filing and now runs it in production. India's Demat 2.0 pilot reaches the same principle inside a sandbox that leaves the basic legal questions open. A ten-point wish list for India's regulators, with stop-losses built into the design."
 ---

@@ -5,6 +5,7 @@ tags:
 type:
   - Article
 permalink: amundi-ethereum-bond-gaps
+canonical: https://themonsoonledger.com/essays/amundi-equity-fund-ethereum/
 date: 2026-11-06
 description: "Amundi has put a tokenized share class of its STOXX Europe 600 index fund on public Ethereum. Funds can already be issued and held there. Bonds still need Basel to move, a path to central bank money, and onchain privacy that keeps positions confidential."
 draft: false

@@ -5,6 +5,7 @@ tags:
 type:
   - Article
 permalink: tokenizing-bharat
+canonical: https://themonsoonledger.com/essays/tokenizing-bharat/
 date: 2026-11-11
 description: "Notes from the Devcon 8 Mumbai panel with Pramod Rao, Sanmesh Kalyanpur and Pramod Mishra on how India can bring in tokenization, and what pilots in grain warehousing and bonds need to show before they scale."
 draft: false

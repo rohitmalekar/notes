@@ -40,6 +40,10 @@ export default (() => {
             isFolderPage ? "/" : "",
           )
 
+    // A page first published elsewhere names that URL in `canonical`
+    // front matter, so search engines treat the other copy as the original.
+    const canonicalUrl = (fileData.frontmatter?.canonical as string | undefined) ?? socialUrl
+
     const frontmatterType = fileData.frontmatter?.type as string | string[] | undefined
     const isArticle = Array.isArray(frontmatterType)
       ? frontmatterType.includes("Article")
@@ -121,7 +125,7 @@ export default (() => {
         "@type": "Article",
         headline: baseTitle,
         description,
-        url: socialUrl,
+        url: canonicalUrl,
         datePublished: publishedDate?.toISOString(),
         dateModified: modifiedDate?.toISOString(),
         image: `https://${cfg.baseUrl}/${fileData.slug}-og-image.webp`,
@@ -190,9 +194,9 @@ export default (() => {
         {cfg.baseUrl && (
           <>
             <meta property="twitter:domain" content={cfg.baseUrl}></meta>
-            <meta property="og:url" content={socialUrl}></meta>
-            <meta property="twitter:url" content={socialUrl}></meta>
-            {fileData.slug !== "404" && <link rel="canonical" href={socialUrl} />}
+            <meta property="og:url" content={canonicalUrl}></meta>
+            <meta property="twitter:url" content={canonicalUrl}></meta>
+            {fileData.slug !== "404" && <link rel="canonical" href={canonicalUrl} />}
             <link
               rel="alternate"
               type="application/rss+xml"

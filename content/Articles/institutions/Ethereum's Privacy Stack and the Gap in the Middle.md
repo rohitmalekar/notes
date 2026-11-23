@@ -6,6 +6,7 @@ tags:
 type:
   - Article
 permalink: ethereum-privacy-stack
+canonical: https://themonsoonledger.com/essays/ethereum-privacy-stack/
 date: 2026-09-22
 description: Ethereum is building privacy by separating neutral mechanisms at the base layer from policy set by wallets, pools, rollups and institutional systems. The teams at both ends are well funded. The applied cryptography research in the middle, which PSE used to maintain, lost its home in the 2026 Ethereum Foundation restructuring.
 ---

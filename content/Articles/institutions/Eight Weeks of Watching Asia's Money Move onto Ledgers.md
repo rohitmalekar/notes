@@ -5,6 +5,7 @@ tags:
 type:
   - Article
 permalink: monsoon-ledger-eight-weeks
+canonical: https://themonsoonledger.com/essays/asia-deciding-which-money-settles-onchain/
 date: 2026-10-31
 description: "A monthly step back from The Monsoon Ledger: what changed in Asian onchain finance in September and October 2026, which of my calls are holding, and what India would need to change to join in."
 draft: false

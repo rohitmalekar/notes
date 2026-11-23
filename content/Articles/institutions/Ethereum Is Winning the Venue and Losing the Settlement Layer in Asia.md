@@ -6,6 +6,7 @@ tags:
 type:
   - Article
 permalink: ethereum-in-asia
+canonical: https://themonsoonledger.com/essays/asia-opened-venue-not-settlement/
 date: 2026-11-17
 description: "Read side by side, the stablecoin, tokenisation and settlement rules of India, Singapore, Hong Kong, Japan and South Korea show regulators accepting Ethereum as an issuance venue for permissioned tokens, while central banks keep settlement on their own ledgers. The open questions cluster at the self-hosted wallet, bank capital rules and cross-border recognition. Those decide whether regulated assets ever meet open Ethereum."
 draft: false
