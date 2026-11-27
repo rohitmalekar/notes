@@ -5,6 +5,7 @@ tags:
 type:
   - Article
 permalink: why-money-moves-slowly
+canonical: https://themonsoonledger.com/essays/why-some-money-moves-in-seconds/
 date: 2026-10-06
 description: "A UPI payment clears in seconds while money sent abroad can take days and lose 6% to fees. The difference comes from how many separate record-keepers have to agree that the money moved. A plain-language introduction to why banks and regulators are now testing shared ledgers, why it did not happen sooner, where it is live in India, Singapore and Hong Kong, and what changes for everyone else."
 ---
