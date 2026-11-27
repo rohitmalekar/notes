@@ -119,8 +119,8 @@ My work turns messy, multi-source data into decisions people can act on: funder-
 
 Research and writing on Ethereum adoption by banks, market infrastructure and regulators across India, Singapore, Hong Kong, Japan and South Korea.
 
-- **ETHIndia — Lead Researcher, [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html):** Seven-module briefing on India's tokenisation mandates under SEBI and RBI, comparative legal frameworks, market sizing, Ethereum versus permissioned alternatives, privacy, and adoption mechanics, with a source-verified figure ledger.
 - **Author, [The Monsoon Ledger](https://themonsoonledger.com/):** Weekly publication on policy, regulation and Ethereum across Asian finance, covering regulatory circulars, institutional pilots, and technical explainers.
+- **ETHIndia — Lead Researcher, [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html):** Seven-module briefing on India's tokenisation mandates under SEBI and RBI, comparative legal frameworks, market sizing, Ethereum versus permissioned alternatives, privacy, and adoption mechanics, with a source-verified figure ledger.
 
 #### Independent Practice · Ecosystem Research, Funding Design & Analytics · Jun 2023 – 2026
 
@@ -233,6 +233,386 @@ A reproducible research data platform that turns raw governance activity into an
 *Need a defensible evidence base for governance or funding decisions? Here's how I work with teams →*
 
 # Ethereum & Institutional Finance
+
+## Asia Has Opened the Venue to Ethereum but Not Yet Settlement
+
+URL: https://rohitmalekar.in/ethereum-in-asia
+Date: 2026-11-17
+
+Since September, I have tracked a handful of narrow questions across India, Singapore, Hong Kong, Japan and South Korea for [The Monsoon Ledger](https://themonsoonledger.com/). Who may issue a stablecoin. Whether a tokenised bond is still a bond. Which money settles a tokenised trade. Whether a bank may touch a public blockchain at all. Each [State of Play](https://themonsoonledger.com/state-of-play/) entry answers one of these, market by market, with a source for every line.
+
+Last week I added Japan and South Korea to every entry and read them all together for the first time. The five regulators agree on more than their press releases suggest, and the questions they have left open cluster in the same few places. If you work on Ethereum, or at a bank deciding whether to use it, those clusters tell you where the next two years will be decided.
+
+#### 1. Every Market Agrees on the Law and Disagrees on the Ledger
+
+All five markets treat a [tokenised security](https://themonsoonledger.com/state-of-play/tokenised-securities-rules/) as the same security under existing law. India's Demat 2.0 bonds carry the same rating, trustee and disclosure rules as any other bond. South Korea's January 2026 amendments keep a security token under the same rules as any other security. Japan has done this since May 2020, and Hong Kong calls it a traditional security with a tokenisation wrapper.
+
+They part ways on the ledger. India's tokenised bonds sit on a ledger the depositories own. South Korea's draft rules require one shared by at least two account managers and the Korea Securities Depository. Japan's digital bonds run on consortium chains such as ibet and Canton. Singapore and Hong Kong let regulated funds issue on Ethereum, under conditions.
+
+*Figure 1. Which ledger regulated finance uses in each market, as of 16 November 2026.*
+
+> In Asia, the argument has moved on from whether tokenisation is legal to who owns the ledger it runs on.
+
+#### 2. Central Banks Are Keeping Settlement for Themselves
+
+None of the five central banks [settles on a public chain](https://themonsoonledger.com/state-of-play/settlement-projects/), and none has said it will. Each has picked its own settlement asset. India uses a wholesale e-rupee on the RBI's Unified Markets Interface. Singapore issued its first tokenised MAS Bills in September and October 2026, settled in wholesale CBDC. Hong Kong's EnsembleTX settles tokenised deposits between banks in central bank money, around the clock, still as a pilot. South Korea's Project Hangang runs on a ledger where only participant banks run nodes. Japan has no wholesale settlement asset at all, and its banks are testing tokenised deposits and stablecoins instead.
+
+Public chains connect only at the edge, through bank money and licensed stablecoins. Even there, I read the HKMA's interoperability standard as keeping the interbank leg in central bank money, with stablecoins allowed in only as an asset.
+
+> Settlement is the last thing a central bank will hand to a network it does not run.
+
+#### 3. A Housing Society on a Public Road
+
+Singapore and Hong Kong reached the same answer separately. A regulated institution may issue on a [public, permissionless chain](https://themonsoonledger.com/state-of-play/public-chains/) if the controls sit inside the token: a holder whitelist, an issuer power to freeze and an issuer power to correct. MAS's April 2026 capital proposal lists them, along with audited contracts and a documented point of finality. The SFC's tokenisation circular and the HKMA's custody guidance give a permissioned token as the example. HKDAP, UBS's money market fund, DBS's structured notes, OCBC's GOLDX and Hang Seng's gold ETF class all run this way on Ethereum mainnet.
+
+If you live in Bangalore, you know the apartment society with a gate and a guard. It sits on public roads, draws city water and power, and relies on the city police. Yet the guard decides who walks in. The association can clamp a car parked in the wrong spot. The society keeps its own register of who owns which flat, and what goes on inside rarely spills into the street market outside.
+
+A permissioned token on Ethereum works much the same way. Mainnet supplies the road: uptime, shared security and a ledger no single party can rewrite. The whitelist is the guard. The freeze and correction powers are the clamp. In Hong Kong's tokenised fund classes, the trustee keeps the legal register offchain, just as the society keeps its own records. And the tokens rarely wander into DeFi or self-custody.
+
+For the city, the catch is that it carries the traffic without getting the trade. Ether itself, which has no issuer, stays out of the lighter treatment in both markets.
+
+> Regulators have accepted Ethereum as a venue by moving trust from the chain into the token contract.
+
+#### 4. Stablecoins Are Being Built to Look Like Banks
+
+Asia's [stablecoin rules](https://themonsoonledger.com/state-of-play/stablecoin-rules/) are producing a narrow payment instrument that does not compete with bank deposits. Japan limits issuance to banks, funds transfer service providers and trust companies. South Korea's government draft centres issuance on banks with a stake of 50% plus one. HSBC is one of Hong Kong's first two licensees. Hong Kong bars interest to holders, Singapore has proposed banning it, and Japan's FSA says holders are not expected to earn income. India rejects private stablecoins outright and points to its CBDC.
+
+Compare that with how stablecoins grew on Ethereum: issued by non-banks, held in self-custody and used as the cash leg of DeFi. The Asian versions keep the peg and the programmability and drop most of the rest. Singapore's draft adds a duty to trace, freeze and burn tokens used for illicit activity. In practice that changes little, since the large fiat-backed contracts on Ethereum already carry freeze functions.
+
+> Asia is licensing the stablecoin as a payment instrument and leaving the yield and the open access behind.
+
+#### 5. The Fight Is at the Wallet
+
+Every market applies the [travel rule](https://themonsoonledger.com/state-of-play/travel-rule/) to transfers between service providers. They differ at the moment value leaves a regulated firm for a wallet the user controls. Hong Kong asks the customer to prove ownership, for example by signing a message. Japan's regulator and police asked exchanges in August 2026 to register, screen and hold new withdrawal destinations. South Korea's draft foreign exchange decree would make each transfer to a personal wallet reportable. Singapore is weighing limits on unhosted wallets for MAS-regulated stablecoins. India's January 2026 guidelines say nothing on the subject, which leaves each exchange to decide.
+
+Self-hosted wallets are how most people use Ethereum directly. If Singapore adds wallet limits, its regulated stablecoins will be shut out of self-custody and DeFi by rule.
+
+> The self-hosted wallet is the line regulators are still drawing, and it decides whether regulated assets ever meet open Ethereum.
+
+#### 6. Japan Ran It the Other Way Round
+
+Look again at Figure 1. In Singapore and Hong Kong, tokenised funds reached public chains before regulated money did. Bosera's ETF classes went onto HashKey Chain, an Ethereum layer 2, in April 2025, more than a year before HKDAP opened to institutions in August 2026. Singapore has no licensed stablecoin yet. Japan did the reverse. JPYC, a registered funds transfer service provider, has issued yen on Ethereum mainnet with open access since October 2025, while every Japanese security token I track sits on a consortium chain.
+
+Japan's rulebooks are silent on the ledger. The stablecoin rules govern the issuer, the reserve and where assets are held. No securities rule sets public-chain conditions either. So the choice fell to the industry, and the industry split. A payments firm went for reach. Securities houses and megabanks stayed on platforms they control: the megabanks' July 2026 stablecoin test ran on a blockchain built for SMBC.
+
+> When a regulator stays silent on the ledger, each industry picks the ledger that suits its own risks.
+
+#### 7. The EVM Is Spreading Faster Than Ethereum
+
+Even where public chains lose, Ethereum's software tends to win. Japan's DCJPY network plans to run on Hyperledger Besu, an Ethereum client run as a consortium chain. DBS Token Services and mBridge run EVM-compatible ledgers. South Korea's draft rule could be met by a permissioned deployment of an EVM client.
+
+That is good news for Ethereum's developers, auditors and tooling vendors. It is weaker news for mainnet. A bank that runs the EVM privately adopts the standard without joining the network, its fee market or its neutrality.
+
+> Asia is adopting Ethereum's software as an industry standard while keeping its network at arm's length.
+
+#### 8. Capital Rules Decide How Big Any of This Gets
+
+Securities law has largely made room for tokenisation. [Bank capital](https://themonsoonledger.com/state-of-play/bank-crypto-exposure/) has not. Under the Basel cryptoasset standard, a token on a permissionless chain lands in Group 2, with a risk weight of up to 1,250%. Hong Kong has applied the standard since January 2026. Singapore deferred it to 2027 or later and proposed a Group 1 route for bank tokens on permissionless chains with issuer controls, capped at 2% of Tier 1 capital. India has not implemented the standard, and Japan and South Korea have not started.
+
+That cap keeps bank issuance on public chains at pilot scale. The Basel Committee's targeted review, due later in 2026, may matter more to Ethereum in Asia than any securities rule this year.
+
+> The binding constraint on banks using Ethereum is a capital ratio, and it is set in Basel.
+
+#### The Shape That Is Forming
+
+Put the entries together and a structure appears. Central bank ledgers form the settlement core. Tokenised deposits and licensed stablecoins act as bridges. Public chains become a distribution layer for regulated assets with controls in the token. Self-custody and open DeFi sit beyond a gate of travel rules, wallet checks and whitelists.
+
+*Figure 2. The structure forming across the five markets.*
+
+The risk in this structure is five national stacks that cannot talk to each other. Cross-border recognition is where that gets settled: whether Singapore's route for foreign-regulated stablecoins covers Hong Kong's licensees, which foreign regimes Japan deems equivalent, and how far BLOOM goes now that the central banks of Malaysia and Thailand have joined. A public chain no single country runs is an obvious meeting point for regulated assets from different jurisdictions. Whether regulators accept it as one is still open.
+
+Several dated tests fall in the next five months.
+
+*Figure 3. Dated and pending decisions, November 2026 to March 2027.*
+
+#### What It Means for Ethereum
+
+| Role | Where Ethereum stands | Evidence |
+|---|---|---|
+| Issuance venue | Winning, on conditions | HKDAP, UBS, DBS, OCBC, Hang Seng and JPYC on mainnet |
+| Software standard | Winning | Besu for DCJPY; EVM ledgers at DBS Token Services and mBridge |
+| Settlement layer | Losing, for now | No central bank settles on a public chain |
+| Open DeFi and self-custody | Contested | Whitelists, freeze powers and wallet rules |
+
+The uncomfortable question for the Ethereum community is whether mainnet can host regulated finance without being hollowed out by it. A permissioned token borrows the network's security and gives back little of what makes the network valuable: composability, open access and neutral settlement. These tokens could bring institutions onto mainnet and loosen their controls as supervisors gain comfort (best case). Or mainnet becomes a cheaper host for walled gardens while the EVM moves into private deployments anyway (worst case).
+
+The rulebooks themselves point to what would shift the balance:
+
+- A change of default for permissionless chains in the Basel Committee's targeted review.
+- Layer 2 safeguards, which MAS already cites as an advance since the Basel standard was written.
+- A finality law that treats a finalised Ethereum checkpoint as final against insolvency law. Today an issuer can name the checkpoint in its documents, as MAS asks, but a contract that points to it may not bind a liquidator.
+- A published point of finality for each layer 2, so an issuer knows which of the sequencer's confirmation, the batch on mainnet or the end of a challenge window counts.
+- Allowlists built on attestations a holder carries across issuers, in place of one whitelist per contract.
+- Privacy that still lets an issuer and a supervisor see what they must.
+
+The last three are engineering problems, and the Ethereum community can start on them now. MAS and the HKMA have already written down what they need to see.
+
+If you build on Ethereum, which side of the gate is your work on?
+
+PS: Every fact here links back to a [State of Play](https://themonsoonledger.com/state-of-play/) entry on The Monsoon Ledger, which I update as the rules change.
+
+## Tokenizing Bharat: rules, rails and rollouts
+
+URL: https://rohitmalekar.in/tokenizing-bharat
+Date: 2026-11-11
+
+*Notes from the panel I moderated at Devcon 8 Mumbai for ETHIndia, with Pramod Rao (ex Exec Director, SEBI), Sanmesh Kalyanpur (Director of Programs, Finternet Labs) and Pramod Mishra (Director, PwC).*
+
+India has trillions of rupees locked in gold, unpaid invoices, warehouse grain, buildings and highways. These assets are hard to split, slow to move and hard to trade.
+
+Tokenization puts them on a shared ledger where they can be divided and transferred quickly. Speed works in both directions, though. A bad position that a regulator could once stop in time can now spread before anyone steps in.
+
+So I opened the panel with one question for the stage: how does India bring in tokenization without breaking what already works? I organized my questions around rules, rails and rollouts, one for each panelist's side of the work.
+
+### The panel
+
+- Pramod Rao has sat on every side of this table: lawyer, startup founder and regulator. He was inside SEBI when REITs and InvITs took root, and has served on the board of IFSCA.
+- Sanmesh Kalyanpur works on Finternet, the tokenization effort from the team that built Aadhaar, UPI and Account Aggregator.
+- Pramod Mishra has spent more than 12 years building blockchain systems with institutions, including policy design for India's carbon credit market with the Ministry of Power and four years on a Swift steering committee.
+
+### Rules: how a regulator reads a new instrument
+
+**My question to Pramod Rao:** builders, and I include myself, often see the regulator as the one saying no. When a new economic instrument lands on a regulator's desk, how do they evaluate it?
+
+He pushed back on "move fast and break things." His alternative was to build deliberately, so that new instruments become lasting institutions, and do not make confidence evaporate or carry risks nobody imagined.
+
+> "You are in a jungle if you are working in the arena without regulation. What regulation seeks to do is create a playground. People who come into the playground know that there is a rule, there is a referee, there is somebody who will call out if there is unfair play." (Pramod Rao)
+
+I asked him to explain [IFSCA](https://www.ifsca.gov.in) for the room. He called it India's offshore-onshore regulator. It sits in [GIFT City](https://giftgujarat.in), Gujarat, and combines the powers of the RBI, SEBI, the insurance regulator and the pension regulator for that zone. It has published a discussion paper on real-world asset tokenization and runs an active sandbox. His view is that GIFT City is a sandbox for the whole country: anything that works there and isn't tied to foreign currency could be deployed across India.
+
+### Rails: Finternet and what India already runs
+
+**My question to Sanmesh Kalyanpur:** I read the [Finternet white paper](https://www.bis.org/publications/working-paper-1178-finternet-financial-system-future) once, then four more times, because the idea was so new. What is Finternet, and what is the vision?
+
+He said he got worried when he heard "four times." :) Then he laid out the problem Finternet is built around. Money moves easily inside India thanks to UPI, but not from America to Singapore or Namibia. Stocks, money and even marksheets each live on separate ledgers with their own rules. And people still have to go back to their bank for records that are already theirs, for something as routine as a visa application.
+
+> "There are more than 100 types of assets. If we try to solve everything, it'll take us hundreds of years." (Sanmesh Kalyanpur)
+
+Tokenization is the instrument he sees: a way to standardize different assets so they can move together, with regulators setting the rules, in five to ten years.
+
+**My question to Pramod Mishra:** you've written about India as the world's tokenization factory. Can you rub some of that optimism on the rest of us?
+
+He answered with live deployments:
+
+- He said India's carbon credit registry, which [Grid India operates](https://www.mondaq.com/india/renewables/1767018/carbon-credits-enter-the-market-indias-first-regulatory-framework-for-exchange-traded-carbon-credit-certificate), runs on Hyperledger Besu, an Ethereum client, and he expected it to go live nationally within two months.
+- For cross-border payments, he described a CBDC rail on one side, [Swift's blockchain-based shared ledger](https://www.finextra.com/the-long-read/1468/what-swifts-blockchain-ledger-means-for-stablecoin-innovation) carrying ISO 20022 data in the middle, and regulated stablecoins on the other.
+- Broadridge's Distributed Ledger Repo (DLR) settles [close to $8 trillion of repo a month](https://thefintechtimes.com/broadridge-dlr-hits-8trn-monthly-repo-volume-with-28-yoy-growth/), and [Broadridge's India team worked on it](https://935thelloyd.com/?p=790821). In September 2026 Broadridge launched [DLX](https://www.broadridge.com/press-release/2026/broadridge-launches-dlx), a wider tokenization platform built on DLR.
+- The RBI's Unified Markets Interface began with tokenized certificates of deposit settled in wholesale CBDC, and the RBI has said it [plans to add more asset classes](https://www.deccanchronicle.com/business/economics/rbi-considering-gold-tokenisation-says-rbi-exec-director-at-gff-1986165), such as commercial paper and corporate bonds.
+
+> "You need to know the left side of the story, the as-is, and the right side, which is the innovation, and then you need to see where things actually collide and where they work together." (Pramod Mishra)
+
+### Rules: India has fractionalized assets before
+
+**My question to Pramod Rao:** tokenization is a buzzword now, but REITs and InvITs already let small investors own a slice of a building or a highway. What should we carry over from that regulatory experience?
+
+He described a glide path of more than ten years. Access started with investors who understood the instrument and could afford a loss. The minimum ticket for a REIT began around ₹10 lakh, came down in steps, and today you can buy a single unit on the exchange. Online bond platforms followed the same logic. Bonds are an institutional product almost everywhere, so SEBI built a regime to open them up, and there are now 30 to 35 such platforms.
+
+His example for builders was digital gold. When it took off, the regulator responded with electronic gold receipts, after several rounds of consultation. Some digital gold players didn't see their business model in the final rules and stayed outside. He called that a fatal flaw, while also saying regulators should keep a listening ear.
+
+Electronic gold receipts have done about ₹100 to 200 crore in cumulative sales since launch. Digital gold now averages at least ₹2,000 to 3,000 crore a month.
+
+> "It takes two to tango. I would genuinely hope the entrepreneurs in that space and the regulators come together to see what is the bridge. And maybe that might be the very first real-world asset that can easily get tokenized and distributed." (Pramod Rao)
+
+### Rails: one token across many chains
+
+**My question to Sanmesh Kalyanpur:** there's the GIFT City sandbox, NPCI's DLT work, the Unified Markets Interface, Finternet, and your pilots on other chains. If you had a whiteboard, how would you draw the way these fit together for India?
+
+He described Finternet as a highway that stays neutral about the chains joining it. His example was a tokenized warehouse receipt. A farmer could use it to borrow from several banks, and those banks may want a permissioned chain or an RBI chain. The same token could also go into DeFi pools through an SPV on Ethereum or Solana, and be lent onward in countries where that is allowed. Finternet's job is to set the token standards each route requires.
+
+He is running four or five pilots and expects one in five to stick.
+
+> "Theoretically everything looks good. When you hit the ground, you get to know that it's really different than what is being told on stage." (Sanmesh Kalyanpur)
+
+**My question to Pramod Mishra:** you've argued for separating regulated tokens from everything in the wild west. Why does that matter, and what would it make possible?
+
+He started with the vague way people talk about "tokenizing land." Who holds the legal ownership, and who holds the economic ownership? He split tokens into two kinds. A digital twin carries only the economic right while the legal right stays with today's registries, such as the depositories under SEBI. A token that carries both rights brings its own risks and governance questions, which makes it far harder to regulate.
+
+He also listed what sits around any token: AI on one side, quantum on the other, smart contracts that can be exploited and private keys that can be lost. His answer is to build on the identity and payment rails India has already scaled. He had a lighter moment too: millennials will wait out T+2 settlement, but Gen Z won't.
+
+> "India has so much diversity. If one move goes wrong, it will actually impact the last-mile person in the country." (Pramod Mishra)
+
+### Rules: what a regulator checks before scaling
+
+**My question to Pramod Rao:** SEBI's pilot has tokenized more than ₹1,000 crore of bonds. Say it's running well a year from now. What signals would a regulator look for before opening access or moving to the next asset?
+
+He was clear that he's stepped away from SEBI and was hypothesizing. He would check:
+
+1. The token must keep what the regulator wanted from the original instrument. If a bond can only be sold at ₹1 lakh face value, the token has to represent that ₹1 lakh. Fractionalization itself isn't the problem: some bonds already go down to ₹10,000 and ₹1,000 when they meet certain norms.
+2. Instant settlement changes how the market clears. India is already on T+1, with T+0 proposed. Atomic delivery-versus-payment means every trade settles gross instead of being netted at the exchange. Does gross settlement raise risk across the system? Does it disrupt clearing?
+3. Ownership has to stay traceable. About 99% of Indian securities are held in demat form in the beneficial owner's own name, unlike street-name holdings in the US. Can a wallet give the regulator that same confidence? Two depositories have run this since 1996, and the market has grown on top of them.
+
+> "For those who are building around bonds, what is it you're trading off versus what you're trading up for?" (Pramod Rao)
+
+The netting point is the one I hear least in tokenization pitches, and it's the one I'd want answered first.
+
+### Rollouts: grain warehouses and pilot red flags
+
+**My question to Sanmesh Kalyanpur:** I've spent more than my share of time at sub-registrar offices fighting paperwork. For your pilot you picked grain and warehousing. Why?
+
+He sorts pilots on two axes, impact and hurdle, and looks for high impact with a low hurdle. On high-hurdle projects his line was: "I'm 36, I'll take 60 to do it." Among the 2030 use cases they explored, warehouse financing was one of only one or two that fit.
+
+Field visits to Sangli, Nanded, Panvel and around Lonavala changed his picture. Only about 10% of India's warehouses are regulated. Some have limited bank credit lines, some are just storage with no financing, and corporate warehouses run their own capital financing. Each type has different problems.
+
+The pilot's goal is to cut information asymmetry, so a bank can approve or reject a loan with confidence. The token carries more than 200 data fields into a bank's loan origination system. These include the farmer's verifiable credentials, an independent sampler's assessment, a dynamic rating, the warehouse's vintage and whether the stock is insured against rodent damage.
+
+> "Imagine a personal loan is a derivative of your CIBIL score. Can we make a warehouse loan a derivative of that token?" (Sanmesh Kalyanpur)
+
+It's an 18-month project, now in design. He expects a research paper on what worked and what didn't in six to nine months, and credited both Pramods as advisors on the pilot.
+
+**My question to Pramod Mishra:** you've seen pilots across industries. What are the early red flags that tell you a pilot won't have an impact?
+
+The biggest one, he said, is emotional attachment to the technology, which leads teams to present the technology as the solution. His method starts with a problem. Validate it with peers, map how the existing process copes today, then build a proof of concept. With AI, he said, a POC takes about two days. His own early example is a [blockchain birth certificate system](https://www.business-standard.com/article/pti-stories/civic-body-using-blockchain-tech-to-prepare-tamper-proof-birth-118122000595_1.html) for New Town Kolkata Development Authority, live since December 2018.
+
+> "You need to align that with the people, with the ecosystem, and then place technology, rather than the other way around." (Pramod Mishra)
+
+### Lightning round: one asset each
+
+**My question to all three:** assume the regulations, safeguards and technology all work as expected. Which one asset would you tokenize first in India?
+
+- Pramod Mishra: stocks.
+- Sanmesh Kalyanpur: anything for MSMEs and farmers, so the assets of India Two and India Three get liquidity.
+- Pramod Rao: MSME trade receivables, and deep-tier supply chain finance in particular.
+
+> "The creamy layer actually manages to get the credit. But the deep tier, the minute you are minus three, minus four from the key supply chain partners, they struggle a lot." (Pramod Rao)
+
+Two of the three went to MSME credit. On stage I cited roughly ₹25 lakh crore as the MSME credit gap. SIDBI's latest estimate puts it closer to [₹30 lakh crore](https://www.sidbi.in/blog/the-msme-credit-gap-in-india-what-does-the-data-say), so that's where I'd watch for the first pilots that matter.
+
+This panel gave me a sharper list of what to build and what has to hold while we build it.
+
+My thanks to Pramod Rao, Sanmesh Kalyanpur and Pramod Mishra. The full recording is on the Ethereum Foundation's YouTube channel: [Tokenizing Bharat](https://www.youtube.com/watch?v=S1J_lg-Anac).
+
+*I write about institutional finance and DLT in Asia at [The Monsoon Ledger](https://themonsoonledger.com).*
+
+## Amundi's equity fund on Ethereum, and the gaps before bonds follow
+
+URL: https://rohitmalekar.in/amundi-ethereum-bond-gaps
+Date: 2026-11-06
+
+Europe's biggest fund house has [put a tokenized share class of its flagship STOXX Europe 600 index fund on public Ethereum](https://www.marketsmedia.com/amundi-unveils-tokenised-access-to-a-flagship-index-fund/). Taking stock (no pun!), here is what this means for Ethereum, and what it doesn't.
+
+### Names stay offchain, balances are public
+
+How does Amundi handle privacy on a public chain? Short answer: names stay offchain, balances are public. Amundi hasn't published the full design, but regulated fund tokens usually work like this: wallets are whitelisted, the transfer agent holds the KYC and the mapping between address and investor, and Ethereum records which address holds how many units.
+
+Who keeps the register matters more than it looks. I compared [the ways Asian funds keep their register](https://themonsoonledger.com/under-the-hood/2026-10-tokenised-fund-registers/), and each choice changes who can see the holders.
+
+### So why Ethereum?
+
+A private ledger can pull this too. But private DLTs can become silos. Many institutions have run permissioned chain pilots over the last few years, and many of those never connected to anything else. The ones that did needed a bridge, a re-issue or a new interoperability layer.
+
+On Ethereum, a fund unit can be paid for in the same transaction that delivers it, and euro cash is starting to arrive as stablecoins. [EURXT, issued by CACEIS](https://www.caceis.com/press-releases/credit-agricole-launches-eurxt-its-euro-denominated-stablecoin), settled a subscription into Amundi's tokenized money market fund in July. The whole euro stablecoin market is still only about €800m.
+
+Wallets and custodians already support the token standards, and an issuer can keep its whitelist, freezes and forced transfers inside the contract. That pattern of [a whitelist on a public chain](https://themonsoonledger.com/under-the-hood/2026-09-whitelist-on-a-public-chain/) is already live in Asia, in products like [DBS's tokenized structured notes](https://themonsoonledger.com/pilots/sg-dbs-tokenised-structured-notes/). [Singapore and Hong Kong both allow it](https://themonsoonledger.com/state-of-play/public-chains/), with controls.
+
+Moving past funds is where the work is cut out for Ethereum.
+
+### Bank capital is the biggest hurdle for bonds
+
+For bonds, bank capital rules are the biggest hurdle, because banks underwrite, make markets in and repo them. Under Basel's crypto rules, a tokenized bond gets normal capital treatment only in Group 1. Anything outside it can mean holding capital equal to its full value. Basel doesn't qualify public chains for Group 1 yet, though it has had [a targeted review](https://www.bis.org/press/p260520.htm) open since November 2025.
+
+Basel only binds banks once a local regulator adopts it, so this varies across geographies. The US has proposed no implementation. The UK and EU are behind. [Asia is split too](https://themonsoonledger.com/state-of-play/bank-crypto-exposure/). Singapore's MAS has [proposed letting public-chain tokens into Group 1 within caps](https://themonsoonledger.com/wire/2026-04-17-sg-mas-permissionless-cryptoassets-prudential/), and its conditions include [a documented point of finality](https://themonsoonledger.com/under-the-hood/2026-09-when-a-tokenised-transfer-becomes-final/). Worth watching how it shapes up. Until Basel moves, banks under these rules won't hold Ethereum-based bonds at scale.
+
+### Settlement cash is the next gap
+
+Stablecoins work for fund subscriptions, but large bond issues and repo want central bank money. The [ECB's Pontes](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html) went live in September and links DLT platforms to T2.
+
+India went the same way that month. Its [first tokenized corporate bonds](https://themonsoonledger.com/wire/2026-09-10-in-sebi-rbi-demat-2-tokenised-bonds/), ₹1,025 crore from REC, L&T and IIFL, settled in wholesale CBDC on [a private, depository-owned ledger](https://themonsoonledger.com/under-the-hood/2026-09-demat-2-tokenised-bonds/).
+
+Hong Kong is explicit about it. HKMA's [Project Ensemble Interoperability Standard](https://www.hkma.gov.hk/media/eng/doc/key-functions/ifc/fintech/cbdc/Project-Ensemble-Interoperability-Standard.pdf) calls central bank money "the settlement asset of choice for wholesale financial transactions", and [EnsembleTX has now moved to 24/7 real-value transactions](https://themonsoonledger.com/wire/2026-11-02-hk-hkma-ensembletx-24-7-tokenised-efbs/). I track how [the three markets compare on settlement](https://themonsoonledger.com/state-of-play/settlement-projects/).
+
+That cash sits off Ethereum, so the same-transaction payment that works for funds doesn't carry over to bonds yet.
+
+### Ethereum+ needs privacy ready
+
+And then there's what Ethereum+ needs to get right. Ethereum+ for me is everything that sits on top of the protocol to keep balances confidential onchain while still letting the right parties read them. A bond desk won't want its positions readable by anyone with a block explorer.
+
+A few years ago, the loudest thing in privacy on Ethereum was Tornado Cash (and the arguing over sanctions). Today teams are building for regulated assets, but it's early. Zama's confidential tokens are live on mainnet, and [EthSystems has proofs of concept](https://themonsoonledger.com/under-the-hood/2026-10-tokenised-fund-registers/) for private money market funds and bonds.
+
+### Where this leaves things
+
+Funds will keep coming onto Ethereum. Bonds need Basel to move and a path to central bank money. By then Ethereum+ needs to be privacy ready.
+
+---
+
+*I write [The Monsoon Ledger](https://themonsoonledger.com/), a weekly publication on Ethereum and Asian finance.*
+
+## Asia Is Deciding Which Money Settles Onchain
+
+URL: https://rohitmalekar.in/monsoon-ledger-eight-weeks
+Date: 2026-10-31
+
+I started [The Monsoon Ledger](https://themonsoonledger.com/) in early September this year. Policy, regulation and technology in Asian finance tend to be discussed in separate rooms. Regulators write rules without seeing how a public chain settles a trade. Builders ship products without reading the circular that decides whether a bank can use them. The Ethereum ecosystem hears about Asian pilots late and second-hand.
+
+The Monsoon Ledger puts the three side by side.
+
+Weekly writing puts the event in focus. A licence is granted or a testnet forks, and it gets its paragraph and its source link. The week does not show drift or the slow change in what things matter and why. In traditional finance that drift takes a year or more. In this ecosystem, things alter much more quickly because regulation and Ethereum's own roadmap are moving in the same weeks and reacting to each other.
+
+So I am taking a step back to think out loud.
+
+### The argument moved from the asset to the money
+
+In early September I thought the story was tokenisation: which bonds, funds and deposits would go on a ledger. By the end of October the asset had become the easy part. The question regulators now answer in public is which money settles it.
+
+The answers split within a few weeks of each other. Hong Kong's fourth digital green bond, priced on 28 September, let investors in the Hong Kong dollar tranche pay in tokenised bank deposits for the first time ([Weekly Brief No. 5](https://themonsoonledger.com/brief/5-hk-green-bond-tokenised-deposits/)). India's [Demat 2.0](https://themonsoonledger.com/pilots/in-sebi-demat-2-tokenised-corporate-bonds/) settles tokenised corporate bonds only in the RBI's wholesale CBDC, so commercial bank credit never enters settlement. Singapore issued two tokenised MAS Bills settled in wholesale CBDC, and on 9 October MAS's Chia Der Jiun said of stablecoins: "There may be limits to their suitability for settling large wholesale transactions" ([Weekly Brief No. 6](https://themonsoonledger.com/brief/6-glamsterdam-sepolia-gas-limit/)). Hong Kong's Policy Address pointed retail the other way, toward licensed stablecoins settling tokenised money market funds ([Weekly Brief No. 3](https://themonsoonledger.com/brief/3-hkdap-business-payments-policy-address/)).
+
+I find this a more honest debate than the stablecoin-versus-CBDC one it replaced.
+
+> Each central bank is deciding how much private credit it will allow into the plumbing, and each answer follows its own history. India trusts the infrastructure it owns. Hong Kong lets banks and licensed issuers compete. Singapore wants a stablecoin to earn its place.
+
+If you only read one explainer from the Ledger, make it [why a tokenised deposit and a stablecoin are different claims](https://themonsoonledger.com/under-the-hood/2026-09-tokenised-deposits-and-stablecoins/).
+
+### Public chain, closed door
+
+I expected a long fight between public and private ledgers. What I saw instead is a token on Ethereum mainnet whose contract decides who may hold it.
+
+[HKDAP](https://themonsoonledger.com/pilots/hk-anchorpoint-hkdap-stablecoin/), Hong Kong's licensed dollar stablecoin, runs on Ethereum mainnet, and every holder's wallet is whitelisted by a distributor. In September it paid its first real invoices, for logistics and staff hotel bookings. Singapore's draft stablecoin law would require issuers to trace, freeze and burn tokens onchain, and left open whether to restrict wallets as well ([Weekly Brief No. 1](https://themonsoonledger.com/brief/1-singapore-stablecoin-law-freeze-powers/)). On 19 October J.P. Morgan took its JPMD deposit token to Ethereum mainnet, while every bank deposit token I track in Singapore and Hong Kong still runs on a private ledger ([Weekly Brief No. 8](https://themonsoonledger.com/brief/8-jpmd-ethereum-mainnet/)).
+
+The moment that changed my thinking was the Financial Stability Board's note to the G20 on 12 October. The FSB says it cannot tell where stablecoin holders are, because public chains are pseudonymous. HKDAP's whitelist, built to satisfy an anti-money laundering rule, gives the issuer exactly that data ([Weekly Brief No. 7](https://themonsoonledger.com/brief/7-fsb-stablecoins-untested-cross-border/)).
+
+> The compliance officer and the financial stability regulator want the same record, and the token contract is the one place that can hold it.
+
+The next problem is privacy. A whitelisted token on a public chain shows every holding to anyone who looks. On 23 October EthSystems published a proof of concept for confidential money market fund shares on Ethereum, and the same day a token standard with Ant Group authors, which approves transfers through zero-knowledge proofs, moved to Review. I wrote up [where the EthSystems design fits among the ways Asian funds keep their registers](https://themonsoonledger.com/under-the-hood/2026-10-tokenised-fund-registers/).
+
+> My guess is that privacy, more than throughput, will decide whether the next Asian issuers pick a public chain.
+
+### Banks now have a stake in Ethereum's upgrades
+
+Ethereum's next upgrade, Glamsterdam, raises the gas cost of writing new state. Writing to an empty storage slot goes from 20,000 to 97,920 gas. On 22 October the Ethereum Foundation postponed the upgrade on the Hoodi testnet to study how that repricing interacts with contracts already on mainnet. Five pilots on the Scorecard in Singapore and Hong Kong run contracts on Ethereum mainnet, and none of their issuers has said whether their code uses the patterns at risk ([Weekly Brief No. 8](https://themonsoonledger.com/brief/8-jpmd-ethereum-mainnet/)).
+
+In [Weekly Brief No. 4](https://themonsoonledger.com/brief/4-glamsterdam-testnet-asia-issuers/) I wrote that Glamsterdam strengthens the case for Ethereum mainnet. I still think so.
+
+> What I underweighted is that a bank on a public chain inherits a change process it does not control, decided on open calls by developers who may not know its contract exists.
+
+That is what MAS's caps and the HKMA's "extra caution" are pricing ([Under the Hood on whitelisted tokens](https://themonsoonledger.com/under-the-hood/2026-09-whitelist-on-a-public-chain/)). I would like to see an Asian issuer, or its tokenisation agent, speak up on an All Core Devs call before mainnet.
+### Calls I made and how they are holding
+
+- Singapore should stop at trace, freeze and burn, and not restrict holders' wallets ([No. 1](https://themonsoonledger.com/brief/1-singapore-stablecoin-law-freeze-powers/)). The consultation closed on 16 October. MAS has not responded. Open.
+- Swift's blockchain ledger is the shortest route for Singapore's tokenised deposits to settle against assets on public chains ([No. 2](https://themonsoonledger.com/brief/2-swift-ledger-demat-permissioned/)). Swift has still not named the chain, and no such transaction has happened. Open, and I am less sure of it.
+- Hong Kong will split settlement by investor: licensed stablecoins for retail, tokenised deposits and CBDC for institutions ([No. 3](https://themonsoonledger.com/brief/3-hkdap-business-payments-policy-address/)). HSBC launched RedCoin to 3.3 million PayMe users on 23 October and plans to let customers buy a tokenised money market fund class with it. Holding.
+- Glamsterdam makes Ethereum mainnet an easier place for issuers to stay ([No. 4](https://themonsoonledger.com/brief/4-glamsterdam-testnet-asia-issuers/)). The Hoodi delay complicates it. Holding, with the caveat above.
+
+### India, in the week Devcon comes to Mumbai
+
+India is good at building rails. UPI carried about 86 per cent of India's retail payment transactions in 2025-26 ([Under the Hood](https://themonsoonledger.com/under-the-hood/2026-10-retail-e-rupee-and-upi/)). Demat 2.0 issued Rs 1,025 crore of tokenised bonds in its first week and settles them against central bank money at the same moment ([Under the Hood](https://themonsoonledger.com/under-the-hood/2026-09-demat-2-tokenised-bonds/)). The RBI built its own Unified Markets Interface to tokenise assets and settle them in wholesale CBDC.
+
+Then look at India's row in the [State of Play](https://themonsoonledger.com/state-of-play/). On [public chains](https://themonsoonledger.com/state-of-play/public-chains/), [stablecoins](https://themonsoonledger.com/state-of-play/stablecoin-rules/) and [bank crypto exposure](https://themonsoonledger.com/state-of-play/bank-crypto-exposure/), the status is "none". [Licensing](https://themonsoonledger.com/state-of-play/licensing/) is AML registration with FIU-IND and nothing more. Crypto policy arrives through tax, 30 per cent on gains and 1 per cent deducted on transfers, and through enforcement, such as the FIU's notices to 15 offshore platforms in September ([Regulatory Wire](https://themonsoonledger.com/wire/2026-09-09-in-fiu-notices-15-vda-service-providers/)). Retail e-rupee in circulation fell last year.
+
+India is building a state-run version of the onchain stack: its own ledgers, its own settlement asset, its own market interface. At home that is coherent, and the engineering is impressive. The cost shows at the border. The arrangements forming in Asia this autumn connect regulators to each other. Bank Negara Malaysia and the Bank of Thailand joined MAS's BLOOM on 23 October ([Regulatory Wire](https://themonsoonledger.com/wire/2026-10-23-sg-mas-bloom-bnm-bot-cross-border/)), and the HKMA and Bank Negara agreed a joint workstream on cross-border stablecoin use on 6 October. Each assumes a settlement asset or a network that more than one jurisdiction can reach. A rupee that exists only on RBI infrastructure cannot join without a bridge the RBI has not described, even though the RBI itself names cross-border use as a reason to keep building the e-rupee.
+
+What I think would need to change:
+
+- A sandbox route to a public chain. SEBI's sandbox already hosts Demat 2.0. One issuance on a public chain, under the controls Singapore named in April (whitelisted wallets, issuer freeze and correction, a documented point of finality, audited contracts), would teach Indian regulators more than another year of private-ledger pilots.
+- A capital rule for bank exposure to tokenised assets. Hong Kong has applied the Basel cryptoasset standard since January 2026 and Singapore has an interim treatment. Without one, no Indian bank can price holding a token on a public chain, so none will.
+- A government position on stablecoins, separate from the RBI's. A licence limited to fully reserved, rupee-referenced coins would meet the RBI's concern about monetary control and give Indian firms a regulated instrument. The Parliamentary Standing Committee on Finance's study of virtual digital assets is the obvious place for it to start.
+- A first corridor for the wholesale e-rupee with a central bank that is already in one of these regional networks.
+- A tax that does not charge every transfer. A 1 per cent deduction on each movement makes onchain settlement of anything classed as a virtual digital asset uneconomic for frequent use.
+- Rules for transfers to self-hosted wallets under the travel rule, which India's guidelines do not yet cover ([Under the Hood](https://themonsoonledger.com/under-the-hood/2026-10-travel-rule-in-practice/)).
+
+### Watching in November
+
+New Hoodi and mainnet dates for Glamsterdam. MAS's response to its stablecoin consultation. CMU OmniClear's digital asset platform and CBDC settlement on EnsembleTX in Hong Kong, both promised by year-end. How JPMD admits holders on Ethereum, and whether it names a client in Asia.
+
+If you are at Devcon in Mumbai and work on any of this, especially from the Indian side, I would like to compare notes. The Monsoon Ledger publishes through the week at [themonsoonledger.com](https://themonsoonledger.com/), with the sources behind everything above.
 
 ## Tokenized Securities: A Diwali Wish List for SEBI and RBI
 
