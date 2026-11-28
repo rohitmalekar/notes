@@ -3,12 +3,9 @@ title: "Rohit Malekar"
 description: "Rohit Malekar researches and writes on how banks, market infrastructure and regulators in Asia could use Ethereum for tokenisation, settlement and verification."
 ---
 
-<div style="display: flex; align-items: center;">
-  <img src="./Attachments/profile.jpg" alt="Rohit Malekar" style="width: 75px; margin-right: 20px;">
-<!-- About Text -->
-  <div>
-    <h3>I help banks, market infrastructure and regulators in Asia decide how to use Ethereum.</h3>
-  </div>
+<div class="home-hero">
+  <img src="./Attachments/profile.jpg" alt="Rohit Malekar">
+  <h3>I help banks, market infrastructure and regulators in Asia decide how to use Ethereum.</h3>
 </div>
 
 ## Now
