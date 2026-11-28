@@ -73,10 +73,786 @@ figure.chart {
   }
 }
 
-// Home page stays on one screen: drop the properties box and date line.
+// ============================================================================
+// Editorial layer: top bar, reading column, typography
+// ============================================================================
+
+$barMax: 1080px;
+$hairline: 1px solid var(--lightgray);
+$uiFont: var(--headerFont);
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-optical-sizing: auto;
+}
+
+// ---------------------------------------------------------------------------
+// Top bar (the left sidebar, laid out horizontally)
+// ---------------------------------------------------------------------------
+
+.page > #quartz-body {
+  @media all and not ($desktop) {
+    padding: 0;
+  }
+
+  & .center {
+    grid-area: grid-center;
+    min-width: 0;
+    padding-top: 3.5rem;
+
+    @media all and not ($desktop) {
+      padding: 2.5rem 1.25rem 0;
+    }
+  }
+
+  & .page-header {
+    margin: 0;
+  }
+
+  & footer {
+    @media all and not ($desktop) {
+      padding: 0 1.25rem;
+    }
+  }
+
+  & .sidebar.left {
+    grid-area: grid-sidebar-left;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0 2rem;
+    padding: 1rem max(1.5rem, calc((100% - #{$barMax}) / 2));
+    background-color: var(--light);
+    border-bottom: $hairline;
+
+    @media all and ($mobile) {
+      position: sticky;
+      gap: 0;
+      padding: 0.75rem 1.25rem 0;
+    }
+
+    & > .page-title {
+      order: 0;
+      margin: 0;
+      font-family: $uiFont;
+      font-size: 1rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+
+      & a {
+        color: var(--dark);
+        text-decoration: none;
+        background: none;
+      }
+    }
+
+    & > .site-nav {
+      order: 1;
+      margin-left: auto;
+    }
+
+    & > .flex-component {
+      order: 2;
+      flex: 0 0 auto;
+      align-items: center;
+
+      & > div {
+        flex-grow: 0 !important;
+      }
+    }
+
+    @media all and ($mobile) {
+      & > .flex-component {
+        margin-left: auto;
+      }
+
+      & > .site-nav {
+        order: 3;
+        flex-basis: 100%;
+        margin: 0.6rem 0 0;
+        padding: 0.5rem 0 0.65rem;
+        border-top: $hairline;
+        justify-content: space-between;
+      }
+    }
+  }
+}
+
+.site-nav {
+  display: flex;
+  gap: 1.75rem;
+
+  & .site-nav-link {
+    font-family: $uiFont;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--gray);
+    text-decoration: none;
+    background: none;
+    padding: 0.2rem 0;
+    border-bottom: 1px solid transparent;
+    transition:
+      color 0.15s ease,
+      border-color 0.15s ease;
+
+    &:hover {
+      color: var(--dark);
+    }
+
+    &[aria-current="page"] {
+      color: var(--dark);
+      border-bottom-color: var(--dark);
+    }
+  }
+}
+
+// Search trigger: quiet outline pill on desktop, icon only on mobile.
+.sidebar.left .search > .search-button {
+  height: 2rem;
+  min-width: 8rem;
+  padding: 0 0.75rem;
+  gap: 0.5rem;
+  border: $hairline;
+  border-radius: 999px;
+  background: transparent;
+  font-family: $uiFont;
+
+  & > p {
+    font-size: 0.85rem;
+    color: var(--gray);
+  }
+
+  & svg {
+    width: 14px;
+    height: 14px;
+    opacity: 0.7;
+  }
+
+  &:hover {
+    border-color: var(--gray);
+  }
+
+  @media all and ($mobile) {
+    min-width: 0;
+    width: 2rem;
+    padding: 0;
+    justify-content: center;
+    border-color: transparent;
+
+    & > p {
+      display: none;
+    }
+  }
+}
+
+.sidebar.left .darkmode {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  width: 2rem;
+  height: 2rem;
+  opacity: 0.7;
+
+  &:hover {
+    opacity: 1;
+  }
+
+  & svg {
+    width: 18px;
+    height: 18px;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Reading column typography
+// ---------------------------------------------------------------------------
+
+article {
+  font-size: 1.15rem;
+  line-height: 1.7;
+
+  & p,
+  & li {
+    color: var(--darkgray);
+  }
+
+  & p > strong,
+  & li > strong {
+    color: var(--dark);
+    font-weight: 600;
+  }
+
+  & h2 {
+    font-size: 1.35rem;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    margin-top: 2.75rem;
+    margin-bottom: 0.75rem;
+  }
+
+  & h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  & blockquote {
+    border-left: 2px solid var(--lightgray);
+    padding-left: 1.25rem;
+    margin-left: 0;
+    font-style: italic;
+  }
+
+  & img {
+    border-radius: 4px;
+  }
+
+  & table {
+    font-size: 0.95rem;
+  }
+}
+
+.page article > h1,
+h1.article-title {
+  font-family: var(--bodyFont);
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+  margin: 0 0 1rem;
+  color: var(--dark);
+
+  @media all and ($mobile) {
+    font-size: 2rem;
+  }
+}
+
+hr {
+  border: none;
+  border-top: $hairline;
+  margin: 3rem 0 2rem;
+}
+
+// Links: ink colour, fine underline, no background chip.
+a {
+  font-weight: inherit;
+}
+
+article a,
+article a.internal {
+  color: var(--secondary);
+  background-color: transparent;
+  padding: 0;
+  border-radius: 0;
+  line-height: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  text-decoration-color: color-mix(in srgb, var(--secondary) 35%, transparent);
+  transition: text-decoration-color 0.15s ease;
+
+  &:hover {
+    color: var(--secondary);
+    text-decoration-color: var(--secondary);
+  }
+
+  &[role="anchor"],
+  &.tag-link {
+    text-decoration: none;
+  }
+}
+
+a.external .external-icon {
+  height: 0.8ex;
+  opacity: 0.5;
+}
+
+// ---------------------------------------------------------------------------
+// Page header: breadcrumbs, dek, meta, tags
+// ---------------------------------------------------------------------------
+
+.breadcrumb-container {
+  font-family: $uiFont;
+  font-size: 0.8rem;
+  margin: 0 0 1.25rem;
+  gap: 0.25rem;
+
+  & .breadcrumb-element {
+    & a {
+      color: var(--gray);
+      font-weight: 500;
+      background: none;
+    }
+
+    & p {
+      color: var(--lightgray);
+      margin: 0 0.2rem;
+      font-size: 0.7rem;
+    }
+  }
+}
+
+// Frontmatter description as a dek; other properties as quiet lines.
+details.note-properties {
+  border: none;
+  background: none;
+  padding: 0;
+  margin: 0 0 1.25rem;
+
+  & > summary {
+    display: none;
+  }
+
+  & table,
+  & tbody,
+  & tr,
+  & td {
+    display: block;
+    border: none;
+    padding: 0;
+    background: none;
+  }
+
+  & .note-properties-key {
+    display: none;
+  }
+
+  & tr:not(:first-child) {
+    display: none;
+  }
+
+  & tr:first-child .note-properties-text {
+    font-family: var(--bodyFont);
+    font-size: 1.2rem;
+    font-style: italic;
+    line-height: 1.5;
+    color: var(--gray);
+  }
+}
+
+.content-meta {
+  font-family: $uiFont;
+  font-size: 0.8rem;
+  color: var(--gray);
+  letter-spacing: 0.02em;
+  margin: 0;
+}
+
+.page-header ul.tags {
+  margin: 0.5rem 0 0;
+  padding: 0;
+  gap: 0.4rem;
+
+  & a.tag-link {
+    font-family: $uiFont;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--gray);
+    background: none;
+    border: $hairline;
+    border-radius: 999px;
+    padding: 0.1rem 0.6rem;
+
+    &::before {
+      content: "";
+    }
+
+    &:hover {
+      color: var(--dark);
+      border-color: var(--gray);
+    }
+  }
+}
+
+.page-header .popover-hint {
+  padding-bottom: 1.5rem;
+  margin-bottom: 2rem;
+  border-bottom: $hairline;
+}
+
+// ---------------------------------------------------------------------------
+// Right gutter (TOC) and after-body (backlinks)
+// ---------------------------------------------------------------------------
+
+.page > #quartz-body .sidebar.right {
+  padding: 3.5rem 0 0;
+  height: auto;
+  max-height: 100vh;
+  top: 4rem;
+
+  @media all and not ($desktop) {
+    display: none;
+  }
+
+  & .toc {
+    font-family: $uiFont;
+
+    & .toc-header h3 {
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--gray);
+    }
+
+    & .toc-content a {
+      font-size: 0.85rem;
+      font-weight: 400;
+      color: var(--gray);
+      background: none;
+      opacity: 1;
+
+      &.in-view {
+        color: var(--dark);
+      }
+    }
+  }
+}
+
+.page-footer .backlinks {
+  font-family: $uiFont;
+
+  & > h3 {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--gray);
+  }
+
+  & a {
+    font-size: 0.95rem;
+    font-weight: 500;
+    background: none;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Footer
+// ---------------------------------------------------------------------------
+
+.page > #quartz-body > footer {
+  font-family: $uiFont;
+  font-size: 0.8rem;
+  opacity: 1;
+  margin: 4rem 0 3rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.75rem 1.5rem;
+
+  & p {
+    margin: 0;
+    color: var(--gray);
+  }
+
+  & ul {
+    margin: 0;
+    padding: 0;
+    gap: 1.25rem;
+  }
+
+  & a {
+    color: var(--gray);
+    font-weight: 500;
+    background: none;
+
+    &:hover {
+      color: var(--dark);
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Search modal and popovers
+// ---------------------------------------------------------------------------
+
+.search > .search-container > .search-space {
+  border-radius: 10px;
+  border: $hairline;
+  box-shadow: 0 24px 64px rgba(0, 0, 0, 0.12);
+
+  & > input {
+    font-family: $uiFont;
+  }
+}
+
+.popover > .popover-inner {
+  border: $hairline;
+  border-radius: 10px;
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.1);
+}
+
+// ---------------------------------------------------------------------------
+// Home page
+// ---------------------------------------------------------------------------
+
 body[data-slug="index"] {
   .note-properties,
-  .content-meta {
-    display: none;
+  .content-meta,
+  .page-header,
+  .sidebar.right {
+    display: none !important;
+  }
+
+  article {
+    font-size: 1.1rem;
+
+    & > .markdown-preview-view > h2,
+    & > h2 {
+      font-family: $uiFont;
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--gray);
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin: 2.75rem 0 0.75rem;
+
+      &::after {
+        content: "";
+        flex: 1;
+        border-top: $hairline;
+      }
+
+      & > a[role="anchor"] {
+        display: none;
+      }
+    }
+  }
+}
+
+.home-hero {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+
+  & > img {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+
+  & h1,
+  & h3 {
+    font-family: var(--bodyFont);
+    font-size: 1.85rem;
+    font-weight: 500;
+    line-height: 1.25;
+    letter-spacing: -0.01em;
+    color: var(--dark);
+    margin: 0;
+
+    @media all and ($mobile) {
+      font-size: 1.4rem;
+    }
+
+    & > a[role="anchor"] {
+      display: none;
+    }
+  }
+
+  @media all and ($mobile) {
+    align-items: flex-start;
+    gap: 1rem;
+
+    & > img {
+      width: 52px;
+      height: 52px;
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Writing index
+// ---------------------------------------------------------------------------
+
+.writing-lede {
+  font-size: 1.25rem;
+  color: var(--darkgray);
+}
+
+.theme-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1px;
+  background: var(--lightgray);
+  border: $hairline;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 2rem 0 1rem;
+
+  @media all and ($mobile) {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  & > .theme-card {
+    background: var(--light);
+    padding: 1.25rem 1.4rem 1.4rem;
+
+    &:last-child:nth-child(odd) {
+      grid-column: 1 / -1;
+    }
+
+    & > h3 {
+      font-family: var(--bodyFont);
+      font-size: 1.2rem;
+      font-weight: 600;
+      line-height: 1.3;
+      margin: 0 0 0.35rem;
+
+      & a {
+        color: var(--dark);
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+
+      & > a[role="anchor"] {
+        display: none;
+      }
+    }
+
+    & > p {
+      font-family: $uiFont;
+      font-size: 0.85rem;
+      line-height: 1.5;
+      color: var(--gray);
+      margin: 0 0 0.85rem;
+    }
+
+    & > p:last-child {
+      margin: 0.85rem 0 0;
+
+      & a {
+        color: var(--gray);
+        font-weight: 500;
+        text-decoration: none;
+
+        &::after {
+          content: " \2192";
+        }
+
+        &:hover {
+          color: var(--dark);
+        }
+      }
+    }
+
+    & > ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+
+      & > li {
+        font-size: 0.98rem;
+        line-height: 1.45;
+        padding: 0.3rem 0;
+        border-top: $hairline;
+      }
+
+      & a {
+        color: var(--darkgray);
+        text-decoration: none;
+
+        &:hover {
+          color: var(--secondary);
+        }
+      }
+    }
+  }
+}
+
+.topic-row {
+  font-family: $uiFont;
+  font-size: 0.85rem;
+  line-height: 2;
+
+  & a {
+    color: var(--gray);
+    text-decoration: none;
+    margin-right: 0.9rem;
+
+    &:hover {
+      color: var(--dark);
+    }
+  }
+}
+
+body[data-slug="articles/index"] .page-listing {
+  display: none;
+}
+
+// Hub pages (folder indexes): no date or reading time.
+body[data-slug$="/index"] .page-header .content-meta {
+  display: none;
+}
+
+// Folder archive listings: date | title rows.
+.page-listing {
+  font-family: var(--bodyFont);
+
+  & > p {
+    font-family: $uiFont;
+    font-size: 0.8rem;
+    color: var(--gray);
+  }
+
+  & ul.section-ul {
+    padding: 0;
+  }
+
+  & li.section-li {
+    margin: 0;
+    border-top: $hairline;
+
+    & > .section {
+      padding: 0.6rem 0;
+      align-items: baseline;
+
+      & > .meta {
+        font-family: $uiFont;
+        font-size: 0.8rem;
+        color: var(--gray);
+      }
+
+      & .desc > h3 {
+        margin: 0;
+        font-family: var(--bodyFont);
+        font-size: 1.05rem;
+        font-weight: 500;
+        line-height: 1.4;
+
+        & > a {
+          color: var(--dark);
+          background: none;
+
+          &:hover {
+            color: var(--secondary);
+          }
+        }
+      }
+
+      & ul.tags {
+        display: none;
+      }
+    }
   }
 }

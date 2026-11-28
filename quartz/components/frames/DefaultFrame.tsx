@@ -1,7 +1,9 @@
 import { PageFrame, PageFrameProps } from "./types"
 import HeaderConstructor from "../Header"
+import SiteNavConstructor from "../SiteNav"
 
 const Header = HeaderConstructor()
+const SiteNav = SiteNavConstructor()
 
 /**
  * The default page frame — three-column layout with left sidebar, center
@@ -27,6 +29,7 @@ export const DefaultFrame: PageFrame = {
           {left.map((BodyComponent) => (
             <BodyComponent {...componentData} />
           ))}
+          <SiteNav {...componentData} />
         </div>
         <div class="center">
           <div class="page-header">
