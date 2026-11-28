@@ -1,4 +1,4 @@
-# WIKILINK GRAPH — generated 2026-11-27
+# WIKILINK GRAPH — generated 2026-11-28
 
 Holding the Reins of a Second Brain -> AI Can Solve Your Problems. It Can’t Build You.; Agency in Thoughts Versus Action; Do Yourself a Favor and Pick Up That Pen; Fallibility of Thoughts; Judgment Is the Premium in the Age of Generation; Knowledge Management Is Gardening, Not Architecture; Most of Us Are Insane; Neti Neti; Notes as Compound Interest; Reflection Needs Spaces That Don't Reset Your Attention; The Infrastructure for Insight - Cultivating Personal Judgement in the Age of Generation; The Life You Live Is Shaped by the Words You Use
 Check my fit for your role -> cv; work-with-me
@@ -28,8 +28,8 @@ Irony in Love -> No Mistakes in the Universe; We Are Prisoners of Our Own Biases
 No Mistakes in the Universe -> Building Destiny
 Life by a Thousand Cuts -> Black and White View of the World; No Mistakes in the Universe; The Creator's Paradox - Unsolicited Serendipities
 You are the Average of the Problems You Tackle -> High Quality Problem; Irony in Finding Purpose; notes/self/Quality of Life
-The Imperative of Decentralized Identity - Sybil Resistance and Beyond -> Privacy versus Secrecy
 The Anomalies of Attraction -> Agency in Thoughts Versus Action; Neti Neti
+The Imperative of Decentralized Identity - Sybil Resistance and Beyond -> Privacy versus Secrecy
 True North for Product Teams -> Culture as a Way of Working
 Tat Tvam Asi -> Seeker and the Sought
 On Accepting Who You Are -> Who Are You Being?
@@ -42,47 +42,47 @@ Three features I would pay for in a sufficiently decentralized social network ->
 The Next Frontier for Indian Startups - Sequoias and Meadows -> Reining in Unbridled Tech
 Greenpilled - Implications for India -> The Decentralized Web and the Rise of Transparency-First Institutions; The Next Frontier for Indian Startups - Sequoias and Meadows
 Blockchain for Public Goods - A Prequel to Greenpilled -> Blockchain for Public Goods - A Prequel to Greenpilled; Cure for Information Asymmetry; DAO Trifecta; Individual Rationality; People on the Spot; Programmable Money
-The Power of Healthy Skepticism for Popular Opinions -> Misery from the Loss of Critical Thinking
-Ten Life Lessons I Picked Up In This Decade -> Building Destiny; Designing An Authentic Work Culture - Part 3; Impact of Life Lessons on Identity; Irony in Finding Purpose; Neti Neti; No Mistakes in the Universe; notes/self/Quality of Life
 The Holy Grail for the Enabling Tech for Cohort-Based Courses -> Learning in Cohorts
-Your Reality Has Zero Value for Anyone Else -> Futility of labels
-You Maybe Going Deep in Debt and Not Even Know About it -> Debt of the Surplus Fortune
-Work Principles and Belief Systems — Two Sides of the Same Coin -> Belonging at Work; Building Destiny; Irony in Finding Purpose; Neti Neti; Tat Tvam Asi
-We Are Prisoners of Our Own Biases -> Prisoners of Our Own Biases
-To Return or Not to Return (to India), That is the Question -> notes/self/Quality of Life
-Title Inflation in Product Management -> Layers of Management
-Three Revelations During the Pandemic -> Reining in Unbridled Tech
+10 Questions to Ask Interviewers on Work Culture -> The Three Most Unexplored Aspects of A Job Switch in Early Career Transitions; Why Is “Do You Have Any Questions” One of The Most Important Questions In Your Interview
+Cohort Created Course - A Creator Community Experiment -> A Longing for Belonging; Articles/index; Cohort Created Course - A Creator Community Experiment; Learning in Cohorts; Recruiting as an Imperfect Process; The Next Frontier for Indian Startups - Sequoias and Meadows
+Most Challenging Work Experience -> Impact of Life Lessons on Identity; The Conformity Trap; The Irony in the Pursuit of One’s Purpose — The Story of Namma Studio
+A Case for Sustainable Disruption Using DAOs -> Cure for Information Asymmetry
+If You Aren't Content Without it, You Won't be Content With it -> Coexisting Contentment and Ambition; Futility of labels; On Accepting Who You Are
 The Tyranny of Chasing Goals -> Losing to the Natural State of Mind; Who Are You Being?; Why Do Careers Get Stuck in the Middle Management
-The Title Trap in Transitioning into Product Roles -> Do You Need to be a Product Manager to Apply Product Thinking; Title Inflation in Product Management
-The Secret to Building Sustainable Businesses -> Design for All - A Transformation from Group Thinking to Design Thinking; Design for Impact; Getting Hired As Resource Versus As a Person; Ten Life Lessons I Picked Up In This Decade
-The Product Management Grid -> Foundations of a scalable product
-The Making of a Megathon -> The Irony in the Pursuit of One’s Purpose — The Story of Namma Studio; True North for Product Teams
 The Irony of I -> Dissolving Ego; Irony in Finding Purpose; Neti Neti; Tat Tvam Asi
-The Irony in the Pursuit of One’s Purpose — The Story of Namma Studio -> Irony in Finding Purpose
-The Digital Transformation Trap — Compromising Human Experience with Agility and Speed -> Metric-Driven Success; The Secret to Building Sustainable Businesses; Work Principles and Belief Systems — Two Sides of the Same Coin
 The Creator's Paradox - Unsolicited Serendipities -> Golf Swing and Being Whole; How do Ideas Originate; Writing Poetry is Discovery Not Creation
 The Conformity Trap -> Belonging at Work; Impact of Life Lessons on Identity; On Accepting Who You Are
-The Art of Engineering -> Supercode
+The Power of Healthy Skepticism for Popular Opinions -> Misery from the Loss of Critical Thinking
+A Longing for Belonging -> Belonging at Work; Search for Belonging
+5 lessons from 5 years of building products -> Detached Commitment for a Product Manager; Foundations of a scalable product; Human Centered Design Beyond Digital UX; Metric-Driven Success; True North for Product Teams
+Why Do Careers Get Stuck in the Middle Management -> 10 Questions to Ask Interviewers on Work Culture; Decoding Quality of Life; High Quality Problem; Irony in Finding Purpose
+Three Revelations During the Pandemic -> Reining in Unbridled Tech
+Your Reality Has Zero Value for Anyone Else -> Futility of labels
+How Can An Engineer Transition into Product Management -> Losing to the Natural State of Mind
+Decoding Quality of Life -> Being Great is a Murky Affair; Futility of Prescription; Impact of Life Lessons on Identity; Order in Consciousness Through Goal Pursuit; To Return or Not to Return (to India), That is the Question
+We Are Prisoners of Our Own Biases -> Prisoners of Our Own Biases
+Title Inflation in Product Management -> Layers of Management
+The Title Trap in Transitioning into Product Roles -> Do You Need to be a Product Manager to Apply Product Thinking; Title Inflation in Product Management
 Personal Takeaways from Dr. Kapil Gupta’s Book “Direct Truth” -> How do Ideas Originate; Losing to the Natural State of Mind
+A Litmus Test for Your Future Workplace -> Getting Hired As Resource Versus As a Person
+A rant and a wishlist for ed-tech in India -> Reining in Unbridled Tech
+The Product Management Grid -> Foundations of a scalable product
+Do You Need to be a Product Manager to Apply Product Thinking -> Detached Commitment for a Product Manager; Metric-Driven Success
 One with the Divine -> Seeker and the Sought; Tat Tvam Asi
+The Art of Engineering -> Supercode
+The Secret to Building Sustainable Businesses -> Design for All - A Transformation from Group Thinking to Design Thinking; Design for Impact; Getting Hired As Resource Versus As a Person; Ten Life Lessons I Picked Up In This Decade
 Litmus Test for Leadership -> Hardest Test for Leadership
-If You Aren't Content Without it, You Won't be Content With it -> Coexisting Contentment and Ambition; Futility of labels; On Accepting Who You Are
+Ten Life Lessons I Picked Up In This Decade -> Building Destiny; Designing An Authentic Work Culture - Part 3; Impact of Life Lessons on Identity; Irony in Finding Purpose; Neti Neti; No Mistakes in the Universe; notes/self/Quality of Life
+Why Is "Do You Have Any Questions" One of The Most Important Questions In Your Interview -> Hiring is a Two Way Street
+The Digital Transformation Trap — Compromising Human Experience with Agility and Speed -> Metric-Driven Success; The Secret to Building Sustainable Businesses; Work Principles and Belief Systems — Two Sides of the Same Coin
+Work Principles and Belief Systems — Two Sides of the Same Coin -> Belonging at Work; Building Destiny; Irony in Finding Purpose; Neti Neti; Tat Tvam Asi
+The Making of a Megathon -> The Irony in the Pursuit of One’s Purpose — The Story of Namma Studio; True North for Product Teams
+Design for All - A Transformation from Group Thinking to Design Thinking -> Human Centered Design Beyond Digital UX; True North for Product Teams
+The Three Most Unexplored Aspects of A Job Switch in Early Career Transitions -> Culture - Created in the trenches; Getting Hired As Resource Versus As a Person; Recruiting as an Imperfect Process
+To Return or Not to Return (to India), That is the Question -> notes/self/Quality of Life
 Designing An Authentic Work Culture - Part 3 -> Culture as a Way of Working; Designing An Authentic Work Culture - Part 1; Designing An Authentic Work Culture - Part 2
 Designing An Authentic Work Culture - Part 2 -> Building Destiny; Culture as a Way of Working; Designing An Authentic Work Culture - Part 1; Designing An Authentic Work Culture - Part 3
 Designing An Authentic Work Culture - Part 1 -> Designing An Authentic Work Culture - Part 2; Designing An Authentic Work Culture - Part 3; Neti Neti; Persona Trap - When Individuals Become the Culture
-Decoding Quality of Life -> Being Great is a Murky Affair; Futility of Prescription; Impact of Life Lessons on Identity; Order in Consciousness Through Goal Pursuit; To Return or Not to Return (to India), That is the Question
-A Longing for Belonging -> Belonging at Work; Search for Belonging
-10 Questions to Ask Interviewers on Work Culture -> The Three Most Unexplored Aspects of A Job Switch in Early Career Transitions; Why Is “Do You Have Any Questions” One of The Most Important Questions In Your Interview
-Why Is "Do You Have Any Questions" One of The Most Important Questions In Your Interview -> Hiring is a Two Way Street
-Why Do Careers Get Stuck in the Middle Management -> 10 Questions to Ask Interviewers on Work Culture; Decoding Quality of Life; High Quality Problem; Irony in Finding Purpose
-The Three Most Unexplored Aspects of A Job Switch in Early Career Transitions -> Culture - Created in the trenches; Getting Hired As Resource Versus As a Person; Recruiting as an Imperfect Process
-Most Challenging Work Experience -> Impact of Life Lessons on Identity; The Conformity Trap; The Irony in the Pursuit of One’s Purpose — The Story of Namma Studio
-Cohort Created Course - A Creator Community Experiment -> A Longing for Belonging; Articles/index; Cohort Created Course - A Creator Community Experiment; Learning in Cohorts; Recruiting as an Imperfect Process; The Next Frontier for Indian Startups - Sequoias and Meadows
-A Litmus Test for Your Future Workplace -> Getting Hired As Resource Versus As a Person
-A Case for Sustainable Disruption Using DAOs -> Cure for Information Asymmetry
-5 lessons from 5 years of building products -> Detached Commitment for a Product Manager; Foundations of a scalable product; Human Centered Design Beyond Digital UX; Metric-Driven Success; True North for Product Teams
-How Can An Engineer Transition into Product Management -> Losing to the Natural State of Mind
-A rant and a wishlist for ed-tech in India -> Reining in Unbridled Tech
-Do You Need to be a Product Manager to Apply Product Thinking -> Detached Commitment for a Product Manager; Metric-Driven Success
-Design for All - A Transformation from Group Thinking to Design Thinking -> Human Centered Design Beyond Digital UX; True North for Product Teams
+The Irony in the Pursuit of One’s Purpose — The Story of Namma Studio -> Irony in Finding Purpose
+You Maybe Going Deep in Debt and Not Even Know About it -> Debt of the Surplus Fortune
 Cycling -> BRM Checklist; Consistency Compounds - Insights from 6 Years of Cycling Data; Retrospective from Surviving A 300 km Cycling Ride; Why Gada Training Became My Secret Weapon for Long-Distance Cycling; Zone 2 Training - The Slow is Smooth, Smooth is Fast of Cycling
